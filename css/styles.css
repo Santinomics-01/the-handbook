@@ -270,8 +270,8 @@ h1.page {
   padding-bottom: 6px; border-bottom: 2px solid var(--crown-gold);
 }
 @media (prefers-color-scheme: dark) { .cat-title { color: var(--gold-soft); } }
-.mod-grid { display: grid; grid-template-columns: 1fr; gap: 10px; }
-@media (min-width: 640px) { .mod-grid { grid-template-columns: 1fr 1fr; } }
+.mod-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; }
+@media (min-width: 640px) { .mod-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 
 .mod-card {
   display: flex; align-items: center; gap: 13px;
@@ -370,8 +370,8 @@ table.tbl th {
 }
 table.tbl td { padding: 9px 12px; border-top: 1px solid var(--line); vertical-align: top; }
 
-.concept-grid { display: grid; grid-template-columns: 1fr; gap: 10px; margin: 14px 0; }
-@media (min-width: 560px) { .concept-grid { grid-template-columns: 1fr 1fr; } }
+.concept-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; margin: 14px 0; }
+@media (min-width: 560px) { .concept-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 .concept {
   background: var(--card); border: 1px solid var(--line);
   border-radius: var(--radius-sm); padding: 13px 15px;
@@ -430,8 +430,8 @@ table.tbl td { padding: 9px 12px; border-top: 1px solid var(--line); vertical-al
 .qbar i.cur { background: var(--crown-gold); }
 
 /* ---------- Reference ---------- */
-.ref-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
-@media (min-width: 700px) { .ref-grid { grid-template-columns: 1fr 1fr 1fr; } }
+.ref-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+@media (min-width: 700px) { .ref-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 .ref-card {
   background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
   text-decoration: none; color: var(--ink);
@@ -514,8 +514,8 @@ details.acc .body ul { margin: 6px 0; padding-left: 20px; }
 .chk-item.done .tx { text-decoration: line-through; }
 
 /* ---------- Flashcards ---------- */
-.deck-grid { display: grid; grid-template-columns: 1fr; gap: 10px; }
-@media (min-width: 640px) { .deck-grid { grid-template-columns: 1fr 1fr; } }
+.deck-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; }
+@media (min-width: 640px) { .deck-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 .flash-stage { perspective: 1200px; margin: 16px 0; }
 .flash {
   position: relative; width: 100%; min-height: 260px;
