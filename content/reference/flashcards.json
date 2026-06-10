@@ -6,12 +6,12 @@
         "title": "Las 7 Cardinal Virtues",
         "desc": "Los valores centrales de todo el programa DeMolay.",
         "cards": [
-          { "f": "Love of Parents (Filial Love)", "b": "Amor a los padres: honrarlos, respetarlos y ser un mejor hijo cada día. Es la primera de las virtudes." },
+          { "f": "Love of Parents (Filial Love)", "b": "Amor a los padres: honrarlos, respetarlos y ser un mejor hijo cada día. Una de las siete cardinal virtues." },
           { "f": "Reverence", "b": "Reverencia por las cosas sagradas: respeto a Dios y a las creencias de cada uno." },
           { "f": "Courtesy", "b": "Cortesía: trato respetuoso y caballeresco con todas las personas." },
           { "f": "Comradeship", "b": "Compañerismo: la hermandad que une a los DeMolays — lealtad entre hermanos." },
           { "f": "Fidelity", "b": "Fidelidad: ser fiel a la palabra dada, a los amigos y a los compromisos — como Jacques DeMolay." },
-          { "f": "Cleanness", "b": "Limpieza: de mente, cuerpo y palabra." },
+          { "f": "Cleanness", "b": "Limpieza: de mente y cuerpo." },
           { "f": "Patriotism", "b": "Patriotismo: amor y servicio a la patria, en la paz tanto como en la guerra." }
         ]
       },
@@ -40,14 +40,14 @@
           { "f": "Scribe", "b": "Nombrado por el Advisory Council. Minutas, reportes a eScribe, Annual Report, inventario. \"So goes the Scribe, so goes the Chapter.\"" },
           { "f": "Treasurer", "b": "Adulto del Advisory Council. Custodia los fondos: cuentas separadas, cheques con contrafirma, nunca efectivo." },
           { "f": "Senior Deacon", "b": "Examina las obligation cards de los votantes durante los ballots y toma los exámenes de proficiency." },
-          { "f": "Junior Deacon", "b": "Asiste en la puerta y releva al Sentinel para que este pueda votar." },
+          { "f": "Junior Deacon", "b": "Releva al Sentinel en la puerta para que este pueda votar." },
           { "f": "Chaplain", "b": "Dirige la oración (miembros arrodillados en rodilla izquierda). Responsable del Devotional Day." },
           { "f": "Almoner", "b": "El oficial de la caridad. Responsable del Day of Comfort." },
           { "f": "Marshal", "b": "Conduce los movimientos en la sala y asiste en la tabulación de votos. Co-responsable del My Government Day." },
           { "f": "Standard Bearer", "b": "Porta la bandera. Responsable del Patriots' Day." },
           { "f": "Orator", "b": "El orador del Chapter. Co-responsable del My Government Day." },
-          { "f": "Senior y Junior Stewards", "b": "Preparan a los candidatos. Responsables del Educational Day." },
-          { "f": "Los 7 Preceptors", "b": "Representan las siete virtudes con sus velas. Suelen armar la sala y son responsables del Parents' Day." },
+          { "f": "Senior y Junior Stewards", "b": "Oficiales designados por el Master Councilor. Responsables del Educational Day." },
+          { "f": "Los 7 Preceptors", "b": "Siete oficiales designados. Suelen armar la sala del Chapter y son responsables del Parents' Day." },
           { "f": "Sentinel", "b": "Custodia la puerta: recibe la Word of the Day y no admite a nadie mientras se abre el Chapter." },
           { "f": "Organist", "b": "La música del Chapter; el Ritual marca dónde debe sonar." }
         ]
@@ -57,7 +57,7 @@
         "title": "El simbolismo del pin oficial",
         "desc": "Cada elemento del emblema (1949) tiene un significado.",
         "cards": [
-          { "f": "Crown of Youth (la corona)", "b": "La corona de la juventud, que lleva los siete preceptos de DeMolay." },
+          { "f": "Crown of Youth (la corona)", "b": "La corona de la juventud, que recuerda los siete preceptos de la Orden." },
           { "f": "Las 10 piedras preciosas", "b": "Dad Land y los 9 fundadores originales. Rubíes por los fallecidos, perlas por los vivos — hoy son todas rubíes." },
           { "f": "El casco (Helmet)", "b": "La caballerosidad (chivalry)." },
           { "f": "El creciente (Crescent)", "b": "El secreto de la Orden." },
@@ -99,7 +99,7 @@
           { "f": "First-line signer", "b": "El primer firmante que recomienda una Membership Application — lo que cuenta para la Blue Honor Key." },
           { "f": "Majority", "b": "El paso a Senior DeMolay al cumplir 21, celebrado idealmente con el Majority Service." },
           { "f": "Two-Deep Leadership", "b": "La regla de oro de Youth Protection: mínimo 2 registered Advisors en toda actividad, siempre." },
-          { "f": "Conclave", "b": "La convención anual de la Jurisdiction: competencias, elecciones, hermandad." },
+          { "f": "Conclave", "b": "La convención anual de la Jurisdiction: competencias, premios, hermandad." },
           { "f": "Chevalier", "b": "El honor más alto para un DeMolay activo: voto unánime del ISC, nunca se solicita." },
           { "f": "Stated meeting", "b": "La reunión regular del Chapter fijada en sus Bylaws, donde se tratan los negocios." }
         ]
@@ -113,12 +113,12 @@
         "title": "The 7 Cardinal Virtues",
         "desc": "The core values behind the whole DeMolay program.",
         "cards": [
-          { "f": "Love of Parents (Filial Love)", "b": "Honoring and respecting your parents and being a better son every day. The first of the virtues." },
+          { "f": "Love of Parents (Filial Love)", "b": "Honoring and respecting your parents and being a better son every day. One of the seven cardinal virtues." },
           { "f": "Reverence", "b": "Reverence for sacred things: respect for God and for everyone's beliefs." },
           { "f": "Courtesy", "b": "Respectful, chivalrous treatment of all people." },
           { "f": "Comradeship", "b": "The brotherhood that binds DeMolays together — loyalty among brothers." },
           { "f": "Fidelity", "b": "Faithfulness to your word, your friends and your commitments — like Jacques DeMolay." },
-          { "f": "Cleanness", "b": "Cleanness in mind, body and speech." },
+          { "f": "Cleanness", "b": "Cleanness in mind and body." },
           { "f": "Patriotism", "b": "Love of and service to your country, in peace as well as in war." }
         ]
       },
@@ -147,14 +147,14 @@
           { "f": "Scribe", "b": "Appointed by the Advisory Council. Minutes, eScribe reports, the Annual Report, inventory. \"So goes the Scribe, so goes the Chapter.\"" },
           { "f": "Treasurer", "b": "An adult from the Advisory Council. Guards the funds: separate accounts, countersigned checks, never cash." },
           { "f": "Senior Deacon", "b": "Examines voters' obligation cards during ballots and conducts proficiency examinations." },
-          { "f": "Junior Deacon", "b": "Assists at the door and relieves the Sentinel so he can vote." },
+          { "f": "Junior Deacon", "b": "Relieves the Sentinel at the door so he can vote." },
           { "f": "Chaplain", "b": "Leads prayer (members kneeling on the left knee). Responsible for Devotional Day." },
           { "f": "Almoner", "b": "The officer of charity. Responsible for the Day of Comfort." },
           { "f": "Marshal", "b": "Conducts floor movements and helps tabulate votes. Co-responsible for My Government Day." },
           { "f": "Standard Bearer", "b": "Carries the flag. Responsible for Patriots' Day." },
           { "f": "Orator", "b": "The Chapter's speaker. Co-responsible for My Government Day." },
-          { "f": "Senior & Junior Stewards", "b": "Prepare the candidates. Responsible for Educational Day." },
-          { "f": "The 7 Preceptors", "b": "Represent the seven virtues with their candles. Often set up the room and are responsible for Parents' Day." },
+          { "f": "Senior & Junior Stewards", "b": "Officers appointed by the Master Councilor. Responsible for Educational Day." },
+          { "f": "The 7 Preceptors", "b": "Seven appointed officers. Often set up the Chapter room and are responsible for Parents' Day." },
           { "f": "Sentinel", "b": "Guards the door: receives the Word of the Day and admits no one while the Chapter is opening." },
           { "f": "Organist", "b": "The Chapter's music; the Ritual marks where it plays." }
         ]
@@ -164,7 +164,7 @@
         "title": "The official pin's symbolism",
         "desc": "Every element of the emblem (1949) has a meaning.",
         "cards": [
-          { "f": "Crown of Youth", "b": "The crown of youth, bearing DeMolay's seven precepts." },
+          { "f": "Crown of Youth", "b": "The crown of youth, a reminder of the Order's seven precepts." },
           { "f": "The 10 precious stones", "b": "Dad Land and the 9 original founders. Rubies for the deceased, pearls for the living — today all rubies." },
           { "f": "The Helmet", "b": "Chivalry." },
           { "f": "The Crescent", "b": "The secrecy of the Order." },
@@ -206,7 +206,7 @@
           { "f": "First-line signer", "b": "The first recommender signing a Membership Application — what counts toward the Blue Honor Key." },
           { "f": "Majority", "b": "Becoming a Senior DeMolay at 21, ideally celebrated with the Majority Service." },
           { "f": "Two-Deep Leadership", "b": "Youth Protection's golden rule: at least 2 registered Advisors at every activity, always." },
-          { "f": "Conclave", "b": "The Jurisdiction's annual convention: competitions, elections, brotherhood." },
+          { "f": "Conclave", "b": "The Jurisdiction's annual convention: competitions, awards, brotherhood." },
           { "f": "Chevalier", "b": "The highest honor for an active DeMolay: unanimous ISC vote, never applied for." },
           { "f": "Stated meeting", "b": "The Chapter's regular business meeting, fixed in its Bylaws." }
         ]

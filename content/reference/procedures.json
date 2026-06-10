@@ -19,7 +19,7 @@
           "Si el comité no reporta, el MC puede prorrogarlo o nombrar uno nuevo."
         ],
         "checklist": false,
-        "page": "29"
+        "page": "30"
       },
       {
         "id": "balotaje",
@@ -81,7 +81,7 @@
           "Reportes con 3 meses de mora = suspensión temporal automática del Chapter."
         ],
         "checklist": false,
-        "page": "57"
+        "page": "61"
       },
       {
         "id": "incidente",
@@ -101,7 +101,7 @@
           "El seguro de DeMolay es SECUNDARIO al seguro familiar y solo cubre eventos documentados en minutas."
         ],
         "checklist": false,
-        "page": "125"
+        "page": "124"
       },
       {
         "id": "abuso",
@@ -173,7 +173,7 @@
           "If the committee fails to report, the MC may continue it or appoint a new one."
         ],
         "checklist": false,
-        "page": "29"
+        "page": "30"
       },
       {
         "id": "balotaje",
@@ -235,7 +235,7 @@
           "Reports 3 months overdue = automatic temporary suspension of the Chapter."
         ],
         "checklist": false,
-        "page": "57"
+        "page": "61"
       },
       {
         "id": "incidente",
@@ -255,7 +255,7 @@
           "DeMolay's insurance is SECONDARY to family insurance and only covers events documented in the minutes."
         ],
         "checklist": false,
-        "page": "125"
+        "page": "124"
       },
       {
         "id": "abuso",
