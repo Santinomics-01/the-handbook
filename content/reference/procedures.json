@@ -4,40 +4,40 @@
       {
         "id": "elegir-miembro",
         "title": "Elegir un nuevo miembro",
-        "intro": "El camino completo desde la solicitud hasta el voto, según los Bylaws.",
+        "intro": "El camino completo desde la solicitud hasta el voto, según los estatutos.",
         "steps": [
-          "Verificá la elegibilidad: varón, pasado su 12.º cumpleaños y antes del 21.º, de buen carácter, recomendado por al menos 1 miembro del Chapter o un Senior DeMolay con certificado.",
-          "La Membership Application se presenta en una stated meeting, al menos 1 semana antes de votarse (salvo autorización del Executive Officer).",
-          "El Master Councilor nombra un committee of investigation de 3 miembros (o el Chapter Advisor / un miembro del Advisory Council investiga en su lugar).",
+          "Verifica la elegibilidad: varón, pasado su 12.º cumpleaños y antes del 21.º, de buen carácter, recomendado por al menos 1 miembro del Capítulo o un Sénior DeMolay con certificado.",
+          "La Solicitud de Membresía se presenta en una reunión ordinaria, al menos 1 semana antes de votarse (salvo autorización del Oficial Ejecutivo).",
+          "El Maestre Consejero nombra un Comité de Sindicancia de 3 miembros (o el Consultor Principal / un miembro del Consejo Consultivo investiga en su lugar).",
           "El comité investiga 4 áreas: vida en el hogar, vida social y reputación, historial escolar y laboral — e idealmente visita el hogar.",
-          "El informe se presenta POR ESCRITO en o antes de la siguiente stated meeting. La application no puede balotarse sin el informe completo.",
-          "Se vota por ballot secreto (ver el procedimiento de balotaje).",
-          "Electo el candidato, ninguna elección es final sin la aprobación del Advisory Council."
+          "El informe se presenta POR ESCRITO en o antes de la siguiente reunión ordinaria. La solicitud no puede balotarse sin el informe completo.",
+          "Se vota por balotaje secreto (ver el procedimiento de balotaje).",
+          "Electo el candidato, ninguna elección es final sin la aprobación del Consejo Consultivo."
         ],
         "notes": [
           "El informe del comité puede anunciarse pero NO se asienta en actas.",
-          "Si el comité no reporta, el MC puede prorrogarlo o nombrar uno nuevo."
+          "Si el comité no reporta, el Maestre Consejero puede prorrogarlo o nombrar uno nuevo."
         ],
         "checklist": false,
         "page": "30"
       },
       {
         "id": "balotaje",
-        "title": "El balotaje (white balls / black cubes)",
+        "title": "El balotaje (balotas blancas / cubos negros)",
         "intro": "\"White balls elect, black cubes reject.\" Las reglas exactas del voto secreto.",
         "steps": [
-          "El Senior Deacon inspecciona la obligation card de cada votante, parado entre el altar y la estación del Senior Councilor. Sin tarjeta no se vota.",
-          "Orden de votación: MC, SC, JC, Senior Deacon, y luego los miembros desde el Scribe — lado sur primero, después lado norte, desde el West.",
-          "El Junior Deacon releva al Sentinel para que también pueda votar.",
-          "Resultado: 0 o 1 black cube = electo · 2 black cubes = la application queda en suspenso (lie over) hasta la próxima stated meeting · 3 o más = rechazado.",
-          "En el segundo ballot (tras un lie over): electo salvo que aparezcan 3 o más black balls.",
-          "Con varios aplicantes se permite el ballot colectivo; si aparecen black balls, se vota por separado cada solicitud."
+          "El Primer Diácono inspecciona la Tarjeta de Obligación de cada votante, parado entre el altar y la estación del Primer Consejero. Sin tarjeta no se vota.",
+          "Orden de votación: Maestre Consejero, Primer Consejero, Segundo Consejero, Primer Diácono, y luego los miembros desde el Escriba — lado sur primero, después lado norte, desde el Oeste.",
+          "El Segundo Diácono releva al Centinela para que también pueda votar.",
+          "Resultado: 0 o 1 cubo negro = electo · 2 cubos negros = la solicitud queda en suspenso (lie over) hasta la próxima reunión ordinaria · 3 o más = rechazado.",
+          "En el segundo balotaje (tras un lie over): electo salvo que aparezcan 3 o más balotas negras.",
+          "Con varios aplicantes se permite el balotaje colectivo; si aparecen balotas negras, se vota por separado cada solicitud."
         ],
         "notes": [
-          "El voto es privado y el balotaje debe ser rápido; el presiding officer no puede frenar un ballot por pedido privado (hace falta una moción votada por el Chapter).",
-          "Objeción después de la elección y antes del Degree: por escrito, firmada por 3 miembros; si la sostiene 1/3 de los presentes, el candidato queda rechazado.",
-          "Después de recibir un Degree, las objeciones solo proceden por juicio regular ante el Advisory Council.",
-          "Un ballot rechazado se refiere al Advisory Council para más consideración."
+          "El voto es privado y el balotaje debe ser rápido; el oficial que preside no puede frenar un balotaje por pedido privado (hace falta una moción votada por el Capítulo).",
+          "Objeción después de la elección y antes del Grado: por escrito, firmada por 3 miembros; si la sostiene 1/3 de los presentes, el candidato queda rechazado.",
+          "Después de recibir un Grado, las objeciones solo proceden por juicio regular ante el Consejo Consultivo.",
+          "Un balotaje rechazado se refiere al Consejo Consultivo para más consideración."
         ],
         "checklist": false,
         "page": "31"
@@ -45,40 +45,40 @@
       {
         "id": "elegir-oficiales",
         "title": "Elegir e instalar oficiales",
-        "intro": "MC, SC y JC se eligen por voto; Scribe y Treasurer los nombra el Advisory Council.",
+        "intro": "Maestre Consejero, Primer Consejero y Segundo Consejero se eligen por voto; Escriba y Tesorero los nombra el Consejo Consultivo.",
         "steps": [
-          "Verificá los requisitos: candidato activo con Obligation Card calificada; para MC, haber sido SC o JC (salvo excepción del Advisory Council o Chapter nuevo).",
-          "Se vota con paper ballot, preparado antes de la reunión; gana la mayoría sin contar los votos en blanco.",
-          "Los Deacons reparten y recogen los ballots solo a los hermanos que presenten sus obligations; el Marshal asiste en la tabulación.",
+          "Verifica los requisitos: candidato activo con Tarjeta de Obligación calificada; para Maestre Consejero, haber sido Primer Consejero o Segundo Consejero (salvo excepción del Consejo Consultivo o Capítulo nuevo).",
+          "Se vota con balota de papel, preparada antes de la reunión; gana la mayoría sin contar los votos en blanco.",
+          "Los Diáconos reparten y recogen las balotas solo a los hermanos que presenten sus Obligaciones; el Mariscal asiste en la tabulación.",
           "Empate o falta de mayoría = se vuelve a votar.",
           "La instalación se hace en la misma reunión o dentro de los 30 días.",
-          "Vacancia del MC: asciende el SC, luego el JC; el cargo restante se llena por elección con 2 semanas de aviso escrito."
+          "Vacancia del Maestre Consejero: asciende el Primer Consejero, luego el Segundo Consejero; el cargo restante se llena por elección con 2 semanas de aviso escrito."
         ],
         "notes": [
           "3 ausencias consecutivas sin excusa aprobada = vacancia automática.",
-          "Remoción forzada de un oficial: resolución en una reunión regular + voto de 3/4 de los presentes en la siguiente + aprobación del Executive Officer."
+          "Remoción forzada de un oficial: resolución en una reunión regular + voto de 3/4 de los presentes en la siguiente + aprobación del Oficial Ejecutivo."
         ],
         "checklist": false,
         "page": "33"
       },
       {
         "id": "dinero",
-        "title": "Manejar el dinero del Chapter",
+        "title": "Manejar el dinero del Capítulo",
         "intro": "Las reglas financieras que no se negocian.",
         "steps": [
-          "Mantené DOS contabilidades separadas: fondos del Chapter y fondos de DeMolay International (estos últimos son intocables y no requieren voto para pagarse).",
-          "El Scribe cobra; el Treasurer recibe y emite recibo al Scribe.",
-          "Todo gasto del Chapter (salvo a DI) requiere voto en reunión regular de negocios.",
-          "Cheques: firma del Treasurer o del MC + contrafirma de un miembro del Advisory Council.",
+          "Mantén DOS contabilidades separadas: fondos del Capítulo y fondos de DeMolay Internacional (estos últimos son intocables y no requieren voto para pagarse).",
+          "El Escriba cobra; el Tesorero recibe y emite recibo al Escriba.",
+          "Todo gasto del Capítulo (salvo a DeMolay Internacional) requiere voto en reunión regular de negocios.",
+          "Cheques: firma del Tesorero o del Maestre Consejero + contrafirma de un miembro del Consejo Consultivo.",
           "Pagos electrónicos: todos los aprobadores con acceso de visualización online o copiados automáticamente.",
-          "Prohibido pagar en efectivo y prohibido prestar fondos del Chapter.",
-          "Inversión de excedentes: voto del Chapter + 2/3 de TODO el Advisory Council por cada inversión.",
-          "Auditoría de los libros del Treasurer y el Scribe con cada instalación de un nuevo MC."
+          "Prohibido pagar en efectivo y prohibido prestar fondos del Capítulo.",
+          "Inversión de excedentes: voto del Capítulo + 2/3 de TODO el Consejo Consultivo por cada inversión.",
+          "Auditoría de los libros del Tesorero y el Escriba con cada instalación de un nuevo Maestre Consejero."
         ],
         "notes": [
-          "Único regalo permitido con fondos del Chapter: el PMC's Jewel.",
-          "Solicitar fondos a no-miembros requiere permiso previo del Executive Officer.",
-          "Reportes con 3 meses de mora = suspensión temporal automática del Chapter."
+          "Único regalo permitido con fondos del Capítulo: la Joya de Past Maestre Consejero.",
+          "Solicitar fondos a no-miembros requiere permiso previo del Oficial Ejecutivo.",
+          "Reportes con 3 meses de mora = suspensión temporal automática del Capítulo."
         ],
         "checklist": false,
         "page": "61"
@@ -88,16 +88,16 @@
         "title": "Reportar un incidente",
         "intro": "Qué hacer cuando algo sale mal en un evento DeMolay.",
         "steps": [
-          "Atendé primero a las personas; ante daño mayor, lesión seria o muerte, notificá de INMEDIATO al Executive Officer.",
+          "Atiende primero a las personas; ante daño mayor, lesión seria o muerte, notifica de INMEDIATO al Oficial Ejecutivo.",
           "Umbral de reporte: toda ocurrencia con potencial de lesión o daño a propiedad que supere los $100.",
-          "Registrá los hechos: WHEN, WHERE, WHAT (daño/lesión), WHO, si se llamó a la policía, y sacá fotos.",
-          "Cadena de reporte: Chapter → Advisory Council Chairman / Chapter Advisor → Executive Officer → Service and Leadership Center → aseguradora.",
-          "En propiedad masónica: el Chairman da notificación ORAL al cuerpo masónico, registrando fecha, hora y destinatario.",
-          "Completá el incident report form y conservá copia de todos los documentos."
+          "Registra los hechos: WHEN, WHERE, WHAT (daño/lesión), WHO, si se llamó a la policía, y saca fotos.",
+          "Cadena de reporte: Capítulo → Presidente del Consejo Consultivo / Consultor Principal → Oficial Ejecutivo → Centro de Servicio y Liderazgo → aseguradora.",
+          "En propiedad masónica: el Presidente del Consejo Consultivo da notificación ORAL al cuerpo masónico, registrando fecha, hora y destinatario.",
+          "Completa el formulario de reporte de incidente y conserva copia de todos los documentos."
         ],
         "notes": [
           "NO hagas declaraciones de responsabilidad en la escena ni alientes reclamos: solo hechos, no opiniones.",
-          "Ante investigadores de seguros: contactá al Executive Officer ANTES de hablar.",
+          "Ante investigadores de seguros: contacta al Oficial Ejecutivo ANTES de hablar.",
           "El seguro de DeMolay es SECUNDARIO al seguro familiar y solo cubre eventos documentados en minutas."
         ],
         "checklist": false,
@@ -108,14 +108,14 @@
         "title": "Reportar sospecha de abuso",
         "intro": "Para reportar basta la sospecha: no hace falta prueba. La protección va primero.",
         "steps": [
-          "Garantizá la seguridad inmediata del joven.",
-          "Llamá al 911 o a la agencia local de protección infantil.",
-          "Notificá al Jurisdictional Executive Officer dentro de las 24 horas, con reporte escrito.",
+          "Garantiza la seguridad inmediata del joven.",
+          "Llama al 911 o a la agencia local de protección infantil.",
+          "Notifica al Oficial Ejecutivo Jurisdiccional dentro de las 24 horas, con reporte escrito.",
           "Si el presunto perpetrador es un adulto del programa: queda en licencia (leave) hasta que termine la investigación.",
-          "Cooperá con las autoridades y preservá toda la información."
+          "Coopera con las autoridades y preserva toda la información."
         ],
         "notes": [
-          "Regla permanente: Two-Deep Leadership (mínimo 2 registered Advisors) y nada de actividades one-on-one.",
+          "Regla permanente: Two-Deep Leadership (mínimo 2 Consultores registrados) y nada de actividades a solas.",
           "Los formularios de Medical Release y Photo Release están en beademolay.org/resources."
         ],
         "checklist": false,
@@ -123,30 +123,30 @@
       },
       {
         "id": "fundar-chapter",
-        "title": "Fundar un Chapter: la check-off list oficial (17 pasos)",
-        "intro": "La lista de control completa del manual para organizar un Chapter nuevo. Tildá a medida que avances: tu progreso queda guardado en este dispositivo.",
+        "title": "Fundar un Capítulo: la lista de control oficial (17 pasos)",
+        "intro": "La lista de control completa del manual para organizar un Capítulo nuevo. Marca a medida que avances: tu progreso queda guardado en este dispositivo.",
         "steps": [
-          "Hablar con el Executive Officer (o su representante personal) sobre establecer un Chapter.",
-          "Encontrar otros Masons interesados (montar un programa informativo).",
-          "Asegurar un Sponsoring Body y que apruebe una Resolution to Sponsor.",
-          "Seleccionar un Advisory Council y que complete el training online.",
-          "Elegir el nombre del Chapter (prohibido el nombre de una persona viva).",
-          "Completar la Petition for Letters Temporary.",
-          "Enviar al Executive Officer: Resolution to Sponsor + Advisory Council Certification + Petition for Letters Temporary + cheque por la fee.",
-          "Recibir las Letters Temporary del Executive Officer.",
-          "Revisar el material recibido y pedir los supplies adicionales necesarios.",
-          "Establecer la membership fee del Chapter.",
+          "Hablar con el Oficial Ejecutivo (o su representante personal) sobre establecer un Capítulo.",
+          "Encontrar otros Masones interesados (montar un programa informativo).",
+          "Asegurar un Cuerpo Patrocinador y que apruebe una Resolución de Patrocinio.",
+          "Seleccionar un Consejo Consultivo y que complete la capacitación online.",
+          "Elegir el nombre del Capítulo (prohibido el nombre de una persona viva).",
+          "Completar la Petición de Carta Constitutiva Temporal.",
+          "Enviar al Oficial Ejecutivo: Resolución de Patrocinio + Certificación del Consejo Consultivo + Petición de Carta Constitutiva Temporal + cheque por la tasa.",
+          "Recibir la Carta Constitutiva Temporal del Oficial Ejecutivo.",
+          "Revisar el material recibido y pedir los materiales adicionales necesarios.",
+          "Establecer la tasa de membresía del Capítulo.",
           "Organizar el evento de membresía para la clase inicial.",
-          "Registrar y aprobar las applications for membership.",
-          "Inducir a la clase inicial (con uno o más Chapters visitantes para los Degrees).",
-          "Reportar los nuevos Members a DeMolay International online (máximo 10 días).",
-          "Seleccionar e instalar al primer grupo de Chapter officers.",
-          "Adoptar el set de Chapter Bylaws (aprobados por el Executive Officer).",
-          "Operar el Chapter según sus bylaws, las regulaciones y las políticas jurisdiccionales."
+          "Registrar y aprobar las solicitudes de membresía.",
+          "Inducir a la clase inicial (con uno o más Capítulos visitantes para los Grados).",
+          "Reportar los nuevos miembros a DeMolay Internacional online (máximo 10 días).",
+          "Seleccionar e instalar al primer grupo de oficiales del Capítulo.",
+          "Adoptar el conjunto de estatutos del Capítulo (aprobados por el Oficial Ejecutivo).",
+          "Operar el Capítulo según sus estatutos, las regulaciones y las políticas jurisdiccionales."
         ],
         "notes": [
-          "El Chapter opera bajo Letters Temporary hasta tener al menos 15 Members.",
-          "Para reinstalar un Chapter cerrado: mismo procedimiento, pero con una reinstatement application en lugar de la Petition for Letters Temporary."
+          "El Capítulo opera bajo Carta Constitutiva Temporal hasta tener al menos 15 miembros.",
+          "Para reinstalar un Capítulo cerrado: mismo procedimiento, pero con una solicitud de reinstalación en lugar de la Petición de Carta Constitutiva Temporal."
         ],
         "checklist": true,
         "page": "254"

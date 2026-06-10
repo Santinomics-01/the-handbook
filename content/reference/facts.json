@@ -4,65 +4,182 @@
       {
         "title": "Fees y dinero",
         "facts": [
-          { "k": "Initiation fee (mínimo)", "v": "$35.00 — fijado por DeMolay International; incluye la membresía vitalicia prepaga y el Patent" },
-          { "k": "Affiliation fee (mínimo)", "v": "$20.00 — el Chapter puede fijar montos mayores enmendando sus Bylaws" },
-          { "k": "Reporte del initiation fee", "v": "El Scribe lo remite vía eScribe dentro de los 10 días de conferido el Initiatory Degree" },
-          { "k": "Año fiscal DeMolay", "v": "1 de enero al 31 de diciembre" },
-          { "k": "Cheques del Chapter", "v": "Firma del Treasurer o Master Councilor + contrafirma de un miembro del Advisory Council, con autorización previa en reunión regular" },
-          { "k": "Efectivo", "v": "Prohibido usar efectivo para pagos del Chapter" },
-          { "k": "Fondos de DeMolay International", "v": "Cuenta separada e intocable; pagarlos no requiere voto del Chapter" },
-          { "k": "Regalos con fondos del Chapter", "v": "Prohibidos — única excepción: el PMC's Jewel aprobado por el Advisory Council" },
-          { "k": "Recaudar fuera del Chapter", "v": "Requiere permiso previo del Executive Officer de la Jurisdiction" }
+          {
+            "k": "Tasa de iniciación (mínimo)",
+            "v": "$35.00 — fijado por DeMolay Internacional; incluye la membresía vitalicia prepaga y el Diploma (Patent)"
+          },
+          {
+            "k": "Tasa de afiliación (mínimo)",
+            "v": "$20.00 — el Capítulo puede fijar montos mayores enmendando sus estatutos"
+          },
+          {
+            "k": "Reporte de la tasa de iniciación",
+            "v": "El Escriba lo remite vía eScribe dentro de los 10 días de conferido el Grado Iniciático"
+          },
+          {
+            "k": "Año fiscal DeMolay",
+            "v": "1 de enero al 31 de diciembre"
+          },
+          {
+            "k": "Cheques del Capítulo",
+            "v": "Firma del Tesorero o Maestre Consejero + contrafirma de un miembro del Consejo Consultivo, con autorización previa en reunión regular"
+          },
+          {
+            "k": "Efectivo",
+            "v": "Prohibido usar efectivo para pagos del Capítulo"
+          },
+          {
+            "k": "Fondos de DeMolay Internacional",
+            "v": "Cuenta separada e intocable; pagarlos no requiere voto del Capítulo"
+          },
+          {
+            "k": "Regalos con fondos del Capítulo",
+            "v": "Prohibidos — única excepción: la Joya de Past Maestre Consejero aprobada por el Consejo Consultivo"
+          },
+          {
+            "k": "Recaudar fuera del Capítulo",
+            "v": "Requiere permiso previo del Oficial Ejecutivo de la Jurisdicción"
+          }
         ]
       },
       {
         "title": "Plazos clave",
         "facts": [
-          { "k": "Reportar nuevos iniciados", "v": "En eScribe, de inmediato y nunca más de 10 días después de la iniciación" },
-          { "k": "Recertificación anual de Advisors", "v": "Antes del 30 de noviembre de cada año (Continuing Advisor Certification en eScribe)" },
-          { "k": "Reportes en mora", "v": "3 meses más allá del deadline = suspensión temporal automática del Chapter; 3 meses de suspensión por falta de pago = el Charter puede anularse" },
-          { "k": "Certificado de seguro para un evento", "v": "Solicitarlo online con mínimo 15 días hábiles de anticipación (30 días si pide additionally insured)" },
-          { "k": "Reportar sospecha de abuso", "v": "Notificación al Executive Officer dentro de las 24 horas, con reporte escrito" },
-          { "k": "Ausencias de un oficial", "v": "3 ausencias consecutivas sin excusa aprobada = vacancia automática del cargo" },
-          { "k": "Application antes del ballot", "v": "Presentada en stated meeting al menos 1 semana antes de votarse (salvo autorización del EO)" },
-          { "k": "Carta de intención del PMC-MSA", "v": "Dentro de los 10 días posteriores a la instalación del Master Councilor" }
+          {
+            "k": "Reportar nuevos iniciados",
+            "v": "En eScribe, de inmediato y nunca más de 10 días después de la iniciación"
+          },
+          {
+            "k": "Recertificación anual de Consultores",
+            "v": "Antes del 30 de noviembre de cada año (Certificación Anual de Consultores en eScribe)"
+          },
+          {
+            "k": "Reportes en mora",
+            "v": "3 meses más allá de la fecha límite = suspensión temporal automática del Capítulo; 3 meses de suspensión por falta de pago = la Carta Constitutiva puede anularse"
+          },
+          {
+            "k": "Certificado de seguro para un evento",
+            "v": "Solicitarlo online con mínimo 15 días hábiles de anticipación (30 días si pide asegurado adicional)"
+          },
+          {
+            "k": "Reportar sospecha de abuso",
+            "v": "Notificación al Oficial Ejecutivo dentro de las 24 horas, con reporte escrito"
+          },
+          {
+            "k": "Ausencias de un oficial",
+            "v": "3 ausencias consecutivas sin excusa aprobada = vacancia automática del cargo"
+          },
+          {
+            "k": "Solicitud antes del balotaje",
+            "v": "Presentada en reunión ordinaria al menos 1 semana antes de votarse (salvo autorización del O.E.)"
+          },
+          {
+            "k": "Carta de intención del PMC-MSA",
+            "v": "Dentro de los 10 días posteriores a la instalación del Maestre Consejero"
+          }
         ]
       },
       {
         "title": "Mínimos y ratios",
         "facts": [
-          { "k": "Edad de membresía", "v": "Pasado el 12.º cumpleaños y antes del 21.º; a los 21 se pasa a Senior DeMolay" },
-          { "k": "Advisors en todo evento", "v": "Mínimo 2 registered Advisors, SIEMPRE (Two-Deep Leadership)" },
-          { "k": "Ratio de supervisión", "v": "2 Advisors hasta 10 jóvenes; +1 adulto por cada 5 jóvenes adicionales" },
-          { "k": "Advisory Council", "v": "Mínimo 5 Advisors (DeMolay International); base mínima de 3 Master Masons en good standing" },
-          { "k": "Chaperones en eventos sociales", "v": "Al menos 2 Advisors por cada 5 miembros activos presentes" },
-          { "k": "Members para el Charter", "v": "Un Chapter nuevo opera bajo Letters Temporary hasta tener al menos 15 Members" },
-          { "k": "Actividades por término", "v": "Mínimo 3 por categoría (cívicas, sociales, deportivas, fundraising) + todos los Obligatory Days" },
-          { "k": "Comités", "v": "Mínimo 3 integrantes; el primero nombrado es el chairman; solo el Membership Committee es obligatorio" },
-          { "k": "Balotaje", "v": "0-1 black cubes = electo · 2 = queda en suspenso (lie over) · 3 o más = rechazado" }
+          {
+            "k": "Edad de membresía",
+            "v": "Pasado el 12.º cumpleaños y antes del 21.º; a los 21 se pasa a Sénior DeMolay"
+          },
+          {
+            "k": "Consultores en todo evento",
+            "v": "Mínimo 2 Consultores registrados, SIEMPRE (Two-Deep Leadership)"
+          },
+          {
+            "k": "Ratio de supervisión",
+            "v": "2 Consultores hasta 10 jóvenes; +1 adulto por cada 5 jóvenes adicionales"
+          },
+          {
+            "k": "Consejo Consultivo",
+            "v": "Mínimo 5 Consultores (DeMolay Internacional); base mínima de 3 Maestros Masones en regla (good standing)"
+          },
+          {
+            "k": "Chaperones en eventos sociales",
+            "v": "Al menos 2 Consultores por cada 5 miembros activos presentes"
+          },
+          {
+            "k": "Miembros para la Carta Constitutiva",
+            "v": "Un Capítulo nuevo opera bajo Carta Constitutiva Temporal hasta tener al menos 15 miembros"
+          },
+          {
+            "k": "Actividades por término",
+            "v": "Mínimo 3 por categoría (cívicas, sociales, deportivas, recaudación de fondos) + todos los Días Obligatorios"
+          },
+          {
+            "k": "Comités",
+            "v": "Mínimo 3 integrantes; el primero nombrado es el presidente; solo el Comité de Membresía es obligatorio"
+          },
+          {
+            "k": "Balotaje",
+            "v": "0-1 cubos negros = electo · 2 = queda en suspenso (lie over) · 3 o más = rechazado"
+          }
         ]
       },
       {
         "title": "Contactos oficiales",
         "facts": [
-          { "k": "DeMolay International", "v": "Henry E. \"Hank\" Stickney Service & Leadership Center — 10200 NW Ambassador Drive, Kansas City, MO 64153, EE.UU." },
-          { "k": "Teléfono gratuito", "v": "1-800-DEMOLAY (1-800-336-6529)" },
-          { "k": "Teléfono local", "v": "(816) 891-8333 · Fax: (816) 891-9062" },
-          { "k": "Email general", "v": "demolay@demolay.org" },
-          { "k": "Horario de atención", "v": "Lunes a viernes, 8:30 a 17:00 (hora central de EE.UU.)" },
-          { "k": "Sugerencias al Handbook", "v": "DHBinput@demolay.org" }
+          {
+            "k": "DeMolay Internacional",
+            "v": "Centro de Servicio y Liderazgo Henry E. \"Hank\" Stickney — 10200 NW Ambassador Drive, Kansas City, MO 64153, EE.UU."
+          },
+          {
+            "k": "Teléfono gratuito",
+            "v": "1-800-DEMOLAY (1-800-336-6529)"
+          },
+          {
+            "k": "Teléfono local",
+            "v": "(816) 891-8333 · Fax: (816) 891-9062"
+          },
+          {
+            "k": "Email general",
+            "v": "demolay@demolay.org"
+          },
+          {
+            "k": "Horario de atención",
+            "v": "Lunes a viernes, 8:30 a 17:00 (hora central de EE.UU.)"
+          },
+          {
+            "k": "Sugerencias al Handbook",
+            "v": "DHBinput@demolay.org"
+          }
         ]
       },
       {
         "title": "Links oficiales",
         "facts": [
-          { "k": "Sitio principal", "v": "demolay.org" },
-          { "k": "eScribe (reportes y registros)", "v": "eScribe.DeMolay.org" },
-          { "k": "Tienda oficial (regalia y joyería)", "v": "ShopDeMolay.org — único canal autorizado" },
-          { "k": "Leaders Correspondence Course", "v": "BeADeMolay.org/lcc — 5 cursos online, gratis, 24/7" },
-          { "k": "Seguros y certificados", "v": "demolay.org/insurance" },
-          { "k": "Textos de ceremonias públicas", "v": "demolay.org/open-ceremonies" },
-          { "k": "Formularios (medical/photo release)", "v": "beademolay.org/resources" }
+          {
+            "k": "Sitio principal",
+            "v": "demolay.org"
+          },
+          {
+            "k": "eScribe (reportes y registros)",
+            "v": "eScribe.DeMolay.org"
+          },
+          {
+            "k": "Tienda oficial (regalia y joyería)",
+            "v": "ShopDeMolay.org — único canal autorizado"
+          },
+          {
+            "k": "Leaders Correspondence Course",
+            "v": "BeADeMolay.org/lcc — 5 cursos online, gratis, 24/7"
+          },
+          {
+            "k": "Seguros y certificados",
+            "v": "demolay.org/insurance"
+          },
+          {
+            "k": "Textos de ceremonias públicas",
+            "v": "demolay.org/open-ceremonies"
+          },
+          {
+            "k": "Formularios (medical/photo release)",
+            "v": "beademolay.org/resources"
+          }
         ]
       }
     ]
@@ -72,65 +189,182 @@
       {
         "title": "Fees & money",
         "facts": [
-          { "k": "Initiation fee (minimum)", "v": "$35.00 — set by DeMolay International; includes prepaid lifetime membership and the Patent" },
-          { "k": "Affiliation fee (minimum)", "v": "$20.00 — Chapters may set higher amounts by amending their Bylaws" },
-          { "k": "Reporting the initiation fee", "v": "The Scribe remits it via eScribe within 10 days of the Initiatory Degree being conferred" },
-          { "k": "DeMolay fiscal year", "v": "January 1 to December 31" },
-          { "k": "Chapter checks", "v": "Signed by the Treasurer or Master Councilor + countersigned by an Advisory Council member, with prior authorization at a regular meeting" },
-          { "k": "Cash", "v": "Using cash for Chapter payments is prohibited" },
-          { "k": "DeMolay International funds", "v": "Separate, untouchable account; paying them requires no Chapter vote" },
-          { "k": "Gifts with Chapter funds", "v": "Prohibited — sole exception: the PMC's Jewel approved by the Advisory Council" },
-          { "k": "Fundraising outside the Chapter", "v": "Requires prior permission from the Jurisdiction's Executive Officer" }
+          {
+            "k": "Initiation fee (minimum)",
+            "v": "$35.00 — set by DeMolay International; includes prepaid lifetime membership and the Patent"
+          },
+          {
+            "k": "Affiliation fee (minimum)",
+            "v": "$20.00 — Chapters may set higher amounts by amending their Bylaws"
+          },
+          {
+            "k": "Reporting the initiation fee",
+            "v": "The Scribe remits it via eScribe within 10 days of the Initiatory Degree being conferred"
+          },
+          {
+            "k": "DeMolay fiscal year",
+            "v": "January 1 to December 31"
+          },
+          {
+            "k": "Chapter checks",
+            "v": "Signed by the Treasurer or Master Councilor + countersigned by an Advisory Council member, with prior authorization at a regular meeting"
+          },
+          {
+            "k": "Cash",
+            "v": "Using cash for Chapter payments is prohibited"
+          },
+          {
+            "k": "DeMolay International funds",
+            "v": "Separate, untouchable account; paying them requires no Chapter vote"
+          },
+          {
+            "k": "Gifts with Chapter funds",
+            "v": "Prohibited — sole exception: the PMC's Jewel approved by the Advisory Council"
+          },
+          {
+            "k": "Fundraising outside the Chapter",
+            "v": "Requires prior permission from the Jurisdiction's Executive Officer"
+          }
         ]
       },
       {
         "title": "Key deadlines",
         "facts": [
-          { "k": "Reporting new initiates", "v": "In eScribe, immediately and never more than 10 days after initiation" },
-          { "k": "Annual Advisor recertification", "v": "By November 30 each year (Continuing Advisor Certification in eScribe)" },
-          { "k": "Overdue reports", "v": "3 months past the deadline = automatic temporary suspension; 3 months suspended for non-payment = the Charter may be voided" },
-          { "k": "Insurance certificate for an event", "v": "Request online at least 15 business days ahead (30 days for additionally-insured requests)" },
-          { "k": "Reporting suspected abuse", "v": "Notify the Executive Officer within 24 hours, with a written report" },
-          { "k": "Officer absences", "v": "3 consecutive unexcused absences = automatic vacancy of the office" },
-          { "k": "Application before the ballot", "v": "Presented at a stated meeting at least 1 week before being voted on (unless the EO authorizes otherwise)" },
-          { "k": "PMC-MSA letter of intent", "v": "Within 10 days of the Master Councilor's installation" }
+          {
+            "k": "Reporting new initiates",
+            "v": "In eScribe, immediately and never more than 10 days after initiation"
+          },
+          {
+            "k": "Annual Advisor recertification",
+            "v": "By November 30 each year (Continuing Advisor Certification in eScribe)"
+          },
+          {
+            "k": "Overdue reports",
+            "v": "3 months past the deadline = automatic temporary suspension; 3 months suspended for non-payment = the Charter may be voided"
+          },
+          {
+            "k": "Insurance certificate for an event",
+            "v": "Request online at least 15 business days ahead (30 days for additionally-insured requests)"
+          },
+          {
+            "k": "Reporting suspected abuse",
+            "v": "Notify the Executive Officer within 24 hours, with a written report"
+          },
+          {
+            "k": "Officer absences",
+            "v": "3 consecutive unexcused absences = automatic vacancy of the office"
+          },
+          {
+            "k": "Application before the ballot",
+            "v": "Presented at a stated meeting at least 1 week before being voted on (unless the EO authorizes otherwise)"
+          },
+          {
+            "k": "PMC-MSA letter of intent",
+            "v": "Within 10 days of the Master Councilor's installation"
+          }
         ]
       },
       {
         "title": "Minimums & ratios",
         "facts": [
-          { "k": "Membership age", "v": "Past the 12th birthday and not yet 21; at 21 you become a Senior DeMolay" },
-          { "k": "Advisors at every event", "v": "Minimum 2 registered Advisors, ALWAYS (Two-Deep Leadership)" },
-          { "k": "Supervision ratio", "v": "2 Advisors for up to 10 youth; +1 adult for every 5 additional youth" },
-          { "k": "Advisory Council", "v": "Minimum 5 Advisors (DeMolay International); core minimum of 3 Master Masons in good standing" },
-          { "k": "Chaperones at social events", "v": "At least 2 Advisors for every 5 active members present" },
-          { "k": "Members for the Charter", "v": "A new Chapter operates under Letters Temporary until it has at least 15 Members" },
-          { "k": "Activities per term", "v": "Minimum 3 per category (civic, social, athletic, fundraising) + every Obligatory Day" },
-          { "k": "Committees", "v": "Minimum 3 members; the first named is chairman; only the Membership Committee is mandatory" },
-          { "k": "Balloting", "v": "0-1 black cubes = elected · 2 = lies over · 3 or more = rejected" }
+          {
+            "k": "Membership age",
+            "v": "Past the 12th birthday and not yet 21; at 21 you become a Senior DeMolay"
+          },
+          {
+            "k": "Advisors at every event",
+            "v": "Minimum 2 registered Advisors, ALWAYS (Two-Deep Leadership)"
+          },
+          {
+            "k": "Supervision ratio",
+            "v": "2 Advisors for up to 10 youth; +1 adult for every 5 additional youth"
+          },
+          {
+            "k": "Advisory Council",
+            "v": "Minimum 5 Advisors (DeMolay International); core minimum of 3 Master Masons in good standing"
+          },
+          {
+            "k": "Chaperones at social events",
+            "v": "At least 2 Advisors for every 5 active members present"
+          },
+          {
+            "k": "Members for the Charter",
+            "v": "A new Chapter operates under Letters Temporary until it has at least 15 Members"
+          },
+          {
+            "k": "Activities per term",
+            "v": "Minimum 3 per category (civic, social, athletic, fundraising) + every Obligatory Day"
+          },
+          {
+            "k": "Committees",
+            "v": "Minimum 3 members; the first named is chairman; only the Membership Committee is mandatory"
+          },
+          {
+            "k": "Balloting",
+            "v": "0-1 black cubes = elected · 2 = lies over · 3 or more = rejected"
+          }
         ]
       },
       {
         "title": "Official contacts",
         "facts": [
-          { "k": "DeMolay International", "v": "Henry E. \"Hank\" Stickney Service & Leadership Center — 10200 NW Ambassador Drive, Kansas City, MO 64153, USA" },
-          { "k": "Toll-free phone", "v": "1-800-DEMOLAY (1-800-336-6529)" },
-          { "k": "Local phone", "v": "(816) 891-8333 · Fax: (816) 891-9062" },
-          { "k": "General email", "v": "demolay@demolay.org" },
-          { "k": "Office hours", "v": "Monday-Friday, 8:30 AM-5:00 PM (US Central Time)" },
-          { "k": "Handbook feedback", "v": "DHBinput@demolay.org" }
+          {
+            "k": "DeMolay International",
+            "v": "Henry E. \"Hank\" Stickney Service & Leadership Center — 10200 NW Ambassador Drive, Kansas City, MO 64153, USA"
+          },
+          {
+            "k": "Toll-free phone",
+            "v": "1-800-DEMOLAY (1-800-336-6529)"
+          },
+          {
+            "k": "Local phone",
+            "v": "(816) 891-8333 · Fax: (816) 891-9062"
+          },
+          {
+            "k": "General email",
+            "v": "demolay@demolay.org"
+          },
+          {
+            "k": "Office hours",
+            "v": "Monday-Friday, 8:30 AM-5:00 PM (US Central Time)"
+          },
+          {
+            "k": "Handbook feedback",
+            "v": "DHBinput@demolay.org"
+          }
         ]
       },
       {
         "title": "Official links",
         "facts": [
-          { "k": "Main site", "v": "demolay.org" },
-          { "k": "eScribe (reports & records)", "v": "eScribe.DeMolay.org" },
-          { "k": "Official store (regalia & jewelry)", "v": "ShopDeMolay.org — the only authorized channel" },
-          { "k": "Leaders Correspondence Course", "v": "BeADeMolay.org/lcc — 5 online courses, free, 24/7" },
-          { "k": "Insurance & certificates", "v": "demolay.org/insurance" },
-          { "k": "Public ceremony texts", "v": "demolay.org/open-ceremonies" },
-          { "k": "Forms (medical/photo release)", "v": "beademolay.org/resources" }
+          {
+            "k": "Main site",
+            "v": "demolay.org"
+          },
+          {
+            "k": "eScribe (reports & records)",
+            "v": "eScribe.DeMolay.org"
+          },
+          {
+            "k": "Official store (regalia & jewelry)",
+            "v": "ShopDeMolay.org — the only authorized channel"
+          },
+          {
+            "k": "Leaders Correspondence Course",
+            "v": "BeADeMolay.org/lcc — 5 online courses, free, 24/7"
+          },
+          {
+            "k": "Insurance & certificates",
+            "v": "demolay.org/insurance"
+          },
+          {
+            "k": "Public ceremony texts",
+            "v": "demolay.org/open-ceremonies"
+          },
+          {
+            "k": "Forms (medical/photo release)",
+            "v": "beademolay.org/resources"
+          }
         ]
       }
     ]

@@ -1,159 +1,160 @@
 {
   "id": "adultos",
   "es": {
-    "title": "Los adultos detrás del Chapter",
-    "subtitle": "Quiénes son, cómo llegan y qué poderes tiene el Advisory Council que acompaña a tu Chapter.",
+    "title": "Los adultos detrás del Capítulo",
+    "subtitle": "Quiénes son, cómo llegan y qué poderes tiene el Consejo Consultivo que acompaña a tu Capítulo.",
     "minutes": 9,
     "lessons": [
       {
         "id": "l1",
-        "title": "El Advisory Council: tu equipo de adultos",
+        "title": "El Consejo Consultivo: tu equipo de adultos",
         "blocks": [
-          { "t": "p", "text": "Detrás de cada Chapter fuerte hay un grupo de adultos voluntarios: el **Advisory Council** (consejo asesor). Sin liderazgo adulto, dice el manual, un Chapter se apaga hasta desaparecer. Pero ojo: el Chapter es tuyo y de tus hermanos; ellos asesoran y cuidan el marco." },
+          { "t": "p", "text": "Detrás de cada **Capítulo** (Chapter) fuerte hay un grupo de adultos voluntarios: el **Consejo Consultivo** (Advisory Council). Sin liderazgo adulto, dice el manual, un Capítulo se apaga hasta desaparecer. Pero ojo: el Capítulo es tuyo y de tus hermanos; ellos asesoran y cuidan el marco." },
           { "t": "list", "items": [
-            "Base obligatoria: al menos **3 Master Masons** (Masones del tercer grado) en good standing.",
-            "Cualquier adulto **mayor de 21 años** puede ser Advisor: madres, padres, docentes, Senior DeMolays, vecinos... no hace falta ser Mason (salvo para el Chairman).",
-            "DeMolay International exige un mínimo de **5 Advisors** en total; con más gente, la carga se reparte mejor.",
-            "El Sponsoring Body (la entidad masónica que patrocina al Chapter) puede recomendar candidatos, pero el nombramiento lo hace el **Executive Officer** de la Jurisdicción.",
+            "Base obligatoria: al menos **3 Maestros Masones** (Master Masons, Masones del tercer grado) en regularidad (good standing).",
+            "Cualquier adulto **mayor de 21 años** puede ser **Consultor** (Advisor): madres, padres, docentes, Sénior DeMolay, vecinos... no hace falta ser Masón (salvo para el Presidente del Consejo Consultivo, el Chairman).",
+            "DeMolay Internacional exige un mínimo de **5 Consultores** en total; con más gente, la carga se reparte mejor.",
+            "El **Cuerpo Patrocinador** (Sponsoring Body, la entidad masónica que patrocina al Capítulo) puede recomendar candidatos, pero el nombramiento lo hace el **Oficial Ejecutivo** (Executive Officer) de la Jurisdicción.",
             "El mandato dura **1 año** y se renueva cada año."
           ] },
-          { "t": "callout", "style": "key", "text": "Fórmula mínima: 3 Master Masons + 5 Advisors en total, todos de 21+ años, nombrados por el Executive Officer por mandatos de 1 año." },
+          { "t": "callout", "style": "key", "text": "Fórmula mínima: 3 Maestros Masones + 5 Consultores en total, todos de 21+ años, nombrados por el Oficial Ejecutivo por mandatos de 1 año." },
           { "t": "p", "text": "Lo que más importa no es cuántos son, sino que **las tareas estén repartidas**: cada uno con algo concreto y nadie cargando todo solo." },
-          { "t": "ref", "text": "Organización y propósito del Advisory Council", "page": "55" }
+          { "t": "ref", "text": "Organización y propósito del Consejo Consultivo", "page": "55" }
         ]
       },
       {
         "id": "l2",
-        "title": "Cómo se llega a ser Advisor (y cómo se sigue siéndolo)",
+        "title": "Cómo se llega a ser Consultor (y cómo se sigue siéndolo)",
         "blocks": [
-          { "t": "p", "text": "Ser Advisor no es solo tener ganas: hay un proceso de selección riguroso pensado para que DeMolay sea un ambiente **seguro** para vos. Para un Advisor nuevo:" },
+          { "t": "p", "text": "Ser Consultor no es solo tener ganas: hay un proceso de selección riguroso pensado para que DeMolay sea un ambiente **seguro** para ti. Para un Consultor nuevo:" },
           { "t": "steps", "items": [
             "Tener al menos **21 años**.",
-            "Registrarse online en **eScribe.DeMolay.org/Sign Up** y pagar la cuota de procesamiento.",
-            "Pasar un **background check** (verificación de antecedentes) que confirma que la persona es apta para trabajar con jóvenes.",
-            "Aprobar el **DeMolay Advisor Training** online, que cubre políticas de risk management y protección juvenil.",
-            "El registro va al **Executive Officer** para su aprobación y luego al **Service & Leadership Center** para el procesamiento (algunas zonas piden formularios extra).",
-            "Recién entonces llegan el carnet de Advisor y el certificate of appointment."
+            "Registrarse en línea en **eScribe.DeMolay.org/Sign Up** y pagar la cuota de procesamiento.",
+            "Pasar una **verificación de antecedentes** (background check) que confirma que la persona es apta para trabajar con jóvenes.",
+            "Aprobar en línea el **DeMolay Advisor Training** (la capacitación para Consultores), que cubre políticas de manejo de riesgos (risk management) y protección juvenil (youth protection).",
+            "El registro va al **Oficial Ejecutivo** para su aprobación y luego al **Centro de Servicio y Liderazgo** (Service & Leadership Center) para el procesamiento (algunas zonas piden formularios extra).",
+            "Recién entonces llegan el carné de Consultor y el certificado de nombramiento."
           ] },
           { "t": "h", "text": "La recertificación anual" },
-          { "t": "p", "text": "Cada año, todo Advisor —nuevo o veterano— completa la **Continuing Advisor Certification**, disponible cada otoño en eScribe: actualizar datos de contacto, responder las preguntas de **youth protection** y pagar la cuota de renovación. Todo lo aprueba el Executive Officer." },
-          { "t": "callout", "style": "warn", "text": "Fecha límite: la certificación anual debe estar recibida online en el Service & Leadership Center antes del 30 de noviembre de cada año. Sin eso, no se emite el carnet del año en curso." },
-          { "t": "p", "text": "Dos datos más: el Executive Officer puede **remover** a cualquier Advisor que no cumpla sus deberes, y cada miembro del Council renueva cada año un voto de lealtad a DeMolay International y al Executive Officer." }
+          { "t": "p", "text": "Certificarse una vez no alcanza. Cada año, todo Consultor —nuevo o veterano— completa la **Continuing Advisor Certification** (la certificación continua de Consultores), disponible cada otoño en eScribe: actualizar datos de contacto, responder las preguntas de **protección juvenil** y pagar la cuota de renovación. Todo lo aprueba el Oficial Ejecutivo." },
+          { "t": "callout", "style": "warn", "text": "Fecha límite: la certificación anual debe estar recibida en línea en el Centro de Servicio y Liderazgo antes del 30 de noviembre de cada año. Sin eso, no se emite el carné del año en curso." },
+          { "t": "p", "text": "Dos datos más: el Oficial Ejecutivo puede **remover** a cualquier Consultor que no cumpla sus deberes, y cada miembro del Consejo renueva cada año un voto de lealtad a DeMolay Internacional y al Oficial Ejecutivo." }
         ]
       },
       {
         "id": "l3",
-        "title": "Los poderes del Council: elecciones, disciplina y reglas",
+        "title": "Los poderes del Consejo: elecciones, disciplina y reglas",
         "blocks": [
-          { "t": "p", "text": "Los deberes del Advisory Council son principalmente **legislativos y judiciales**. Debe reunirse **al menos una vez por mes**, con agenda, procedimiento parlamentario y actas escritas de todo lo tratado. Gobierna las actividades del Chapter siempre que no contradiga los Bylaws de DeMolay International ni las órdenes del Executive Officer." },
+          { "t": "p", "text": "Los deberes del Consejo Consultivo son principalmente **legislativos y judiciales**. Debe reunirse **al menos una vez por mes**, con agenda, procedimiento parlamentario y actas escritas de todo lo tratado. Gobierna las actividades del Capítulo siempre que no contradiga los Estatutos (Bylaws) de DeMolay Internacional ni las órdenes del Oficial Ejecutivo." },
           { "t": "list", "items": [
-            "**Organizarse**: elegir un Chairman (que debe ser Mason), un Chapter Advisor, Treasurer y Scribe, y repartir tareas.",
-            "**Guiar sin manejar**: ayudar a que el Chapter se gobierne solo, no gobernarlo.",
-            "**Regular**: ver que el Chapter opere dentro de los Bylaws y las reglas de DeMolay International.",
-            "**Controlar el presupuesto** y las finanzas del Chapter.",
-            "**Seleccionar al Chapter Scribe y al Treasurer** (los oficiales jóvenes que llevan registros y fondos).",
+            "**Organizarse**: elegir un Presidente (que debe ser Masón), un **Consultor Principal** (Chapter Advisor), un **Tesorero** (Treasurer) y un **Escriba** (Scribe), y repartir tareas.",
+            "**Guiar sin manejar**: ayudar a que el Capítulo se gobierne solo, no gobernarlo.",
+            "**Regular**: ver que el Capítulo opere dentro de los Estatutos y las reglas de DeMolay Internacional.",
+            "**Controlar el presupuesto** y las finanzas del Capítulo.",
+            "**Seleccionar al Escriba y al Tesorero del Capítulo** (los oficiales jóvenes que llevan registros y fondos).",
             "**Empujar el crecimiento**: que nunca se pierda de vista la membresía."
           ] },
           { "t": "h", "text": "Elecciones de nuevos miembros" },
-          { "t": "p", "text": "Ninguna elección de un candidato a los grados o a afiliación queda firme **hasta que el Advisory Council la aprueba**. Y si el Council declara electo a alguien por su cuenta, antes de conferirle un grado debe enviar un informe detallado al Executive Officer para que lo apruebe o rechace." },
+          { "t": "p", "text": "Ninguna elección de un candidato a los grados o a afiliación queda firme **hasta que el Consejo Consultivo la aprueba**. Y si el Consejo declara electo a alguien por su cuenta, antes de conferirle un grado debe enviar un informe detallado al Oficial Ejecutivo para que lo apruebe o rechace." },
           { "t": "h", "text": "Disciplina" },
           { "t": "steps", "items": [
-            "El Council puede remover de la membresía a quien viole la ley de DeMolay o tenga una conducta indigna del Order.",
-            "Primero se notifica al Executive Officer y se entregan cargos formales por escrito al miembro.",
-            "La audiencia debe ser **al menos 30 días** después de la entrega de los cargos; el miembro puede defenderse y ser representado por un familiar o un Master Mason.",
-            "Se realiza en sesión ejecutiva; la decisión va por escrito, firmada por la **mayoría** del Council.",
-            "Nada es definitivo sin la aprobación del Executive Officer, y todo puede apelarse ante DeMolay International, cuya decisión es final."
+            "El Consejo puede remover de la membresía a quien viole la ley de DeMolay o tenga una conducta indigna de la Orden.",
+            "Primero se notifica al Oficial Ejecutivo y se entregan cargos formales por escrito al miembro.",
+            "La audiencia debe ser **al menos 30 días** después de la entrega de los cargos; el miembro puede defenderse y ser representado por un familiar o un Maestro Masón.",
+            "Se realiza en sesión ejecutiva; la decisión va por escrito, firmada por la **mayoría** del Consejo.",
+            "Nada es definitivo sin la aprobación del Oficial Ejecutivo, y todo puede apelarse ante DeMolay Internacional, cuya decisión es final."
           ] },
-          { "t": "callout", "style": "key", "text": "Regla de chaperones: en toda fiesta o evento social del Chapter tiene que haber al menos 2 Advisors por cada 5 miembros activos presentes." },
-          { "t": "callout", "style": "info", "text": "Cualquier Advisor presente puede excluir de una reunión o actividad a cualquier visitante —DeMolay, Senior DeMolay, Master Mason u otra persona— cuya presencia perjudique la paz y armonía del Chapter." }
+          { "t": "callout", "style": "key", "text": "Regla de chaperones: en toda fiesta o evento social del Capítulo tiene que haber al menos 2 Consultores por cada 5 miembros activos presentes." },
+          { "t": "callout", "style": "info", "text": "Cualquier Consultor presente puede excluir de una reunión o actividad a cualquier visitante —DeMolay, Sénior DeMolay, Maestro Masón u otra persona— cuya presencia perjudique la paz y armonía del Capítulo." }
         ]
       },
       {
         "id": "l4",
-        "title": "La plata: el Council como guardián financiero",
+        "title": "El dinero: el Consejo como guardián financiero",
         "blocks": [
-          { "t": "p", "text": "Un Chapter normalmente se **autofinancia**: el Sponsoring Body no asume responsabilidad financiera directa, pero el Council asume la responsabilidad moral de que el Chapter no se endeude, revisando los informes financieros mensuales del Scribe y el Treasurer. Regla práctica: primero conseguí la plata, después comprá." },
+          { "t": "p", "text": "Un Capítulo normalmente se **autofinancia**: el Cuerpo Patrocinador no asume responsabilidad financiera directa, pero el Consejo asume la responsabilidad moral de que el Capítulo no se endeude, revisando los informes financieros mensuales del Escriba y el Tesorero. Regla práctica: primero consigue el dinero, después compra." },
           { "t": "list", "items": [
-            "Los fondos recaudados para DeMolay International (como las Initiation fees) **le pertenecen a DeMolay International**: van en cuenta separada y se pagan en fecha, sin necesidad de voto del Chapter.",
-            "Todo gasto se respalda con recibo y se paga con **cheque** firmado por el Treasurer o el Master Councilor y refrendado por un miembro del Advisory Council. Si el pago es electrónico, todos los aprobadores deben tener acceso de visualización online o recibir copia automática.",
-            "Todo gasto (salvo lo que va a DeMolay International) se aprueba por **voto en una reunión regular** del Chapter.",
-            "**Nunca efectivo** para pagos del Chapter, y los fondos del Chapter no se prestan a nadie.",
-            "Los excedentes pueden invertirse solo si el Chapter lo vota, y cada inversión necesita el voto de **dos tercios de todos los miembros del Advisory Council**, siempre bajo control del Executive Officer."
+            "Los fondos recaudados para DeMolay Internacional (como las tasas de Iniciación) **le pertenecen a DeMolay Internacional**: van en cuenta separada y se pagan en fecha, sin necesidad de voto del Capítulo.",
+            "Todo gasto se respalda con recibo y se paga con **cheque** firmado por el Tesorero o el **Maestre Consejero** (Master Councilor) y refrendado por un miembro del Consejo Consultivo. Si el pago es electrónico, todos los aprobadores deben tener acceso de visualización en línea o recibir copia automática.",
+            "Todo gasto (salvo lo que va a DeMolay Internacional) se aprueba por **voto en una reunión ordinaria** del Capítulo.",
+            "**Nunca efectivo** para pagos del Capítulo, y los fondos del Capítulo no se prestan a nadie.",
+            "Los excedentes pueden invertirse solo si el Capítulo lo vota, y cada inversión necesita el voto de **dos tercios de todos los miembros del Consejo Consultivo**, siempre bajo control del Oficial Ejecutivo."
           ] },
-          { "t": "callout", "style": "warn", "text": "Único regalo permitido con fondos del Chapter: el PMC's jewel para un Master Councilor saliente con desempeño sobresaliente. Nada más. Y antes de pedir fondos a personas ajenas al Chapter, hace falta permiso del Executive Officer." },
-          { "t": "p", "text": "El presupuesto suele prepararlo un comité financiero y lo aprueba el Council, que igual debe aprobar **cada gasto** cuando ocurre y puede ajustar las partidas si los ingresos cambian. Al instalarse cada nuevo Master Councilor, el Council aprueba el informe del comité de auditoría sobre los libros del Treasurer y el Scribe." },
-          { "t": "callout", "style": "warn", "text": "Si el Chapter se atrasa con su Annual Report y otras cuotas a DeMolay International, queda suspendido temporalmente en forma automática; y si esa suspensión por falta de pago llega a los 3 meses, el Charter se pierde automáticamente." },
+          { "t": "callout", "style": "warn", "text": "Único regalo permitido con fondos del Capítulo: la Joya de Past Maestre Consejero (PMC's Jewel) para un Maestre Consejero saliente con desempeño sobresaliente. Nada más. Y antes de pedir fondos a personas ajenas al Capítulo, hace falta permiso del Oficial Ejecutivo." },
+          { "t": "p", "text": "El presupuesto suele prepararlo un comité financiero y lo aprueba el Consejo, que igual debe aprobar **cada gasto** cuando ocurre y puede ajustar las partidas si los ingresos cambian. Al instalarse cada nuevo Maestre Consejero, el Consejo aprueba el informe del comité de auditoría sobre los libros del Tesorero y el Escriba." },
+          { "t": "callout", "style": "warn", "text": "Si el Capítulo se atrasa con su Informe Anual (Annual Report) y otras cuotas a DeMolay Internacional, queda suspendido temporalmente en forma automática; y si esa suspensión por falta de pago llega a los 3 meses, la Carta Constitutiva (Charter) se pierde automáticamente." },
           { "t": "ref", "text": "Detalle completo de las reglas financieras", "page": "61" }
         ]
       },
       {
         "id": "l5",
-        "title": "Chairman y Chapter Advisor: los dos pilares",
+        "title": "Presidente y Consultor Principal: los dos pilares",
         "blocks": [
-          { "t": "h", "text": "Chairman del Advisory Council" },
-          { "t": "p", "text": "El Chairman —que **debe ser Mason**— es como el director técnico del equipo de Advisors: preside el Council, convoca y conduce las reuniones mensuales, delega tareas cuidando que no se superpongan, hace de enlace con el Sponsoring Body y es el **contacto principal del Executive Officer** con el Council. También cuida que el Annual Report se presente a tiempo en eScribe y que los Advisors reciban capacitación continua." },
-          { "t": "h", "text": "Chapter Advisor" },
-          { "t": "p", "text": "Elegir al Chapter Advisor es considerada **la decisión más importante** del Council: el éxito del Chapter depende más de esta persona que de cualquier otro factor. Es el oficial administrativo del Chapter, pero sobre todo un mentor de confianza al que podés acudir con tus problemas. El manual pide que sea \"young at heart\": joven de espíritu, aunque no de años." },
+          { "t": "h", "text": "Presidente del Consejo Consultivo" },
+          { "t": "p", "text": "El Presidente —que **debe ser Masón**— es como el director técnico del equipo de Consultores: preside el Consejo, convoca y conduce las reuniones mensuales, delega tareas cuidando que no se superpongan, hace de enlace con el Cuerpo Patrocinador y es el **contacto principal del Oficial Ejecutivo** con el Consejo. También cuida que el Informe Anual se presente a tiempo en eScribe y que los Consultores reciban capacitación continua." },
+          { "t": "h", "text": "Consultor Principal" },
+          { "t": "p", "text": "Elegir al Consultor Principal es considerada **la decisión más importante** del Consejo: el éxito del Capítulo depende más de esta persona que de cualquier otro factor. Es el oficial administrativo del Capítulo, pero sobre todo un mentor de confianza al que puedes acudir con tus problemas. El manual pide que sea \"young at heart\": joven de espíritu, aunque no de años." },
           { "t": "callout", "style": "info", "text": "Rotación recomendada: 1 o 2 años en el cargo. ¿Por qué? El puesto demanda mucho tiempo, energía y gasto personal, y quien se queda demasiado se \"estanca\" sin ideas nuevas. Mejor dos personas trabajando por DeMolay que una sola eternizada." },
           { "t": "list", "items": [
-            "Asistir a todas las reuniones y actividades (o asegurar que otro Advisor cubra).",
-            "Cuidar que el Chapter funcione según los Bylaws y que el ritual se haga de memoria y bien.",
-            "Sugerir y liderar sin dar órdenes: **el Chapter es de los jóvenes**, y son ellos quienes gobiernan.",
+            "Asistir a todas las reuniones y actividades (o asegurar que otro Consultor cubra).",
+            "Cuidar que el Capítulo funcione según los Estatutos y que el ritual se haga de memoria y bien.",
+            "Sugerir y liderar sin dar órdenes: **el Capítulo es de los jóvenes**, y son ellos quienes gobiernan.",
             "Planificar el programa con un año de anticipación general y un término en detalle.",
-            "Balancear el programa entre lo social, cívico, deportivo, de servicio y de fundraising, y que cada miembro tenga un rol."
+            "Balancear el programa entre lo social, cívico, deportivo, de servicio y de recaudación de fondos, y que cada miembro tenga un rol."
           ] },
-          { "t": "p", "text": "El **Assistant Chapter Advisor** —idealmente un adulto joven o un Senior DeMolay— asiste al Chapter Advisor, lo reemplaza cuando falta y se entrena para sucederlo." }
+          { "t": "p", "text": "El **Consultor Principal Asistente** (Assistant Chapter Advisor) —idealmente un adulto joven o un Sénior DeMolay— asiste al Consultor Principal, lo reemplaza cuando falta y se entrena para sucederlo." }
         ]
       },
       {
         "id": "l6",
         "title": "El resto del equipo: roles especializados",
         "blocks": [
-          { "t": "p", "text": "DeMolay International no impone un esquema fijo: cada Council arma el suyo, un mismo Advisor puede cubrir dos o más funciones, y uno puede actuar como Secretary del Council. Los roles más comunes:" },
+          { "t": "p", "text": "DeMolay Internacional no impone un esquema fijo: cada Consejo arma el suyo, un mismo Consultor puede cubrir dos o más funciones, y uno puede actuar como Secretario del Consejo. Los roles más comunes:" },
           { "t": "cards", "items": [
-            { "title": "Ritual Advisor", "text": "La última edición del Ritual, al pie de la letra. Todo el trabajo de grados va **de memoria** (lo exigen los Bylaws), con suplentes para cada parte y oficiales que prueban su dominio antes de instalarse." },
-            { "title": "Scribe Advisor", "text": "Acompaña al Chapter Scribe: actas, cuotas que pasan al Treasurer, informe financiero mensual e informes como el Annual Report. Al Scribe lo nombra el Council por 1 año; idealmente un PMC o Senior DeMolay." },
-            { "title": "Treasurer / Financial Advisor", "text": "Vela por la salud financiera: cuenta de Life Membership, refrendar cheques, supervisar el fundraising y mantener el saldo bancario mínimo prescripto." },
-            { "title": "Membership Advisor", "text": "Arma con el Master Councilor un plan para sumar miembros, promueve concursos e iniciaciones frecuentes, y lidera la orientación de los nuevos para que no pierdan interés." },
-            { "title": "Awards Advisor", "text": "Domina premios y honores: Merit Bars, Blue Honor Key (primer firmante en 10 solicitudes, más una estrella por cada 10 extra), Representative DeMolay Award y el Chevalier, el honor más alto. Estándares altos, siempre." },
-            { "title": "Masonic & Public Relations Advisor", "text": "Vínculo con el Sponsoring Body y la familia masónica, prensa local, redes y web del Chapter, y el registro histórico." },
-            { "title": "Communications Advisor", "text": "Que la información llegue: roster actualizado, formato consistente y recordatorio a cada miembro y Advisor antes de cada evento. Suma a 2 o más DeMolays al equipo." },
-            { "title": "Activities / Athletics Advisor", "text": "Coordina actividades y deportes para todas las edades y niveles, busca competencia adecuada y alienta a miembros mayores y Senior DeMolays a ser coaches." },
-            { "title": "Civic Service Advisor", "text": "Detecta oportunidades de servicio comunitario y exige **un proyecto de servicio por término**." },
-            { "title": "Fundraising Advisor", "text": "Ayuda a elegir recaudaciones inteligentes, pide reportes en cada paso y verifica que el ingreso justifique el esfuerzo." },
-            { "title": "Social Advisor", "text": "Cuida que el calendario social interese a todas las edades, coordina chaperones y guía costos y locaciones dejando liderar a los miembros. Y que nadie se olvide de divertirse." }
+            { "title": "Consultor de Ritual (Ritual Advisor)", "text": "La última edición del Ritual, al pie de la letra. Todo el trabajo de grados va **de memoria** (lo exigen los Estatutos), con suplentes para cada parte y oficiales que prueban su dominio antes de instalarse." },
+            { "title": "Consultor del Escriba (Scribe Advisor)", "text": "Acompaña al Escriba del Capítulo: actas, cuotas que pasan al Tesorero, informe financiero mensual e informes como el Informe Anual. Al Escriba lo nombra el Consejo por 1 año; idealmente un Past Maestre Consejero (PMC) o un Sénior DeMolay." },
+            { "title": "Consultor de Finanzas (Treasurer / Financial Advisor)", "text": "Vela por la salud financiera: la cuenta de Membresía Vitalicia (Life Membership), refrendar cheques, supervisar la recaudación de fondos y mantener el saldo bancario mínimo prescrito." },
+            { "title": "Consultor de Membresía (Membership Advisor)", "text": "Arma con el Maestre Consejero un plan para sumar miembros, promueve concursos e Iniciaciones frecuentes, y lidera la orientación de los nuevos para que no pierdan interés." },
+            { "title": "Consultor de Premiaciones (Awards Advisor)", "text": "Domina premios y honores: las Barras de Mérito (Merit Bars), la Llave Azul de Honor (Blue Honor Key) —firmante de primera línea en 10 solicitudes, más una estrella por cada 10 extra—, el premio DeMolay Representativo (Representative DeMolay Award) y el Chevalier, el honor más alto. Estándares altos, siempre." },
+            { "title": "Consultor de Relaciones Masónicas y Públicas (Masonic & Public Relations Advisor)", "text": "Vínculo con el Cuerpo Patrocinador y la familia masónica, prensa local, redes y web del Capítulo, y el registro histórico." },
+            { "title": "Consultor de Comunicaciones (Communications Advisor)", "text": "Que la información llegue: lista de miembros actualizada, formato consistente y recordatorio a cada miembro y Consultor antes de cada evento. Suma a 2 o más DeMolay al equipo." },
+            { "title": "Consultor de Actividades y Deportes (Activities / Athletics Advisor)", "text": "Coordina actividades y deportes para todas las edades y niveles, busca competencia adecuada y alienta a miembros mayores y Sénior DeMolay a ser entrenadores." },
+            { "title": "Consultor de Servicio Cívico (Civic Service Advisor)", "text": "Detecta oportunidades de servicio comunitario y exige **un proyecto de servicio por término**." },
+            { "title": "Consultor de Recaudación de Fondos (Fundraising Advisor)", "text": "Ayuda a elegir recaudaciones inteligentes, pide reportes en cada paso y verifica que el ingreso justifique el esfuerzo." },
+            { "title": "Consultor Social (Social Advisor)", "text": "Cuida que el calendario social interese a todas las edades, coordina chaperones y guía costos y locaciones dejando liderar a los miembros. Y que nadie se olvide de divertirse." }
           ] },
-          { "t": "callout", "style": "info", "text": "Nominar honores también es función del Council: Chevalier para DeMolays, Cross of Honor para Advisors y Legion of Honor para Senior DeMolays o Master Masons, todo online en eScribe. Las nominaciones a la Medal of Heroism van al Executive Officer." },
-          { "t": "p", "text": "¿Y qué ganan los Advisors por todo esto? Nada material. Como dice el manual: \"The rewards of life can't be counted in honors or dollars, but rather in the eyes of those you have served!\" — las recompensas no se cuentan en honores ni dólares, sino en los ojos de quienes serviste." },
-          { "t": "ref", "text": "Listado completo de roles y deberes de cada Advisor", "page": "64" }
+          { "t": "callout", "style": "info", "text": "Nominar honores también es función del Consejo: el Chevalier para los DeMolay, la Cruz de Honor (Cross of Honor) para Consultores y la Legión de Honor (Legion of Honor) para Sénior DeMolay o Maestros Masones, todo en línea en eScribe. Las nominaciones a la Medalla al Heroísmo (Medal of Heroism) van al Oficial Ejecutivo." },
+          { "t": "callout", "style": "info", "text": "Nota cultural: en Estados Unidos a los Consultores se les dice \"Dad\" y a las madres del Club \"Mom\". En Bolivia se los llama \"Tíos\" y \"Tías\"." },
+          { "t": "p", "text": "¿Y qué ganan los Consultores por todo esto? Nada material. Como dice el manual: \"The rewards of life can't be counted in honors or dollars, but rather in the eyes of those you have served!\" — las recompensas no se cuentan en honores ni dólares, sino en los ojos de quienes serviste." },
+          { "t": "ref", "text": "Listado completo de roles y deberes de cada Consultor", "page": "64" }
         ]
       }
     ],
     "quiz": [
       {
-        "q": "¿Cuál es la composición mínima de un Advisory Council?",
+        "q": "¿Cuál es la composición mínima de un Consejo Consultivo?",
         "options": [
-          "Al menos 3 Master Masons y un total de 5 Advisors",
-          "Al menos 5 Master Masons y un total de 3 Advisors",
-          "Al menos 2 Master Masons y un total de 4 Advisors",
-          "Cualquier cantidad de adultos, mientras haya un Chairman"
+          "Al menos 3 Maestros Masones y un total de 5 Consultores",
+          "Al menos 5 Maestros Masones y un total de 3 Consultores",
+          "Al menos 2 Maestros Masones y un total de 4 Consultores",
+          "Cualquier cantidad de adultos, mientras haya un Presidente"
         ],
         "correct": 0,
-        "explain": "La base obligatoria son al menos 3 Master Masons en good standing, y DeMolay International requiere un mínimo de 5 Advisors en total."
+        "explain": "La base obligatoria son al menos 3 Maestros Masones en regularidad, y DeMolay Internacional requiere un mínimo de 5 Consultores en total."
       },
       {
-        "q": "¿Quién hace el nombramiento oficial de los Advisors?",
+        "q": "¿Quién hace el nombramiento oficial de los Consultores?",
         "options": [
-          "El Sponsoring Body del Chapter",
-          "El Executive Officer de la Jurisdicción",
-          "El Master Councilor con voto del Chapter",
-          "DeMolay International directamente"
+          "El Cuerpo Patrocinador del Capítulo",
+          "El Oficial Ejecutivo de la Jurisdicción",
+          "El Maestre Consejero con voto del Capítulo",
+          "DeMolay Internacional directamente"
         ],
         "correct": 1,
-        "explain": "El Sponsoring Body puede recomendar candidatos, pero quien nombra a los Advisors es siempre el Executive Officer."
+        "explain": "El Cuerpo Patrocinador puede recomendar candidatos, pero quien nombra a los Consultores es siempre el Oficial Ejecutivo."
       },
       {
-        "q": "¿Cuánto dura el mandato de un Advisor?",
+        "q": "¿Cuánto dura el mandato de un Consultor?",
         "options": [
           "1 año, renovable cada año",
           "2 años fijos",
@@ -161,10 +162,10 @@
           "5 años, con revisión a mitad de mandato"
         ],
         "correct": 0,
-        "explain": "El término es de 1 año y debe renovarse anualmente mediante la recertificación que aprueba el Executive Officer."
+        "explain": "El mandato es de 1 año y debe renovarse anualmente mediante la recertificación que aprueba el Oficial Ejecutivo."
       },
       {
-        "q": "¿Antes de qué fecha debe estar completada la certificación anual de los Advisors que continúan?",
+        "q": "¿Antes de qué fecha debe estar completada la certificación anual de los Consultores que continúan?",
         "options": [
           "El 30 de septiembre",
           "El 31 de diciembre",
@@ -172,10 +173,10 @@
           "El 1 de marzo"
         ],
         "correct": 2,
-        "explain": "La Continuing Advisor Certification debe recibirse online en el Service & Leadership Center antes del 30 de noviembre; sin eso no se emite el carnet del año."
+        "explain": "La Continuing Advisor Certification debe recibirse en línea en el Centro de Servicio y Liderazgo antes del 30 de noviembre; sin eso no se emite el carné del año."
       },
       {
-        "q": "En un evento social con 15 miembros activos presentes, ¿cuántos Advisors como mínimo debe haber?",
+        "q": "En un evento social con 15 miembros activos presentes, ¿cuántos Consultores como mínimo debe haber?",
         "options": [
           "2",
           "3",
@@ -183,10 +184,10 @@
           "15"
         ],
         "correct": 2,
-        "explain": "La regla es al menos 2 Advisors por cada 5 miembros activos: con 15 miembros, son 6 Advisors como mínimo."
+        "explain": "La regla es al menos 2 Consultores por cada 5 miembros activos: con 15 miembros, son 6 Consultores como mínimo."
       },
       {
-        "q": "¿Con qué frecuencia mínima debe reunirse el Advisory Council?",
+        "q": "¿Con qué frecuencia mínima debe reunirse el Consejo Consultivo?",
         "options": [
           "Una vez por semana",
           "Al menos una vez por mes",
@@ -194,23 +195,23 @@
           "Solo cuando hay temas disciplinarios"
         ],
         "correct": 1,
-        "explain": "El Council debe reunirse al menos una vez al mes y dejar registro escrito completo de cada reunión."
+        "explain": "El Consejo debe reunirse al menos una vez al mes y dejar registro escrito completo de cada reunión."
       },
       {
-        "q": "¿Qué requisito especial tiene el Chairman del Advisory Council?",
+        "q": "¿Qué requisito especial tiene el Presidente del Consejo Consultivo?",
         "options": [
-          "Debe ser Senior DeMolay",
+          "Debe ser Sénior DeMolay",
           "Debe tener al menos 30 años",
-          "Debe ser el Advisor con más antigüedad",
-          "Debe ser Mason"
+          "Debe ser el Consultor con más antigüedad",
+          "Debe ser Masón"
         ],
         "correct": 3,
-        "explain": "Al organizarse, el Council elige un Chairman que debe ser Mason; es el contacto principal del Executive Officer con el Council."
+        "explain": "Al organizarse, el Consejo elige un Presidente que debe ser Masón; es el contacto principal del Oficial Ejecutivo con el Consejo."
       },
       {
-        "q": "Según las reglas que cuida el Ritual Advisor, ¿cómo debe presentarse el trabajo de grados?",
+        "q": "Según las reglas que cuida el Consultor de Ritual, ¿cómo debe presentarse el trabajo de grados?",
         "options": [
-          "Todo de memoria, como exigen los Bylaws de DeMolay International",
+          "Todo de memoria, como exigen los Estatutos de DeMolay Internacional",
           "Leído, para evitar errores en las ceremonias",
           "De memoria solo los papeles principales",
           "Como lo prefiera cada oficial"

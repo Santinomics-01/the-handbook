@@ -1,24 +1,24 @@
 {
   "id": "reclutamiento",
   "es": {
-    "title": "Reclutamiento: el Chapter se renueva o se apaga",
-    "subtitle": "Cómo encontrar candidatos, organizar una Friendship Night que funcione y cerrar el trato sin que nadie quede afuera por falta de invitación.",
+    "title": "Reclutamiento: el Capítulo se renueva o se apaga",
+    "subtitle": "Cómo encontrar candidatos, organizar una Friendship Night que funcione y cerrar el trato sin que ningún joven elegible quede afuera por falta de invitación.",
     "minutes": 11,
     "lessons": [
       {
         "id": "l1",
         "title": "Por qué reclutar no es opcional",
         "blocks": [
-          {"t": "p", "text": "En DeMolay nadie se queda para siempre. La membresía activa dura como máximo **9 años**, pero en la práctica el promedio es de **3 a 4 años**: el que entra a los 14 termina el secundario a los 18 y, entre la universidad y el trabajo, deja de estar disponible para el Chapter."},
-          {"t": "callout", "style": "key", "text": "Planificá asumiendo que **prácticamente todo el Chapter se renueva cada 3 años**. Si hoy no estás reclutando, en tres años no hay Chapter."},
-          {"t": "p", "text": "Por eso, además de vivir las enseñanzas de DeMolay, cada miembro asume un compromiso concreto: traer un **mínimo de 2 nuevos miembros por año**. Uno reemplaza tu propia salida (que tarde o temprano llega) y el otro hace crecer el Chapter. Reponer bajas no alcanza: para crecer hay que ofrecerle la oportunidad a cada joven elegible de la comunidad."},
+          {"t": "p", "text": "En DeMolay nadie se queda para siempre. La membresía activa dura como máximo **9 años**, pero en la práctica el promedio es de **3 a 4 años**: el que entra a los 14 termina la secundaria a los 18 y, entre la universidad y el trabajo, deja de estar disponible para el Capítulo (Chapter)."},
+          {"t": "callout", "style": "key", "text": "Planifica asumiendo que **prácticamente todo el Capítulo se renueva cada 3 años**. Si hoy no estás reclutando, en tres años no hay Capítulo."},
+          {"t": "p", "text": "Por eso, además de vivir las enseñanzas de DeMolay, cada miembro asume un compromiso concreto: traer un **mínimo de 2 nuevos miembros por año**. Uno reemplaza tu propia salida (que tarde o temprano llega) y el otro hace crecer el Capítulo. Reponer bajas no basta: para crecer hay que ofrecerle la oportunidad a cada joven elegible de la comunidad."},
           {"t": "list", "items": [
-            "**Quién puede unirse:** cualquier joven que haya cumplido **12 años** y no haya llegado a los **21**, de buen carácter moral, recomendado por un DeMolay activo, un Senior DeMolay o un Master Mason.",
+            "**Quién puede unirse:** cualquier joven que haya cumplido **12 años** y no haya llegado a los **21**, de buen carácter moral, recomendado por un DeMolay activo, un Sénior DeMolay (Senior DeMolay) o un Maestro Masón (Master Mason).",
             "La membresía **NO** está limitada a hijos o parientes de masones.",
-            "La application (solicitud de ingreso) se completa online, incluye el consentimiento de los padres o tutores y la recomendación de al menos un miembro del Chapter, Senior DeMolay o Master Mason."
+            "La Solicitud de Membresía (Membership Application) se completa online, incluye el consentimiento de los padres o tutores y la recomendación de al menos un miembro del Capítulo, un Sénior DeMolay o un Maestro Masón."
           ]},
-          {"t": "p", "text": "El trabajo no se hace a los tumbos: el **Membership Committee** (comité de membresía) es uno de los comités permanentes que las Rules & Regulations —el reglamento de DeMolay International— exigen a todo Chapter. Y hay una vara muy simple para medir el éxito: que ningún joven elegible de tu zona pueda responder «nadie me invitó» cuando le pregunten por qué no es DeMolay."},
-          {"t": "ref", "text": "La base del crecimiento del Chapter, en detalle", "page": "6"}
+          {"t": "p", "text": "Este trabajo no se improvisa: el **Comité de Membresía** (Membership Committee) es uno de los comités permanentes que las Rules & Regulations —el reglamento de DeMolay Internacional (DeMolay International)— exigen a todo Capítulo. Y hay una vara muy simple para medir el éxito: que ningún joven elegible de tu zona pueda responder «nadie me invitó» cuando le pregunten por qué no es DeMolay activo."},
+          {"t": "ref", "text": "La base del crecimiento del Capítulo, en detalle", "page": "6"}
         ]
       },
       {
@@ -27,17 +27,17 @@
         "blocks": [
           {"t": "p", "text": "Reclutar «a ojo» no funciona. Lo primero es armar, con método, una lista de **todos** los elegibles de tu zona. Estas son las fuentes que el Handbook recomienda trabajar:"},
           {"t": "list", "items": [
-            "Directores de escuelas medias y secundarias (incluidas las charter schools) y los yearbooks escolares",
-            "Church Youth Directors y docentes de catequesis o Sunday School",
-            "Master Masons y secretarios de cuerpos masónicos locales (pueden revisar sus padrones buscando hijos en edad DeMolay)",
-            "Scoutmasters, secretarios y directores de juventud de la YMCA, directores de boys' clubs",
-            "Squires Manor: los Squires que crecen deberían pasar naturalmente a DeMolay… pero igual alguien tiene que invitarlos",
-            "Miembros nuevos (apenas entran, que anoten a todos sus amigos elegibles), miembros veteranos, Senior DeMolays, padres y el boca a boca"
+            "Directores de escuelas medias y secundarias (incluidas las charter schools) y los anuarios escolares (yearbooks)",
+            "Directores de juventud de las iglesias (Church Youth Directors) y docentes de catequesis o Sunday School",
+            "Maestros Masones y secretarios de cuerpos masónicos locales (pueden revisar sus padrones buscando hijos en edad DeMolay)",
+            "Jefes scouts (Scoutmasters), secretarios y directores de juventud de la YMCA, directores de clubes de varones (boys' clubs)",
+            "El Castillo (Manor) de la Orden de Escuderos (Squires of the Round Table): los Escuderos que crecen deberían pasar naturalmente a DeMolay… pero igual alguien tiene que invitarlos",
+            "Miembros nuevos (apenas entran, que anoten a todos sus amigos elegibles), miembros veteranos, Sénior DeMolay, padres y el boca a boca"
           ]},
-          {"t": "p", "text": "Tres trucos con números exactos: cada vez que el Chapter ejemplifica un Degree, pedile a cada Mason presente que anote un **mínimo de 2 nombres** con datos de contacto; los Chapter Advisors pueden repetir ese pedido **cada 6 meses** en sus organizaciones masónicas; y **cada 3 o 4 meses**, en reunión de Chapter, que todos escriban su lista de potenciales. A los chicos de **10 y 11 años** no los saltees: anotalos como futuros Squires o para contactarlos cuando cumplan 12."},
+          {"t": "p", "text": "Tres trucos con números exactos: cada vez que el Capítulo ejemplifica un Grado (Degree), pídele a cada Maestro Masón presente que anote un **mínimo de 2 nombres** con datos de contacto; los Consultores Principales (Chapter Advisors) pueden repetir ese pedido **cada 6 meses** en sus organizaciones masónicas; y **cada 3 o 4 meses**, en reunión del Capítulo, que todos escriban su lista de potenciales. A los chicos de **10 y 11 años** no los saltes: anótalos como futuros Escuderos o para contactarlos cuando cumplan 12."},
           {"t": "h", "text": "La cuenta del pool"},
-          {"t": "p", "text": "¿«DeMolay no es para cualquiera»? Hacé la cuenta del Handbook: una escuela promedio de **500** estudiantes → la mitad son varones: **250** → descartá la mitad (deportes, trabajo, no encajan): **125** → cortá a la mitad una vez más, por las dudas: **62,5**. Te quedan **62 candidatos para invitar en una sola escuela**. Si viene el 10%, son 6,2 personas en tu evento; incluso con el 5% son 3,1 potenciales miembros."},
-          {"t": "p", "text": "Ahora sacá el teléfono: anotá a **todos** los varones no-DeMolay de **10 a 20 años** de tus contactos. No solo a los que «creés que se sumarían»: a todos. Como dijo Wayne Gretzky, citado por el propio Handbook: \"You miss 100% of the shots you never take\". Si no invitás, la respuesta ya es no."},
+          {"t": "p", "text": "¿«DeMolay no es para cualquiera»? Haz la cuenta del Handbook: una escuela promedio de **500** estudiantes → la mitad son varones: **250** → descarta la mitad (deportes, trabajo, no encajan): **125** → corta a la mitad una vez más, por las dudas: **62,5**. Te quedan **62 candidatos para invitar en una sola escuela**. Si viene el 10%, son 6,2 personas en tu evento; incluso con el 5% son 3,1 potenciales miembros."},
+          {"t": "p", "text": "Ahora saca el teléfono: anota a **todos** los varones no-DeMolay de **10 a 20 años** de tus contactos. No solo a los que «crees que se sumarían»: a todos. Como dijo Wayne Gretzky, citado por el propio Handbook: \"You miss 100% of the shots you never take\". Si no invitas, la respuesta ya es no."},
           {"t": "callout", "style": "info", "text": "Vas a escuchar muchos «no», y está bien: es parte del proceso. Cada «no» te deja más cerca del próximo «sí»."}
         ]
       },
@@ -45,61 +45,61 @@
         "id": "l3",
         "title": "Friendship Night: el método que funciona",
         "blocks": [
-          {"t": "p", "text": "Llamalo **Friendship Night**, Get Acquainted Night, Guys Night Out o Game Night: el evento para potenciales miembros sigue siendo **la forma más efectiva de sumar gente a DeMolay**. Pone a todo el Chapter a trabajar por un objetivo común y concentra la energía de reclutamiento en fechas puntuales, dejando tiempo para el resto del programa."},
-          {"t": "p", "text": "El programa de membresía se planifica a un año vista, con fechas concretas para cada clase de nuevos miembros: **mínimo 2 meses entre clases y máximo 3 o 4**. Ese ritmo da tiempo a desarrollar la clase y votar las applications, sin que la campaña se arrastre y los candidatos pierdan el entusiasmo."},
+          {"t": "p", "text": "Llámalo **Friendship Night**, Get Acquainted Night, Guys Night Out o Game Night: el evento para potenciales miembros sigue siendo **la forma más efectiva de sumar gente a DeMolay**. Pone a todo el Capítulo a trabajar por un objetivo común y concentra la energía de reclutamiento en fechas puntuales, dejando tiempo para el resto del programa."},
+          {"t": "p", "text": "El programa de membresía se planifica a un año vista, con fechas concretas para cada clase de nuevos miembros: **mínimo 2 meses entre clases y máximo 3 o 4**. Ese ritmo da tiempo a desarrollar la clase y votar las solicitudes, sin que la campaña se arrastre y los candidatos pierdan el entusiasmo."},
           {"t": "h", "text": "Dos meses antes"},
           {"t": "steps", "items": [
-            "Reuní al Membership Committee **unos 2 meses antes** de la fecha del evento.",
+            "Reúne al Comité de Membresía **unos 2 meses antes** de la fecha del evento.",
             "Definan dónde y cuándo se hace.",
             "Planeen la publicidad anticipada.",
             "Acuerden el método para juntar nombres de candidatos y amigos.",
             "Armen el programa del evento, incluido el envío de invitaciones.",
-            "Descarguen la presentación \"Open House\" en PowerPoint del sitio de DeMolay International y completala con los datos de tu Chapter."
+            "Descarguen la presentación \"Open House\" en PowerPoint del sitio de DeMolay Internacional y complétenla con los datos de su Capítulo."
           ]},
-          {"t": "p", "text": "Las invitaciones se mandan **2 semanas antes** del evento, idealmente con un folleto promocional de DeMolay International. A los pocos días, llamalo: ¿recibió la invitación? ¿viene? ¿necesita que lo pasen a buscar? Si van a invitar a los padres, se les prepara una carta similar."},
+          {"t": "p", "text": "Las invitaciones se mandan **2 semanas antes** del evento, idealmente con un folleto promocional de DeMolay Internacional. A los pocos días, llámalo: ¿recibió la invitación? ¿viene? ¿necesita que lo recojan? Si van a invitar a los padres, se les prepara una carta similar."},
           {"t": "h", "text": "El día del evento"},
-          {"t": "p", "text": "Trato V.I.P. de punta a punta: que un miembro lo reciba en la puerta y sea su anfitrión toda la noche, name tags para cada invitado, un tour rápido, presentaciones con miembros y Advisors, y si se puede, comida. Después de la bienvenida, el grupo se divide: **los padres pasan a otra sala con su propio programa**, porque lo que necesitan escuchar ellos no es lo mismo que les interesa a los chicos."},
+          {"t": "p", "text": "Trato V.I.P. de punta a punta: que un miembro lo reciba en la puerta y sea su anfitrión toda la noche, credenciales con el nombre (name tags) para cada invitado, un tour rápido, presentaciones con miembros y Consultores (Advisors; en Bolivia se les dice «Tíos» y a las madres del Club, «Tías») y, si se puede, comida. Después de la bienvenida, el grupo se divide: **los padres pasan a otra sala con su propio programa**, porque lo que necesitan escuchar ellos no es lo mismo que les interesa a los chicos."},
           {"t": "table", "headers": ["A los padres", "A los candidatos"], "rows": [
             ["El valor de DeMolay para ellos y sus hijos", "Cómo se hace para unirse"],
             ["Ideales y propósitos de la Orden", "Amigos, comida y diversión: lo que DeMolay ofrece"],
-            ["Programas del Chapter, costo de ingreso y becas", "Actividades del Chapter que coincidan con sus intereses"],
-            ["Youth protection (protección juvenil) y todas sus preguntas", "Completar la Membership Application ahí mismo"]
+            ["Programas del Capítulo, costo de ingreso y becas", "Actividades del Capítulo que coincidan con sus intereses"],
+            ["Protección juvenil (Youth Protection) y todas sus preguntas", "Completar la Solicitud de Membresía ahí mismo"]
           ]},
-          {"t": "callout", "style": "warn", "text": "**NO invites a un candidato a una stated meeting** (la reunión formal de negocios) como primera experiencia DeMolay. Primero mostrale que DeMolay es divertido. El Handbook lo dice dos veces de tan importante que es."},
-          {"t": "ref", "text": "El paso a paso completo del Membership Event", "page": "10"}
+          {"t": "callout", "style": "warn", "text": "**NO invites a un candidato a una reunión ordinaria (stated meeting)**, la reunión formal de negocios, como primera experiencia DeMolay. Primero muéstrale que DeMolay es divertido. El Handbook lo dice dos veces de tan importante que es."},
+          {"t": "ref", "text": "El paso a paso completo del Evento de Membresía (Membership Event)", "page": "10"}
         ]
       },
       {
         "id": "l4",
         "title": "Las cartas modelo y la visita de los 3-5 días",
         "blocks": [
-          {"t": "p", "text": "El Handbook trae dos cartas modelo. La **carta al candidato** lo invita al evento con fecha, hora y lugar, le cuenta que **un miembro del Chapter lo recomendó personalmente**, menciona al sponsoring body (la institución masónica que patrocina al Chapter) y las actividades sociales, deportivas y de servicio. Lleva datos de RSVP y las firmas del **Master Councilor** (el presidente juvenil del Chapter) y del **Membership Chairman**."},
-          {"t": "p", "text": "La **carta a los padres** la firma el **Chapter Advisor**. Les habla de las tres libertades fundamentales que DeMolay defiende —**Religion** (el libro sagrado de su elección), **Civil** (la bandera nacional) e **Intellectual** (los libros de estudio)— y aclara el costo de la **lifetime membership**: se paga una sola vez y no se cobran más cuotas, nunca. Ojo: como único contacto es venta blanda; funciona mucho mejor como complemento del contacto personal y seguida de una llamada. Además, tras el primer contacto con el candidato, conviene que un Advisor llame a los padres con material informativo."},
-          {"t": "h", "text": "El follow-up que cierra"},
-          {"t": "p", "text": "Haya firmado o no en el evento, cada candidato completa una **information card**: nombre, dirección, edad, teléfono, email y un espacio para observaciones. Esa ficha es tu guía para el seguimiento."},
+          {"t": "p", "text": "El Handbook trae dos cartas modelo. La **carta al candidato** lo invita al evento con fecha, hora y lugar, le cuenta que **un miembro del Capítulo lo recomendó personalmente**, menciona al Cuerpo Patrocinador (Sponsoring Body) —la institución masónica que patrocina al Capítulo— y las actividades sociales, deportivas y de servicio. Lleva datos de RSVP y las firmas del **Maestre Consejero** (Master Councilor; el líder juvenil electo del Capítulo) y del **Presidente del Comité de Membresía** (Membership Chairman)."},
+          {"t": "p", "text": "La **carta a los padres** la firma el **Consultor Principal**. Les habla de las tres libertades fundamentales que DeMolay defiende —**Religiosa** (el libro sagrado de su elección), **Civil** (la bandera nacional) e **Intelectual** (los libros de estudio)— y aclara el costo de la **Membresía Vitalicia** (Life Membership): se paga una sola vez y no se cobran más cuotas, nunca. Ojo: como único contacto es venta blanda; funciona mucho mejor como complemento del contacto personal y seguida de una llamada. Además, tras el primer contacto con el candidato, conviene que un Consultor llame a los padres con material informativo."},
+          {"t": "h", "text": "El seguimiento que cierra"},
+          {"t": "p", "text": "Haya firmado o no en el evento, cada candidato completa una **ficha de información** (information card): nombre, dirección, edad, teléfono, email y un espacio para observaciones. Esa ficha es tu guía para el seguimiento."},
           {"t": "steps", "items": [
-            "Repasá la information card y lo que el Chapter observó durante su visita.",
-            "Dentro de los **3 a 5 días** posteriores al evento, visitalo en su casa.",
-            "Andá en **equipos de 2**, con cortesía y bien vestidos.",
-            "Llevá Membership Applications y materiales: brochures, el term plan (el plan de actividades del término), la lista de teléfonos del Chapter y todo lo que ayude a convencerlo."
+            "Repasa la ficha de información y lo que el Capítulo observó durante su visita.",
+            "Dentro de los **3 a 5 días** posteriores al evento, visítalo en su casa.",
+            "Anda en **equipos de 2**, con cortesía y bien vestidos.",
+            "Lleva Solicitudes de Membresía y materiales: folletos, el plan de actividades del término (term plan), la lista de teléfonos del Capítulo y todo lo que ayude a convencerlo."
           ]},
-          {"t": "p", "text": "Otra vía probada son las **appreciation classes**: clases especiales de iniciación en honor a la masonería o a un líder masónico (el head del Sponsoring Body, el Grand Master de la Grand Lodge), con una meta numérica realista y competencia entre equipos con premios para los que consigan más applications. Los que no aplicaron quedan en una lista de seguimiento para contactarlos más adelante: ese nombre de hoy puede ser el miembro del año que viene."}
+          {"t": "p", "text": "Otra vía probada son las **clases de apreciación** (appreciation classes): clases especiales de iniciación en honor a la masonería o a un líder masónico —la cabeza del Cuerpo Patrocinador, el Gran Maestre (Grand Master) de la Gran Logia—, con una meta numérica realista y competencia entre equipos con premios para los que consigan más solicitudes. Los que no presentaron su solicitud quedan en una lista de seguimiento para contactarlos más adelante: ese nombre de hoy puede ser el miembro del año que viene."}
         ]
       },
       {
         "id": "l5",
         "title": "Tu elevator pitch y las Five Fs",
         "blocks": [
-          {"t": "p", "text": "Alguien ve tu remera y pregunta: «¿qué es DeMolay?». Si arrancás con la definición de manual —«una organización de liderazgo y formación del carácter para…»— lo perdiste. Tu **elevator pitch** dura lo que un viaje corto de ascensor: **20 a 30 segundos**. Contá una historia real y divertida de tu Chapter: «DeMolay es donde un grupo de amigos se junta y arma eventos como…». Porque todos escuchan la misma radio: **WIIFM** (What's In It For Me, «¿qué hay para mí?»). Lo demás es ruido."},
-          {"t": "callout", "style": "key", "text": "Si ves aunque sea un gesto de interés, **pedile el contacto antes de que se baje del ascensor**. Y cuando invites, sé específico: día, hora y lugar. Nunca para hoy ni para dentro de una hora: dale tiempo a pedir permiso a sus padres. Recordáselo unos días antes y ofrecele que lo pasen a buscar."},
-          {"t": "h", "text": "Five Fs of Conversation"},
-          {"t": "p", "text": "Hablar con alguien que recién conocés no es fácil. Arrancá con la mano extendida y tu nombre: el 99% de las veces te va a dar la mano y decirte el suyo. **Memorizá su nombre y repetíselo** en la conversación («Mirá, Jack, a mí también me gusta eso»). Después, recorré las cinco F:"},
+          {"t": "p", "text": "Alguien ve tu polera y pregunta: «¿qué es DeMolay?». Si empiezas con la definición de manual —«una organización de liderazgo y formación del carácter para…»— lo perdiste. Tu **elevator pitch** (discurso de ascensor) dura lo que un viaje corto de ascensor: **20 a 30 segundos**. Cuenta una historia real y divertida de tu Capítulo: «DeMolay es donde un grupo de amigos se junta y arma eventos como…». Porque todos escuchan la misma radio: **WIIFM** (What's In It For Me, «¿qué hay para mí?»). Lo demás es ruido."},
+          {"t": "callout", "style": "key", "text": "Si ves aunque sea un gesto de interés, **pídele el contacto antes de que se baje del ascensor**. Y cuando invites, sé específico: día, hora y lugar. Nunca para hoy ni para dentro de una hora: dale tiempo a pedir permiso a sus padres. Recuérdaselo unos días antes y ofrécele que lo recojan."},
+          {"t": "h", "text": "Las Five Fs de la conversación"},
+          {"t": "p", "text": "Hablar con alguien que recién conoces no es fácil. Empieza con la mano extendida y tu nombre: el 99% de las veces te va a dar la mano y decirte el suyo. **Memoriza su nombre y repíteselo** en la conversación («Mira, Jack, a mí también me gusta eso»). Después, recorre las cinco F:"},
           {"t": "cards", "items": [
-            {"title": "From", "text": "Todos son de algún lado y tienen una historia sobre su ciudad. No te quedes en «ah, qué bueno»: repreguntá y seguí el hilo."},
-            {"title": "Favorites", "text": "Tema inagotable. ¿Hay pizza en el bowling? Preguntá su pizza favorita, sus toppings, por qué."},
-            {"title": "Friends/Family", "text": "Lo familiar da confianza: cuántos hermanos tiene, a qué escuela van, si hacen deporte. Y de nuevo: repreguntá."},
-            {"title": "Firsts", "text": "Usá la escena: «¿cuándo fue la primera vez que viniste a bowling?», «¿te acordás de tu primer strike?»."},
-            {"title": "Fun", "text": "El cierre de oro: «¿y vos qué hacés para divertirte?». De ahí salen películas, juegos, intereses… seguí la corriente y divertite vos también."}
+            {"title": "From", "text": "Todos son de algún lado y tienen una historia sobre su ciudad. No te quedes en «ah, qué bueno»: repregunta y sigue el hilo."},
+            {"title": "Favorites", "text": "Tema inagotable. ¿Hay pizza en el bowling? Pregunta su pizza favorita, sus toppings, por qué."},
+            {"title": "Friends/Family", "text": "Lo familiar da confianza: cuántos hermanos tiene, a qué escuela van, si hacen deporte. Y de nuevo: repregunta."},
+            {"title": "Firsts", "text": "Usa la escena: «¿cuándo fue la primera vez que viniste al bowling?», «¿te acuerdas de tu primer strike?»."},
+            {"title": "Fun", "text": "El cierre de oro: «¿y tú qué haces para divertirte?». De ahí salen películas, juegos, intereses… sigue la corriente y diviértete tú también."}
           ]},
           {"t": "callout", "style": "warn", "text": "No preguntes por «firsts» que no vengan al caso de la conversación o la situación. Queda pésimo."},
           {"t": "p", "text": "Son arranques de conversación, no la conversación entera: el objetivo es que el otro se suelte. Y sirven con cualquiera: candidatos, padres, invitados o futuros voluntarios."},
@@ -108,44 +108,44 @@
       },
       {
         "id": "l6",
-        "title": "Pedile que se una (y no lo sueltes después)",
+        "title": "Pídele que se una (y no lo sueltes después)",
         "blocks": [
-          {"t": "p", "text": "Lo trajiste al evento, la está pasando bien con tu grupo. ¿Y ahora? **Cerrá el trato: pedile que se una.** Si no hacés la pregunta, nunca vas a tener la respuesta. Para tantear el terreno usá preguntas de cierre abiertas: «¿qué te pareció?», «¿qué pensás hasta acá?»."},
+          {"t": "p", "text": "Lo trajiste al evento, la está pasando bien con tu grupo. ¿Y ahora? **Cierra el trato: pídele que se una.** Si no haces la pregunta, nunca vas a tener la respuesta. Para tantear el terreno usa preguntas de cierre abiertas: «¿qué te pareció?», «¿qué piensas hasta ahora?»."},
           {"t": "list", "items": [
-            "**Te lo pregunta él directamente** → pedile que se una.",
-            "**Pregunta cuánto cuesta la membresía** → pedile que se una.",
-            "**Pide más información** → pedile que se una.",
-            "**Muestra interés genuino en el programa** → pedile que se una."
+            "**Te lo pregunta él directamente** → pídele que se una.",
+            "**Pregunta cuánto cuesta la membresía** → pídele que se una.",
+            "**Pide más información** → pídele que se una.",
+            "**Muestra interés genuino en el programa** → pídele que se una."
           ]},
-          {"t": "p", "text": "Cuando dice que sí, arranca la etapa **más importante: follow up, follow up, follow up**. Una vez presentada la Membership Application, seguila de cerca: no pueden pasar meses sin la entrevista ni la votación. Si el proceso se estira, mantenelo informado: de eso depende que siga interesado. Y recordale el **Initiatory Degree** (su ceremonia de iniciación) semanas y días antes, ofrecele transporte… ¡que no se te pierda en el camino!"},
-          {"t": "h", "text": "El Membership Checklist"},
-          {"t": "p", "text": "El Handbook trae un checklist completo para que nada quede librado al azar:"},
-          {"t": "table", "headers": ["Área", "Qué tenés que asegurar"], "rows": [
-            ["Organización", "Releer el capítulo de Membership del Handbook, reunirte con el Membership Committee (si no está activo, hablá con el Chapter Advisor y el Master Councilor para reactivarlo) e inventariar materiales: applications, brochures, material de marketing."],
+          {"t": "p", "text": "Cuando dice que sí, arranca la etapa **más importante: follow up, follow up, follow up**. Una vez presentada la Solicitud de Membresía, síguela de cerca: no pueden pasar meses sin la entrevista ni la votación. Si el proceso se estira, mantenlo informado: de eso depende que siga interesado. Y recuérdale el **Grado Iniciático** (Initiatory Degree) —su ceremonia de Iniciación— semanas y días antes, ofrécele transporte… ¡que no se te pierda en el camino!"},
+          {"t": "h", "text": "La lista de verificación de membresía (Membership Checklist)"},
+          {"t": "p", "text": "El Handbook trae una lista de verificación completa para que nada quede librado al azar:"},
+          {"t": "table", "headers": ["Área", "Qué tienes que asegurar"], "rows": [
+            ["Organización", "Releer el capítulo de Membership del Handbook, reunirte con el Comité de Membresía (si no está activo, habla con el Consultor Principal y el Maestre Consejero para reactivarlo) e inventariar materiales: solicitudes, folletos, material de marketing."],
             ["Evento", "Meta concreta de nuevos miembros, cartas de invitación a la mayor cantidad posible de candidatos con agenda de seguimiento (segundo contacto personal), cronograma paso a paso y reunión de evaluación posterior para mejorar el próximo evento."],
-            ["Post-evento", "Contactar en pocos días a quienes no completaron la application, presentar todas las applications pronto y en forma, y planear la Induction Ceremony con la menor demora posible para sostener el interés."],
-            ["Orientación y siempre", "Un buen New Member Orientation Program (vital para una membresía de calidad), difundir los Membership Awards e incentivos disponibles, y mantenerte membership-conscious todo el año."]
+            ["Post-evento", "Contactar en pocos días a quienes no completaron la solicitud, presentar todas las solicitudes pronto y en forma, y planear la Ceremonia de Inducción (Induction Ceremony) con la menor demora posible para sostener el interés."],
+            ["Orientación y siempre", "Un buen Programa de Orientación para Nuevos Miembros (New Member Orientation Program), vital para una membresía de calidad; difundir los Premios de Membresía (Membership Awards) e incentivos disponibles, y mantenerte atento a la membresía (membership-conscious) todo el año."]
           ]},
-          {"t": "callout", "style": "key", "text": "El checklist cierra con dos palabras en mayúsculas: **BE ENTHUSIASTIC!** El entusiasmo del Chapter es el mejor argumento de venta que existe."},
-          {"t": "ref", "text": "Membership Checklist completo", "page": "22"}
+          {"t": "callout", "style": "key", "text": "La lista cierra con dos palabras en mayúsculas: **BE ENTHUSIASTIC!** (¡sé entusiasta!). El entusiasmo del Capítulo es el mejor argumento de venta que existe."},
+          {"t": "ref", "text": "La lista de verificación de membresía completa", "page": "22"}
         ]
       }
     ],
     "quiz": [
       {
-        "q": "Según el Handbook, ¿cada cuánto se renueva prácticamente toda la membresía de un Chapter?",
+        "q": "Según el Handbook, ¿cada cuánto se renueva prácticamente toda la membresía de un Capítulo?",
         "options": ["Cada año", "Cada 3 años", "Cada 5 años", "Cada 9 años"],
         "correct": 1,
-        "explain": "Aunque el máximo individual es de 9 años, el miembro promedio que entra a los 14 está activo 3-4 años, así que el Chapter entero rota en unos 3 años."
+        "explain": "Aunque el máximo individual es de 9 años, el miembro promedio que entra a los 14 está activo 3-4 años, así que el Capítulo entero rota en unos 3 años."
       },
       {
         "q": "¿Cuál es el compromiso de reclutamiento que asume cada miembro de DeMolay?",
         "options": ["Traer 1 nuevo miembro por año", "Traer un mínimo de 2 nuevos miembros por año", "Traer 3 nuevos miembros antes de irse", "Traer 5 nuevos miembros durante toda su membresía"],
         "correct": 1,
-        "explain": "Mínimo 2 por año: uno reemplaza tu propia salida futura y el otro hace crecer el Chapter."
+        "explain": "Mínimo 2 por año: uno reemplaza tu propia salida futura y el otro hace crecer el Capítulo."
       },
       {
-        "q": "¿Con cuánta anticipación debe reunirse el Membership Committee para planificar el Membership Event?",
+        "q": "¿Con cuánta anticipación debe reunirse el Comité de Membresía para planificar el Evento de Membresía?",
         "options": ["1 semana antes", "2 semanas antes", "1 mes antes", "2 meses antes"],
         "correct": 3,
         "explain": "La reunión de planificación se hace unos 2 meses antes: ahí se definen lugar, fecha, publicidad, método para juntar nombres y el programa."
@@ -157,10 +157,10 @@
         "explain": "Las invitaciones van 2 semanas antes del evento, con un folleto promocional, y se confirman con una llamada a los pocos días."
       },
       {
-        "q": "¿Cómo es la visita de seguimiento después del Membership Event?",
-        "options": ["Dentro de las 24 horas, un miembro solo", "Dentro de 3-5 días, en equipos de 2", "Dentro de 2 semanas, en equipos de 3", "Dentro de un mes, con todo el Chapter"],
+        "q": "¿Cómo es la visita de seguimiento después del Evento de Membresía?",
+        "options": ["Dentro de las 24 horas, un miembro solo", "Dentro de 3-5 días, en equipos de 2", "Dentro de 2 semanas, en equipos de 3", "Dentro de un mes, con todo el Capítulo"],
         "correct": 1,
-        "explain": "Si es posible, dentro de los 3-5 días posteriores se lo visita en su casa, en equipos de 2, bien vestidos y con applications y materiales."
+        "explain": "Si es posible, dentro de los 3-5 días posteriores se lo visita en su casa, en equipos de 2, bien vestidos y con solicitudes y materiales."
       },
       {
         "q": "¿Cuánto debería durar tu elevator pitch sobre DeMolay?",

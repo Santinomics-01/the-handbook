@@ -8,32 +8,32 @@
 
   /* ---------------- Manifest de módulos ---------------- */
   var MODS = [
-    { id: 'esencia',       icon: '🧭', cat: 'fundamentos' },
-    { id: 'historia',      icon: '🏛️', cat: 'fundamentos' },
-    { id: 'membresia',     icon: '🤝', cat: 'fundamentos' },
-    { id: 'capitulo',      icon: '🏠', cat: 'chapter' },
-    { id: 'oficiales',     icon: '👑', cat: 'chapter' },
-    { id: 'adultos',       icon: '🧑‍🏫', cat: 'chapter' },
-    { id: 'planificacion', icon: '🗓️', cat: 'chapter' },
-    { id: 'actividades',   icon: '🎯', cat: 'chapter' },
-    { id: 'reclutamiento', icon: '📣', cat: 'chapter' },
-    { id: 'imagen',        icon: '📰', cat: 'chapter' },
-    { id: 'seguridad',     icon: '🛡️', cat: 'cuidado' },
-    { id: 'ritual',        icon: '🕯️', cat: 'cuidado' },
-    { id: 'organizacion',  icon: '🌐', cat: 'mundo' },
-    { id: 'cuerpos',       icon: '⚔️', cat: 'mundo' },
-    { id: 'premios',       icon: '🏅', cat: 'mundo' },
-    { id: 'fundar',        icon: '🚀', cat: 'mundo' }
+    { id: 'esencia',       icon: 'compass',   cat: 'fundamentos' },
+    { id: 'historia',      icon: 'landmark',  cat: 'fundamentos' },
+    { id: 'membresia',     icon: 'userPlus',  cat: 'fundamentos' },
+    { id: 'capitulo',      icon: 'home',      cat: 'chapter' },
+    { id: 'oficiales',     icon: 'crown',     cat: 'chapter' },
+    { id: 'adultos',       icon: 'users',     cat: 'chapter' },
+    { id: 'planificacion', icon: 'calendar',  cat: 'chapter' },
+    { id: 'actividades',   icon: 'target',    cat: 'chapter' },
+    { id: 'reclutamiento', icon: 'megaphone', cat: 'chapter' },
+    { id: 'imagen',        icon: 'newspaper', cat: 'chapter' },
+    { id: 'seguridad',     icon: 'shield',    cat: 'cuidado' },
+    { id: 'ritual',        icon: 'flame',     cat: 'cuidado' },
+    { id: 'organizacion',  icon: 'globe',     cat: 'mundo' },
+    { id: 'cuerpos',       icon: 'swords',    cat: 'mundo' },
+    { id: 'premios',       icon: 'award',     cat: 'mundo' },
+    { id: 'fundar',        icon: 'send',      cat: 'mundo' }
   ];
   var CATS = ['fundamentos', 'chapter', 'cuidado', 'mundo'];
 
   var REFS = [
-    { id: 'glosario',       icon: '📖' },
-    { id: 'premios',        icon: '🏅' },
-    { id: 'cargos',         icon: '👑' },
-    { id: 'calendario',     icon: '🗓️' },
-    { id: 'procedimientos', icon: '✅' },
-    { id: 'datos',          icon: '📌' }
+    { id: 'glosario',       icon: 'book' },
+    { id: 'premios',        icon: 'award' },
+    { id: 'cargos',         icon: 'crown' },
+    { id: 'calendario',     icon: 'calendar' },
+    { id: 'procedimientos', icon: 'checkCircle' },
+    { id: 'datos',          icon: 'pin' }
   ];
 
   /* ---------------- Textos de interfaz ---------------- */
@@ -42,55 +42,55 @@
       tagline: 'DeMolay',
       navHome: 'Inicio', navLearn: 'Aprender', navRef: 'Referencia', navPractice: 'Práctica', navSearch: 'Buscar',
       heroTitle: '¡Bienvenido, hermano!',
-      heroText: 'Todo lo que un DeMolay activo necesita saber: tu Chapter, tus cargos, el ritual, los premios y mucho más — claro, al grano y siempre a mano.',
-      heroStart: 'Empezar a aprender', heroContinue: 'Continuar donde dejaste',
+      heroText: 'Todo lo que un DeMolay activo necesita saber: tu Capítulo, los cargos, el ritual, los premios y mucho más — claro, al grano y siempre a mano.',
+      heroStart: 'Empezar a aprender', heroContinue: 'Continuar donde quedaste',
       progressOf: function (a, b) { return a + ' de ' + b + ' módulos completados'; },
       quickRef: 'Referencia rápida',
-      catNames: { fundamentos: 'Fundamentos', chapter: 'Tu Chapter', cuidado: 'Protección y ritual', mundo: 'Más allá del Chapter' },
+      catNames: { fundamentos: 'Fundamentos', chapter: 'Tu Capítulo', cuidado: 'Protección y ritual', mundo: 'Más allá del Capítulo' },
       learnTitle: 'Aprender', learnSub: 'Dieciséis módulos cortos. A tu ritmo, en el orden que quieras.',
       minRead: 'min de lectura', lessons: 'lecciones', questions: 'preguntas',
       completed: 'Completado', start: 'Empezar', review: 'Repasar',
       back: 'Volver', backLearn: 'Aprender',
-      markDone: 'Marcar módulo como completado ✓', unmark: 'Marcar como no completado', doneMsg: '¡Módulo completado! 🎉',
+      markDone: 'Marcar módulo como completado ✓', unmark: 'Marcar como no completado', doneMsg: '¡Módulo completado!',
       nextMod: 'Siguiente módulo',
-      quizTitle: 'Ponete a prueba', quizSub: 'Ocho preguntas rápidas sobre este módulo.',
+      quizTitle: 'Ponte a prueba', quizSub: 'Ocho preguntas rápidas sobre este módulo.',
       quizQ: 'Pregunta', quizNext: 'Siguiente', quizSee: 'Ver resultado', quizRetry: 'Intentar de nuevo',
       quizDone: function (s, t) { return 'Respondiste bien ' + s + ' de ' + t; },
-      quizPerfect: '¡Impecable! Dominás este módulo.',
-      quizGood: 'Muy bien. Repasá lo que falló y va a quedar sólido.',
-      quizMeh: 'Buen comienzo: releé el módulo y volvé a intentar.',
+      quizPerfect: '¡Impecable! Dominas este módulo.',
+      quizGood: 'Muy bien. Repasa lo que fallaste y quedará sólido.',
+      quizMeh: 'Buen comienzo: relee el módulo y vuelve a intentarlo.',
       quizBest: 'Tu mejor puntaje',
       refTitle: 'Referencia', refSub: 'El dato exacto, cuando lo necesitás.',
       refNames: {
-        glosario: 'Glosario', premios: 'Premios y honores', cargos: 'Cargos del Chapter',
+        glosario: 'Glosario', premios: 'Honores y premios', cargos: 'Cargos del Capítulo',
         calendario: 'Calendario DeMolay', procedimientos: 'Procedimientos', datos: 'Datos clave'
       },
       refDescs: {
         glosario: 'Todos los términos, de la A a la Z', premios: 'Qué existe y cómo se gana',
-        cargos: 'Quién hace qué', calendario: 'Obligatory Days y el año DeMolay',
+        cargos: 'Quién hace qué', calendario: 'Días Obligatorios y el año DeMolay',
         procedimientos: 'Paso a paso de lo importante', datos: 'Fees, plazos, contactos'
       },
       searchGloss: 'Buscar un término…', filterAll: 'Todos',
-      eligNames: { active: 'DeMolays activos', squire: 'Squires', priory: 'Priory', senior: 'Senior DeMolays', advisor: 'Advisors', mason: 'Masones', anyone: 'Cualquier persona' },
+      eligNames: { active: 'DeMolay activos', squire: 'Escuderos', priory: 'Priorato', senior: 'Sénior DeMolay', advisor: 'Consultores', mason: 'Masones', anyone: 'Cualquier persona' },
       typeNames: { honor: 'Honor', award: 'Premio' },
       typeHint: 'Un Honor no se pide: se otorga. Un Premio se gana cumpliendo requisitos.',
       reqLabel: 'Requisitos', costLabel: 'Costo', byLabel: 'Lo otorga',
-      obligDays: 'Los 7 Obligatory Days', yearView: 'El año DeMolay, mes a mes',
+      obligDays: 'Los 7 Días Obligatorios', yearView: 'El año DeMolay, mes a mes',
       respLabel: 'Responsable',
       checklistSaved: 'Tu progreso queda guardado en este dispositivo.',
-      practiceTitle: 'Práctica', practiceSub: 'Memorizá lo esencial y medite con los quizzes.',
+      practiceTitle: 'Práctica', practiceSub: 'Memoriza lo esencial y mídete con los quizzes.',
       decksTitle: 'Mazos de flashcards', quizzesTitle: 'Quizzes por módulo',
-      cards: 'tarjetas', tapFlip: 'Tocá la tarjeta para dar vuelta', shuffle: 'Mezclar', prev: 'Anterior', next: 'Siguiente',
+      cards: 'tarjetas', tapFlip: 'Toca la tarjeta para voltearla', shuffle: 'Mezclar', prev: 'Anterior', next: 'Siguiente',
       cardOf: function (a, b) { return a + ' / ' + b; },
       notTaken: 'Sin intentar',
-      searchTitle: 'Buscar', searchPh: 'Buscá un término, cargo, premio, regla…',
-      searchHint: 'Probá: "ballot", "Flower Talk", "fees", "Two-Deep"…',
-      searchNone: 'No encontramos nada con eso. Probá con otra palabra.',
+      searchTitle: 'Buscar', searchPh: 'Busca un término, cargo, premio, regla…',
+      searchHint: 'Prueba con: "balotaje", "Llave Azul", "Maestre Consejero", "Two-Deep"…',
+      searchNone: 'No encontramos nada con eso. Prueba con otra palabra.',
       srModules: 'Módulos', srGlossary: 'Glosario', srAwards: 'Premios y honores', srOffices: 'Cargos', srProcs: 'Procedimientos', srFacts: 'Datos',
       loading: 'Cargando…',
       noData: 'El contenido de este idioma todavía no está disponible.',
       footer1: 'The Handbook es material educativo no oficial creado por y para DeMolays, basado en el DeMolay Handbook (16.ª edición).',
-      footer2: 'DeMolay®, su emblema y los nombres de sus programas son marcas registradas de DeMolay International. Este sitio no reemplaza al manual oficial ni a las indicaciones de tu Executive Officer.',
+      footer2: 'DeMolay®, su Blasón y los nombres de sus programas son marcas registradas de DeMolay International. Este sitio no reemplaza al manual oficial ni a las indicaciones de tu Oficial Ejecutivo.',
       installHint: 'Funciona en cualquier navegador, también desde el celular.'
     },
     en: {
@@ -106,7 +106,7 @@
       minRead: 'min read', lessons: 'lessons', questions: 'questions',
       completed: 'Completed', start: 'Start', review: 'Review',
       back: 'Back', backLearn: 'Learn',
-      markDone: 'Mark module as completed ✓', unmark: 'Mark as not completed', doneMsg: 'Module completed! 🎉',
+      markDone: 'Mark module as completed ✓', unmark: 'Mark as not completed', doneMsg: 'Module completed!',
       nextMod: 'Next module',
       quizTitle: 'Test yourself', quizSub: 'Eight quick questions on this module.',
       quizQ: 'Question', quizNext: 'Next', quizSee: 'See results', quizRetry: 'Try again',
@@ -213,18 +213,59 @@
   /* ---------------- Shell (header, navegación, footer) ---------------- */
   var app = document.getElementById('app');
 
-  var CROWN_SVG = '<svg class="crown" width="26" height="26" viewBox="0 0 24 24" fill="none" aria-hidden="true">' +
-    '<path d="M3 18h18l-1.2-9.5-4.3 3.2L12 5l-3.5 6.7-4.3-3.2L3 18Z" fill="#fca311"/>' +
-    '<rect x="3" y="18" width="18" height="2.6" rx="1.3" fill="#ffd166"/></svg>';
+  /* Iconos SVG inline — trazo 2px estilo Lucide (la marca DeMolay no usa emoji) */
+  var ICONS = {
+    home: 'M3 9.5 12 3l9 6.5V20a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z M9 22v-9h6v9',
+    compass: 'M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20z M16.24 7.76l-2.12 6.36-6.36 2.12 2.12-6.36z',
+    landmark: 'M3 22h18 M6 18v-7 M10 18v-7 M14 18v-7 M18 18v-7 M12 2 2 8h20z',
+    userPlus: 'M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2 M9 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8z M19 8v6 M22 11h-6',
+    users: 'M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2 M9 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8z M22 21v-2a4 4 0 0 0-3-3.87 M16 3.13a4 4 0 0 1 0 7.75',
+    crown: 'M2 4l3 12h14l3-12-6 7-4-7-4 7z M5 20h14',
+    calendar: 'M8 2v4 M16 2v4 M3 10h18 M5 4h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z',
+    target: 'M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20z M12 18a6 6 0 1 0 0-12 6 6 0 0 0 0 12z M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4z',
+    megaphone: 'M3 11l18-5v12L3 14z M11.6 16.8a3 3 0 1 1-5.8-1.6',
+    newspaper: 'M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2zm0 0a2 2 0 0 1-2-2v-9a2 2 0 0 1 2-2h2 M18 14h-8 M15 18h-5 M10 6h8v4h-8z',
+    shield: 'M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z',
+    flame: 'M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z',
+    globe: 'M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20z M2 12h20 M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10A15.3 15.3 0 0 1 12 2z',
+    swords: 'M14.5 17.5 3 6V3h3l11.5 11.5 M13 19l6-6 M16 16l4 4 M19 21l2-2',
+    award: 'M12 15a6 6 0 1 0 0-12 6 6 0 0 0 0 12z M8.21 13.89 7 23l5-3 5 3-1.21-9.12',
+    send: 'M22 2 11 13 M22 2l-7 20-4-9-9-4z',
+    book: 'M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20',
+    bookOpen: 'M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z',
+    layers: 'M12 2 2 7l10 5 10-5z M2 17l10 5 10-5 M2 12l10 5 10-5',
+    search: 'M21 21l-4.3-4.3 M11 18a7 7 0 1 0 0-14 7 7 0 0 0 0 14z',
+    checkCircle: 'M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20z M9 12l2 2 4-4',
+    check: 'M20 6L9 17l-5-5',
+    x: 'M18 6L6 18 M6 6l12 12',
+    clock: 'M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20z M12 6v6l4 2',
+    pin: 'M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z M12 13a3 3 0 1 0 0-6 3 3 0 0 0 0 6z',
+    star: 'M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14l-5-4.87 6.91-1.01z',
+    lamp: 'M9 18h6 M10 22h4 M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5.76.76 1.23 1.52 1.41 2.5z',
+    alert: 'M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z M12 9v4 M12 17h.01',
+    shuffle: 'M2 18h1.4c1.3 0 2.5-.6 3.3-1.7l6.1-8.6c.8-1.1 2-1.7 3.3-1.7H22 M18 2l4 4-4 4 M2 6h1.9c1.5 0 2.9.9 3.6 2.2 M22 18h-5.9c-1.3 0-2.5-.6-3.3-1.7l-1.2-1.6 M18 14l4 4-4 4',
+    user: 'M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2 M12 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8z'
+  };
+  function ico(name, size) {
+    var d = ICONS[name];
+    if (!d) return '';
+    size = size || 20;
+    var paths = d.split(' M').map(function (seg, i) {
+      return '<path d="' + (i === 0 ? seg : 'M' + seg) + '"></path>';
+    }).join('');
+    return '<svg class="svgi" width="' + size + '" height="' + size + '" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + paths + '</svg>';
+  }
+
+  var BRAND_LOGO = '<img class="logo" src="assets/logo-white.png" alt="">';
 
   function navItems() {
     var t = T();
     return [
-      { r: '', ico: '🏠', label: t.navHome },
-      { r: 'aprender', ico: '📚', label: t.navLearn },
-      { r: 'ref', ico: '🔎', label: t.navRef },
-      { r: 'practica', ico: '🎴', label: t.navPractice },
-      { r: 'buscar', ico: '🔍', label: t.navSearch }
+      { r: '', ico: 'home', label: t.navHome },
+      { r: 'aprender', ico: 'bookOpen', label: t.navLearn },
+      { r: 'ref', ico: 'book', label: t.navRef },
+      { r: 'practica', ico: 'layers', label: t.navPractice },
+      { r: 'buscar', ico: 'search', label: t.navSearch }
     ];
   }
   function activeRoot(route) {
@@ -243,12 +284,12 @@
     }).join('');
     var bottom = navItems().map(function (n) {
       return '<a href="#/' + n.r + '" class="' + (act === n.r ? 'on' : '') + '">' +
-        '<span class="ico">' + n.ico + '</span>' + esc(n.label) + '</a>';
+        '<span class="ico">' + ico(n.ico, 21) + '</span>' + esc(n.label) + '</a>';
     }).join('');
 
     app.innerHTML =
       '<header class="hdr">' +
-        '<a class="brand" href="#/">' + CROWN_SVG +
+        '<a class="brand" href="#/">' + BRAND_LOGO +
           '<span>The Handbook<small>' + esc(t.tagline) + '</small></span></a>' +
         '<span class="spacer"></span>' +
         '<nav class="top">' + top + '</nav>' +
@@ -274,7 +315,7 @@
   }
   function spinner() { view().innerHTML = '<div class="empty">' + esc(T().loading) + '</div>'; }
   function noData() {
-    setView('<div class="empty"><span class="big">🚧</span>' + esc(T().noData) + '</div>');
+    setView('<div class="empty"><span class="big">' + ico('alert', 40) + '</span>' + esc(T().noData) + '</div>');
   }
 
   /* ---------------- Vistas ---------------- */
@@ -300,7 +341,7 @@
 
     html += '<div class="cat-title">' + esc(t.quickRef) + '</div><div class="ref-grid">' +
       REFS.slice(0, 6).map(function (r) {
-        return '<a class="ref-card" href="#/ref/' + r.id + '"><span class="ico">' + r.ico + '</span>' +
+        return '<a class="ref-card" href="#/ref/' + r.id + '"><span class="ico">' + ico(r.icon, 26) + '</span>' +
           '<b>' + esc(t.refNames[r.id]) + '</b><span>' + esc(t.refDescs[r.id]) + '</span></a>';
       }).join('') + '</div>';
 
@@ -321,9 +362,9 @@
     var done = isDone(m.id);
     var q = quizScores()[m.id];
     var sub = c ? c.subtitle : '';
-    var extra = q ? ' · 🏅 ' + q.best + '/' + q.total : '';
+    var extra = q ? ' · ★ ' + q.best + '/' + q.total : '';
     return '<a class="mod-card' + (done ? ' done' : '') + '" href="#/m/' + m.id + '">' +
-      '<span class="ico">' + m.icon + '</span>' +
+      '<span class="ico">' + ico(m.icon, 22) + '</span>' +
       '<span class="tx"><b>' + esc(c ? c.title : m.id) + '</b>' +
       '<span>' + esc(c ? (c.minutes + ' ' + t.minRead) : '') + esc(extra) + (sub ? ' · ' + esc(sub) : '') + '</span></span>' +
       '<span class="chk' + (done ? '' : ' todo') + '">' + (done ? '✓' : '○') + '</span></a>';
@@ -352,9 +393,9 @@
       case 'steps':
         return '<ol class="steps">' + (b.items || []).map(function (x) { return '<li>' + md(x) + '</li>'; }).join('') + '</ol>';
       case 'callout': {
-        var ic = b.style === 'warn' ? '⚠️' : (b.style === 'info' ? '💡' : '⭐');
+        var icn = b.style === 'warn' ? 'alert' : (b.style === 'info' ? 'lamp' : 'star');
         var cls = (b.style === 'warn' || b.style === 'info') ? b.style : 'key';
-        return '<div class="callout ' + cls + '"><span class="ci">' + ic + '</span><div>' + md(b.text) + '</div></div>';
+        return '<div class="callout ' + cls + '"><span class="ci">' + ico(icn, 19) + '</span><div>' + md(b.text) + '</div></div>';
       }
       case 'table': {
         var h = '<tr>' + (b.headers || []).map(function (x) { return '<th>' + md(x) + '</th>'; }).join('') + '</tr>';
@@ -368,7 +409,7 @@
           return '<div class="concept"><b>' + md(c.title) + '</b><span>' + md(c.text) + '</span></div>';
         }).join('') + '</div>';
       case 'ref':
-        return '<div class="refnote">📖 ' + md(b.text) + ' — DeMolay Handbook' + (b.page ? ', p. ' + esc(b.page) : '') + '</div>';
+        return '<div class="refnote">' + ico('book', 16) + ' ' + md(b.text) + ' — DeMolay Handbook' + (b.page ? ', p. ' + esc(b.page) : '') + '</div>';
       default: return '';
     }
   }
@@ -391,12 +432,12 @@
     var done = isDone(id);
     var html = '<div class="read">' +
       '<a class="backlink" href="#/aprender">‹ ' + esc(t.backLearn) + '</a>' +
-      '<div class="mod-head"><h1 class="page">' + m.icon + ' ' + esc(c.title) + '</h1>' +
+      '<div class="mod-head"><h1 class="page">' + esc(c.title) + '</h1>' +
       '<p class="page-sub">' + esc(c.subtitle) + '</p>' +
       '<div class="meta">' +
-        '<span class="pill">⏱ ' + c.minutes + ' ' + esc(t.minRead) + '</span>' +
-        '<span class="pill">📚 ' + c.lessons.length + ' ' + esc(t.lessons) + '</span>' +
-        '<span class="pill">📝 ' + c.quiz.length + ' ' + esc(t.questions) + '</span>' +
+        '<span class="pill">' + c.minutes + ' ' + esc(t.minRead) + '</span>' +
+        '<span class="pill">' + c.lessons.length + ' ' + esc(t.lessons) + '</span>' +
+        '<span class="pill">' + c.quiz.length + ' ' + esc(t.questions) + '</span>' +
         (done ? '<span class="pill ok">✓ ' + esc(t.completed) + '</span>' : '') +
       '</div></div>';
 
@@ -423,7 +464,7 @@
     if (next) {
       var nc = d.modules[next.id];
       html += '<hr class="divider"><a class="mod-card" href="#/m/' + next.id + '">' +
-        '<span class="ico">' + next.icon + '</span><span class="tx"><b>' + esc(t.nextMod) + ' →</b>' +
+        '<span class="ico">' + ico(next.icon, 22) + '</span><span class="tx"><b>' + esc(t.nextMod) + ' →</b>' +
         '<span>' + esc(nc ? nc.title : next.id) + '</span></span></a>';
     }
     html += '</div>';
@@ -494,7 +535,7 @@
           });
           var last = state.i === quiz.length - 1;
           document.getElementById('qfoot').innerHTML =
-            '<div class="explain">' + (ok ? '✅ ' : '❌ ') + md(q.explain) + '</div>' +
+            '<div class="explain">' + (ok ? '<b>✓</b> ' : '<b>✗</b> ') + md(q.explain) + '</div>' +
             '<button class="btn gold" id="qnext">' + esc(last ? t.quizSee : t.quizNext) + '</button>';
           document.getElementById('qnext').addEventListener('click', function () {
             if (last) renderEnd();
@@ -533,7 +574,7 @@
     var t = T();
     var html = '<h1 class="page">' + esc(t.refTitle) + '</h1><p class="page-sub">' + esc(t.refSub) + '</p>' +
       '<div class="ref-grid">' + REFS.map(function (r) {
-        return '<a class="ref-card" href="#/ref/' + r.id + '"><span class="ico">' + r.ico + '</span>' +
+        return '<a class="ref-card" href="#/ref/' + r.id + '"><span class="ico">' + ico(r.icon, 26) + '</span>' +
           '<b>' + esc(t.refNames[r.id]) + '</b><span>' + esc(t.refDescs[r.id]) + '</span></a>';
       }).join('') + '</div>';
     setView(html);
@@ -552,7 +593,7 @@
     var items = d && d.reference.glossary;
     if (!items) return noData();
     var html = refHeader('glosario') +
-      '<div class="searchbox">🔍<input id="gq" type="search" placeholder="' + esc(t.searchGloss) + '"></div>' +
+      '<div class="searchbox">' + ico('search', 18) + '<input id="gq" type="search" placeholder="' + esc(t.searchGloss) + '"></div>' +
       '<div id="glist"></div>';
     setView(html);
 
@@ -569,7 +610,7 @@
           '<b>' + esc(it.term) + '</b><p>' + md(it.def) + '</p></div>';
       });
       document.getElementById('glist').innerHTML = out ||
-        '<div class="empty"><span class="big">🤷</span>' + esc(t.searchNone) + '</div>';
+        '<div class="empty"><span class="big">' + ico('search', 40) + '</span>' + esc(t.searchNone) + '</div>';
     }
     paint('');
     document.getElementById('gq').addEventListener('input', function () { paint(this.value); });
@@ -585,7 +626,7 @@
 
     var eligKeys = ['all', 'active', 'squire', 'priory', 'senior', 'advisor', 'mason', 'anyone'];
     var html = refHeader('premios') +
-      '<div class="callout info"><span class="ci">💡</span><div>' + esc(t.typeHint) + '</div></div>' +
+      '<div class="callout info"><span class="ci">' + ico('lamp', 19) + '</span><div>' + esc(t.typeHint) + '</div></div>' +
       '<div class="chips" id="eligChips">' + eligKeys.map(function (k) {
         return '<button class="chip' + (k === 'all' ? ' on' : '') + '" data-k="' + k + '">' +
           esc(k === 'all' ? t.filterAll : t.eligNames[k]) + '</button>';
@@ -614,7 +655,7 @@
           (it.by ? '<div class="row"><b>' + esc(t.byLabel) + ':</b> ' + md(it.by) + '</div>' : '') +
           (it.notes ? '<div class="row muted">' + md(it.notes) + '</div>' : '') +
           '</div>';
-      }).join('') || '<div class="empty"><span class="big">🤷</span>' + esc(t.searchNone) + '</div>';
+      }).join('') || '<div class="empty"><span class="big">' + ico('search', 40) + '</span>' + esc(t.searchNone) + '</div>';
     }
     paint();
     ['eligChips', 'typeChips'].forEach(function (boxId, bi) {
@@ -654,8 +695,8 @@
     var html = refHeader('calendario');
     html += '<div class="cat-title">' + esc(t.obligDays) + '</div><div class="concept-grid">';
     (data.obligatory || []).forEach(function (o) {
-      html += '<div class="concept"><b>' + esc(o.name) + '</b><span>📅 ' + md(o.when) +
-        '<br>👤 ' + esc(t.respLabel) + ': ' + md(o.responsible) +
+      html += '<div class="concept"><b>' + esc(o.name) + '</b><span>' + md(o.when) +
+        '<br><b style="font-size:13px">' + esc(t.respLabel) + ':</b> ' + md(o.responsible) +
         (o.ideas ? '<br>' + md(o.ideas) : '') + '</span></div>';
     });
     html += '</div><div class="cat-title">' + esc(t.yearView) + '</div>';
@@ -687,9 +728,9 @@
         body += '<ol class="steps">' + (p.steps || []).map(function (s) { return '<li>' + md(s) + '</li>'; }).join('') + '</ol>';
       }
       (p.notes || []).forEach(function (n) {
-        body += '<div class="callout info"><span class="ci">💡</span><div>' + md(n) + '</div></div>';
+        body += '<div class="callout info"><span class="ci">' + ico('lamp', 19) + '</span><div>' + md(n) + '</div></div>';
       });
-      if (p.page) body += '<div class="refnote">📖 DeMolay Handbook, p. ' + esc(p.page) + '</div>';
+      if (p.page) body += '<div class="refnote">' + ico('book', 16) + ' DeMolay Handbook, p. ' + esc(p.page) + '</div>';
       html += '<details class="acc"><summary>' + esc(p.title) + '</summary><div class="body">' + body + '</div></details>';
     });
     setView(html);
@@ -738,7 +779,7 @@
     html += '<div class="cat-title">' + esc(t.decksTitle) + '</div><div class="deck-grid">';
     decks.forEach(function (dk) {
       html += '<a class="mod-card" href="#/practica/' + esc(dk.id) + '">' +
-        '<span class="ico">🎴</span><span class="tx"><b>' + esc(dk.title) + '</b>' +
+        '<span class="ico">' + ico('layers', 22) + '</span><span class="tx"><b>' + esc(dk.title) + '</b>' +
         '<span>' + dk.cards.length + ' ' + esc(t.cards) + ' · ' + esc(dk.desc || '') + '</span></span></a>';
     });
     html += '</div>';
@@ -749,8 +790,8 @@
       var c = d && d.modules[m.id];
       var q = qs[m.id];
       html += '<a class="mod-card" href="#/m/' + m.id + '">' +
-        '<span class="ico">' + m.icon + '</span><span class="tx"><b>' + esc(c ? c.title : m.id) + '</b>' +
-        '<span>' + (q ? '🏅 ' + q.best + '/' + q.total : esc(t.notTaken)) + '</span></span></a>';
+        '<span class="ico">' + ico(m.icon, 22) + '</span><span class="tx"><b>' + esc(c ? c.title : m.id) + '</b>' +
+        '<span>' + (q ? '★ ' + q.best + '/' + q.total : esc(t.notTaken)) + '</span></span></a>';
     });
     html += '</div>';
     setView(html);
@@ -767,7 +808,7 @@
     var state = { order: deck.cards.map(function (_, i) { return i; }), idx: 0, flipped: false };
 
     setView('<div class="read"><a class="backlink" href="#/practica">‹ ' + esc(t.practiceTitle) + '</a>' +
-      '<h1 class="page">🎴 ' + esc(deck.title) + '</h1>' +
+      '<h1 class="page">' + esc(deck.title) + '</h1>' +
       '<p class="page-sub">' + esc(deck.desc || '') + ' · ' + esc(t.tapFlip) + '</p>' +
       '<div class="flash-stage"><div class="flash" id="flash">' +
       '<div class="face front"><span class="hint"></span><span class="tx"></span></div>' +
@@ -776,7 +817,7 @@
       '<p class="center muted" id="fcount"></p>' +
       '<div class="flash-ctl">' +
       '<button class="btn ghost sm" id="fprev">← ' + esc(t.prev) + '</button>' +
-      '<button class="btn ghost sm" id="fshuf">🔀 ' + esc(t.shuffle) + '</button>' +
+      '<button class="btn ghost sm" id="fshuf">' + ico('shuffle', 15) + ' ' + esc(t.shuffle) + '</button>' +
       '<button class="btn sm" id="fnext">' + esc(t.next) + ' →</button>' +
       '</div></div>');
 
@@ -824,7 +865,7 @@
       var body = c.lessons.map(function (l) {
         return l.title + ' ' + l.blocks.map(blockText).join(' ');
       }).join(' ');
-      ix.push({ type: t.srModules, title: m.icon + ' ' + c.title, text: c.subtitle + ' ' + body, route: '#/m/' + m.id, snippet: c.subtitle });
+      ix.push({ type: t.srModules, title: c.title, text: c.subtitle + ' ' + body, route: '#/m/' + m.id, snippet: c.subtitle });
     });
     (d.reference.glossary || []).forEach(function (g) {
       ix.push({ type: t.srGlossary, title: g.term, text: g.term + ' ' + g.def, route: '#/ref/glosario', snippet: g.def });
@@ -853,7 +894,7 @@
   function vSearch() {
     var t = T();
     setView('<h1 class="page">' + esc(t.searchTitle) + '</h1>' +
-      '<div class="searchbox">🔍<input id="sq" type="search" placeholder="' + esc(t.searchPh) + '" autocomplete="off"></div>' +
+      '<div class="searchbox">' + ico('search', 20) + '<input id="sq" type="search" placeholder="' + esc(t.searchPh) + '" autocomplete="off"></div>' +
       '<div id="sres"><p class="muted center">' + esc(t.searchHint) + '</p></div>');
     var inp = document.getElementById('sq');
     inp.focus();
@@ -872,7 +913,7 @@
       hits.sort(function (a, b) { return b.s - a.s; });
       hits = hits.slice(0, 40);
       if (!hits.length) {
-        box.innerHTML = '<div class="empty"><span class="big">🤷</span>' + esc(t.searchNone) + '</div>';
+        box.innerHTML = '<div class="empty"><span class="big">' + ico('search', 40) + '</span>' + esc(t.searchNone) + '</div>';
         return;
       }
       var out = '', lastType = '';

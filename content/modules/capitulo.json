@@ -1,34 +1,34 @@
 {
   "id": "capitulo",
   "es": {
-    "title": "El Chapter por dentro",
-    "subtitle": "Cómo se organiza, se reúne, vota y se gobierna tu Chapter, regla por regla.",
+    "title": "El Capítulo por dentro",
+    "subtitle": "Cómo se organiza, se reúne, vota y se gobierna tu Capítulo (Chapter), regla por regla.",
     "minutes": 12,
     "lessons": [
       {
         "id": "l1",
-        "title": "Estructura y comités: el motor del Chapter",
+        "title": "Estructura y comités: el motor del Capítulo",
         "blocks": [
-          { "t": "p", "text": "Tu Chapter no flota en el aire: forma parte de una estructura que arranca en DeMolay International y baja por el **Executive Officer** de tu jurisdicción (la máxima autoridad DeMolay de tu territorio), el **Sponsoring Body** (la institución masónica que patrocina al Chapter) y el **Advisory Council** (el consejo de adultos asesores). Recién ahí aparece el Chapter con sus oficiales: el **Master Councilor (MC)** que preside, el **Senior Councilor (SC)**, el **Junior Councilor (JC)**, el Scribe, el Treasurer y el resto." },
-          { "t": "p", "text": "El trabajo real se reparte en comités. El **MC nombra todos los comités y es miembro de todos**. Cada comité tiene un mínimo de **tres integrantes**, y el primero nombrado es el chairman. El MC define las asignaciones consultando a sus oficiales y Advisors apenas es electo, y las anuncia en su primera reunión regular. Se recomienda que el SC y el JC supervisen la mitad de los comités cada uno, y que cada comité tenga un Advisor asignado si hay disponible." },
-          { "t": "callout", "style": "key", "text": "De los 14 comités sugeridos, el único obligatorio según las DeMolay Rules & Regulations es el **Membership Committee**. Los demás dependen de cuántos miembros tenga tu Chapter." },
+          { "t": "p", "text": "Tu Capítulo no flota en el aire: forma parte de una estructura que arranca en DeMolay Internacional (DeMolay International) y baja por el **Oficial Ejecutivo** (Executive Officer) de tu Jurisdicción (la máxima autoridad DeMolay de tu territorio), el **Cuerpo Patrocinador** (Sponsoring Body; la institución masónica que patrocina al Capítulo) y el **Consejo Consultivo** (Advisory Council; el consejo de adultos asesores). Recién ahí aparece el Capítulo con sus oficiales: el **Maestre Consejero** (Master Councilor, MC) que preside, el **Primer Consejero** (Senior Councilor, SC), el **Segundo Consejero** (Junior Councilor, JC), el **Escriba** (Scribe), el **Tesorero** (Treasurer) y el resto." },
+          { "t": "p", "text": "El trabajo real se reparte en comités. El **Maestre Consejero nombra todos los comités y es miembro de todos**. Cada comité tiene un mínimo de **tres integrantes**, y el primero en ser nombrado es el presidente del comité (chairman). El Maestre Consejero define las asignaciones consultando a sus oficiales y Consultores (Advisors; en Bolivia, los Tíos) apenas es electo, y las anuncia en su primera reunión ordinaria. Se recomienda que el Primer Consejero y el Segundo Consejero supervisen la mitad de los comités cada uno, y que cada comité tenga un Consultor asignado si hay disponible." },
+          { "t": "callout", "style": "key", "text": "De los 14 comités sugeridos, el único obligatorio según las Rules & Regulations de DeMolay es el **Comité de Membresía** (Membership Committee). Los demás dependen de cuántos miembros tenga tu Capítulo." },
           { "t": "table", "headers": ["Comité", "Qué hace"], "rows": [
-            ["Membership (obligatorio)", "Organiza campañas de membresía, contacta candidatos sobre los Degrees y orienta a los nuevos miembros."],
-            ["Entertainment", "Arma el entretenimiento de reuniones, cenas, eventos sociales y ceremonias públicas."],
-            ["Publicity and Chapter Communications", "Maneja la difusión, publica el boletín del Chapter y mantiene web y redes sociales."],
-            ["Obligatory Observances", "Planifica programas para observar todos los Obligatory Days."],
-            ["Masonic Relations", "Busca formas de servir al Sponsoring Body e invita Masons a las reuniones."],
-            ["Athletics", "Organiza equipos, ligas y torneos, y busca que todos los miembros hagan algún deporte."],
-            ["Chapter Relations", "Coordina visitas a otros Chapters y las relaciones públicas que no son difusión."],
-            ["Civic Service", "Planifica todos los proyectos cívicos del Chapter."],
-            ["Fundraising", "Planifica y coordina todos los proyectos para recaudar fondos."],
-            ["Education and Career Guidance", "Consigue oradores de orientación vocacional, organiza visitas y administra becas."],
-            ["Awards", "Promueve Merit Bars, Blue Honor Keys, RD y demás, y arregla su entrega en ceremonias públicas."],
-            ["Sick", "Visita o llama a los miembros enfermos y reporta en cada reunión."],
-            ["Auditing", "Tres miembros más un Advisor; revisa los libros del Scribe y del Treasurer y reporta en la reunión siguiente a que asume un nuevo MC."],
-            ["Finance", "Mínimo tres miembros; supervisa las finanzas del Chapter."]
+            ["Membresía (Membership; obligatorio)", "Organiza campañas de membresía, contacta a los candidatos sobre los Grados y orienta a los nuevos miembros."],
+            ["Entretenimiento (Entertainment)", "Prepara el entretenimiento de reuniones, cenas, eventos sociales y ceremonias públicas."],
+            ["Publicidad y Comunicaciones del Capítulo (Publicity and Chapter Communications)", "Maneja la difusión, publica el boletín del Capítulo y mantiene la web y las redes sociales."],
+            ["Observancias Obligatorias (Obligatory Observances)", "Planifica programas para observar todos los Días Obligatorios (Obligatory Days)."],
+            ["Relaciones Masónicas (Masonic Relations)", "Busca formas de servir al Cuerpo Patrocinador e invita a Masones a las reuniones."],
+            ["Deportes (Athletics)", "Organiza equipos, ligas y torneos, y busca que todos los miembros practiquen algún deporte."],
+            ["Relaciones entre Capítulos (Chapter Relations)", "Coordina visitas a otros Capítulos y las relaciones públicas que no son difusión."],
+            ["Servicio Cívico (Civic Service)", "Planifica todos los proyectos cívicos del Capítulo."],
+            ["Recaudación de Fondos (Fundraising)", "Planifica y coordina todos los proyectos para recaudar fondos."],
+            ["Educación y Orientación Vocacional (Education and Career Guidance)", "Consigue oradores de orientación vocacional, organiza visitas y administra becas."],
+            ["Premiaciones (Awards)", "Promueve las Barras de Mérito (Merit Bars), las Llaves Azules de Honor (Blue Honor Keys), el DeMolay Representativo (RD) y demás premios, y organiza su entrega en ceremonias públicas."],
+            ["Enfermos (Sick)", "Visita o llama a los miembros enfermos y reporta en cada reunión."],
+            ["Auditoría (Auditing)", "Tres miembros más un Consultor; revisa los libros del Escriba y del Tesorero y reporta en la reunión siguiente a que asume un nuevo Maestre Consejero."],
+            ["Finanzas (Finance)", "Mínimo tres miembros; supervisa las finanzas del Capítulo."]
           ] },
-          { "t": "p", "text": "Cada comité debería reunirse **al menos una vez entre reunión y reunión** del Chapter, dar informes breves y concretos, y rotar quién los presenta para que no hable siempre el chairman. Los comités que funcionan bien son el secreto de las reuniones de negocios cortas: si el comité ya analizó los pros y contras, el Chapter decide rápido." },
+          { "t": "p", "text": "Cada comité debería reunirse **al menos una vez entre reunión y reunión** del Capítulo, dar informes breves y concretos, y rotar a quien los presenta para que no hable siempre el presidente del comité. Los comités que funcionan bien son el secreto de las reuniones de negocios cortas: si el comité ya analizó los pros y los contras, el Capítulo decide rápido." },
           { "t": "ref", "text": "El detalle completo de los 14 comités está en el Handbook", "page": "23" }
         ]
       },
@@ -36,82 +36,82 @@
         "id": "l2",
         "title": "Protocolo de reunión: entrar, moverte y comportarte",
         "blocks": [
-          { "t": "p", "text": "Las reuniones de Chapter deberían ser la actividad mejor manejada de DeMolay, porque el procedimiento se repite siempre. El salón se prepara antes del horario de inicio: lo ideal es un comité de propiedades, y muchos Chapters se lo asignan a sus **7 Preceptors**, así casi siempre hay al menos tres para hacerlo. Los oficiales llegan antes para entrar a horario." },
-          { "t": "h", "text": "Cómo se entra al Chapter" },
+          { "t": "p", "text": "Las reuniones de Capítulo deberían ser la actividad mejor manejada de DeMolay, porque el procedimiento se repite siempre. El salón se prepara antes del horario de inicio: lo ideal es un comité de propiedades, y muchos Capítulos se lo asignan a sus **Siete Preceptores** (Preceptors), así casi siempre hay al menos tres para hacerlo. Los oficiales llegan antes para que la reunión abra puntual." },
+          { "t": "h", "text": "Cómo se entra al Capítulo" },
           { "t": "steps", "items": [
-            "Presentás tu membership card al **Sentinel**, que está apostado justo afuera de la puerta del salón.",
-            "El Sentinel te comunica la **Word of the Day**, una palabra que elige el Chapter Advisor y le pasa al Sentinel antes de empezar.",
-            "Adentro, cuando se recoge la Word of the Day, los miembros se levantan de a uno y se la susurran a los **Deacons**."
+            "Presentas tu Carné DeMolay (membership card) al **Centinela** (Sentinel), que está apostado justo afuera de la puerta del salón.",
+            "El Centinela te comunica la **Palabra del Día** (Word of the Day), una palabra que elige el Consultor Principal (Chapter Advisor) y le pasa al Centinela antes de empezar.",
+            "Adentro, cuando se recoge la Palabra del Día, los miembros se levantan uno por uno y se la susurran a los **Diáconos** (Deacons)."
           ] },
-          { "t": "p", "text": "Si querés visitar otro Chapter, le pedís al Sentinel un comité que te examine: lo hacen **tres miembros** de ese Chapter y, si el informe es favorable, te comunican la palabra. Adentro del salón, los miembros se levantan cuando entran los oficiales y guardan silencio salvo que quieran hablar: en ese caso te levantás, esperás que el MC te reconozca, y el piso es tuyo." },
-          { "t": "h", "text": "Los raps del mazo y el movimiento en el salón" },
-          { "t": "table", "headers": ["Raps", "Significado"], "rows": [
-            ["1 rap", "Se sienta todo el Chapter."],
-            ["2 raps", "Se ponen de pie los Officers."],
-            ["3 raps", "Se pone de pie todo el Chapter."]
+          { "t": "p", "text": "Si quieres visitar otro Capítulo, le pides al Centinela un comité que te examine: lo hacen **tres miembros** de ese Capítulo y, si el informe es favorable, te comunican la palabra. Dentro del salón, los miembros se levantan cuando entran los oficiales y guardan silencio salvo que quieran hablar: en ese caso te levantas, esperas a que el Maestre Consejero te reconozca, y la palabra es tuya." },
+          { "t": "h", "text": "Los golpes de mallete (raps) y el movimiento en el salón" },
+          { "t": "table", "headers": ["Golpes de mallete", "Significado"], "rows": [
+            ["1 golpe", "Se sienta todo el Capítulo."],
+            ["2 golpes", "Se ponen de pie los Oficiales."],
+            ["3 golpes", "Se pone de pie todo el Capítulo."]
           ] },
-          { "t": "p", "text": "Cuando el MC te dirige la palabra, **no lo saludás con saludo ritual: solo te ponés de pie**. El Sentinel no deja entrar a nadie mientras el Chapter se está abriendo en cualquiera de los dos Degrees. Si llegás tarde y te dan permiso, vas al altar y das el step, sign y token si se trabaja en el **Initiatory Degree**, o solo el sign si es el **DeMolay Degree**; el MC lo devuelve. Para salir en plena sesión es igual: te levantás, pedís permiso al MC, vas al altar, das el step y sign (o solo el sign), girás y salís. Durante las oraciones, los miembros se arrodillan al unísono con el Chaplain sobre la rodilla izquierda mirando al altar (Advisors, Masons, invitados y majority DeMolays quedan de pie), y al cierre todos responden Amen." },
-          { "t": "callout", "style": "warn", "text": "Mientras el Chapter está en sesión, **nadie pasa entre el altar y el East**, salvo que el Ritual lo requiera." },
-          { "t": "p", "text": "Para tratar negocios, el Chapter **debe abrirse en los dos Degrees**: Initiatory y DeMolay. Si solo se va a conferir el Initiatory Degree y no hay negocios, no hace falta abrir en el DeMolay Degree. Una vez abierto en ambos, pasa de un Degree al otro con una simple declaración. Y si falta un oficial: el SC o el JC actúan como MC según rango, el JC reemplaza al SC, y para el resto de los puestos el MC designa a un miembro para esa reunión." }
+          { "t": "p", "text": "Cuando el Maestre Consejero te dirige la palabra, **no lo saludas con saludo ritual: solo te pones de pie**. El Centinela no deja entrar a nadie mientras el Capítulo se está abriendo en cualquiera de los dos Grados. Si llegas tarde y te dan permiso, vas al altar y das el paso, el signo y el toque (step, sign, token) si se trabaja en el **Grado Iniciático** (Initiatory Degree), o solo el signo si es el **Grado DeMolay** (DeMolay Degree); el Maestre Consejero lo devuelve. Para salir en plena sesión es igual: te levantas, pides permiso al Maestre Consejero, vas al altar, das el paso y el signo (o solo el signo), giras y sales. Durante las oraciones, los miembros se arrodillan al unísono con el **Capellán** (Chaplain) sobre la rodilla izquierda mirando al altar (los Consultores, los Maestros Masones, los invitados y los DeMolay con Mayoría de Edad quedan de pie), y al cierre todos responden Amén." },
+          { "t": "callout", "style": "warn", "text": "Mientras el Capítulo está en sesión, **nadie pasa entre el altar y el Oriente (East)**, salvo que el Ritual lo requiera." },
+          { "t": "p", "text": "Para tratar negocios, el Capítulo **debe abrirse en los dos Grados**: el Iniciático y el DeMolay. Si solo se va a conferir el Grado Iniciático y no hay negocios, no hace falta abrir en el Grado DeMolay. Una vez abierto en ambos, pasa de un Grado al otro con una simple declaración. Y si falta un oficial: el Primer Consejero o el Segundo Consejero actúan como Maestre Consejero según rango, el Segundo Consejero reemplaza al Primer Consejero, y para el resto de los puestos el Maestre Consejero designa a un miembro para esa reunión." }
         ]
       },
       {
         "id": "l3",
-        "title": "El Order of Business y las minutas",
+        "title": "El Orden del Día y las minutas",
         "blocks": [
-          { "t": "p", "text": "Toda reunión de Chapter sigue el mismo **Order of Business de 17 puntos**. Conocerlo te permite saber siempre en qué parte de la reunión estás y qué viene después:" },
+          { "t": "p", "text": "Toda reunión de Capítulo sigue el mismo **Orden del Día (Order of Business) de 17 puntos**. Conocerlo te permite saber siempre en qué parte de la reunión estás y qué viene después:" },
           { "t": "steps", "items": [
-            "Opening (apertura)",
-            "Calling Roll of Officers (pase de lista de oficiales)",
-            "Reading Minutes of Previous Meeting (lectura de las minutas de la reunión anterior)",
-            "Almoner's Report (informe del Almoner)",
-            "Treasurer's Report (informe del Treasurer)",
-            "Sickness and Distress (enfermos y situaciones difíciles)",
-            "Reading of Communications (lectura de comunicaciones)",
-            "Reports of Committee on Applications for Membership (informes del comité sobre solicitudes)",
-            "Balloting for Candidates (balotaje de candidatos)",
-            "Bills against the Chapter (facturas contra el Chapter)",
-            "Applications for Membership (nuevas solicitudes de membresía)",
-            "Reports of Committees (informes de comités)",
-            "Unfinished Business (asuntos pendientes)",
-            "New Business (asuntos nuevos; acá se hacen las elecciones)",
-            "Good of the Order (por el bien de la Orden)",
-            "Receipts of Meeting (ingresos de la reunión)",
-            "Closing (cierre)"
+            "Apertura (Opening)",
+            "Pase de lista de oficiales (Calling Roll of Officers)",
+            "Lectura de las minutas de la reunión anterior (Reading Minutes of Previous Meeting)",
+            "Informe del Hospitalario (Almoner's Report)",
+            "Informe del Tesorero (Treasurer's Report)",
+            "Enfermos y situaciones difíciles (Sickness and Distress)",
+            "Lectura de comunicaciones (Reading of Communications)",
+            "Informes del comité sobre solicitudes de membresía (Reports of Committee on Applications for Membership)",
+            "Balotaje de candidatos (Balloting for Candidates)",
+            "Facturas contra el Capítulo (Bills against the Chapter)",
+            "Nuevas solicitudes de membresía (Applications for Membership)",
+            "Informes de comités (Reports of Committees)",
+            "Asuntos pendientes (Unfinished Business)",
+            "Asuntos nuevos (New Business); aquí se realizan las elecciones",
+            "«Por el bien de la Orden» (Good of the Order)",
+            "Ingresos de la reunión (Receipts of Meeting)",
+            "Cierre (Closing)"
           ] },
-          { "t": "ref", "text": "El Order of Business oficial figura en el Handbook", "page": "27" },
-          { "t": "h", "text": "Las minutas: la memoria del Chapter" },
-          { "t": "p", "text": "El **Scribe** registra todo lo que pasa en la reunión. El truco profesional: usar un formulario con espacios para cada punto del Order of Business, tomar un borrador durante la reunión y pasarlo en limpio antes de la próxima, para el registro permanente del Chapter. Las comunicaciones que no son de interés general no se leen completas: se resumen." },
+          { "t": "ref", "text": "El Orden del Día oficial figura en el Handbook", "page": "27" },
+          { "t": "h", "text": "Las minutas: la memoria del Capítulo" },
+          { "t": "p", "text": "El **Escriba** registra todo lo que pasa en la reunión. El truco profesional: usar un formulario con espacios para cada punto del Orden del Día, tomar un borrador durante la reunión y pasarlo en limpio antes de la próxima, para el registro permanente del Capítulo. Las comunicaciones que no son de interés general no se leen completas: se resumen." },
           { "t": "list", "items": [
             "**Sí va:** toda resolución y moción registrada completa, con el nombre de quien la propone y de quien la secunda.",
-            "**Sí va:** los visitantes que presenta el MC, con nombre completo bien escrito y títulos correctos (Chapter, Lodge, etc.)."
+            "**Sí va:** los visitantes que presenta el Maestre Consejero, con el nombre completo bien escrito y los títulos correctos (Capítulo, Logia, etc.)."
           ] },
-          { "t": "callout", "style": "warn", "text": "En las minutas **no van**: chistes, controversias o discusiones, ni las opiniones o comentarios personales del Scribe." }
+          { "t": "callout", "style": "warn", "text": "En las minutas **no van**: chistes, controversias o discusiones, ni las opiniones o comentarios personales del Escriba." }
         ]
       },
       {
         "id": "l4",
         "title": "Elegir nuevos miembros: el balotaje",
         "blocks": [
-          { "t": "p", "text": "Para aplicar a DeMolay hay que **haber cumplido 12 años y no haber llegado a los 21**, y tener la recomendación de al menos un miembro del Chapter o de un Senior DeMolay con Senior DeMolay Certificate. La solicitud se presenta en una **stated meeting** (reunión ordinaria) y debe esperar **al menos una semana** antes de votarse, salvo autorización del Executive Officer. El MC la deriva a un comité de investigación de **tres miembros**, que averigua sobre el carácter del candidato y entrega un informe escrito a más tardar en la siguiente stated meeting, cuando se vota." },
-          { "t": "h", "text": "El procedimiento del ballot, paso a paso" },
+          { "t": "p", "text": "Para solicitar el ingreso a DeMolay hay que **haber cumplido 12 años y no haber llegado a los 21**, y tener la recomendación de al menos un miembro del Capítulo o de un Sénior DeMolay (Senior DeMolay) con su Certificado de Sénior DeMolay. La solicitud se presenta en una **reunión ordinaria** (stated meeting) y debe esperar **al menos una semana** antes de votarse, salvo autorización del Oficial Ejecutivo. El Maestre Consejero la deriva a un Comité de Sindicancia (investigating committee) de **tres miembros**, que averigua sobre el carácter del candidato y entrega un informe escrito a más tardar en la siguiente reunión ordinaria, cuando se vota." },
+          { "t": "h", "text": "El procedimiento de balotaje, paso a paso" },
           { "t": "steps", "items": [
-            "El MC ordena al **Senior Deacon** preparar el ballot box con suficientes white balls (bolillas blancas) y black cubes (cubos negros).",
-            "El Senior Deacon presenta la urna al JC, al SC y al MC, en ese orden, para que cada uno inspeccione que está bien preparada.",
-            "El MC anuncia el balotaje, informa si el comité reportó favorable o desfavorable, recuerda que «white balls elect, and black cubes reject» y emite su voto primero.",
-            "El Senior Deacon lleva la urna al SC y después al JC, que votan en sus estaciones.",
-            "Deja la urna en un soporte junto al ángulo noroeste del altar, vota él mismo y se para a mitad de camino entre el altar y la estación del SC, mirando al West, para inspeccionar la **obligation card** de cada miembro que vota.",
-            "Los miembros votan en fila sin importar rango, empezando por el Scribe: primero todo el lado sur del salón, después el lado norte.",
-            "El Junior Deacon releva al Sentinel para que también pueda votar; al terminar, el Sentinel vuelve a su puesto.",
-            "El MC pregunta si votaron todos los habilitados, declara cerrado el ballot con un golpe de mazo, y el Senior Deacon lleva la urna (con inspección del JC y del SC) al East, donde el MC lee el resultado."
+            "El Maestre Consejero ordena al **Primer Diácono** (Senior Deacon) preparar la urna de balotaje con suficientes balotas blancas (white balls) y balotas negras (black cubes).",
+            "El Primer Diácono presenta la urna al Segundo Consejero, al Primer Consejero y al Maestre Consejero, en ese orden, para que cada uno inspeccione que está bien preparada.",
+            "El Maestre Consejero anuncia el balotaje, informa si el comité reportó favorable o desfavorablemente, recuerda que «white balls elect, and black cubes reject» (las balotas blancas eligen y las negras rechazan) y emite su voto primero.",
+            "El Primer Diácono lleva la urna al Primer Consejero y después al Segundo Consejero, que votan en sus estaciones.",
+            "Deja la urna en un soporte junto al ángulo noroeste del altar, vota él mismo y se ubica a mitad de camino entre el altar y la estación del Primer Consejero, mirando al Occidente (West), para inspeccionar la **Tarjeta de Obligación** (obligation card) de cada miembro que vota.",
+            "Los miembros votan en fila sin importar el rango, empezando por el Escriba: primero todo el lado sur del salón, después el lado norte.",
+            "El Segundo Diácono (Junior Deacon) releva al Centinela para que también pueda votar; al terminar, el Centinela vuelve a su puesto.",
+            "El Maestre Consejero pregunta si ya votaron todos los habilitados, declara cerrado el balotaje con un golpe de mallete, y el Primer Diácono lleva la urna (con inspección del Segundo Consejero y del Primer Consejero) al Oriente, donde el Maestre Consejero lee el resultado."
           ] },
-          { "t": "table", "headers": ["Black cubes", "Resultado"], "rows": [
-            ["0 o 1", "El candidato queda **electo** para recibir los Degrees."],
-            ["2", "La solicitud **queda en suspenso (lies over)** hasta la próxima stated meeting, donde se vota de nuevo. En ese segundo ballot queda electo salvo que aparezcan 3 o más black cubes."],
+          { "t": "table", "headers": ["Balotas negras", "Resultado"], "rows": [
+            ["0 o 1", "El candidato queda **electo** para recibir los Grados."],
+            ["2", "La solicitud **queda en suspenso (lies over)** hasta la próxima reunión ordinaria, donde se vota de nuevo. En ese segundo balotaje queda electo salvo que aparezcan 3 o más balotas negras."],
             ["3 o más", "La solicitud queda **rechazada**."]
           ] },
-          { "t": "callout", "style": "key", "text": "El voto es **secreto**: el balotaje se conduce de modo que nadie sepa cómo votó cada uno. Y la velocidad importa, para no alargar la reunión ni hacer perder interés al candidato. Si se vota a varios candidatos juntos y aparecen 2 o más black cubes, se toma un ballot separado por cada solicitud." },
-          { "t": "p", "text": "**Objeciones:** un informe desfavorable del comité o la objeción de cualquier miembro antes del ballot se deriva al Chapter Advisor (o a un miembro del Advisory Council presente), y el Advisory Council decide si eso constituye un rechazo. Si el candidato ya fue electo pero todavía no recibió ningún Degree, **tres miembros** pueden presentar una objeción escrita y firmada: el Chapter la vota, y si la sostiene **un tercio de los presentes**, el candidato queda rechazado. Una vez que recibió algún Degree, solo cabe un juicio regular ante el Advisory Council. Además, el Advisory Council puede declarar a un candidato electo o rechazado si cree que conviene a DeMolay; si lo declara electo, el Chairman debe reportarlo al Executive Officer antes de conferir un Degree, y este lo aprueba o no. Una vez ordenado un ballot, el MC no puede frenarlo por pedido privado: la postergación se mueve y se vota en el Chapter." },
+          { "t": "callout", "style": "key", "text": "El voto es **secreto**: el balotaje se conduce de modo que nadie sepa cómo votó cada uno. Y la velocidad importa, para no alargar la reunión ni hacer que el candidato pierda interés. Si se vota a varios candidatos juntos y aparecen 2 o más balotas negras, se toma un balotaje separado por cada solicitud." },
+          { "t": "p", "text": "**Objeciones:** un informe desfavorable del comité o la objeción de cualquier miembro antes del balotaje se deriva al Consultor Principal (o a un miembro del Consejo Consultivo presente), y el Consejo Consultivo decide si eso constituye un rechazo. Si el candidato ya fue electo pero todavía no recibió ningún Grado, **tres miembros** pueden presentar una objeción escrita y firmada: el Capítulo la vota, y si la sostiene **un tercio de los presentes**, el candidato queda rechazado. Una vez que recibió algún Grado, solo cabe un juicio regular ante el Consejo Consultivo. Además, el Consejo Consultivo puede declarar a un candidato electo o rechazado si cree que conviene a DeMolay; si lo declara electo, el Presidente del Consejo Consultivo debe reportarlo al Oficial Ejecutivo antes de conferir un Grado, y este lo aprueba o no. Una vez ordenado un balotaje, el Maestre Consejero no puede frenarlo por un pedido privado: la postergación se mociona y se vota en el Capítulo." },
           { "t": "ref", "text": "El procedimiento completo de balotaje está en el Handbook", "page": "31" }
         ]
       },
@@ -119,42 +119,42 @@
         "id": "l5",
         "title": "Elecciones de oficiales",
         "blocks": [
-          { "t": "p", "text": "El **MC, el SC y el JC se eligen por ballot**, por el término que fijen los By-Laws del Chapter. Para ser electo MC tenés que haber servido como Senior o Junior Councilor, con dos excepciones: que el Advisory Council considere que al Chapter le conviene otro miembro, o que el Chapter sea nuevo. La elección es por **paper ballot** (voto en papel) emitido solo por los miembros individuales, y gana quien junta la **mayoría de los votos sin contar los en blanco**. Los ballots se preparan antes de la reunión." },
+          { "t": "p", "text": "El **Maestre Consejero, el Primer Consejero y el Segundo Consejero se eligen por balotaje**, por el término que fijen los Estatutos (By-Laws) del Capítulo. Para ser electo Maestre Consejero tienes que haber servido como Primer o Segundo Consejero, con dos excepciones: que el Consejo Consultivo considere que al Capítulo le conviene otro miembro, o que el Capítulo sea nuevo. La elección es por **voto en papel** (paper ballot) emitido solo por los miembros individuales, y gana quien reúne la **mayoría de los votos sin contar los que están en blanco**. Las papeletas se preparan antes de la reunión." },
           { "t": "cards", "items": [
-            { "title": "Electos por ballot", "text": "Master Councilor, Senior Councilor y Junior Councilor, votados en papel por los miembros." },
-            { "title": "Nombrados por el Advisory Council", "text": "El Scribe (puede ser miembro activo o Senior DeMolay) y el Treasurer (debe ser adulto legal y miembro del Advisory Council). Sirven hasta que se nombra a su sucesor y el Advisory Council puede removerlos por no cumplir sus deberes." },
-            { "title": "Nombrados por el MC", "text": "Todos los demás oficiales, que ocupan sus estaciones durante el término del MC." }
+            { "title": "Electos por balotaje", "text": "El Maestre Consejero, el Primer Consejero y el Segundo Consejero, votados en papel por los miembros." },
+            { "title": "Nombrados por el Consejo Consultivo", "text": "El Escriba (puede ser un miembro activo o un Sénior DeMolay) y el Tesorero (debe ser un adulto legal y miembro del Consejo Consultivo). Sirven hasta que se nombra a su sucesor, y el Consejo Consultivo puede removerlos por no cumplir sus deberes." },
+            { "title": "Nombrados por el Maestre Consejero", "text": "Todos los demás oficiales, que ocupan sus estaciones durante el término del Maestre Consejero." }
           ] },
           { "t": "steps", "items": [
-            "El MC declara que se tomará un ballot para el cargo de MC (después SC, y así sucesivamente).",
-            "Los Deacons reparten ballots a todos los hermanos que presentan sus obligations.",
-            "Recogen los votos y los llevan a la mesa, donde se tabulan con ayuda del **Marshal**, que comunica el resultado al MC.",
+            "El Maestre Consejero declara que se tomará un balotaje para el cargo de Maestre Consejero (después el de Primer Consejero, y así sucesivamente).",
+            "Los Diáconos reparten las papeletas a todos los hermanos que presentan sus Obligaciones (obligations).",
+            "Recogen los votos y los llevan a la mesa, donde se tabulan con ayuda del **Mariscal** (Marshal), que comunica el resultado al Maestre Consejero.",
             "Si hay empate o nadie logra mayoría, se vuelve a votar (reballot).",
-            "Conocido el Councilor electo, el MC lo anuncia; el electo puede decir unas palabras si quiere."
+            "Conocido el Consejero electo, el Maestre Consejero lo anuncia; el electo puede decir unas palabras si quiere."
           ] },
-          { "t": "p", "text": "Los oficiales pueden instalarse en la misma reunión en que fueron electos o dentro de los **30 días** siguientes, según lo determine el Chapter." },
-          { "t": "callout", "style": "warn", "text": "**3 ausencias consecutivas** a reuniones del Chapter sin una excusa aprobada por el Chairman del Advisory Council (o su representante designado) crean una **vacancia en el cargo**, que se cubre según los By-Laws o las Rules and Regulations de DeMolay International." }
+          { "t": "p", "text": "Los oficiales pueden instalarse en la misma reunión en que fueron electos o dentro de los **30 días** siguientes, según lo determine el Capítulo." },
+          { "t": "callout", "style": "warn", "text": "**3 ausencias consecutivas** a reuniones del Capítulo sin una excusa aprobada por el Presidente del Consejo Consultivo (o su representante designado) crean una **vacancia en el cargo**, que se cubre según los Estatutos o las Rules and Regulations de DeMolay Internacional." }
         ]
       },
       {
         "id": "l6",
-        "title": "Reglas generales que todo Chapter respeta",
+        "title": "Reglas generales que todo Capítulo respeta",
         "blocks": [
-          { "t": "p", "text": "Hay un puñado de reglas fijas que gobiernan la vida de cualquier Chapter, desde qué se puede regalar hasta cuándo se puede usar el uniforme en público. Conocerlas te evita errores que pueden costar caro." },
+          { "t": "p", "text": "Hay un puñado de reglas fijas que gobiernan la vida de cualquier Capítulo, desde qué se puede regalar hasta cuándo se puede usar el uniforme en público. Conocerlas te evita errores que pueden costar caro." },
           { "t": "cards", "items": [
-            { "title": "Regalos", "text": "Los fondos del Chapter no pueden usarse para regalos a oficiales salientes, hermanos distinguidos ni nuevos miembros. Única excepción: con aprobación del Advisory Council, el **Past Master Councilor's Jewel** para un MC saliente de servicio sobresaliente y conducta intachable, que haya conferido el Initiatory y el DeMolay Degree **de memoria** al menos una vez en su término (con excepción si fue llamado a las fuerzas armadas)." },
-            { "title": "Emblema", "text": "No uses el emblema de la Orden en ningún lugar adonde no llevarías a tu madre o a tu hermana: hacerlo es conducta impropia de un DeMolay y trae disciplina. Solo se usa el emblema autorizado, y no se regala, presta ni se deja usar a otra persona. Tampoco se usa nada de DeMolay para negocios o publicidad ajenos a la Orden." },
-            { "title": "Uniforme y regalia en público", "text": "Un Chapter solo aparece en público en uniforme en cuatro casos: el funeral de un miembro, la observancia de un Obligatory Day, una instalación pública de oficiales, o con dispensa del Executive Officer. La regalia de los Degrees no se presta para fines no DeMolay." },
-            { "title": "Reserva", "text": "Revelar indebidamente las transacciones del Chapter (unlawful revelation) se castiga con suspensión o expulsión inmediata una vez probado." }
+            { "title": "Regalos", "text": "Los fondos del Capítulo no pueden usarse para regalos a oficiales salientes, hermanos distinguidos ni nuevos miembros. Única excepción: con aprobación del Consejo Consultivo, la **Joya de Past Maestre Consejero** (Past Master Councilor's Jewel) para un Maestre Consejero saliente de servicio sobresaliente y conducta intachable, que haya conferido el Grado Iniciático y el Grado DeMolay **de memoria** al menos una vez en su término (con excepción si fue llamado a las fuerzas armadas)." },
+            { "title": "El Blasón", "text": "No uses el Blasón (emblem) de la Orden en ningún lugar adonde no llevarías a tu madre o a tu hermana: hacerlo es conducta impropia de un DeMolay y trae disciplina. Solo se usa el Blasón autorizado, y no se regala, presta ni se deja usar a otra persona. Tampoco se usa nada de DeMolay para negocios o publicidad ajenos a la Orden." },
+            { "title": "Uniforme y regalia en público", "text": "Un Capítulo solo aparece en público en uniforme en cuatro casos: el funeral de un miembro, la observancia de un Día Obligatorio, una instalación pública de oficiales, o con dispensa del Oficial Ejecutivo. La regalia de los Grados no se presta para fines ajenos a DeMolay." },
+            { "title": "Reserva", "text": "Revelar indebidamente las transacciones del Capítulo (unlawful revelation) se castiga con suspensión o expulsión inmediata una vez probado." }
           ] },
-          { "t": "callout", "style": "warn", "text": "**Alcohol y drogas:** prohibido gastar fondos del Chapter en bebidas alcohólicas o servirlas en cualquier función del Chapter, y prohibido que cualquier miembro u oficial posea o distribuya alcohol o drogas en cualquier evento DeMolay. **Tabaco:** estrictamente prohibido en toda función DeMolay, incluidos vapeo y e-cigarettes. **Bebidas energéticas:** muchas jurisdicciones las restringen; consultá la política de tu Executive Officer." },
+          { "t": "callout", "style": "warn", "text": "**Alcohol y drogas:** prohibido gastar fondos del Capítulo en bebidas alcohólicas o servirlas en cualquier función del Capítulo, y prohibido que cualquier miembro u oficial posea o distribuya alcohol o drogas en cualquier evento DeMolay. **Tabaco:** estrictamente prohibido en toda función DeMolay, incluidos el vapeo y los cigarrillos electrónicos. **Bebidas energéticas:** muchas jurisdicciones las restringen; consulta la política de tu Oficial Ejecutivo." },
           { "t": "table", "headers": ["Tema", "Dato exacto"], "rows": [
-            ["Fee de los Degrees", "Lo fija DeMolay International; nunca menos de $35.00. El affiliation fee, nunca menos de $20.00."],
-            ["Remisión a DeMolay International", "Dentro de los 10 días de conferido el Initiatory Degree, el Scribe remite el monto de membresía vitalicia vía eScribe."],
-            ["Charter", "Las **Letters Temporary** (autorización provisoria) se otorgan por tiempo limitado; tras no menos de 6 meses mostrando promesa y permanencia, el Executive Officer puede recomendar el Charter."],
-            ["By-Laws", "Cada Chapter adopta By-Laws uniformes; puede sumar otras si no contradicen las de DeMolay International y las aprueba el Executive Officer."],
+            ["Cuota de los Grados", "La fija DeMolay Internacional; nunca menos de $35.00. La cuota de afiliación, nunca menos de $20.00."],
+            ["Remisión a DeMolay Internacional", "Dentro de los 10 días de conferido el Grado Iniciático, el Escriba remite el monto de la Membresía Vitalicia (Life Membership) vía eScribe."],
+            ["Carta Constitutiva (Charter)", "La **Carta Constitutiva Temporal** (Letters Temporary; autorización provisoria) se otorga por tiempo limitado; tras no menos de 6 meses mostrando promesa y permanencia, el Oficial Ejecutivo puede recomendar la Carta Constitutiva permanente."],
+            ["Estatutos (By-Laws)", "Cada Capítulo adopta Estatutos uniformes; puede sumar otros si no contradicen los de DeMolay Internacional y los aprueba el Oficial Ejecutivo."],
             ["Año fiscal", "Del 1 de enero al 31 de diciembre."],
-            ["Patents", "El Service & Leadership Center los emite cuando el nombre del miembro se reporta a la oficina del Grand Secretary vía eScribe por ambos Degrees."]
+            ["Patentes (Patents)", "El Centro de Servicio y Liderazgo (Service & Leadership Center) las emite cuando el nombre del miembro se reporta a la oficina del Gran Secretario (Grand Secretary) vía eScribe por ambos Grados."]
           ] },
           { "t": "ref", "text": "Toda la sección de información general está en el Handbook", "page": "35" }
         ]
@@ -162,52 +162,52 @@
     ],
     "quiz": [
       {
-        "q": "¿Cuál es el único comité que las DeMolay Rules & Regulations exigen que tenga todo Chapter?",
-        "options": ["Finance", "Membership", "Auditing", "Publicity and Chapter Communications"],
+        "q": "¿Cuál es el único comité que las Rules & Regulations de DeMolay exigen que tenga todo Capítulo?",
+        "options": ["Finanzas", "Membresía", "Auditoría", "Publicidad y Comunicaciones del Capítulo"],
         "correct": 1,
-        "explain": "De los 14 comités sugeridos, solo el Membership Committee es obligatorio; los demás se arman según el tamaño del Chapter."
+        "explain": "De los 14 comités sugeridos, solo el Comité de Membresía es obligatorio; los demás se arman según el tamaño del Capítulo."
       },
       {
-        "q": "Durante una reunión, ¿qué indican tres raps del mazo?",
-        "options": ["Se sienta todo el Chapter", "Se ponen de pie solo los Officers", "Se pone de pie todo el Chapter", "Se cierra la reunión"],
+        "q": "Durante una reunión, ¿qué indican tres golpes de mallete?",
+        "options": ["Se sienta todo el Capítulo", "Se ponen de pie solo los Oficiales", "Se pone de pie todo el Capítulo", "Se cierra la reunión"],
         "correct": 2,
-        "explain": "Un rap sienta al Chapter, dos raps levantan a los Officers y tres raps levantan a todo el Chapter."
+        "explain": "Un golpe sienta al Capítulo, dos golpes levantan a los Oficiales y tres golpes levantan a todo el Capítulo."
       },
       {
-        "q": "En el balotaje de un candidato aparecen exactamente 2 black cubes. ¿Qué pasa con su solicitud?",
-        "options": ["Queda electo igual", "Queda rechazada definitivamente", "Queda en suspenso hasta la próxima stated meeting", "Se repite el ballot esa misma noche"],
+        "q": "En el balotaje de un candidato aparecen exactamente 2 balotas negras. ¿Qué pasa con su solicitud?",
+        "options": ["Queda electo igual", "Queda rechazada definitivamente", "Queda en suspenso hasta la próxima reunión ordinaria", "Se repite el balotaje esa misma noche"],
         "correct": 2,
-        "explain": "Con 2 black cubes la solicitud lies over: se vota de nuevo en la próxima stated meeting, y ahí solo se rechaza si aparecen 3 o más."
+        "explain": "Con 2 balotas negras la solicitud queda en suspenso (lies over): se vota de nuevo en la próxima reunión ordinaria, y ahí solo se rechaza si aparecen 3 o más."
       },
       {
-        "q": "¿Cuántos puntos tiene el Order of Business oficial de una reunión de Chapter?",
+        "q": "¿Cuántos puntos tiene el Orden del Día oficial de una reunión de Capítulo?",
         "options": ["12", "15", "17", "20"],
         "correct": 2,
-        "explain": "Son 17 puntos fijos, desde Opening hasta Closing, que se repiten en todas las reuniones."
+        "explain": "Son 17 puntos fijos, desde la Apertura hasta el Cierre, que se repiten en todas las reuniones."
       },
       {
-        "q": "¿Qué cosa NO debe aparecer en las minutas que escribe el Scribe?",
+        "q": "¿Qué cosa NO debe aparecer en las minutas que escribe el Escriba?",
         "options": ["El nombre de quien hace cada moción", "Sus opiniones y comentarios personales", "Los nombres completos de los visitantes", "Las resoluciones registradas completas"],
         "correct": 1,
-        "explain": "Las minutas excluyen chistes, controversias y las opiniones o comentarios del Scribe; las mociones y los visitantes sí se registran."
+        "explain": "Las minutas excluyen chistes, controversias y las opiniones o comentarios del Escriba; las mociones y los visitantes sí se registran."
       },
       {
-        "q": "Un oficial falta a 3 reuniones consecutivas sin excusa aprobada por el Chairman del Advisory Council. ¿Qué ocurre?",
+        "q": "Un oficial falta a 3 reuniones consecutivas sin excusa aprobada por el Presidente del Consejo Consultivo. ¿Qué ocurre?",
         "options": ["Recibe una advertencia formal", "Su cargo queda vacante", "Pierde el voto por un mes", "No pasa nada si avisa después"],
         "correct": 1,
-        "explain": "Tres ausencias consecutivas sin excusa aprobada crean una vacancia, que se cubre según los By-Laws o las reglas de DeMolay International."
+        "explain": "Tres ausencias consecutivas sin excusa aprobada crean una vacancia, que se cubre según los Estatutos o las reglas de DeMolay Internacional."
       },
       {
-        "q": "¿Cuál es el único regalo que un Chapter puede comprar con sus fondos?",
-        "options": ["Un obsequio para cada nuevo miembro", "Regalos para todos los oficiales salientes", "El Past Master Councilor's Jewel para un MC saliente destacado", "Una placa para el Chapter Advisor"],
+        "q": "¿Cuál es el único regalo que un Capítulo puede comprar con sus fondos?",
+        "options": ["Un obsequio para cada nuevo miembro", "Regalos para todos los oficiales salientes", "La Joya de Past Maestre Consejero para un Maestre Consejero saliente destacado", "Una placa para el Consultor Principal"],
         "correct": 2,
-        "explain": "Solo el PMC Jewel, con aprobación del Advisory Council y si el MC confirió ambos Degrees de memoria al menos una vez en su término."
+        "explain": "Solo la Joya de Past Maestre Consejero, con aprobación del Consejo Consultivo y si el Maestre Consejero confirió ambos Grados de memoria al menos una vez en su término."
       },
       {
-        "q": "¿Cuál es el año fiscal de DeMolay para los Chapters?",
+        "q": "¿Cuál es el año fiscal de DeMolay para los Capítulos?",
         "options": ["Del 1 de julio al 30 de junio", "Del 1 de enero al 31 de diciembre", "Del 1 de septiembre al 31 de agosto", "Del 1 de marzo al 28 de febrero"],
         "correct": 1,
-        "explain": "El año fiscal DeMolay para los Chapters va del 1 de enero al 31 de diciembre."
+        "explain": "El año fiscal DeMolay para los Capítulos va del 1 de enero al 31 de diciembre."
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "id": "membresia",
   "es": {
-    "title": "Membresía: de aplicante a hermano",
+    "title": "Membresía: de aspirante a Hermano",
     "subtitle": "Quién puede entrar, cómo es el camino de ingreso y qué significa ser DeMolay para toda la vida.",
     "minutes": 8,
     "lessons": [
@@ -9,88 +9,88 @@
         "id": "l1",
         "title": "¿Quién puede ser DeMolay?",
         "blocks": [
-          { "t": "p", "text": "Cada Chapter necesita miembros nuevos todos los años: la mayoría entra alrededor de los 14, termina el colegio cerca de los 18 y casi todo el Chapter se renueva en unos **3 años**. Por eso, saber quién puede entrar y cómo invitarlo es tarea de todos, no solo de un comité." },
+          { "t": "p", "text": "Cada Capítulo (Chapter) necesita miembros nuevos todos los años: la mayoría entra alrededor de los 14, termina el colegio cerca de los 18 y casi todo el Capítulo se renueva en unos **3 años**. Por eso, saber quién puede entrar y cómo invitarlo es tarea de todos, no solo de un comité." },
           { "t": "h", "text": "Los requisitos de elegibilidad" },
           { "t": "list", "items": [
             "Ser un joven varón que ya **pasó su cumpleaños número 12** y todavía **no llegó al 21**.",
             "Tener **buen carácter moral**.",
-            "Ser **recomendado** por un DeMolay activo, un Senior DeMolay (miembro que ya cumplió 21) o un Master Mason (masón del tercer grado)."
+            "Ser **recomendado** por un DeMolay activo, un Sénior DeMolay (Senior DeMolay, miembro que ya cumplió 21) o un Maestro Masón (Master Mason, masón del tercer grado)."
           ] },
           { "t": "callout", "style": "key", "text": "La membresía **NO está limitada a hijos o parientes de masones**. Cualquier joven elegible de tu comunidad puede entrar. Que nadie responda \"nadie me invitó\" cuando le pregunten por qué no es DeMolay." },
-          { "t": "h", "text": "La application" },
-          { "t": "p", "text": "El ingreso arranca completando la **Membership Application** (solicitud de membresía estándar), disponible online. Incluye un breve perfil del joven y el **consentimiento de sus padres o tutores**. Además, el aplicante debe nombrar como referencia al menos a un miembro del Chapter, un Senior DeMolay o un Master Mason." }
+          { "t": "h", "text": "La solicitud" },
+          { "t": "p", "text": "El ingreso comienza completando la **Solicitud de Membresía** (Membership Application), disponible online. Incluye un breve perfil del joven y el **consentimiento de sus padres o tutores**. Además, el aspirante debe nombrar como referencia al menos a un miembro del Capítulo, un Sénior DeMolay o un Maestro Masón." }
         ]
       },
       {
         "id": "l2",
         "title": "El camino de ingreso, paso a paso",
         "blocks": [
-          { "t": "p", "text": "Entre la application y tus degrees hay un proceso ordenado. No es burocracia: es la forma en que el Chapter conoce al futuro hermano y su familia conoce a DeMolay." },
+          { "t": "p", "text": "Entre la solicitud y tus grados hay un proceso ordenado. No es burocracia: es la forma en que el Capítulo conoce al futuro Hermano y su familia conoce a DeMolay." },
           { "t": "steps", "items": [
-            "**Application:** el aplicante presenta su Membership Application con el consentimiento de sus padres o tutores.",
-            "**Comité de investigación:** el Master Councilor (presidente del Chapter) designa un comité de **2 a 3 miembros más un Advisor** (consejero adulto) para hacer una **visita al hogar** del aplicante.",
-            "**Informe al Chapter:** el comité presenta su reporte completo. Sin ese informe, la application **no puede pasar a ballot**.",
-            "**Ballot:** el Chapter vota la application. Si el voto es favorable, el candidato queda electo.",
-            "**Degrees:** el nuevo miembro recibe el **Initiatory Degree** y después el **DeMolay Degree**, las dos ceremonias de iniciación."
+            "**Solicitud:** el aspirante presenta su Solicitud de Membresía con el consentimiento de sus padres o tutores.",
+            "**Comité de Sindicancia (investigating committee):** el Maestre Consejero (Master Councilor, presidente del Capítulo) designa un comité de **2 a 3 miembros más un Consultor** (Advisor, consejero adulto; en Bolivia se les dice **\"Tíos\"** —y a las madres del Club, **\"Tías\"**) para hacer una **visita al hogar** del aspirante.",
+            "**Informe al Capítulo:** el comité presenta su informe completo. Sin ese informe, la solicitud **no puede pasar a balotaje** (ballot).",
+            "**Balotaje:** el Capítulo vota la solicitud. Si el voto es favorable, el candidato queda electo.",
+            "**Grados:** el nuevo miembro recibe el **Grado Iniciático** (Initiatory Degree) y después el **Grado DeMolay** (DeMolay Degree), las dos ceremonias de iniciación."
           ] },
           { "t": "p", "text": "¿Qué mira la visita al hogar? Cuatro áreas: su **vida en el hogar**, su **vida social** y la reputación de sus amistades, su **historial escolar** (si estudia) y su **historial laboral** (si trabaja). La consigna es ser diplomático: una charla amena donde las preguntas se van tejiendo en la conversación, no un interrogatorio." },
-          { "t": "callout", "style": "info", "text": "La visita también es para la familia: el comité responde todas las preguntas que el aplicante y sus padres tengan sobre DeMolay. El comité debe reportar a más tardar en la siguiente reunión del Chapter." },
+          { "t": "callout", "style": "info", "text": "La visita también es para la familia: el comité responde todas las preguntas que el aspirante y sus padres tengan sobre DeMolay. El comité debe reportar a más tardar en la siguiente reunión del Capítulo." },
           { "t": "ref", "text": "El formulario y las preguntas completas de la visita al hogar están en el Handbook", "page": "17" }
         ]
       },
       {
         "id": "l3",
-        "title": "Fees, plazos y papeleo",
+        "title": "Cuotas, plazos y papeleo",
         "blocks": [
-          { "t": "p", "text": "Los montos mínimos los fija DeMolay International, y tu Chapter puede establecer valores más altos mediante una enmienda a sus Bylaws (estatutos) para cubrir otros ítems del nuevo miembro." },
+          { "t": "p", "text": "Los montos mínimos los fija DeMolay Internacional (DeMolay International), y tu Capítulo puede establecer valores más altos mediante una enmienda a sus Estatutos (Bylaws) para cubrir otros ítems del nuevo miembro." },
           { "t": "table", "headers": ["Concepto", "Mínimo", "Qué incluye"], "rows": [
-            ["Fee de iniciación (degrees)", "$35.00", "Membresía **vitalicia**: degrees, patent (diploma de miembro) y cargos asociados"],
-            ["Affiliation fee (cambio de Chapter)", "$20.00", "Afiliarte a un Chapter cuando ya sos miembro"]
+            ["Cuota de iniciación (grados)", "$35.00", "Membresía **vitalicia** (Life Membership): grados, patente (patent, diploma de miembro) y cargos asociados"],
+            ["Cuota de afiliación (affiliation fee, cambio de Capítulo)", "$20.00", "Afiliarte a un Capítulo cuando ya eres miembro"]
           ] },
-          { "t": "callout", "style": "key", "text": "Dentro de los **10 días** de conferido el Initiatory Degree, el Scribe (secretario del Chapter) debe remitir a DeMolay International el monto por cada nuevo iniciado. Todo el reporte y el pago se procesan electrónicamente por **eScribe**." },
-          { "t": "p", "text": "Los **patents** los emite el Service & Leadership Center (la oficina central de DeMolay) cuando tu nombre se reporta vía eScribe a la oficina del Grand Secretary por ambos degrees. Es tu certificado oficial de miembro." }
+          { "t": "callout", "style": "key", "text": "Dentro de los **10 días** de conferido el Grado Iniciático, el Escriba (Scribe, secretario del Capítulo) debe remitir a DeMolay Internacional el monto por cada nuevo iniciado. Todo el reporte y el pago se procesan electrónicamente por **eScribe**." },
+          { "t": "p", "text": "Las **patentes** las emite el Centro de Servicio y Liderazgo (Service & Leadership Center, la oficina central de DeMolay) cuando tu nombre se reporta vía eScribe a la oficina del Gran Secretario (Grand Secretary) por ambos grados. Es tu certificado oficial de miembro." }
         ]
       },
       {
         "id": "l4",
-        "title": "Orientación: tu Big Brother y las 3 sesiones",
+        "title": "Orientación: tu Hermano Mayor y las 3 sesiones",
         "blocks": [
-          { "t": "p", "text": "Conseguir la application es trabajo del Membership Committee; **hacerte sentir en casa** es trabajo del Orientation Committee y de cada miembro activo. Un Chapter sin programa de orientación deja la puerta de atrás tan abierta como la de adelante." },
-          { "t": "p", "text": "El comité se arma simple: **un miembro con experiencia por cada candidato más un Advisor**. A ese miembro se lo llama **Big Brother** (o coach de orientación) y lo asigna el Master Councilor. El **Junior Councilor** suele presidir el comité y conducir las sesiones. Te acompaña desde que llega tu application hasta que recitás tu DeMolay Degree Obligation en open Chapter (reunión formal abierta del Chapter)." },
+          { "t": "p", "text": "Conseguir la solicitud es trabajo del Comité de Membresía (Membership Committee); **hacerte sentir en casa** es trabajo del Comité de Orientación y de cada miembro activo. Un Capítulo sin programa de orientación deja la puerta de atrás tan abierta como la de adelante." },
+          { "t": "p", "text": "Armar el comité es simple: **un miembro con experiencia por cada candidato más un Consultor**. A ese miembro se le llama **Hermano Mayor** (Big Brother, o coach de orientación) y lo asigna el Maestre Consejero. El **Segundo Consejero** (Junior Councilor) suele presidir el comité y conducir las sesiones. Te acompaña desde que llega tu solicitud hasta que recitas tu Obligación (Obligation) del Grado DeMolay en Capítulo abierto (open Chapter, reunión formal abierta del Capítulo)." },
           { "t": "cards", "items": [
-            { "title": "Sesión 1 — antes del Initiatory Degree", "text": "Una hora antes de la ceremonia. El Junior Councilor explica la historia de DeMolay y del Chapter, los officers y el Advisory Council, los comités, la conducta y el dress code, las reglas básicas y youth protection, y qué esperar del degree. Los padres están invitados." },
-            { "title": "Sesión 2 — entre los dos degrees", "text": "Mientras el Chapter tiene su business meeting. Mitad coaching de la Initiatory Obligation, mitad orientación: cómo funciona DeMolay en todos los niveles, las costumbres del Chapter y qué esperar del DeMolay Degree." },
-            { "title": "Sesión 3 — después del DeMolay Degree", "text": "Coaching de las Obligations y explicación del trabajo ritual, los eventos jurisdiccionales y conclaves, tu compromiso de traer nuevos miembros y la práctica de las Obligations para presentarlas en la siguiente reunión." }
+            { "title": "Sesión 1 — antes del Grado Iniciático", "text": "Una hora antes de la ceremonia. El Segundo Consejero explica la historia de DeMolay y del Capítulo, los oficiales y el Consejo Consultivo (Advisory Council), los comités, la conducta y el código de vestimenta, las reglas básicas y la protección de la juventud (youth protection), y qué esperar del grado. Los padres están invitados." },
+            { "title": "Sesión 2 — entre los dos grados", "text": "Mientras el Capítulo desarrolla su reunión ordinaria. Mitad coaching de la Obligación del Grado Iniciático, mitad orientación: cómo funciona DeMolay en todos los niveles, las costumbres del Capítulo y qué esperar del Grado DeMolay." },
+            { "title": "Sesión 3 — después del Grado DeMolay", "text": "Coaching de las Obligaciones y explicación del trabajo ritual, los eventos jurisdiccionales y cónclaves, tu compromiso de traer nuevos miembros y la práctica de las Obligaciones para presentarlas en la siguiente reunión." }
           ] },
-          { "t": "p", "text": "Tu Big Brother se asegura de que llegues a tus degrees, asistas a reuniones y actividades, conozcas a todos los miembros y Advisors, **memorices tus dos Obligations** y desarrolles un interés real y permanente en el Chapter." },
+          { "t": "p", "text": "Tu Hermano Mayor se asegura de que llegues a tus grados, asistas a reuniones y actividades, conozcas a todos los miembros y Consultores, **memorices tus dos Obligaciones** y desarrolles un interés real y permanente en el Capítulo." },
           { "t": "ref", "text": "El programa de orientación completo, sesión por sesión", "page": "19" }
         ]
       },
       {
         "id": "l5",
-        "title": "Obligations, proficiency y la obligation card",
+        "title": "Obligaciones, suficiencia y la Tarjeta de Obligación",
         "blocks": [
-          { "t": "p", "text": "Todo miembro se compromete a **memorizar las obligations del Initiatory y del DeMolay Degree** más las examination queries (preguntas de examen). El examen se rinde en **open Chapter**, salvo que el Executive Officer (la máxima autoridad de tu jurisdicción) apruebe un procedimiento alternativo." },
+          { "t": "p", "text": "Todo miembro se compromete a **memorizar las Obligaciones del Grado Iniciático y del Grado DeMolay** más las preguntas de examen (examination queries). El examen se rinde en **Capítulo abierto**, salvo que el Oficial Ejecutivo (Executive Officer, la máxima autoridad de tu jurisdicción) apruebe un procedimiento alternativo." },
           { "t": "list", "items": [
-            "**Quién te prepara:** el Junior Councilor (o tu Big Brother) y su equipo te enseñan las obligations.",
-            "**Quién te examina:** el **Senior Deacon** conduce el examen en open Chapter.",
-            "**Quién decide:** tu proficiency (suficiencia) se aprueba por **voto del Chapter**."
+            "**Quién te prepara:** el Segundo Consejero (o tu Hermano Mayor) y su equipo te enseñan las Obligaciones.",
+            "**Quién te examina:** el **Primer Diácono** (Senior Deacon) conduce el examen en Capítulo abierto.",
+            "**Quién decide:** tu suficiencia (proficiency) se aprueba por **voto del Capítulo**."
           ] },
-          { "t": "callout", "style": "warn", "text": "Sin **obligation card** no podés **votar** en la elección de officers ni en applications de membresía, y **no podés ocupar ningún cargo**. Es el documento que certifica tu proficiency." },
-          { "t": "p", "text": "La card la firma el **Chapter Advisor**, lleva el **sello del Chapter** y se registra en **eScribe** en tu legajo permanente. Se emite **una sola por miembro**: solo hay duplicado si perdiste la original, y queda a criterio del Chapter Advisor." }
+          { "t": "callout", "style": "warn", "text": "Sin **Tarjeta de Obligación** (obligation card) no puedes **votar** en la elección de oficiales ni en solicitudes de membresía, y **no puedes ocupar ningún cargo**. Es el documento que certifica tu suficiencia." },
+          { "t": "p", "text": "La tarjeta la firma el **Consultor Principal** (Chapter Advisor), lleva el **sello del Capítulo** y se registra en **eScribe** en tu legajo permanente. Se emite **una sola por miembro**: solo hay duplicado si perdiste la original, y queda a criterio del Consultor Principal." }
         ]
       },
       {
         "id": "l6",
-        "title": "De Active a Senior DeMolay… y para siempre",
+        "title": "De activo a Sénior DeMolay… y para siempre",
         "blocks": [
-          { "t": "p", "text": "La membresía activa dura como máximo **9 años**: desde que entrás hasta tu cumpleaños número 21. En la práctica, el miembro promedio que entra a los 14 tiene **3 a 4 años** realmente activos antes de que el colegio, la universidad o el trabajo lo alejen. Al cumplir 21 pasás a ser **Senior DeMolay**." },
+          { "t": "p", "text": "La membresía activa dura como máximo **9 años**: desde que entras hasta tu cumpleaños número 21. En la práctica, el miembro promedio que entra a los 14 tiene **3 a 4 años** realmente activos antes de que el colegio, la universidad o el trabajo lo alejen. Al cumplir 21 pasas a ser **Sénior DeMolay**." },
           { "t": "h", "text": "Tu parte en el crecimiento" },
-          { "t": "p", "text": "Además de vivir las enseñanzas de DeMolay, cada miembro asume el compromiso de traer un **mínimo de 2 nuevos miembros por año**: uno que reemplace tu propia partida (pase cuando pase) y otro que haga crecer el Chapter. No es un detalle: un Chapter típico solo tiene entre el **40% y el 60%** de su roster disponible para participar activamente, y el **Membership Committee** es un comité permanente exigido por las Rules & Regulations." },
-          { "t": "h", "text": "Life Membership" },
-          { "t": "p", "text": "\"**Once a DeMolay, always a DeMolay**\" dejó de ser solo un lema gracias al Life Membership Plan: tu fee de iniciación te hace **miembro vitalicio**. Cada Chapter define su fee de Life Membership para el nuevo iniciado, con dos condiciones: el **Executive Officer debe aprobar el fee y el plan**, y la parte del fee destinada a tus años futuros debe resguardarse en una **cuenta de ahorro o fideicomiso**. Algunas jurisdicciones suman fees adicionales." },
-          { "t": "callout", "style": "info", "text": "¿Dudas sobre Life Membership? Se consultan al Executive Officer de tu jurisdicción o al Service & Leadership Center." },
-          { "t": "ref", "text": "El Life Membership Plan en detalle", "page": "53" }
+          { "t": "p", "text": "Además de vivir las enseñanzas de DeMolay, cada miembro asume el compromiso de traer un **mínimo de 2 nuevos miembros por año**: uno que reemplace tu propia partida (pase cuando pase) y otro que haga crecer el Capítulo. No es un detalle: un Capítulo típico solo tiene entre el **40% y el 60%** de su padrón disponible para participar activamente, y el **Comité de Membresía** es un comité permanente exigido por las Reglas y Regulaciones (Rules & Regulations)." },
+          { "t": "h", "text": "Membresía Vitalicia" },
+          { "t": "p", "text": "\"**Once a DeMolay, always a DeMolay**\" (una vez DeMolay, siempre DeMolay) dejó de ser solo un lema gracias al Plan de Membresía Vitalicia (Life Membership Plan): tu cuota de iniciación te hace **miembro vitalicio**. Cada Capítulo define su cuota de Membresía Vitalicia para el nuevo iniciado, con dos condiciones: el **Oficial Ejecutivo debe aprobar la cuota y el plan**, y la parte de la cuota destinada a tus años futuros debe resguardarse en una **cuenta de ahorro o fideicomiso**. Algunas jurisdicciones suman cuotas adicionales." },
+          { "t": "callout", "style": "info", "text": "¿Dudas sobre la Membresía Vitalicia? Se consultan al Oficial Ejecutivo de tu jurisdicción o al Centro de Servicio y Liderazgo." },
+          { "t": "ref", "text": "El Plan de Membresía Vitalicia en detalle", "page": "53" }
         ]
       }
     ],
@@ -103,45 +103,45 @@
       },
       {
         "q": "¿Es necesario ser hijo o pariente de un masón para entrar a DeMolay?",
-        "options": ["Sí, hay que ser hijo de un Master Mason", "Sí, hace falta al menos un pariente masón", "No, la membresía no está limitada a hijos o parientes de masones", "Solo si el Chapter no tiene cupo disponible"],
+        "options": ["Sí, hay que ser hijo de un Maestro Masón", "Sí, hace falta al menos un pariente masón", "No, la membresía no está limitada a hijos o parientes de masones", "Solo si el Capítulo no tiene cupo disponible"],
         "correct": 2,
-        "explain": "El Handbook lo dice explícitamente: la membresía NO está limitada a hijos o parientes de masones. Solo hace falta una recomendación de un DeMolay activo, Senior DeMolay o Master Mason."
+        "explain": "El Handbook lo dice explícitamente: la membresía NO está limitada a hijos o parientes de masones. Solo hace falta una recomendación de un DeMolay activo, un Sénior DeMolay o un Maestro Masón."
       },
       {
-        "q": "¿Qué tiene que pasar antes de que una application pueda someterse a ballot?",
-        "options": ["Que el aplicante pague el fee de iniciación", "Que el comité de investigación presente su informe completo tras la visita al hogar", "Que el aplicante memorice la Initiatory Obligation", "Que el Executive Officer apruebe la application"],
+        "q": "¿Qué tiene que pasar antes de que una solicitud pueda someterse a balotaje?",
+        "options": ["Que el aspirante pague la cuota de iniciación", "Que el Comité de Sindicancia presente su informe completo tras la visita al hogar", "Que el aspirante memorice la Obligación del Grado Iniciático", "Que el Oficial Ejecutivo apruebe la solicitud"],
         "correct": 1,
-        "explain": "El comité de 2 a 3 miembros más un Advisor hace la visita al hogar y la application no puede votarse hasta que entregue su informe completo."
+        "explain": "El comité de 2 a 3 miembros más un Consultor hace la visita al hogar, y la solicitud no puede pasar a balotaje hasta que entregue su informe completo."
       },
       {
-        "q": "¿Cuál es el fee mínimo de iniciación y qué te da?",
-        "options": ["$20.00 y membresía hasta los 21", "$35.00 y membresía vitalicia", "$35.00 y membresía anual renovable", "$50.00 y membresía vitalicia"],
+        "q": "¿Cuál es la cuota mínima de iniciación y qué te da?",
+        "options": ["$20.00 y membresía hasta los 21", "$35.00 y Membresía Vitalicia", "$35.00 y membresía anual renovable", "$50.00 y Membresía Vitalicia"],
         "correct": 1,
-        "explain": "El fee por los degrees no puede ser menor a $35.00 e incluye la membresía vitalicia. Los $20.00 son el mínimo del affiliation fee, que es otra cosa."
+        "explain": "La cuota por los grados no puede ser menor a $35.00 e incluye la Membresía Vitalicia. Los $20.00 son el mínimo de la cuota de afiliación, que es otra cosa."
       },
       {
         "q": "¿Cómo es el programa de orientación del nuevo miembro?",
-        "options": ["Una sola sesión después del DeMolay Degree", "3 sesiones conducidas habitualmente por el Junior Councilor, con un Big Brother por candidato", "5 sesiones a cargo del Master Councilor", "2 sesiones dictadas por el Advisory Council"],
+        "options": ["Una sola sesión después del Grado DeMolay", "3 sesiones conducidas habitualmente por el Segundo Consejero, con un Hermano Mayor por candidato", "5 sesiones a cargo del Maestre Consejero", "2 sesiones dictadas por el Consejo Consultivo"],
         "correct": 1,
-        "explain": "Son 3 sesiones: antes del Initiatory Degree, entre los dos degrees y después del DeMolay Degree. El Junior Councilor suele presidir y cada candidato tiene su Big Brother."
+        "explain": "Son 3 sesiones: antes del Grado Iniciático, entre los dos grados y después del Grado DeMolay. El Segundo Consejero suele presidir y cada candidato tiene su Hermano Mayor."
       },
       {
-        "q": "¿Cuánto tiempo tiene el Scribe para remitir a DeMolay International el monto de cada nuevo iniciado?",
-        "options": ["10 días desde el Initiatory Degree, vía eScribe", "30 días desde el ballot, por correo postal", "10 días desde el DeMolay Degree, vía eScribe", "Hasta el cierre del año fiscal DeMolay"],
+        "q": "¿Cuánto tiempo tiene el Escriba para remitir a DeMolay Internacional el monto de cada nuevo iniciado?",
+        "options": ["10 días desde el Grado Iniciático, vía eScribe", "30 días desde el balotaje, por correo postal", "10 días desde el Grado DeMolay, vía eScribe", "Hasta el cierre del año fiscal DeMolay"],
         "correct": 0,
-        "explain": "El plazo es de 10 días contados desde la conferencia del Initiatory Degree, y todo el reporte y pago se procesa electrónicamente por eScribe."
+        "explain": "El plazo es de 10 días contados desde que se confiere el Grado Iniciático, y todo el reporte y pago se procesa electrónicamente por eScribe."
       },
       {
-        "q": "¿Qué pasa si un miembro no tiene su obligation card?",
-        "options": ["Solo no puede asistir a conclaves", "No puede votar en elecciones de officers ni en applications, ni ocupar cargo", "Paga un fee adicional de $20.00", "No puede asistir a reuniones de Chapter"],
+        "q": "¿Qué pasa si un miembro no tiene su Tarjeta de Obligación?",
+        "options": ["Solo no puede asistir a cónclaves", "No puede votar en elecciones de oficiales ni en solicitudes, ni ocupar cargo", "Paga una cuota adicional de $20.00", "No puede asistir a reuniones del Capítulo"],
         "correct": 1,
-        "explain": "La obligation card certifica tu proficiency: sin ella no votás en elecciones de officers ni en applications de membresía, y no podés ocupar ningún cargo."
+        "explain": "La Tarjeta de Obligación certifica tu suficiencia: sin ella no votas en elecciones de oficiales ni en solicitudes de membresía, y no puedes ocupar ningún cargo."
       },
       {
         "q": "¿Qué pasa cuando un miembro activo cumple 21 años?",
-        "options": ["Renueva su membresía pagando el affiliation fee", "Pasa automáticamente al Advisory Council", "Se convierte en Senior DeMolay", "Pierde toda relación con la organización"],
+        "options": ["Renueva su membresía pagando la cuota de afiliación", "Pasa automáticamente al Consejo Consultivo", "Se convierte en Sénior DeMolay", "Pierde toda relación con la organización"],
         "correct": 2,
-        "explain": "La membresía activa termina al cumplir 21 (máximo 9 años de actividad) y el miembro pasa a ser Senior DeMolay. Por el Life Membership Plan, sigue siendo DeMolay para siempre."
+        "explain": "La membresía activa termina al cumplir 21 (máximo 9 años de actividad) y el miembro pasa a ser Sénior DeMolay. Por el Plan de Membresía Vitalicia, sigue siendo DeMolay para siempre."
       }
     ]
   },

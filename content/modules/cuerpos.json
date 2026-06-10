@@ -1,116 +1,116 @@
 {
   "id": "cuerpos",
   "es": {
-    "title": "Cuerpos anexos: la familia DeMolay más allá de tu Chapter",
-    "subtitle": "Squires, Knighthood, Chevaliers y Legion of Honor: quiénes son, cómo funcionan y cómo te tocan a vos.",
+    "title": "Cuerpos anexos: la familia DeMolay más allá de tu Capítulo",
+    "subtitle": "Escuderos, Caballería, Chevaliers y Legión de Honor: quiénes son, cómo funcionan y qué tienen que ver contigo.",
     "minutes": 12,
     "lessons": [
       {
         "id": "l1",
         "title": "Un mapa de los cuerpos anexos",
         "blocks": [
-          { "t": "p", "text": "DeMolay no empieza ni termina en tu Chapter. Alrededor de la Orden funcionan cuatro **Appendant Bodies** (cuerpos anexos): organizaciones que acompañan al DeMolay antes de los 12 años, lo mantienen activo después de los 17 y canalizan el servicio de quienes ya recibieron los honores más altos." },
+          { "t": "p", "text": "DeMolay no empieza ni termina en tu Capítulo (Chapter). Alrededor de la Orden funcionan cuatro **Cuerpos Anexos** (Appendant Bodies): organizaciones que acompañan al DeMolay antes de los 12 años, lo mantienen activo después de los 17 y canalizan el servicio de quienes ya recibieron los honores más altos." },
           { "t": "cards", "items": [
-            { "title": "Squires of the Round Table", "text": "Para chicos de 9 a 11 años, organizados en **Manors**. Es la antesala de DeMolay: actividades divertidas, ceremonias simples y hermanos mayores como modelo." },
-            { "title": "Order of Knighthood", "text": "Para DeMolays activos de 17 a 21 años, organizados en **Priories**. Es un cuerpo de trabajo centrado en el servicio, no un premio honorario." },
-            { "title": "Court of Chevaliers", "text": "Reúne a quienes recibieron el **Degree of Chevalier** y confiere ese grado a los nuevos designados por el Supreme Council." },
-            { "title": "Preceptories of the Legion of Honor", "text": "Agrupan a los **Legionnaires**, líderes destacados formados en DeMolay, para que devuelvan su experiencia a la Orden." }
+            { "title": "Orden de Escuderos de la Mesa Redonda (Squires of the Round Table)", "text": "Para chicos de 9 a 11 años, organizados en **Castillos** (Manors). Es la antesala de DeMolay: actividades divertidas, ceremonias simples y hermanos mayores como modelo." },
+            { "title": "Orden de la Caballería (Order of Knighthood)", "text": "Para DeMolay activos de 17 a 21 años, organizados en **Prioratos** (Priories). Es un cuerpo de trabajo centrado en el servicio, no un premio honorario." },
+            { "title": "Corte Chevalier (Court of Chevaliers)", "text": "Reúne a quienes recibieron el **Grado de Chevalier** (Degree of Chevalier) y confiere ese grado a los nuevos designados por el Supremo Consejo Internacional (Supreme Council)." },
+            { "title": "Preceptorios de la Legión de Honor (Preceptories of the Legion of Honor)", "text": "Agrupan a los **Legionarios** (Legionnaires), líderes destacados formados en DeMolay, para que devuelvan su experiencia a la Orden." }
           ] },
-          { "t": "callout", "style": "info", "text": "Pensalo como etapas: Squires te prepara antes de entrar, Knighthood te mantiene activo de grande, y Chevaliers y Legion of Honor organizan el servicio de quienes ya fueron honrados." }
+          { "t": "callout", "style": "info", "text": "Piénsalo como etapas: los Escuderos te preparan antes de entrar, la Caballería te mantiene activo cuando ya eres mayor, y la Corte Chevalier y la Legión de Honor organizan el servicio de quienes ya fueron honrados." }
         ]
       },
       {
         "id": "l2",
-        "title": "Squires of the Round Table: los hermanos menores",
+        "title": "Orden de Escuderos de la Mesa Redonda: los hermanos menores",
         "blocks": [
-          { "t": "p", "text": "El **Order of the Squires of the Round Table** permite que chicos de **9 a 11 años** disfruten de actividades y beneficios del mundo DeMolay sin sentirse abrumados por la diferencia de edad con los mayores. Tienen ceremonias de apertura y cierre fáciles de aprender que los preparan para ser DeMolays. Cada Squire pertenece a un **Manor**, donde puede ocupar cargos, siempre con Advisors presentes y con los padres bienvenidos en todos los eventos." },
+          { "t": "p", "text": "La **Orden de Escuderos de la Mesa Redonda** permite que chicos de **9 a 11 años** disfruten de actividades y beneficios del mundo DeMolay sin sentirse abrumados por la diferencia de edad con los mayores. Tienen ceremonias de apertura y cierre fáciles de aprender que los preparan para ser DeMolay. Cada Escudero pertenece a un **Castillo**, donde puede ocupar cargos, siempre con Consultores (Advisors) presentes y con los padres bienvenidos en todos los eventos." },
           { "t": "h", "text": "De dónde viene el nombre" },
-          { "t": "p", "text": "Los Squires nacieron en **1995** en Vancouver, Washington, y fueron adoptados formalmente por DeMolay International en **2015**. En la Edad Media, un Squire (escudero) era un joven que se entrenaba para ser Knight; acá, se entrena para ser DeMolay. Y los Manors eran las fincas gobernadas por caballeros y nobles." },
+          { "t": "p", "text": "Los Escuderos nacieron en **1995** en Vancouver, Washington, y fueron adoptados formalmente por DeMolay Internacional en **2015**. En la Edad Media, un escudero (Squire) era un joven que se entrenaba para ser Noble Caballero (Knight); aquí, se entrena para ser DeMolay. Y los Castillos eran las fincas gobernadas por caballeros y nobles." },
           { "t": "list", "items": [
-            "**El emblema** es un círculo (la Round Table alrededor de la cual se reúnen simbólicamente) dividido en cuatro secciones:",
-            "Arriba a la izquierda: el caballero del emblema DeMolay, porque sin DeMolay no habría Squires.",
-            "Arriba a la derecha: el gavel (mazo) de la justicia, que sostiene el Master Squire en las reuniones.",
-            "Abajo a la izquierda: la espada de la verdad, del Senior Squire.",
-            "Abajo a la derecha: los libros escolares de la sabiduría, del Junior Squire."
+            "**El Blasón** es un círculo (la Mesa Redonda alrededor de la cual se reúnen simbólicamente) dividido en cuatro secciones:",
+            "Arriba a la izquierda: el caballero del Blasón DeMolay, porque sin DeMolay no habría Escuderos.",
+            "Arriba a la derecha: el mallete (gavel) de la justicia, que sostiene el Maestre Escudero (Master Squire) en las reuniones.",
+            "Abajo a la izquierda: la espada de la verdad, del Primer Escudero (Senior Squire).",
+            "Abajo a la derecha: los libros escolares de la sabiduría, del Segundo Escudero (Junior Squire)."
           ] },
-          { "t": "h", "text": "Cómo funciona un Manor" },
-          { "t": "p", "text": "Un Manor tiene hasta **7 oficiales**: tres electos por sus pares (**Master Squire, Senior Squire y Junior Squire**) y cuatro designados (Squire Chaplain, Squire Marshal, Squire Recorder y Squire Treasurer). Los términos duran **6 meses**, y en cada uno el Master Squire debe planificar al menos **una actividad de diversión y una de recaudación de fondos**, aprobadas por el Dad/Mom Advisor. En toda reunión o evento debe estar presente un Advisor del Chapter Advisory Council. Además, el Manor puede tener un **Squire Mentor**: un DeMolay que hace de \"hermano mayor\", designado por el Master Councilor del Chapter patrocinador y aprobado por el Advisory Council. Se sienta a la izquierda de la estación del Master Squire y su término acompaña al del Chapter." },
+          { "t": "h", "text": "Cómo funciona un Castillo" },
+          { "t": "p", "text": "Un Castillo tiene hasta **7 oficiales**: tres electos por sus pares (**Maestre Escudero, Primer Escudero y Segundo Escudero**) y cuatro designados (Capellán Escudero, Mariscal Escudero, Registrador Escudero y Tesorero Escudero). Los términos duran **6 meses**, y en cada uno el Maestre Escudero debe planificar al menos **una actividad de diversión y una de recaudación de fondos**, aprobadas por el Consultor (en Bolivia, el \"Tío\"; en EE.UU., el Dad/Mom Advisor). En toda reunión o evento debe estar presente un Consultor del Consejo Consultivo (Advisory Council) del Capítulo. Además, el Castillo puede tener un **Mentor Escudero** (Squire Mentor): un DeMolay que hace de \"hermano mayor\", designado por el Maestre Consejero (Master Councilor) del Capítulo patrocinador y aprobado por el Consejo Consultivo. Se sienta a la izquierda de la estación del Maestre Escudero y su término acompaña al del Capítulo." },
           { "t": "steps", "items": [
-            "Revisá las guías de tu Jurisdiction y consultá dudas con el Executive Officer o el Director of Squires, si existe.",
-            "Conseguí un patrocinador: un Chapter Advisory Council o la propia Jurisdiction (el Advisory Council vota patrocinar).",
-            "Armá el Manor Council con al menos **2 Advisors DeMolay registrados** del Advisory Council patrocinador, más el Squire Mentor como enlace con el Chapter.",
-            "Redactá los Bylaws del Manor: nombre, lugar y fechas de reunión, términos de los oficiales y cuotas de membresía.",
-            "Presentá la **Declaration of Intent** junto con los Bylaws al Executive Officer, que decide si aprueba la fundación.",
-            "Sumá miembros: cada aspirante debe tener entre 9 y 11 años, completar la Squires Membership Application, pagar la cuota y ser aprobado por el Manor.",
-            "Realizá la primera inducción (en este caso pueden ritualizarla DeMolays activos) y cargá a los nuevos Squires en eScribe dentro de los **10 días**.",
-            "Elegí por mayoría a los tres oficiales electos y hacé la Installation, una ceremonia pública donde las partes las hacen DeMolays activos."
+            "Revisa las guías de tu Jurisdicción (Jurisdiction) y consulta dudas con el Oficial Ejecutivo (Executive Officer) o el Director de Escuderos, si existe.",
+            "Consigue un patrocinador: un Consejo Consultivo de un Capítulo o la propia Jurisdicción (el Consejo Consultivo vota patrocinar).",
+            "Arma el Consejo del Castillo con al menos **2 Consultores DeMolay registrados** del Consejo Consultivo patrocinador, más el Mentor Escudero como enlace con el Capítulo.",
+            "Redacta los Estatutos (Bylaws) del Castillo: nombre, lugar y fechas de reunión, términos de los oficiales y cuotas de membresía.",
+            "Presenta la **Declaración de Intención** (Declaration of Intent) junto con los Estatutos al Oficial Ejecutivo, que decide si aprueba la fundación.",
+            "Suma miembros: cada aspirante debe tener entre 9 y 11 años, completar la Solicitud de Membresía de Escuderos (Squires Membership Application), pagar la cuota y ser aprobado por el Castillo.",
+            "Realiza la primera Inducción (en este caso pueden ritualizarla DeMolay activos) y carga a los nuevos Escuderos en eScribe dentro de los **10 días**.",
+            "Elige por mayoría a los tres oficiales electos y haz la Ceremonia de Instalación (Installation), una ceremonia pública donde las partes las hacen DeMolay activos."
           ] },
-          { "t": "callout", "style": "key", "text": "Números de oro: con **3 Squires** el Manor opera de forma provisoria (ese período no debe superar los 6 meses); con **5 miembros** ya puede recibir su Charter." },
-          { "t": "p", "text": "El **Master Squires Meritorious Service Award** es la medalla que el International Supreme Council otorga al Master Squire que cumple todo el circuito: memorizar su parte del Ritual, imprimir y distribuir su programa del término, enviar una primera carta de intención al Executive Officer, lograr que todo el ritual del Manor se dé de memoria, conferir una inducción, realizar al menos **3 actividades** sobre al menos 2 de las categorías **Justice, Truth y Wisdom**, inducir al menos **3 miembros nuevos**, y enviar la segunda carta (con recap, análisis y asistencia) dentro de los **10 días** de terminado el término, contrafirmada por el Squire Mentor y el Manor Advisor." },
-          { "t": "ref", "text": "Sección completa de Squires en el Handbook", "page": "167" }
+          { "t": "callout", "style": "key", "text": "Números de oro: con **3 Escuderos** el Castillo opera de forma provisoria (ese período no debe superar los 6 meses); con **5 miembros** ya puede recibir su Carta Constitutiva (Charter)." },
+          { "t": "p", "text": "El **Maestre Escudero – Premio al Servicio Meritorio** (Master Squires Meritorious Service Award) es la medalla que el Supremo Consejo Internacional otorga al Maestre Escudero que cumple todo el circuito: memorizar su parte del Ritual, imprimir y distribuir su programa del término, enviar una primera carta de intención al Oficial Ejecutivo, lograr que todo el ritual del Castillo se dé de memoria, conferir una Inducción, realizar al menos **3 actividades** sobre al menos 2 de las categorías **Justicia, Verdad y Sabiduría** (Justice, Truth y Wisdom), inducir al menos **3 miembros nuevos**, y enviar la segunda carta (con recuento, análisis y asistencia) dentro de los **10 días** de terminado el término, contrafirmada por el Mentor Escudero y el Consultor del Castillo." },
+          { "t": "ref", "text": "Sección completa de Escuderos en el Handbook", "page": "167" }
         ]
       },
       {
         "id": "l3",
-        "title": "Order of Knighthood: qué es y de dónde viene",
+        "title": "Orden de la Caballería: qué es y de dónde viene",
         "blocks": [
-          { "t": "p", "text": "El **Order of Knighthood** es el cuerpo anexo de los DeMolays grandes: **DeMolays activos de 17 a 21 años**, organizados en una unidad llamada **Priory**, con sus propios oficiales y ritual. Su nombre oficial completo es **Chivalric Knights of the Holy Order of the Fellow-Soldiers of Jacques DeMolay**. Ojo: no es un grado honorario ni un premio; es un cuerpo de trabajo que existe para dar compañerismo y servicio a DeMolay." },
+          { "t": "p", "text": "La **Orden de la Caballería** (Order of Knighthood) es el cuerpo anexo de los DeMolay grandes: **DeMolay activos de 17 a 21 años**, organizados en una unidad llamada **Priorato** (Priory), con sus propios oficiales y ritual. Su nombre oficial completo es **Nobles Caballeros de la Sagrada Orden de los Soldados Compañeros de Jacques DeMolay** (Chivalric Knights of the Holy Order of the Fellow-Soldiers of Jacques DeMolay). Ojo: no es un grado honorario ni un premio; es un cuerpo de trabajo que existe para dar compañerismo y servicio a DeMolay." },
           { "t": "list", "items": [
-            "Extender y asistir a DeMolay International y sus Chapters.",
-            "Mantener el interés activo de los DeMolays mayores en la Orden.",
-            "Ofrecer un programa atractivo para los miembros del Priory.",
-            "Y, sobre todo, dar y mantener el ejemplo correcto para todos los DeMolays."
+            "Extender y asistir a DeMolay Internacional y sus Capítulos.",
+            "Mantener el interés activo de los DeMolay mayores en la Orden.",
+            "Ofrecer un programa atractivo para los miembros del Priorato.",
+            "Y, sobre todo, dar y mantener el ejemplo correcto para todos los DeMolay."
           ] },
           { "t": "h", "text": "Casi 80 años de historia" },
-          { "t": "p", "text": "Knighthood debutó en **1946**, cuando el ritual se ejemplificó ante el Grand Council (hoy International Supreme Council) y se autorizó organizar Priories. Al principio los miembros debían tener de 18 a 21 años. El primer Priory lo fundó Mother Chapter en Kansas City, Missouri: recibió su Charter el **27 de octubre de 1947** y celebró su primera investiture el **10 de enero de 1948** en el Ivanhoe Masonic Building, con **Everett L. Davis** como primer Illustrious Knight Commander. Todos los primeros Sir Knights eran Chevaliers de Mother Chapter. La idea explotó: para marzo de 1948 ya había **34 Priories en 18 estados con más de 700 Sir Knights**. En **1973**, el Supreme Council aprobó un segundo grado opcional: el **Order of Ebon**." },
-          { "t": "h", "text": "Los 11 oficiales de un Priory" },
+          { "t": "p", "text": "La Caballería debutó en **1946**, cuando el ritual se ejemplificó ante el Gran Consejo (hoy Supremo Consejo Internacional) y se autorizó organizar Prioratos. Al principio los miembros debían tener de 18 a 21 años. El primer Priorato lo fundó Mother Chapter en Kansas City, Missouri: recibió su Carta Constitutiva el **27 de octubre de 1947** y celebró su primera Investidura (investiture) el **10 de enero de 1948** en el Ivanhoe Masonic Building, con **Everett L. Davis** como primer Ilustre Comendador Caballero (Illustrious Knight Commander). Todos los primeros Nobles Caballeros (Sir Knights) eran Chevaliers de Mother Chapter. La idea explotó: para marzo de 1948 ya había **34 Prioratos en 18 estados con más de 700 Nobles Caballeros**. En **1973**, el Supremo Consejo Internacional aprobó un segundo grado opcional: el **Grado Ébano** (Order of Ebon)." },
+          { "t": "h", "text": "Los 11 oficiales de un Priorato" },
           { "t": "list", "items": [
-            "Illustrious Knight Commander",
-            "Sir Knight Squire Commander",
-            "Sir Knight Page Commander",
-            "Sir Knight Registrar",
-            "Sir Knight Senior Deacon",
-            "Sir Knight Junior Deacon",
-            "Sir Knight Prior",
-            "Sir Knight Preceptor",
-            "Sir Knight Sacristan",
-            "Sir Knight Standard Bearer",
-            "Sir Knight Sentinel"
+            "Ilustre Comendador Caballero",
+            "Noble Caballero Comendador Escudero",
+            "Noble Caballero Comendador Paje",
+            "Noble Caballero Registrador",
+            "Noble Caballero Primer Diácono",
+            "Noble Caballero Segundo Diácono",
+            "Noble Caballero Prior",
+            "Noble Caballero Preceptor",
+            "Noble Caballero Sacristán",
+            "Noble Caballero Porta Bandera",
+            "Noble Caballero Centinela"
           ] },
-          { "t": "p", "text": "Los primeros cuatro (Illustrious Knight Commander, Squire Commander, Page Commander y Registrar) suelen ser **electos**; el resto los designa el Illustrious Knight Commander. La duración del término se fija en los Bylaws del Priory, siempre bajo los Statutes and Bylaws de DeMolay International." },
+          { "t": "p", "text": "Los primeros cuatro (Ilustre Comendador Caballero, Comendador Escudero, Comendador Paje y Registrador) suelen ser **electos**; el resto los designa el Ilustre Comendador Caballero. La duración del término se fija en los Estatutos del Priorato, siempre bajo los Estatutos y Reglamentos (Statutes and Bylaws) de DeMolay Internacional." },
           { "t": "steps", "items": [
-            "Avisale a tu Executive Officer que querés formar un Priory y obtené su aprobación (no todas las Jurisdictions tienen Knighthood).",
-            "Presentá la **Declaration of Intention** indicando el cuerpo patrocinador, el Advisory Council y al menos **5 DeMolays de 17 años a no más allá de su cumpleaños 21**, y envialo al Service & Leadership Center a través del Executive Officer con los formularios y aranceles.",
-            "Con la aprobación se otorgan las **Letters Temporary** y el Priory puede formarse; si funciona bien durante **6 meses**, puede recibir su Charter.",
-            "Cobrá application y fee antes de la Investiture, y cargá a los nuevos Knights en eScribe dentro de los **10 días** para que se emita el patent."
+            "Avisa a tu Oficial Ejecutivo que quieres formar un Priorato y obtén su aprobación (no todas las Jurisdicciones tienen Caballería).",
+            "Presenta la **Declaración de Intención** (Declaration of Intention) indicando el cuerpo patrocinador, el Consejo Consultivo y al menos **5 DeMolay de 17 años a no más allá de su cumpleaños 21**, y envíalo al Centro de Servicio y Liderazgo (Service & Leadership Center) a través del Oficial Ejecutivo con los formularios y aranceles.",
+            "Con la aprobación se otorgan las **Cartas Constitutivas Temporales** (Letters Temporary) y el Priorato puede formarse; si funciona bien durante **6 meses**, puede recibir su Carta Constitutiva.",
+            "Cobra la solicitud y el arancel antes de la Investidura, y carga a los nuevos Nobles Caballeros en eScribe dentro de los **10 días** para que se emita la patente."
           ] },
-          { "t": "ref", "text": "Sección completa de Knighthood en el Handbook", "page": "172" }
+          { "t": "ref", "text": "Sección completa de Caballería en el Handbook", "page": "172" }
         ]
       },
       {
         "id": "l4",
-        "title": "Knighthood en acción: programa, premio y emblema",
+        "title": "La Caballería en acción: programa, premio y Blasón",
         "blocks": [
-          { "t": "callout", "style": "key", "text": "**Más de la mitad** del programa de un Priory debería ser servicio. Los caballeros de antes juraban servir; los de hoy encuentran en el servicio su propósito." },
+          { "t": "callout", "style": "key", "text": "**Más de la mitad** del programa de un Priorato debería ser servicio. Los caballeros de antes juraban servir; los de hoy encuentran en el servicio su propósito." },
           { "t": "cards", "items": [
-            { "title": "DeMolay Service", "text": "El área estrella: armar Installing Teams, conferir el Majority Service o Memorial Service, cubrir partes en grados de Chapters, juzgar competencias de ritual, asistir en talleres y ayudar al Jurisdictional Master Councilor con su programa." },
-            { "title": "Social Programs", "text": "Eventos pensados para la franja de 17 a 21, sin abandonar las actividades sociales del propio Chapter. Siempre cumpliendo las Youth Protection Policies y las Risk Management Guidelines de DeMolay International." },
-            { "title": "Athletic Activities", "text": "Más que jugar: ser coaches, árbitros o jueces, y hasta organizar una liga deportiva para un grupo de Chapters. Cada Knight debe apoyar el programa atlético de su propio Chapter." },
-            { "title": "Masonic Service", "text": "Mirar hacia el mundo adulto: asistir a Masons mayores o sus viudas, donar sangre a nombre de Masonic Homes o Shrine Burns Institutes, recaudar para caridades masónicas y ayudar en funciones masónicas." }
+            { "title": "Servicio a DeMolay", "text": "El área estrella: armar equipos de instalación, conferir la Ceremonia de Mayoría de Edad (Majority Service) o el Servicio Memorial, cubrir partes en grados de Capítulos, juzgar competencias de ritual, asistir en talleres y ayudar al Maestre Consejero Jurisdiccional con su programa." },
+            { "title": "Programas Sociales", "text": "Eventos pensados para la franja de 17 a 21, sin abandonar las actividades sociales del propio Capítulo. Siempre cumpliendo las Políticas de Protección de la Juventud (Youth Protection Policies) y las Guías de Gestión de Riesgos (Risk Management Guidelines) de DeMolay Internacional." },
+            { "title": "Actividades Atléticas", "text": "Más que jugar: ser entrenadores, árbitros o jueces, y hasta organizar una liga deportiva para un grupo de Capítulos. Cada Noble Caballero debe apoyar el programa atlético de su propio Capítulo." },
+            { "title": "Servicio Masónico", "text": "Mirar hacia el mundo adulto: asistir a Masones mayores o sus viudas, donar sangre a nombre de Masonic Homes o Shrine Burns Institutes, recaudar para caridades masónicas y ayudar en funciones masónicas." }
           ] },
-          { "t": "p", "text": "A una reunión **tiled** (a puertas cerradas) de un Priory solo pueden asistir Knights, Senior Knights, Advisors y Master Masons. Y las reuniones buscan ser más que sesiones de negocios: programas sobre gobierno, proyectos cívicos, actualidad, universidad y trabajo, ciencia, deportes o hobbies, muchas veces como cenas con un orador invitado." },
-          { "t": "h", "text": "El PIKC-MSA: la medalla del Illustrious Knight Commander" },
+          { "t": "p", "text": "A una reunión a puertas cerradas (tiled) de un Priorato solo pueden asistir Nobles Caballeros, Nobles Caballeros Séniores, Consultores y Maestros Masones. Y las reuniones buscan ser más que sesiones de negocios: programas sobre gobierno, proyectos cívicos, actualidad, universidad y trabajo, ciencia, deportes o pasatiempos, muchas veces como cenas con un orador invitado." },
+          { "t": "h", "text": "El PIKC-MSA: la medalla del Ilustre Comendador Caballero" },
           { "t": "list", "items": [
-            "Antes de la Installation: memorizar la parte del IKC del Ritual e imprimir y distribuir el programa del término a toda la membresía y los Advisors.",
-            "Primera carta al Executive Officer al inicio del término: programa impreso, constancia de ritual memorizado e intención de calificar.",
-            "Durante el término: todo el ritual de memoria, conferir la investiture, al menos **3 actividades** sobre al menos 2 de las categorías **Social, DeMolay Service y Masonic Service**, inducir su parte proporcional de la meta de membresía fijada por el Executive Officer, ser first-line signer en al menos una application, todas las sillas de oficiales cubiertas en cada investiture y nuevos Knights en eScribe dentro de los 10 días.",
-            "Segunda carta dentro de los **10 días** de terminado el término: recap completo, análisis del programa y asistencia, contrafirmada por el Priory Advisor y el Chairman del Advisory Council."
+            "Antes de la Ceremonia de Instalación: memorizar la parte del Ilustre Comendador Caballero del Ritual e imprimir y distribuir el programa del término a toda la membresía y los Consultores.",
+            "Primera carta al Oficial Ejecutivo al inicio del término: programa impreso, constancia de ritual memorizado e intención de calificar.",
+            "Durante el término: todo el ritual de memoria, conferir la Investidura, al menos **3 actividades** sobre al menos 2 de las categorías **Social, Servicio a DeMolay y Servicio Masónico**, inducir su parte proporcional de la meta de membresía fijada por el Oficial Ejecutivo, ser firmante de primera línea en al menos una solicitud, todas las sillas de oficiales cubiertas en cada Investidura y nuevos Nobles Caballeros en eScribe dentro de los 10 días.",
+            "Segunda carta dentro de los **10 días** de terminado el término: recuento completo, análisis del programa y asistencia, contrafirmada por el Consultor del Priorato y el Presidente del Consejo Consultivo."
           ] },
-          { "t": "h", "text": "Qué dice el pin de Knighthood" },
+          { "t": "h", "text": "Qué dice el pin de la Caballería" },
           { "t": "table", "headers": ["Elemento", "Significado"], "rows": [
-            ["Crown of Youth", "Recuerda nuestra responsabilidad: que cuando la dejemos por la Crown of Manhood, siga brillando."],
-            ["Crossed Swords", "Justicia, fortaleza y misericordia: la lucha incesante de DeMolay contra la arrogancia, el despotismo y la intolerancia."],
-            ["Five-Armed Cross", "Pureza de intenciones y el lema de DeMolay International: \"No DeMolay shall fail as a citizen, as a leader or as a man.\""],
+            ["Corona de la Juventud", "Recuerda nuestra responsabilidad: que cuando la dejemos por la Corona de la Hombría, siga brillando."],
+            ["Espadas Cruzadas", "Justicia, fortaleza y misericordia: la lucha incesante de DeMolay contra la arrogancia, el despotismo y la intolerancia."],
+            ["Cruz de Cinco Brazos", "Pureza de intenciones y el lema de DeMolay Internacional: \"Ningún DeMolay fracasará como ciudadano, como líder ni como hombre\"."],
             ["Retrato de DeMolay", "Su último retrato conocido."],
             ["Anillo de 10 rubíes", "Honra al fundador y a los nueve jóvenes que formaron la Orden: los diez ya respondieron al llamado final."],
             ["Rama de roble (izquierda)", "Firmeza y devoción al servicio."],
@@ -120,104 +120,104 @@
       },
       {
         "id": "l5",
-        "title": "Court of Chevaliers: servicio perpetuo",
+        "title": "Corte Chevalier: servicio perpetuo",
         "blocks": [
-          { "t": "p", "text": "Un **Court of Chevaliers** se forma con la autorización del Executive Officer, a nivel de Jurisdiction o de Chapter. Salvo el Advisor, **todos sus integrantes deben ser Chevaliers**, y se espera que estén activos: que hayan participado de su última observancia y completado el informe correspondiente." },
-          { "t": "p", "text": "Su función central es **conferir el Degree of Chevalier** a quienes designa el Supreme Council a través del Executive Officer, y ayudar en todo lo que haga crecer a DeMolay. Al recibir el grado, cada Chevalier quedó obligado al **servicio perpetuo** a DeMolay, y eso debe guiar todo lo que el Court hace. También puede ponerse a disposición del Jurisdictional Master Councilor para potenciar su programa." },
+          { "t": "p", "text": "Una **Corte Chevalier** se forma con la autorización del Oficial Ejecutivo, a nivel de Jurisdicción o de Capítulo. Salvo el Consultor, **todos sus integrantes deben ser Chevaliers**, y se espera que estén activos: que hayan participado de su última observancia y completado el informe correspondiente." },
+          { "t": "p", "text": "Su función central es **conferir el Grado de Chevalier** (Degree of Chevalier) a quienes designa el Supremo Consejo Internacional a través del Oficial Ejecutivo, y ayudar en todo lo que haga crecer a DeMolay. Al recibir el grado, cada Chevalier quedó obligado al **servicio perpetuo** a DeMolay, y eso debe guiar todo lo que la Corte hace. También puede ponerse a disposición del Maestre Consejero Jurisdiccional para potenciar su programa." },
           { "t": "list", "items": [
-            "Oficiales que el Court puede elegir: **Commander, Commander in the West, Commander in the South, Marshal, Chaplain y Secretary**."
+            "Oficiales que la Corte puede elegir: **Comendador, Comendador de Occidente, Comendador del Sur, Mariscal, Capellán y Secretario**."
           ] },
           { "t": "list", "items": [
-            "Patrocinar y mantener un concurso anual de membresía entre Chapters o una competencia similar.",
-            "Conducir Installations cuando haga falta.",
-            "Ayudar en el programa de membresía de la Jurisdiction.",
+            "Patrocinar y mantener un concurso anual de membresía entre Capítulos o una competencia similar.",
+            "Conducir Ceremonias de Instalación cuando haga falta.",
+            "Ayudar en el programa de membresía de la Jurisdicción.",
             "Asistir como jurado en competencias de ritual u otras similares.",
-            "Promover el entendimiento de la Orden con presentaciones de historia e ideales en los Chapters.",
-            "Trabajar en la expansión: nuevos Chapters y más miembros.",
-            "Fomentar y asistir las visitas entre Chapters DeMolay."
+            "Promover el entendimiento de la Orden con presentaciones de historia e ideales en los Capítulos.",
+            "Trabajar en la expansión: nuevos Capítulos y más miembros.",
+            "Fomentar y asistir las visitas entre Capítulos DeMolay."
           ] },
-          { "t": "callout", "style": "info", "text": "Una buena práctica: organizar una observancia anual e invitar a todos los Chevaliers de la Jurisdiction. Así cumplen su obligación y se conocen mejor." },
-          { "t": "ref", "text": "Court of Chevaliers y Legion of Honor en el Handbook", "page": "178" }
+          { "t": "callout", "style": "info", "text": "Una buena práctica: organizar una observancia anual e invitar a todos los Chevaliers de la Jurisdicción. Así cumplen su obligación y se conocen mejor." },
+          { "t": "ref", "text": "Corte Chevalier y Legión de Honor en el Handbook", "page": "178" }
         ]
       },
       {
         "id": "l6",
-        "title": "Legion of Honor: liderazgo que vuelve",
+        "title": "Legión de Honor: liderazgo que vuelve",
         "blocks": [
-          { "t": "p", "text": "La **Legion of Honor** une a unos pocos elegidos entre los millones que se arrodillaron ante el altar de DeMolay y demostraron un liderazgo sobresaliente en algún campo: cívico, profesional, fraternal o espiritual. Son hombres en quienes la Orden puede confiar para ayudar a los jóvenes a llevar los ideales DeMolay a cada ámbito de la vida." },
-          { "t": "p", "text": "Los **Legionnaires** se agrupan en **Preceptories**. Todos los miembros de un Preceptory deben ser Legionnaires, activos u honorarios; un Legionnaire activo es el que participó de la observancia del último **18 de marzo** y completó el informe requerido." },
+          { "t": "p", "text": "La **Legión de Honor** une a unos pocos elegidos entre los millones que se arrodillaron ante el altar de DeMolay y demostraron un liderazgo sobresaliente en algún campo: cívico, profesional, fraternal o espiritual. Son hombres en quienes la Orden puede confiar para ayudar a los jóvenes a llevar los ideales DeMolay a cada ámbito de la vida." },
+          { "t": "p", "text": "Los **Legionarios** se agrupan en **Preceptorios** (Preceptories). Todos los miembros de un Preceptorio deben ser Legionarios, activos u honorarios; un Legionario activo es el que participó de la observancia del último **18 de marzo** y completó el informe requerido." },
           { "t": "list", "items": [
-            "Oficiales que el Preceptory puede elegir: **Dean, Vice-Dean, Secretary, Treasurer, Chaplain y Sergeant-at-Arms**."
+            "Oficiales que el Preceptorio puede elegir: **Decano, Vicedecano, Secretario, Tesorero, Capellán y Sargento de Armas**."
           ] },
-          { "t": "p", "text": "Su función es asistir al Executive Officer en conferir el **Legion of Honor Degree** a quienes elige el Supreme Council, y ayudar en lo que se necesite. Para cualquier actividad de apoyo a DeMolay, primero hay que obtener el visto bueno del Executive Officer. Algunas de esas actividades:" },
+          { "t": "p", "text": "Su función es asistir al Oficial Ejecutivo en conferir el **Grado de la Legión de Honor** (Legion of Honor Degree) a quienes elige el Supremo Consejo Internacional, y ayudar en lo que se necesite. Para cualquier actividad de apoyo a DeMolay, primero hay que obtener el visto bueno del Oficial Ejecutivo. Algunas de esas actividades:" },
           { "t": "list", "items": [
-            "Servir como Advisors donde se los necesite y ayudar al Executive Officer a encontrar más Advisors.",
-            "Apoyar los programas de membresía de todos los Chapters.",
+            "Servir como Consultores donde se los necesite y ayudar al Oficial Ejecutivo a encontrar más Consultores.",
+            "Apoyar los programas de membresía de todos los Capítulos.",
             "Ser embajadores de DeMolay ante los cuerpos masónicos.",
             "Mantenerse al día con todos los programas DeMolay.",
-            "Ayudar a los DeMolays a conseguir empleo de verano o permanente.",
+            "Ayudar a los DeMolay a conseguir empleo de verano o permanente.",
             "Asistir a reuniones DeMolay tan seguido como puedan.",
-            "Patrocinar la asistencia de DeMolays a las Leadership Conferences anuales y ayudar a planificar el Conclave/Convention de la Jurisdiction."
+            "Patrocinar la asistencia de DeMolay a las Conferencias de Liderazgo (Leadership Conferences) anuales y ayudar a planificar el Cónclave/Convención de la Jurisdicción."
           ] },
           { "t": "steps", "items": [
-            "Juntá un grupo de miembros de la Legion of Honor interesados.",
-            "Pedí la autorización para organizarse al Executive Officer, indicando los interesados.",
+            "Junta un grupo de miembros de la Legión de Honor interesados.",
+            "Pide la autorización para organizarse al Oficial Ejecutivo, indicando los interesados.",
             "Una vez autorizados, elijan los oficiales.",
             "Planifiquen un programa de actividades.",
-            "Mantengan informado al Executive Officer de las actividades y los oficiales del Preceptory."
+            "Mantengan informado al Oficial Ejecutivo de las actividades y los oficiales del Preceptorio."
           ] },
-          { "t": "callout", "style": "key", "text": "El calendario de un Preceptory debe incluir sí o sí la **observancia anual del 18 de marzo**, que puede celebrarse con un programa y una cena." }
+          { "t": "callout", "style": "key", "text": "El calendario de un Preceptorio debe incluir sí o sí la **observancia anual del 18 de marzo**, que puede celebrarse con un programa y una cena." }
         ]
       }
     ],
     "quiz": [
       {
-        "q": "¿Qué edades abarca el Order of the Squires of the Round Table?",
+        "q": "¿Qué edades abarca la Orden de Escuderos de la Mesa Redonda?",
         "options": ["7 a 9 años", "9 a 11 años", "10 a 12 años", "12 a 14 años"],
         "correct": 1,
-        "explain": "Los Squires tienen entre 9 y 11 años; al cumplir 12 ya pueden unirse a DeMolay, para lo cual el Manor los prepara."
+        "explain": "Los Escuderos tienen entre 9 y 11 años; al cumplir 12 ya pueden unirse a DeMolay, para lo cual el Castillo los prepara."
       },
       {
-        "q": "¿Cuándo se fundaron los Squires y cuándo los adoptó formalmente DeMolay International?",
+        "q": "¿Cuándo se fundaron los Escuderos y cuándo los adoptó formalmente DeMolay Internacional?",
         "options": ["1985 y 2005", "1990 y 2010", "1995 y 2015", "2000 y 2020"],
         "correct": 2,
-        "explain": "Se fundaron en 1995 en Vancouver, Washington, y DeMolay International los adoptó formalmente en 2015."
+        "explain": "Se fundaron en 1995 en Vancouver, Washington, y DeMolay Internacional los adoptó formalmente en 2015."
       },
       {
-        "q": "¿Cuántos oficiales puede tener un Manor y cuántos de ellos son electos?",
+        "q": "¿Cuántos oficiales puede tener un Castillo y cuántos de ellos son electos?",
         "options": ["Hasta 5, con 2 electos", "Hasta 7, con 3 electos", "Hasta 9, con 4 electos", "Hasta 11, con 4 electos"],
         "correct": 1,
-        "explain": "Un Manor tiene hasta 7 oficiales: Master, Senior y Junior Squire son electos; los otros cuatro son designados. Los términos duran 6 meses."
+        "explain": "Un Castillo tiene hasta 7 oficiales: el Maestre, el Primer y el Segundo Escudero son electos; los otros cuatro son designados. Los términos duran 6 meses."
       },
       {
-        "q": "¿Quiénes integran un Priory del Order of Knighthood?",
-        "options": ["Senior DeMolays de cualquier edad", "DeMolays activos de 17 a 21 años", "Master Masons jóvenes", "Chevaliers designados por el Supreme Council"],
+        "q": "¿Quiénes integran un Priorato de la Orden de la Caballería?",
+        "options": ["Sénior DeMolay de cualquier edad", "DeMolay activos de 17 a 21 años", "Maestros Masones jóvenes", "Chevaliers designados por el Supremo Consejo Internacional"],
         "correct": 1,
-        "explain": "El programa de Knighthood se compone de DeMolays activos de entre 17 y 21 años, organizados en Priories."
+        "explain": "El programa de la Caballería se compone de DeMolay activos de entre 17 y 21 años, organizados en Prioratos."
       },
       {
-        "q": "¿Cuánto del programa de un Priory debería dedicarse al servicio?",
+        "q": "¿Cuánto del programa de un Priorato debería dedicarse al servicio?",
         "options": ["Un cuarto", "Un tercio", "Exactamente la mitad", "Más de la mitad"],
         "correct": 3,
-        "explain": "El Handbook recomienda que más de la mitad de la planificación del programa de un Priory sea de servicio: es la esencia de Knighthood."
+        "explain": "El Handbook recomienda que más de la mitad de la planificación del programa de un Priorato sea de servicio: es la esencia de la Caballería."
       },
       {
-        "q": "¿Qué es el Order of Ebon y cuándo se aprobó?",
-        "options": ["El primer grado de Knighthood, en 1946", "Un segundo grado opcional, aprobado en 1973", "Un premio para Advisors, creado en 1948", "La ceremonia de apertura de los Squires, de 1995"],
+        "q": "¿Qué es el Grado Ébano y cuándo se aprobó?",
+        "options": ["El primer grado de la Caballería, en 1946", "Un segundo grado opcional, aprobado en 1973", "Un premio para Consultores, creado en 1948", "La ceremonia de apertura de los Escuderos, de 1995"],
         "correct": 1,
-        "explain": "El Order of Ebon es un segundo grado opcional de Knighthood, aprobado por el Supreme Council en su sesión de 1973."
+        "explain": "El Grado Ébano es un segundo grado opcional de la Caballería, aprobado por el Supremo Consejo Internacional en su sesión de 1973."
       },
       {
-        "q": "¿Cuál es la función central de un Court of Chevaliers?",
-        "options": ["Elegir a los nuevos Chevaliers por votación propia", "Conferir el Degree of Chevalier a quienes designa el Supreme Council", "Administrar los fondos del Chapter patrocinador", "Otorgar el Legion of Honor Degree"],
+        "q": "¿Cuál es la función central de una Corte Chevalier?",
+        "options": ["Elegir a los nuevos Chevaliers por votación propia", "Conferir el Grado de Chevalier a quienes designa el Supremo Consejo Internacional", "Administrar los fondos del Capítulo patrocinador", "Otorgar el Grado de la Legión de Honor"],
         "correct": 1,
-        "explain": "El Court confiere el Degree of Chevalier a los designados por el Supreme Council a través del Executive Officer; no elige a los homenajeados."
+        "explain": "La Corte confiere el Grado de Chevalier a los designados por el Supremo Consejo Internacional a través del Oficial Ejecutivo; no elige a los homenajeados."
       },
       {
-        "q": "¿Qué fecha observan cada año los Legionnaires de la Legion of Honor?",
+        "q": "¿Qué fecha observan cada año los Legionarios de la Legión de Honor?",
         "options": ["10 de enero", "18 de marzo", "27 de octubre", "1 de junio"],
         "correct": 1,
-        "explain": "La observancia anual de la Legion of Honor es el 18 de marzo; participar y completar el informe es lo que mantiene activo a un Legionnaire."
+        "explain": "La observancia anual de la Legión de Honor es el 18 de marzo; participar y completar el informe es lo que mantiene activo a un Legionario."
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "id": "oficiales",
   "es": {
-    "title": "Los Officers del Chapter",
+    "title": "Los Oficiales del Capítulo",
     "subtitle": "Quién hace qué: de los tres electos a los 18 nombrados, con sus deberes exactos.",
     "minutes": 9,
     "lessons": [
@@ -9,178 +9,178 @@
         "id": "l1",
         "title": "23 cargos, tres orígenes",
         "blocks": [
-          { "t": "p", "text": "Un Chapter funciona con **23 officers**, y no todos llegan al cargo por el mismo camino. Tres se eligen por voto, dos los nombra el Advisory Council (el consejo de adultos que supervisa el Chapter) y los otros 18 los elige el Master Councilor. Cada officer ocupa su cargo hasta que su sucesor sea electo o nombrado e instalado." },
+          { "t": "p", "text": "Un Capítulo (Chapter) funciona con **23 oficiales** (officers), y no todos llegan al cargo por el mismo camino. Tres se eligen por voto, dos los nombra el Consejo Consultivo (Advisory Council), el grupo de adultos que supervisa el Capítulo, y los otros 18 los elige el Maestre Consejero (Master Councilor). Cada oficial ocupa su cargo hasta que su sucesor sea electo o nombrado e instalado." },
           { "t": "cards", "items": [
-            { "title": "Electos (3)", "text": "Master Councilor (MC), Senior Councilor (SC) y Junior Councilor (JC). Los eligen los miembros con paper ballots, por el término que fijan los Bylaws del Chapter. Gana quien obtiene la mayoría de los votos emitidos; los votos en blanco no cuentan." },
-            { "title": "Nombrados por el Advisory Council (2)", "text": "Treasurer y Scribe. Sirven mientras el Council lo decida, hasta que sus sucesores sean nombrados e instalados. El Treasurer tiene que ser legalmente adulto, y un mismo Advisor puede ocupar los dos cargos a la vez." },
-            { "title": "Nombrados por el MC (18)", "text": "El resto de la línea de officers. Sirven mientras el MC lo disponga." }
+            { "title": "Electos (3)", "text": "Maestre Consejero (MC), Primer Consejero (Senior Councilor, SC) y Segundo Consejero (Junior Councilor, JC). Los eligen los miembros por voto escrito (paper ballots), por el período que fijan los Estatutos (Bylaws) del Capítulo. Gana quien obtiene la mayoría de los votos emitidos; los votos en blanco no cuentan." },
+            { "title": "Nombrados por el Consejo Consultivo (2)", "text": "El Tesorero (Treasurer) y el Escriba (Scribe). Sirven mientras el Consejo lo decida, hasta que sus sucesores sean nombrados e instalados. El Tesorero tiene que ser legalmente adulto, y un mismo Consultor (Advisor; en EE.UU. se les dice \"Dad\" y \"Mom\", en Bolivia les decimos Tíos y Tías) puede ocupar los dos cargos a la vez." },
+            { "title": "Nombrados por el MC (18)", "text": "El resto de la línea de oficiales. Sirven mientras el MC lo disponga." }
           ] },
           { "t": "list", "items": [
-            "Senior Deacon y Junior Deacon",
-            "Senior Steward y Junior Steward",
-            "Chaplain",
-            "Almoner",
-            "Marshal",
-            "Standard Bearer",
-            "Orator",
-            "Los 7 Preceptors",
-            "Sentinel",
-            "Organist"
+            "Primer Diácono y Segundo Diácono (Senior y Junior Deacon)",
+            "Primer Mayordomo y Segundo Mayordomo (Senior y Junior Steward)",
+            "Capellán (Chaplain)",
+            "Hospitalario (Almoner)",
+            "Mariscal (Marshal)",
+            "Porta Bandera (Standard Bearer)",
+            "Orador (Orator)",
+            "Los 7 Preceptores (Preceptors)",
+            "Centinela (Sentinel)",
+            "Organista (Organist)"
           ] },
-          { "t": "p", "text": "Para ser candidato a cualquier cargo tenés que ser **miembro activo** y haber calificado para tu **Obligation Card** (la tarjeta que certifica que te sabés tus obligations). Para votar en la elección también necesitás haberla recibido. Y para ser electo MC hay un requisito extra: haber servido antes como SC o JC, salvo que el Advisory Council considere que otra elección sirve mejor al Chapter, o que el Chapter sea nuevo." },
-          { "t": "callout", "style": "warn", "text": "Faltar a 3 reuniones consecutivas del Chapter sin excusa del Chairman del Advisory Council (o su representante designado) crea una vacante automática en tu cargo." },
-          { "t": "p", "text": "Si queda vacante el cargo de MC, el SC asciende a MC, el JC pasa a SC y el cargo de JC se cubre por elección regular, con aviso escrito a los miembros con **2 semanas** de anticipación. El que asciende puede preferir quedarse donde está: en ese caso se elige directamente el cargo vacante. Cualquier officer puede renunciar, y la renuncia también puede ser exigida: una resolución presentada en una reunión regular, sostenida por el voto afirmativo de **tres cuartos** de los presentes en la siguiente reunión regular, con la aprobación del Executive Officer de la Jurisdicción o su representante." },
+          { "t": "p", "text": "Para ser candidato a cualquier cargo tienes que ser **miembro activo** y haber calificado para tu **Tarjeta de Obligación** (Obligation Card), la tarjeta que certifica que te sabes tus Obligaciones (Obligations). Para votar en la elección también necesitas haberla recibido. Y para ser electo Maestre Consejero hay un requisito extra: haber servido antes como Primer o Segundo Consejero, salvo que el Consejo Consultivo considere que otra elección sirve mejor al Capítulo, o que el Capítulo sea nuevo." },
+          { "t": "callout", "style": "warn", "text": "Faltar a 3 reuniones consecutivas del Capítulo sin excusa del Presidente del Consejo Consultivo (Chairman), o de su representante designado, crea una vacante automática en tu cargo." },
+          { "t": "p", "text": "Si queda vacante el cargo de Maestre Consejero, el Primer Consejero asciende a MC, el Segundo Consejero pasa a Primer Consejero y el cargo de Segundo Consejero se cubre por elección regular, con aviso escrito a los miembros con **2 semanas** de anticipación. El que asciende puede preferir quedarse donde está: en ese caso se elige directamente el cargo vacante. Cualquier oficial puede renunciar, y la renuncia también puede ser exigida: una resolución presentada en una reunión ordinaria, sostenida por el voto afirmativo de **tres cuartos** de los presentes en la siguiente reunión ordinaria, con la aprobación del Oficial Ejecutivo (Executive Officer) de la Jurisdicción o su representante." },
           { "t": "ref", "text": "Reglas completas de elecciones, vacantes y renuncias", "page": "40" }
         ]
       },
       {
         "id": "l2",
-        "title": "Master Councilor: el que marca el ritmo",
+        "title": "Maestre Consejero: el que marca el ritmo",
         "blocks": [
-          { "t": "p", "text": "El MC ocupa el lugar que el presidente tiene en cualquier otra organización: es el líder juvenil de mayor rango del Chapter. Y los miembros reflejan su humor y su forma de trabajar: si el MC contagia entusiasmo, el Chapter lo devuelve. El Handbook le pide ser alegre, justo, comprensivo y democrático — liderás una democracia, no una dictadura." },
-          { "t": "h", "text": "Tu programa del término" },
+          { "t": "p", "text": "El Maestre Consejero ocupa el lugar que el presidente tiene en cualquier otra organización: es el líder juvenil de mayor rango del Capítulo. Y los miembros reflejan su humor y su forma de trabajar: si el MC contagia entusiasmo, el Capítulo lo devuelve. El Handbook le pide ser alegre, justo, comprensivo y democrático — lideras una democracia, no una dictadura." },
+          { "t": "h", "text": "Tu programa de gestión" },
           { "t": "steps", "items": [
-            "Apenas electo y antes de tu Installation, armá el programa de actividades con fechas concretas: degrees, actividades sociales, visitations, actividades especiales y los Obligatory Days que caigan en tu término.",
-            "Trabajalo en consulta con los demás Officers, los Advisors del Chapter y los comités involucrados.",
-            "Llevalo impreso y entregáselo a cada miembro en tu primera reunión como MC.",
-            "Fijate una meta personal: calificar para el PMC-MSA (Past Master Councilor's Meritorious Service Award)."
+            "Apenas seas electo y antes de tu Ceremonia de Instalación (Installation), arma el programa de actividades con fechas concretas: conferimiento de grados, actividades sociales, visitas (visitations), actividades especiales y los Días Obligatorios (Obligatory Days) que caigan en tu gestión.",
+            "Trabájalo en consulta con los demás oficiales, los Consultores del Capítulo y los comités involucrados.",
+            "Llévalo impreso y entrégaselo a cada miembro en tu primera reunión como MC.",
+            "Fíjate una meta personal: calificar para el Past Maestre Consejero – Premio al Servicio Meritorio (PMC-MSA, Past Master Councilor's Meritorious Service Award)."
           ] },
-          { "t": "callout", "style": "key", "text": "Mínimos obligatorios del término del MC: al menos 1 actividad social, 1 proyecto de servicio cívico, 1 actividad de fundraising y 1 Initiation. Además, iniciar su parte proporcional de la meta de nuevos miembros asignada al Chapter." },
-          { "t": "p", "text": "En la noche de la Installation, o apenas puedas (a menudo justo después de la elección), podés nombrar los comités: **Sick, Entertainment, Auditing, Finance y Membership**, más los que el Chapter necesite. La política recomendada es que cada miembro esté en al menos un comité. Vos sos miembro ex-officio (sin voto) de todos, pero dejá que cada uno haga su trabajo: revisá su progreso las primeras semanas y reasigná funciones si no avanzan." },
+          { "t": "callout", "style": "key", "text": "Mínimos obligatorios de la gestión del MC: al menos 1 actividad social, 1 proyecto de servicio cívico, 1 actividad de recaudación de fondos y 1 Iniciación. Además, iniciar su parte proporcional de la meta de nuevos miembros asignada al Capítulo." },
+          { "t": "p", "text": "En la noche de la Instalación, o apenas puedas (a menudo justo después de la elección), puedes nombrar los comités: **Enfermos, Entretenimiento, Auditoría, Finanzas y Membresía** (Sick, Entertainment, Auditing, Finance y Membership), más los que el Capítulo necesite. La política recomendada es que cada miembro esté en al menos un comité. Tú eres miembro ex-officio (sin voto) de todos, pero deja que cada uno haga su trabajo: revisa su progreso las primeras semanas y reasigna funciones si no avanzan." },
           { "t": "list", "items": [
-            "Velar por que el Chapter cumpla las Rules & Regulations de DeMolay, que los registros sean exactos y que los reportes y remesas a DeMolay International salgan a tiempo.",
-            "Presidir las reuniones del Chapter; si falta, preside el officer que sigue en rango.",
+            "Velar por que el Capítulo cumpla las Reglas y Regulaciones (Rules & Regulations) de DeMolay, que los registros sean exactos y que los reportes y remesas a DeMolay Internacional salgan a tiempo.",
+            "Presidir las reuniones del Capítulo; si falta, preside el oficial que sigue en rango.",
             "Convocar reuniones especiales, obligatoriamente si se lo piden.",
-            "Nombrar officers, los Standing Committees, los comités que investigan las Applications for Membership y todo comité especial, según los Bylaws.",
-            "Supervisar la observancia de los Obligatory Days de su término."
+            "Nombrar oficiales, los comités permanentes (Standing Committees), los comités de sindicancia que investigan las Solicitudes de Membresía (Applications for Membership) y todo comité especial, según los Estatutos.",
+            "Supervisar la observancia de los Días Obligatorios de su gestión."
           ] },
-          { "t": "p", "text": "Dos detalles que muchos pasan por alto: **sólo el MC** puede leer la application y el informe de investigación en una reunión del Chapter, y para presidir bien hace falta manejar procedimiento parlamentario — tener una copia de Robert's Rules of Order en la biblioteca del Chapter ayuda, sin volverse esclavo de la formalidad. Con los Advisors la relación es de cooperación: están para aconsejarte, no para hacer tu trabajo." }
+          { "t": "p", "text": "Dos detalles que muchos pasan por alto: **solo el MC** puede leer la solicitud y el informe de investigación en una reunión del Capítulo, y para presidir bien hace falta manejar procedimiento parlamentario — tener una copia de las Reglas de Orden de Robert (Robert's Rules of Order) en la biblioteca del Capítulo ayuda, sin volverse esclavo de la formalidad. Con los Consultores la relación es de cooperación: están para aconsejarte, no para hacer tu trabajo." }
         ]
       },
       {
         "id": "l3",
-        "title": "Senior y Junior Councilor: la línea de sucesión",
+        "title": "Primer y Segundo Consejero: la línea de sucesión",
         "blocks": [
-          { "t": "p", "text": "El SC es el **segundo al mando** y, en la mayoría de los casos, está trabajando para ser MC el término siguiente. Tiene que estar siempre listo para asumir los deberes del MC si hace falta, y suele dirigir partes de las ceremonias justamente para ganar esa práctica." },
+          { "t": "p", "text": "El Primer Consejero es el **segundo al mando** y, en la mayoría de los casos, está trabajando para ser Maestre Consejero en la gestión siguiente. Tiene que estar siempre listo para asumir los deberes del MC si hace falta, y suele dirigir partes de las ceremonias justamente para ganar esa práctica." },
           { "t": "list", "items": [
-            "Supervisar la mitad de los comités del Chapter: el Handbook recomienda eso antes que atarlo a presidir uno solo, aunque tradicionalmente preside el Entertainment Committee.",
-            "Hacerse cargo del problema de la asistencia a las reuniones, que va de la mano con la calidad del programa de cada meeting.",
-            "Ir pensando su propio programa de término, para arrancar rápido si resulta electo MC."
+            "Supervisar la mitad de los comités del Capítulo: el Handbook recomienda eso antes que atarlo a presidir uno solo, aunque tradicionalmente preside el Comité de Entretenimiento (Entertainment Committee).",
+            "Hacerse cargo del problema de la asistencia a las reuniones, que va de la mano con la calidad del programa de cada reunión.",
+            "Ir pensando su propio programa de gestión, para avanzar rápido si resulta electo MC."
           ] },
           { "t": "p", "text": "La mejor definición de su rol, según el Handbook: buscar **aliviar la carga de trabajo del MC**." },
-          { "t": "p", "text": "El JC es el **tercero al mando** y debe estar preparado para asumir como SC o MC cuando se lo llame. A diferencia del SC, cuyos deberes no están definidos con claridad en los Bylaws, el JC tiene uno bien concreto." },
-          { "t": "callout", "style": "key", "text": "El deber definido del JC: coachear a los nuevos miembros para que obtengan las certificaciones de sus Obligations, que necesitan memorizar para gozar de todos los derechos de un miembro en good standing. En Chapters grandes se suele nombrar un comité para ayudarlo." },
+          { "t": "p", "text": "El Segundo Consejero es el **tercero al mando** y debe estar preparado para asumir como Primer Consejero o Maestre Consejero cuando se lo llame. A diferencia del Primer Consejero, cuyos deberes no están definidos con claridad en los Estatutos, el Segundo Consejero tiene uno bien concreto." },
+          { "t": "callout", "style": "key", "text": "El deber definido del Segundo Consejero: entrenar a los nuevos miembros para que obtengan las certificaciones de sus Obligaciones, que necesitan memorizar para gozar de todos los derechos de un miembro en regla (in good standing). En Capítulos grandes se suele nombrar un comité para ayudarlo." },
           { "t": "list", "items": [
-            "Supervisar la otra mitad de los comités del Chapter, espejo de la recomendación para el SC.",
+            "Supervisar la otra mitad de los comités del Capítulo, espejo de la recomendación para el Primer Consejero.",
             "Orientar a los nuevos miembros: cuando esta función se descuida, muchos se vuelven inactivos antes del año."
           ] }
         ]
       },
       {
         "id": "l4",
-        "title": "Treasurer: la plata del Chapter, en orden",
+        "title": "Tesorero: el dinero del Capítulo, en orden",
         "blocks": [
-          { "t": "p", "text": "El Treasurer sirve un término calendario: del **1 de enero al 31 de diciembre**. Su función primaria es llevar una cuenta exacta de todos los ingresos y egresos, mostrando **por separado** los fondos que pertenecen al Chapter y los que pertenecen a DeMolay International." },
-          { "t": "p", "text": "El circuito del dinero es simple y no se negocia: el Scribe cobra todas las cuotas y fees, se las entrega al Treasurer, y el Treasurer le da un recibo por lo recibido." },
+          { "t": "p", "text": "El Tesorero sirve un período calendario: del **1 de enero al 31 de diciembre**. Su función primaria es llevar una cuenta exacta de todos los ingresos y egresos, mostrando **por separado** los fondos que pertenecen al Capítulo y los que pertenecen a DeMolay Internacional." },
+          { "t": "p", "text": "El circuito del dinero es simple y no se negocia: el Escriba cobra todas las cuotas y tasas (fees), se las entrega al Tesorero, y el Tesorero le da un recibo por lo recibido." },
           { "t": "list", "items": [
-            "Preparar vouchers (cheques bancarios) cuidadosamente numerados y archivados.",
-            "Cada pago lo firma el Treasurer o el MC y lo contrafirma un miembro del Advisory Council, después de autorizarse en una reunión regular de negocios del Chapter.",
-            "Si el pago es electrónico, todos los aprobadores deben tener acceso de visualización online o recibir copia automática de cada transacción.",
-            "Los fondos que pertenecen a DeMolay International se pagan sin necesidad de autorización del Chapter.",
-            "Presentar un informe mensual al Advisory Council de todos los fondos en su poder, y un informe de sus actos oficiales en la última reunión del año DeMolay.",
-            "Al expirar su término, entregar todo el dinero y la propiedad del Chapter a su sucesor o a quien indique el Advisory Council.",
-            "Si el Advisory Council lo pide, presentar un Bond (fianza) con una aseguradora, a costo del Chapter, que proteja los fondos contra pérdidas."
+            "Preparar los comprobantes de pago (vouchers, cheques bancarios), cuidadosamente numerados y archivados.",
+            "Cada pago lo firma el Tesorero o el MC y lo contrafirma un miembro del Consejo Consultivo, después de autorizarse en una reunión ordinaria de negocios del Capítulo.",
+            "Si el pago es electrónico, todos los aprobadores deben tener acceso de visualización en línea o recibir copia automática de cada transacción.",
+            "Los fondos que pertenecen a DeMolay Internacional se pagan sin necesidad de autorización del Capítulo.",
+            "Presentar un informe mensual al Consejo Consultivo de todos los fondos en su poder, y un informe de sus actos oficiales en la última reunión del año DeMolay.",
+            "Al expirar su período, entregar todo el dinero y la propiedad del Capítulo a su sucesor o a quien indique el Consejo Consultivo.",
+            "Si el Consejo Consultivo lo pide, presentar una fianza (Bond) con una aseguradora, a costo del Capítulo, que proteja los fondos contra pérdidas."
           ] },
-          { "t": "callout", "style": "warn", "text": "El efectivo nunca se usa para ninguna transacción de pago del Chapter. Sin excepciones." }
+          { "t": "callout", "style": "warn", "text": "El efectivo nunca se usa para ninguna transacción de pago del Capítulo. Sin excepciones." }
         ]
       },
       {
         "id": "l5",
-        "title": "Scribe: el tercer cargo más importante",
+        "title": "Escriba: el tercer cargo más importante",
         "blocks": [
-          { "t": "p", "text": "El Handbook lo dice sin vueltas: el Scribe es el tercer cargo en importancia, detrás sólo del Chapter Advisor y del MC. Su lema: \"So goes the Scribe, so goes the Chapter\" — como le va al Scribe, le va al Chapter. Lo nombra el Advisory Council por un año calendario (1 de enero al 31 de diciembre) y puede ser un DeMolay activo, un Senior DeMolay o un Advisor. Si es un joven, se suele nombrar también un Scribe Advisor para acompañarlo, y conviene entrenar al próximo Scribe como assistant Scribe antes de que asuma. Eso sí: el Advisory Council puede removerlo en cualquier momento por negligencia en sus deberes." },
+          { "t": "p", "text": "El Handbook lo dice sin rodeos: el Escriba es el tercer cargo en importancia, detrás solo del Consultor Principal (Chapter Advisor) y del MC. Su lema: \"So goes the Scribe, so goes the Chapter\" — como le va al Escriba, le va al Capítulo. Lo nombra el Consejo Consultivo por un año calendario (1 de enero al 31 de diciembre) y puede ser un DeMolay activo, un Sénior DeMolay o un Consultor. Si es un joven, se suele nombrar también un Consultor de Escriba (Scribe Advisor) para acompañarlo, y conviene entrenar al próximo Escriba como Escriba asistente antes de que asuma. Eso sí: el Consejo Consultivo puede removerlo en cualquier momento por negligencia en sus deberes." },
           { "t": "list", "items": [
-            "Registrar todas las transacciones del Chapter (las minutas) y mantener los registros disponibles para inspección.",
-            "Cobrar todos los fees y pagárselos de inmediato al Treasurer, tomando recibo.",
-            "Hacer un informe mensual al Advisory Council, separando los fondos de DeMolay International.",
-            "Cuidar la propiedad del Chapter y mantener un inventario exacto.",
-            "Hacer el Annual Report y los demás reportes que requieran los Bylaws o pida el Grand Secretary, con las remesas correspondientes.",
-            "Enviar los avisos de reuniones y las fechas de los Obligatory Days.",
+            "Registrar todas las transacciones del Capítulo (las minutas) y mantener los registros disponibles para inspección.",
+            "Cobrar todas las tasas y pagárselas de inmediato al Tesorero, tomando recibo.",
+            "Hacer un informe mensual al Consejo Consultivo, separando los fondos de DeMolay Internacional.",
+            "Cuidar la propiedad del Capítulo y mantener un inventario exacto.",
+            "Hacer el Informe Anual (Annual Report) y los demás reportes que requieran los Estatutos o pida el Gran Secretario (Grand Secretary), con las remesas correspondientes.",
+            "Enviar los avisos de reuniones y las fechas de los Días Obligatorios.",
             "Al terminar, entregar libros, papeles, dinero y toda propiedad a su sucesor."
           ] },
           { "t": "h", "text": "eScribe: el sistema que sostiene todo" },
-          { "t": "p", "text": "eScribe guarda la historia DeMolay completa de cada miembro: petición, iniciación, cargos ocupados, fecha de mayoría. Todo candidato que recibe el Initiatory Degree debe reportarse al Service and Leadership Center a través de eScribe, remitiendo el fee de iniciación de **$35**, que le da al iniciado membresía vitalicia prepaga en DeMolay International y su Patent (su diploma de membresía). Hasta que no está reportado en eScribe, un miembro **no está oficialmente registrado** ni en el Chapter ni en DeMolay International." },
-          { "t": "callout", "style": "key", "text": "Si el Initiatory y el DeMolay Degree no se confieren la misma noche ni con menos de 10 días de diferencia, el Initiatory se reporta de inmediato con los $35, y cuando al fin se confiere el DeMolay Degree se reporta de nuevo en eScribe. El Patent recién se emite cuando ambos degrees están reportados con sus fechas y todos los fees pagados." },
-          { "t": "p", "text": "El **Annual Report** es crítico: es el único medio que tiene el Grand Secretary para conocer la condición financiera, de membresía y general de cada Chapter. Lo preparan juntos el Scribe y el Chairman del Advisory Council, en eScribe. El Scribe también genera ahí el Senior DeMolay Member Certificate, que certifica el retiro en good standing del miembro al cumplir 21 años — si es posible, se entrega en público en su Majority Service. Y un hábito para predicar de por vida: mantener actualizado el perfil de eScribe; miles de envíos vuelven al Headquarters cada año por direcciones desactualizadas." },
-          { "t": "callout", "style": "info", "text": "Toda carta o email a DeMolay International (Service & Leadership Center, Kansas City) debe llevar en el margen superior derecho: fecha, nombre del Scribe, dirección, teléfono, y nombre y ubicación del Chapter." },
-          { "t": "ref", "text": "Los 11 deberes completos del Scribe según los Bylaws", "page": "47" }
+          { "t": "p", "text": "eScribe guarda la historia DeMolay completa de cada miembro: petición, iniciación, cargos ocupados, fecha de Mayoría de Edad. Todo candidato que recibe el Grado Iniciático (Initiatory Degree) debe reportarse al Centro de Servicio y Liderazgo (Service and Leadership Center) a través de eScribe, remitiendo la tasa de iniciación (initiation fee) de **$35**, que le da al iniciado membresía vitalicia prepaga en DeMolay Internacional y su Patente (Patent), su diploma de membresía. Hasta que no está reportado en eScribe, un miembro **no está oficialmente registrado** ni en el Capítulo ni en DeMolay Internacional." },
+          { "t": "callout", "style": "key", "text": "Si el Grado Iniciático y el Grado DeMolay (DeMolay Degree) no se confieren la misma noche ni con menos de 10 días de diferencia, el Grado Iniciático se reporta de inmediato con los $35, y cuando al fin se confiere el Grado DeMolay se reporta de nuevo en eScribe. La Patente recién se emite cuando ambos grados están reportados con sus fechas y todas las tasas pagadas." },
+          { "t": "p", "text": "El **Informe Anual** es crítico: es el único medio que tiene el Gran Secretario para conocer la condición financiera, de membresía y general de cada Capítulo. Lo preparan juntos el Escriba y el Presidente del Consejo Consultivo, en eScribe. El Escriba también genera ahí el Certificado de Miembro Sénior DeMolay (Senior DeMolay Member Certificate), que certifica el retiro en regla del miembro al cumplir 21 años — si es posible, se entrega en público en su Ceremonia de Mayoría de Edad (Majority Service). Y un hábito para predicar de por vida: mantener actualizado el perfil de eScribe; miles de envíos vuelven a la sede central cada año por direcciones desactualizadas." },
+          { "t": "callout", "style": "info", "text": "Toda carta o email a DeMolay Internacional (Centro de Servicio y Liderazgo, Kansas City) debe llevar en el margen superior derecho: fecha, nombre del Escriba, dirección, teléfono, y nombre y ubicación del Capítulo." },
+          { "t": "ref", "text": "Los 11 deberes completos del Escriba según los Estatutos", "page": "47" }
         ]
       },
       {
         "id": "l6",
         "title": "Quién hace qué en cada ceremonia",
         "blocks": [
-          { "t": "p", "text": "Cada ceremonia tiene su propio elenco de papeles rituales. Conocerlos te sirve doble: sabés dónde podés participar, y cada parte interpretada suma puntos en la escala del ISC para la **Ritual bar** del Merit Bar system." },
+          { "t": "p", "text": "Cada ceremonia tiene su propio elenco de papeles rituales. Conocerlos te sirve doble: sabes dónde puedes participar, y cada parte interpretada suma puntos en la escala del Supremo Consejo Internacional (International Supreme Council, ISC) para la **Barra de Ritual** (Ritual bar) del sistema de Barras de Mérito (Merit Bars)." },
           { "t": "table", "headers": ["Ceremonia", "Papeles"], "rows": [
-            ["Initiatory Degree", "Master Councilor, Senior Councilor, Junior Councilor, Senior Deacon, Chaplain, los Preceptors, Senior Steward, Junior Steward y Marshal"],
-            ["DeMolay Degree", "Master Councilor, Jacques DeMolay, Geoffrey de Charney, Master Inquisitor, Senior Inquisitor, Junior Inquisitor, Senior Guard, Orator y Marshal"],
-            ["Installation Service", "Installing Officer, Installing Senior Councilor, Installing Junior Councilor, Installing Marshal e Installing Chaplain"],
-            ["Majority Service", "Master Councilor, Senior Councilor, Junior Councilor y Chaplain"]
+            ["Grado Iniciático", "Maestre Consejero, Primer Consejero, Segundo Consejero, Primer Diácono, Capellán, los Preceptores, Primer Mayordomo, Segundo Mayordomo y Mariscal"],
+            ["Grado DeMolay", "Maestre Consejero, Jacques DeMolay, Geoffrey de Charney, Maestre Inquisidor, Primer Inquisidor, Segundo Inquisidor, Primer Guardia, Orador y Mariscal"],
+            ["Ceremonia de Instalación", "Oficial Instalador, Primer Consejero Instalador, Segundo Consejero Instalador, Mariscal Instalador y Capellán Instalador"],
+            ["Ceremonia de Mayoría de Edad", "Maestre Consejero, Primer Consejero, Segundo Consejero y Capellán"]
           ] },
-          { "t": "p", "text": "El DeMolay Degree es especial: ahí varios officers dejan su título y encarnan personajes históricos del juicio de los Templarios, como **Jacques DeMolay** y **Geoffrey de Charney**. Otras ceremonias con papeles propios: la Representative DeMolay Ceremony (Chancellor y Herald) y el Cross of Honor (MC, SC, JC y Marshal)." },
-          { "t": "callout", "style": "info", "text": "Partes especiales que valen oro en la escala de puntos del ritual: el Flower Talk vale 40 puntos y la Ceremony of Light, 30. El Father Talk vale 15." },
+          { "t": "p", "text": "El Grado DeMolay es especial: ahí varios oficiales dejan su título y encarnan personajes históricos del juicio de los Templarios, como **Jacques DeMolay** y **Geoffrey de Charney**. Otras ceremonias con papeles propios: la Ceremonia de DeMolay Representativo (Representative DeMolay Ceremony), con el Canciller y el Heraldo, y la Cruz de Honor (Cross of Honor), con el MC, el Primer Consejero, el Segundo Consejero y el Mariscal." },
+          { "t": "callout", "style": "info", "text": "Partes especiales que valen oro en la escala de puntos del ritual: la Ceremonia de las Flores (Flower Talk) vale 40 puntos y la Ceremonia de las Luces (Ceremony of Light), 30. El Discurso del Padre (Father Talk) vale 15." },
           { "t": "ref", "text": "Lista completa de papeles por ceremonia y puntajes", "page": "206" }
         ]
       }
     ],
     "quiz": [
       {
-        "q": "¿Cuáles son los tres cargos que se eligen por voto de los miembros del Chapter?",
-        "options": ["Master Councilor, Senior Councilor y Junior Councilor", "Master Councilor, Scribe y Treasurer", "Master Councilor, Chapter Advisor y Scribe", "Senior Councilor, Junior Councilor y Marshal"],
+        "q": "¿Cuáles son los tres cargos que se eligen por voto de los miembros del Capítulo?",
+        "options": ["Maestre Consejero, Primer Consejero y Segundo Consejero", "Maestre Consejero, Escriba y Tesorero", "Maestre Consejero, Consultor Principal y Escriba", "Primer Consejero, Segundo Consejero y Mariscal"],
         "correct": 0,
-        "explain": "MC, SC y JC se eligen con paper ballots. El Scribe y el Treasurer los nombra el Advisory Council, y los otros 18 officers los nombra el MC."
+        "explain": "El Maestre Consejero, el Primer Consejero y el Segundo Consejero se eligen por voto escrito. Al Escriba y al Tesorero los nombra el Consejo Consultivo, y a los otros 18 oficiales los nombra el MC."
       },
       {
-        "q": "¿Cuántos officers nombra el Master Councilor?",
+        "q": "¿Cuántos oficiales nombra el Maestre Consejero?",
         "options": ["12", "18", "21", "7"],
         "correct": 1,
-        "explain": "Además de los 3 electos y los 2 que nombra el Advisory Council, el MC nombra 18 officers, incluidos los 7 Preceptors."
+        "explain": "Además de los 3 electos y los 2 que nombra el Consejo Consultivo, el MC nombra 18 oficiales, incluidos los 7 Preceptores."
       },
       {
-        "q": "¿Qué mínimos de actividades debe cumplir el MC durante su término?",
-        "options": ["Al menos 1 social, 1 cívica, 1 fundraising y 1 Initiation", "Sólo al menos 1 Initiation", "2 sociales y 2 fundraisings", "1 actividad de cada tipo por mes"],
+        "q": "¿Qué mínimos de actividades debe cumplir el MC durante su gestión?",
+        "options": ["Al menos 1 social, 1 cívica, 1 de recaudación de fondos y 1 Iniciación", "Solo al menos 1 Iniciación", "2 sociales y 2 de recaudación de fondos", "1 actividad de cada tipo por mes"],
         "correct": 0,
-        "explain": "Los Bylaws le exigen al menos una actividad social, una cívica y una de fundraising, y celebrar una Initiation al menos una vez en su término."
+        "explain": "Los Estatutos le exigen al menos una actividad social, una cívica y una de recaudación de fondos, y celebrar una Iniciación al menos una vez en su gestión."
       },
       {
-        "q": "¿Qué pasa si un officer falta a 3 reuniones consecutivas sin excusa del Chairman del Advisory Council?",
-        "options": ["Recibe una advertencia formal", "Pierde su Obligation Card", "Se crea automáticamente una vacante en su cargo", "Debe pagar una multa al Chapter"],
+        "q": "¿Qué pasa si un oficial falta a 3 reuniones consecutivas sin excusa del Presidente del Consejo Consultivo?",
+        "options": ["Recibe una advertencia formal", "Pierde su Tarjeta de Obligación", "Se crea automáticamente una vacante en su cargo", "Debe pagar una multa al Capítulo"],
         "correct": 2,
-        "explain": "Tres ausencias consecutivas sin excusa del Chairman (o su representante) crean una vacante automática en el cargo."
+        "explain": "Tres ausencias consecutivas sin excusa del Presidente del Consejo Consultivo (o su representante) crean una vacante automática en el cargo."
       },
       {
-        "q": "¿Cuál es el único deber claramente definido del Junior Councilor en los Bylaws?",
-        "options": ["Presidir el Entertainment Committee", "Coachear a los nuevos miembros para sus certificaciones de Obligations", "Llevar las minutas del Chapter", "Controlar la asistencia a las reuniones"],
+        "q": "¿Cuál es el único deber claramente definido del Segundo Consejero en los Estatutos?",
+        "options": ["Presidir el Comité de Entretenimiento", "Entrenar a los nuevos miembros para sus certificaciones de Obligaciones", "Llevar las minutas del Capítulo", "Controlar la asistencia a las reuniones"],
         "correct": 1,
-        "explain": "El coaching de las Obligations es el deber definido del JC. La asistencia se le sugiere al SC, y las minutas son tarea del Scribe."
+        "explain": "Entrenar a los nuevos miembros en sus Obligaciones es el deber definido del Segundo Consejero. La asistencia se le sugiere al Primer Consejero, y las minutas son tarea del Escriba."
       },
       {
-        "q": "¿Cuál de estas reglas aplica al manejo del dinero del Chapter?",
-        "options": ["El efectivo nunca se usa para pagos", "El Treasurer puede pagar en efectivo gastos menores", "El Scribe guarda el dinero que cobra", "El MC autoriza pagos sin contrafirma"],
+        "q": "¿Cuál de estas reglas aplica al manejo del dinero del Capítulo?",
+        "options": ["El efectivo nunca se usa para pagos", "El Tesorero puede pagar en efectivo gastos menores", "El Escriba guarda el dinero que cobra", "El MC autoriza pagos sin contrafirma"],
         "correct": 0,
-        "explain": "Los pagos se hacen con cheques numerados, firmados por el Treasurer o el MC y contrafirmados por un miembro del Advisory Council. El cash está prohibido y el Scribe entrega todo lo que cobra al Treasurer contra recibo."
+        "explain": "Los pagos se hacen con cheques numerados, firmados por el Tesorero o el MC y contrafirmados por un miembro del Consejo Consultivo. El efectivo está prohibido y el Escriba entrega todo lo que cobra al Tesorero contra recibo."
       },
       {
-        "q": "¿Cuánto es el fee de iniciación que se remite por cada nuevo iniciado reportado en eScribe?",
+        "q": "¿Cuánto es la tasa de iniciación que se remite por cada nuevo iniciado reportado en eScribe?",
         "options": ["$25", "$35", "$50", "$10"],
         "correct": 1,
-        "explain": "Son $35 por iniciado, que le dan membresía vitalicia prepaga en DeMolay International y su Patent."
+        "explain": "Son $35 por iniciado, que le dan membresía vitalicia prepaga en DeMolay Internacional y su Patente."
       },
       {
-        "q": "Si el Initiatory y el DeMolay Degree no se confieren la misma noche, ¿dentro de cuántos días deben darse para reportarlos juntos?",
+        "q": "Si el Grado Iniciático y el Grado DeMolay no se confieren la misma noche, ¿dentro de cuántos días deben darse para reportarlos juntos?",
         "options": ["30 días", "10 días", "60 días", "No hay plazo"],
         "correct": 1,
-        "explain": "Si no se confieren la misma noche ni dentro de 10 días entre sí, el Initiatory se reporta de inmediato con los $35 y el DeMolay Degree se reporta después por separado."
+        "explain": "Si no se confieren la misma noche ni dentro de 10 días entre sí, el Grado Iniciático se reporta de inmediato con los $35 y el Grado DeMolay se reporta después por separado."
       }
     ]
   },
