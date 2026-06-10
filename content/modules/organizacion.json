@@ -1,0 +1,389 @@
+{
+  "id": "organizacion",
+  "es": {
+    "title": "Cómo se gobierna DeMolay",
+    "subtitle": "Del International Supreme Council a tu Chapter: quién decide qué, y dónde encajás vos.",
+    "minutes": 9,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "De Kansas City al mundo: nace el gobierno de DeMolay",
+        "blocks": [
+          { "t": "p", "text": "Cuando el Kansas City Chapter (después rebautizado **Mother Chapter**) explotó de fama entre fines de 1919 y principios de 1920, llovían pedidos de información y de autoridad para abrir nuevos Chapters. Hacía falta una organización que gobernara todo eso. Así se formó una entidad temporal llamada **The Grand Council of the Order of DeMolay for Boys**, que preparó la Constitution and Statutes, imprimió rituales y formularios, y manejó los detalles desde la oficina de Frank S. Land en el edificio del Scottish Rite." },
+          { "t": "callout", "style": "key", "text": "El 7 de marzo de 1921, en el Scottish Rite Temple de Kansas City, se realizó la primera sesión anual del Grand Council. Fueron 13 personas, y eligieron a Alexander G. Cochran como primer Grand Master Councilor y a Frank S. Land como Grand Scribe." },
+          { "t": "list", "items": [
+            "Se adoptó la Constitution and Statutes preparada por el comité formador, que fijaba un máximo de 50 miembros para el Grand Council.",
+            "Frank Land presentó 52 Chapters pidiendo su charter (la carta que autoriza oficialmente a un Chapter); todos ya estaban funcionando, con 3.336 miembros activos al 31 de enero de 1921.",
+            "El charter N.º 1 fue para el Mother Chapter; el N.º 2 para Huron Chapter (Kansas City, Kansas) y el N.º 3 para Pittsburg Chapter (Pittsburg, Kansas).",
+            "Se adoptaron los cinco Obligatory Days originales: Patriots Day, Parents Day, DeMolay Day of Comfort, Devotional Day y Educational Day."
+          ] },
+          { "t": "p", "text": "El crecimiento fue una locura: para la sesión de 1922 ya había **404 Chapters** en 27 estados más Manitoba, Puerto Rico y Filipinas. A fin de 1922 eran **667 Chapters con 68.629 DeMolays**, y para marzo de 1923 había Chapters en todos los estados de EE. UU. salvo Maine, Vermont y Rhode Island." },
+          { "t": "p", "text": "Ese desarrollo internacional empujó el cambio formal de nombre: el **1.º de marzo de 1954**, el Grand Council pasó a llamarse **International Supreme Council** (ISC) de la Order of DeMolay." },
+          { "t": "ref", "text": "La historia completa del Supreme Council, con todos los nombres y fechas", "page": "182" }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "El International Supreme Council hoy",
+        "blocks": [
+          { "t": "p", "text": "El ISC es la **autoridad suprema** de DeMolay International: regula y controla leyes, estatutos, Chapters, Advisory Councils, miembros, charters, finanzas, rituales, disputas, apelaciones y oficiales. Lo integran Masons de todo el mundo que ya demostraron su capacidad de liderazgo en otras áreas de la vida y ahora le dedican a DeMolay su experiencia y su consejo." },
+          { "t": "p", "text": "Lo preside el **Grand Master**, que se elige junto con **otros cuatro oficiales** en la reunión anual del Council, cada primavera. Desde Louis A. Watres en 1936, los Grand Masters sirven un solo año." },
+          { "t": "table", "headers": ["Año", "Máximo de miembros del Council"], "rows": [
+            ["1921", "50 (Constitution original)"],
+            ["c. 1930", "125"],
+            ["1956", "150"],
+            ["1958", "250"],
+            ["2012", "No más de 150 miembros Class 1, sin contar Past Grand Masters ni Executive Officers"]
+          ] },
+          { "t": "callout", "style": "info", "text": "Los miembros del ISC no cobran nada: su única recompensa es la satisfacción y el orgullo de sostener la organización." },
+          { "t": "p", "text": "Un dato de color: hubo tres Grand Masters honorarios en la historia: **Franklin D. Roosevelt** (1933), **Harry S. Truman** (1945) y **John G. Diefenbaker**, Primer Ministro de Canadá (7 de marzo de 1958). Y el Congressman Walter C. Ploeser fue el primer Senior DeMolay electo Grand Master, en 1952-53. Sí: un ex DeMolay puede llegar a conducir todo esto." }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "El Executive Officer y la cadena de mando",
+        "blocks": [
+          { "t": "p", "text": "DeMolay se divide en **Jurisdictions**: estados, provincias, territorios o países, enteros o en parte. Cada una está supervisada por un **Executive Officer** (EO), el representante oficial del Supreme Council en todos los asuntos DeMolay de esa Jurisdiction. El título se adoptó en la sesión de 1957 del ISC para distinguir a los miembros a cargo de una Jurisdiction de los At-Large Members (miembros sin Jurisdiction asignada)." },
+          { "t": "callout", "style": "key", "text": "Regla de oro: en tu Jurisdiction, todo pasa por el Executive Officer. Cualquier plan, evento u organización que no esté previsto en las Rules & Regulations necesita su sanción y aprobación." },
+          { "t": "list", "items": [
+            "Chapters nuevos o reinstalados",
+            "El nombramiento de todos los miembros de los Advisory Councils",
+            "Agregados a los by-laws del Chapter para condiciones locales",
+            "Recomendaciones para otorgar charters",
+            "Cambios de sponsoring body, de nombre o de sede del Chapter",
+            "Legion of Honor Preceptories, Chevalier Courts, Jurisdictional DeMolay Chapters, Priories of the Order of Knighthood y los Conclaves/Conventions jurisdiccionales"
+          ] },
+          { "t": "p", "text": "El EO también puede nombrar **mid-level Deputies o Directors** a su criterio, para sumar liderazgo y reducir viajes. Supervisan los Chapters de un condado u otra subdivisión y deben visitarlos e inspeccionarlos a intervalos regulares. Ojo: no dependen del Supreme Council; son representantes personales del EO." },
+          { "t": "steps", "items": [
+            "DeMolay International (ISC): la autoridad suprema y las reglas globales",
+            "Jurisdiction: el Executive Officer como representante oficial del ISC",
+            "Mid-level (distrito, región o división): los Deputies y Directors que nombra el EO",
+            "Chapter: donde vos vivís DeMolay todas las semanas"
+          ] }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "El Service & Leadership Center de Kansas City",
+        "blocks": [
+          { "t": "p", "text": "El día a día de DeMolay International corre por cuenta del **Service & Leadership Center**, en Kansas City. El **Grand Secretary** es el responsable de su operación y de la extensión y promoción general de DeMolay; el staff implementa a diario los programas y políticas del ISC. Cumple cuatro funciones:" },
+          { "t": "cards", "items": [
+            { "title": "Central Office of Record", "text": "Lleva el registro de todos los DeMolays activos y Senior, Chevaliers, miembros de la Legion of Honor, Advisors y premios; procesa los Annual Reports y reportes de nuevos miembros; y emite los Patents y las Letters Temporary (autorización inicial de un Chapter nuevo)." },
+            { "title": "Agent for Service", "text": "Ayuda a los Executive Officers, sus Jurisdictions y sus Chapters: ideas de membresía, cómo recaudar fondos, discursos sobre DeMolay, proyectos cívicos, mejora del ritual, formularios y supplies para operar un Chapter." },
+            { "title": "Agency for Promotion", "text": "Promueve el programa sin parar: conseguir miembros nuevos, mantener actividades que retengan a los mayores y cultivar el aprecio de los sponsoring bodies y del público." },
+            { "title": "Source of Unification", "text": "Es el centro nervioso que hace que DeMolay sea el mismo en cualquier parte del mundo: una hermandad mundial fuerte y cohesionada." }
+          ] },
+          { "t": "p", "text": "¿Cómo se financia DeMolay International? Principalmente con la **initiation fee** que paga cada miembro nuevo; el resto sale de la venta de supplies, ingresos por inversiones, donaciones y contribuciones. Opera con uno de los staffs y presupuestos más chicos entre los movimientos similares del mundo, en buena parte porque sus líderes donan su tiempo, muchas veces pagando gastos de su propio bolsillo." },
+          { "t": "ref", "text": "Las cuatro funciones del Service & Leadership Center, en detalle", "page": "199" }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "El International DeMolay Congress: la voz de los miembros",
+        "blocks": [
+          { "t": "p", "text": "En 1966, miembros del ISC quisieron que los propios jóvenes lideraran la organización, debatiendo mejoras y compartiendo ideas. La propuesta fue impulsada por George A. Newbury (Sovereign Grand Commander del Scottish Rite, Northern Masonic Jurisdiction) y Walter C. Ploeser, y el **primer International DeMolay Congress se realizó en 1967**, reuniendo a **dos DeMolays líderes por cada Jurisdiction**." },
+          { "t": "p", "text": "Enseguida quedó claro que el Congress necesitaba conducción propia. En 1968, **Roderick S. Coy**, State Master Councilor de Michigan, fue electo primer **International Master Councilor** (IMC), el cargo que garantiza que la voz de todo el Congress llegue al ISC y al Service & Leadership Center. Poco después se creó el **International Congress Secretary** (ICS) como su socio para organizar el Congress y nombrar los comités. IMC e ICS lo lideran juntos hasta hoy." },
+          { "t": "p", "text": "El ISC además votó sumar **dos DeMolays activos a su Board of Directors**, lugares que tradicionalmente ocupan el IMC y el ICS. Los oficiales internacionales viajan por todos lados representando a la organización, y los comités del Congress trabajan con ellos para producir y promover programas nuevos." },
+          { "t": "callout", "style": "info", "text": "El Congress se financia principalmente gracias al Scottish Rite Northern Masonic Jurisdiction, y atrae a los mejores para liderar DeMolay International." }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Entrenate: DLC, workshops, Conclaves y el LCC",
+        "blocks": [
+          { "t": "h", "text": "DeMolay Leadership Conference (DLC)" },
+          { "t": "p", "text": "Cada verano, Regions y Jurisdictions organizan conferencias de liderazgo de **una semana** (también llamadas Leadership Training Conference o LTC), abiertas tanto a quienes ya tienen cargos como a líderes potenciales. Sus tres objetivos: desarrollar cualidades de liderazgo, educar en los programas básicos de DeMolay y crear amistades entre DeMolays de muchas jurisdicciones. Los asistentes se dividen en chapters de **15 personas o menos** para que todos participen, y el costo publicado cada año incluye comida, alojamiento, el Leadership Conference Notebook y una remera. Las Leadership Camps fueron furor en los años veinte y treinta, y el ISC revivió el programa de Leadership Conference en 1963." },
+          { "t": "p", "text": "A nivel jurisdiccional, los **workshops** entrenan a quienes están por llegar a los puestos máximos: Junior y Senior Councilors, Scribes, Treasurers y Advisors; el Master Councilor queda afuera a propósito, porque la idea es preparar al que viene. El formato clásico dura 24 horas, de mediodía a mediodía, con grupos de entre 10 y 20 personas. Los **Conclaves/Conventions** suelen rotar de sede cada año, y el Service & Leadership Center tiene un checklist completo para planificarlos. A nivel distrito, las competencias (Degrees, Flower Talk, oratoria, deportes) clasifican representantes para las competencias jurisdiccionales." },
+          { "t": "h", "text": "Leaders Correspondence Course (LCC)" },
+          { "t": "list", "items": [
+            "Online 24/7 en **BeADeMolay.org/lcc/**, totalmente gratis",
+            "**5 cursos** que se hacen en orden, del 1 al 5, con preguntas true-false, multiple-choice y fill-in-the-blank",
+            "La única referencia que necesitás: la edición actual del DHB (DeMolay Handbook)",
+            "Corrección automática: si aprobás, imprimís un certificado y ganás un badge digital para tus redes; si no llegás a la nota, repetís ese curso hasta pasarlo"
+          ] },
+          { "t": "callout", "style": "warn", "text": "El sistema NO guarda tu progreso: hasta que se actualice eScribe, una vez que empezás un curso tenés que terminarlo en esa misma sesión." },
+          { "t": "p", "text": "Mostrale cada certificado completado a tu Awards Advisor para que pida el **Merit Bar** correspondiente. Y al completar los cinco cursos quedás habilitado para lucir el pin **Lamp of Knowledge**." },
+          { "t": "ref", "text": "Todo sobre el Leaders Correspondence Course", "page": "195" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "¿Cuándo y dónde fue la primera sesión anual del Grand Council de DeMolay?",
+        "options": [
+          "El 7 de marzo de 1921, en el Scottish Rite Temple de Kansas City",
+          "El 1.º de marzo de 1954, en St. Louis",
+          "El 7 de marzo de 1958, en Baltimore",
+          "El 31 de enero de 1920, en Kansas City"
+        ],
+        "correct": 0,
+        "explain": "Ese día, 13 personas adoptaron la Constitution and Statutes, eligieron oficiales y recibieron los pedidos de charter de 52 Chapters ya en funcionamiento."
+      },
+      {
+        "q": "¿Qué pasó el 1.º de marzo de 1954?",
+        "options": [
+          "Se creó el título de Executive Officer",
+          "El Grand Council cambió su nombre a International Supreme Council",
+          "Se realizó el primer International DeMolay Congress",
+          "Se elevó el máximo de miembros del Council a 250"
+        ],
+        "correct": 1,
+        "explain": "El desarrollo internacional de DeMolay motivó el cambio formal de nombre. El título de Executive Officer se adoptó en 1957, y el primer Congress fue en 1967."
+      },
+      {
+        "q": "Según la redefinición de 2012, ¿cuál es el máximo de miembros del ISC?",
+        "options": [
+          "50 miembros en total",
+          "125 miembros en total",
+          "No más de 150 miembros Class 1, sin contar Past Grand Masters ni Executive Officers",
+          "250 miembros sin excepciones"
+        ],
+        "correct": 2,
+        "explain": "El tope fue cambiando (50, 125, 150, 250) hasta que en 2012 se redefinió en 150 Class 1, excluyendo Past Grand Masters y Executive Officers."
+      },
+      {
+        "q": "¿Quién tiene que aprobar la creación de un Chapter nuevo, los nombramientos de Advisory Council y los Conclaves de tu Jurisdiction?",
+        "options": [
+          "El Grand Master directamente",
+          "El International Master Councilor",
+          "El Executive Officer de la Jurisdiction",
+          "El Advisory Council del Chapter más antiguo"
+        ],
+        "correct": 2,
+        "explain": "El Executive Officer es el representante oficial del Supreme Council en su Jurisdiction: todo lo que pasa ahí necesita su sanción y aprobación."
+      },
+      {
+        "q": "¿Cuál es la principal fuente de financiamiento de DeMolay International?",
+        "options": [
+          "Una cuota anual que pagan los Chapters",
+          "La initiation fee que paga cada miembro nuevo",
+          "Subsidios de gobiernos estatales",
+          "La venta de entradas a los Conclaves"
+        ],
+        "correct": 1,
+        "explain": "La initiation fee de los nuevos miembros es la base; el resto sale de venta de supplies, inversiones, donaciones y contribuciones."
+      },
+      {
+        "q": "¿En qué año se realizó el primer International DeMolay Congress?",
+        "options": ["1921", "1957", "1963", "1967"],
+        "correct": 3,
+        "explain": "La idea nació en 1966 dentro del ISC y el primer Congress se concretó en 1967, con dos DeMolays líderes por cada Jurisdiction."
+      },
+      {
+        "q": "¿Qué dos oficiales lideran juntos el International DeMolay Congress?",
+        "options": [
+          "El Grand Master y el Grand Secretary",
+          "El International Master Councilor (IMC) y el International Congress Secretary (ICS)",
+          "El Executive Officer y su Deputy",
+          "Dos Past Grand Masters electos por el ISC"
+        ],
+        "correct": 1,
+        "explain": "El IMC (el primero fue Roderick S. Coy, en 1968) y el ICS conducen el Congress, y tradicionalmente ocupan los dos lugares para DeMolays activos en el Board of Directors."
+      },
+      {
+        "q": "En el Leaders Correspondence Course (LCC), ¿qué tenés que tener en cuenta antes de arrancar un curso?",
+        "options": [
+          "Que se paga una cuota por cada curso",
+          "Que el sistema no guarda tu progreso: tenés que terminar el curso de una vez",
+          "Que solo pueden hacerlo los Advisors",
+          "Que hay que rendir un examen presencial al final"
+        ],
+        "correct": 1,
+        "explain": "Hasta que se actualice eScribe, el LCC no recuerda dónde dejaste. Es gratis, son 5 cursos online, y completarlos te habilita para el pin Lamp of Knowledge."
+      }
+    ]
+  },
+  "en": {
+    "title": "How DeMolay Is Governed",
+    "subtitle": "From the International Supreme Council down to your Chapter: who decides what, and where you fit in.",
+    "minutes": 9,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "From Kansas City to the World: DeMolay Gets a Government",
+        "blocks": [
+          { "t": "p", "text": "When the Kansas City Chapter (later renamed the **Mother Chapter**) took off in fall 1919 and early 1920, requests for information and for authority to start new Chapters came pouring in. Somebody had to govern all of that. A temporary body called **The Grand Council of the Order of DeMolay for Boys** was formed: it prepared the Constitution and Statutes, printed rituals and forms, and handled the details out of Frank S. Land's office in the Scottish Rite building." },
+          { "t": "callout", "style": "key", "text": "On March 7, 1921, at the Scottish Rite Temple in Kansas City, the Grand Council held its first annual session. Thirteen people took part, electing Alexander G. Cochran as the first Grand Master Councilor and Frank S. Land as Grand Scribe." },
+          { "t": "list", "items": [
+            "The Constitution and Statutes prepared by the formation committee were adopted, capping the Grand Council at 50 members.",
+            "Frank Land presented 52 Chapters requesting their charter (the document that officially authorizes a Chapter); all were already up and running, with 3,336 active members as of January 31, 1921.",
+            "Charter No. 1 went to the Mother Chapter; No. 2 to Huron Chapter (Kansas City, Kansas) and No. 3 to Pittsburg Chapter (Pittsburg, Kansas).",
+            "The five original Obligatory Days were adopted: Patriots Day, Parents Day, DeMolay Day of Comfort, Devotional Day, and Educational Day."
+          ] },
+          { "t": "p", "text": "Growth was explosive: by the 1922 session there were already **404 Chapters** across 27 states plus Manitoba, Puerto Rico, and the Philippines. By the end of 1922 there were **667 Chapters with 68,629 DeMolays**, and by March 1923 there were Chapters in every U.S. state except Maine, Vermont, and Rhode Island." },
+          { "t": "p", "text": "That international growth drove a formal rename: on **March 1, 1954**, the Grand Council became the **International Supreme Council** (ISC) of the Order of DeMolay." },
+          { "t": "ref", "text": "The full history of the Supreme Council, with every name and date", "page": "182" }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "The International Supreme Council Today",
+        "blocks": [
+          { "t": "p", "text": "The ISC is DeMolay International's **supreme authority**: it regulates and controls laws, statutes, Chapters, Advisory Councils, members, charters, finances, rituals, disputes, appeals, and officers. Its members are Masons from all over the world who have already proven their leadership in other walks of life and now give DeMolay the benefit of their experience and counsel." },
+          { "t": "p", "text": "The **Grand Master** presides, elected along with **four other officers** at the Council's annual meeting each spring. Since Louis A. Watres in 1936, Grand Masters have served for one year only." },
+          { "t": "table", "headers": ["Year", "Council membership cap"], "rows": [
+            ["1921", "50 (original Constitution)"],
+            ["c. 1930", "125"],
+            ["1956", "150"],
+            ["1958", "250"],
+            ["2012", "No more than 150 Class 1 members, exclusive of Past Grand Masters and Executive Officers"]
+          ] },
+          { "t": "callout", "style": "info", "text": "ISC members receive no compensation: their only reward is the satisfaction and pride of sustaining the organization." },
+          { "t": "p", "text": "Fun fact: there have been three honorary Grand Masters in history: **Franklin D. Roosevelt** (1933), **Harry S. Truman** (1945), and **John G. Diefenbaker**, Prime Minister of Canada (March 7, 1958). And Congressman Walter C. Ploeser was the first Senior DeMolay elected Grand Master, serving in 1952-53. Yes: a former DeMolay can end up running the whole thing." }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "The Executive Officer and the Chain of Command",
+        "blocks": [
+          { "t": "p", "text": "DeMolay is divided into **Jurisdictions**: entire or partial states, provinces, territories, or countries. Each one is supervised by an **Executive Officer** (EO), the Supreme Council's official representative in all DeMolay affairs in that Jurisdiction. The title was adopted at the 1957 ISC session to distinguish members in charge of a Jurisdiction from At-Large Members (members without an assigned Jurisdiction)." },
+          { "t": "callout", "style": "key", "text": "Golden rule: in your Jurisdiction, everything goes through the Executive Officer. Any plan, event, or organization not covered by the Rules & Regulations needs his sanction and approval." },
+          { "t": "list", "items": [
+            "New or reinstated Chapters",
+            "The appointment of all Advisory Council members",
+            "Additions to Chapter by-laws to govern local conditions",
+            "Recommendations for the granting of charters",
+            "Changes in sponsoring bodies, Chapter names, and Chapter locations",
+            "Legion of Honor Preceptories, Chevalier Courts, Jurisdictional DeMolay Chapters, Priories of the Order of Knighthood, and Jurisdictional Conclaves/Conventions"
+          ] },
+          { "t": "p", "text": "The EO may also appoint **mid-level Deputies or Directors** at his discretion, to boost leadership and cut down on travel. They supervise the Chapters of a county or other small subdivision and are required to visit and inspect them at regular intervals. Heads up: they are in no way connected to the Supreme Council; they serve as the EO's personal representatives." },
+          { "t": "steps", "items": [
+            "DeMolay International (ISC): the supreme authority and the global rules",
+            "Jurisdiction: the Executive Officer as the ISC's official representative",
+            "Mid-level (district, region, or division): the Deputies and Directors the EO appoints",
+            "Chapter: where you live DeMolay every single week"
+          ] }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "The Service & Leadership Center in Kansas City",
+        "blocks": [
+          { "t": "p", "text": "The day-to-day of DeMolay International runs through the **Service & Leadership Center** in Kansas City. The **Grand Secretary** is responsible for its operation and for the general extension and promotion of DeMolay; the staff implements the ISC's programs and policies daily. It serves in four capacities:" },
+          { "t": "cards", "items": [
+            { "title": "Central Office of Record", "text": "Keeps the records of all active and Senior DeMolays, Chevaliers, Legion of Honor members, Advisors, and awards; processes Annual Reports and new member reports; and issues Patents and Letters Temporary (the initial authorization for a new Chapter)." },
+            { "title": "Agent for Service", "text": "Helps Executive Officers, their Jurisdictions, and their Chapters: membership program ideas, how to raise money, speeches on DeMolay, civic projects, ritual improvement, plus the forms and supplies needed to run a Chapter." },
+            { "title": "Agency for Promotion", "text": "Promotes the program nonstop: securing new members, keeping activities balanced to hold older members, and cultivating appreciation among sponsoring bodies and the general public." },
+            { "title": "Source of Unification", "text": "It is the nerve center that keeps DeMolay the same no matter where in the world a Chapter is located: one strong, cohesive worldwide brotherhood." }
+          ] },
+          { "t": "p", "text": "How is DeMolay International financed? Mainly through the **initiation fee** paid by every new member; the rest comes from the sale of supplies, investment income, donations, and contributions. It runs on one of the smallest staffs and budgets of any similar movement in the world, largely because DeMolay's leaders give their time freely, often at considerable personal expense." },
+          { "t": "ref", "text": "The four functions of the Service & Leadership Center, in detail", "page": "199" }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "The International DeMolay Congress: The Members' Voice",
+        "blocks": [
+          { "t": "p", "text": "In 1966, members of the ISC wanted DeMolay's young men themselves to lead the organization by collaborating on improvements and sharing ideas. The proposal was championed by George A. Newbury (Sovereign Grand Commander of the Scottish Rite, Northern Masonic Jurisdiction) and Walter C. Ploeser, and the **first International DeMolay Congress was held in 1967**, gathering **two leading DeMolays from each Jurisdiction**." },
+          { "t": "p", "text": "It quickly became clear the Congress needed leadership of its own. In 1968, **Roderick S. Coy**, State Master Councilor of Michigan, was elected the first **International Master Councilor** (IMC), the position that ensures the entire Congress's voice is heard by the ISC and the Service & Leadership Center. Soon after, the **International Congress Secretary** (ICS) was created as his partner to organize the Congress and appoint committees. The IMC and ICS lead it together to this day." },
+          { "t": "p", "text": "The ISC also voted to add **two active DeMolays to its Board of Directors**, seats traditionally held by the IMC and ICS. The international officers travel widely representing the organization, and the Congress committees work alongside them to produce and promote new programs." },
+          { "t": "callout", "style": "info", "text": "The Congress is primarily funded by the Scottish Rite Northern Masonic Jurisdiction, and it attracts the best and the brightest to lead DeMolay International." }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Level Up: DLC, Workshops, Conclaves, and the LCC",
+        "blocks": [
+          { "t": "h", "text": "DeMolay Leadership Conference (DLC)" },
+          { "t": "p", "text": "Each summer, Regions and Jurisdictions sponsor **week-long** leadership conferences (also known as Leadership Training Conference, or LTC), open both to DeMolays already in leadership positions and to potential leaders. Their three purposes: develop leadership qualities, educate on basic DeMolay programs, and build friendships among DeMolays from many jurisdictions. Attendees are divided into chapters of **15 people or less** so everyone gets to contribute, and the cost published each year covers food, lodging, the Leadership Conference Notebook, and a t-shirt. Leadership Camps were all the rage in the late twenties and early thirties, and the ISC revived the Leadership Conference program in 1963." },
+          { "t": "p", "text": "At the Jurisdictional level, **workshops** train the people who are about to reach the top posts: Junior and Senior Councilors, Scribes, Treasurers, and Advisors; the Master Councilor is left out on purpose, because the whole point is preparing whoever comes next. The classic format runs 24 hours, noon to noon, with groups of 10 to 20 people. **Conclaves/Conventions** usually rotate sites each year, and the Service & Leadership Center has an extensive planning checklist available on request. At the district level, competitions (Degrees, Flower Talk, oratorical, athletic) select representatives for the jurisdictional competitions." },
+          { "t": "h", "text": "Leaders Correspondence Course (LCC)" },
+          { "t": "list", "items": [
+            "Online 24/7 at **BeADeMolay.org/lcc/**, completely free",
+            "**5 courses** taken in order, from 1 to 5, with true-false, multiple-choice, and fill-in-the-blank questions",
+            "The only reference you need: the current edition of the DHB (DeMolay Handbook)",
+            "Auto-graded: pass and you print a certificate and earn a digital badge for your social media; fall short and you retake that course until you pass"
+          ] },
+          { "t": "callout", "style": "warn", "text": "The system does NOT save your progress: until eScribe is upgraded, once you start a course you have to finish it in that same sitting." },
+          { "t": "p", "text": "Show each completed certificate to your Awards Advisor so they can order the matching **Merit Bar**. And once you finish all five courses, you are eligible to wear the **Lamp of Knowledge** pin." },
+          { "t": "ref", "text": "Everything about the Leaders Correspondence Course", "page": "195" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "When and where was the first annual session of DeMolay's Grand Council held?",
+        "options": [
+          "March 7, 1921, at the Scottish Rite Temple in Kansas City",
+          "March 1, 1954, in St. Louis",
+          "March 7, 1958, in Baltimore",
+          "January 31, 1920, in Kansas City"
+        ],
+        "correct": 0,
+        "explain": "That day, 13 people adopted the Constitution and Statutes, elected officers, and received charter requests from 52 Chapters that were already operating."
+      },
+      {
+        "q": "What happened on March 1, 1954?",
+        "options": [
+          "The Executive Officer title was created",
+          "The Grand Council was renamed the International Supreme Council",
+          "The first International DeMolay Congress was held",
+          "The Council's membership cap was raised to 250"
+        ],
+        "correct": 1,
+        "explain": "DeMolay's international growth drove the formal name change. The Executive Officer title was adopted in 1957, and the first Congress came in 1967."
+      },
+      {
+        "q": "Under the 2012 redefinition, what is the ISC's membership cap?",
+        "options": [
+          "50 members total",
+          "125 members total",
+          "No more than 150 Class 1 members, exclusive of Past Grand Masters and Executive Officers",
+          "250 members with no exceptions"
+        ],
+        "correct": 2,
+        "explain": "The cap changed over time (50, 125, 150, 250) until 2012, when it was redefined as 150 Class 1 members, excluding Past Grand Masters and Executive Officers."
+      },
+      {
+        "q": "Who must approve a new Chapter, Advisory Council appointments, and Conclaves in your Jurisdiction?",
+        "options": [
+          "The Grand Master directly",
+          "The International Master Councilor",
+          "The Jurisdiction's Executive Officer",
+          "The Advisory Council of the oldest Chapter"
+        ],
+        "correct": 2,
+        "explain": "The Executive Officer is the Supreme Council's official representative in his Jurisdiction: everything that happens there needs his sanction and approval."
+      },
+      {
+        "q": "What is DeMolay International's main source of funding?",
+        "options": [
+          "An annual fee paid by every Chapter",
+          "The initiation fee paid by each new member",
+          "State government grants",
+          "Ticket sales at Conclaves"
+        ],
+        "correct": 1,
+        "explain": "The initiation fee from new members is the base; the rest comes from supply sales, investment income, donations, and contributions."
+      },
+      {
+        "q": "In what year was the first International DeMolay Congress held?",
+        "options": ["1921", "1957", "1963", "1967"],
+        "correct": 3,
+        "explain": "The idea was born within the ISC in 1966, and the first Congress took place in 1967, with two leading DeMolays from each Jurisdiction."
+      },
+      {
+        "q": "Which two officers lead the International DeMolay Congress together?",
+        "options": [
+          "The Grand Master and the Grand Secretary",
+          "The International Master Councilor (IMC) and the International Congress Secretary (ICS)",
+          "The Executive Officer and his Deputy",
+          "Two Past Grand Masters elected by the ISC"
+        ],
+        "correct": 1,
+        "explain": "The IMC (the first was Roderick S. Coy, in 1968) and the ICS run the Congress, and traditionally hold the two active-DeMolay seats on the Board of Directors."
+      },
+      {
+        "q": "Before starting a Leaders Correspondence Course (LCC) course, what should you keep in mind?",
+        "options": [
+          "There is a fee for each course",
+          "The system does not save your progress: you have to finish the course in one sitting",
+          "Only Advisors may take it",
+          "You must pass an in-person final exam"
+        ],
+        "correct": 1,
+        "explain": "Until eScribe is upgraded, the LCC will not remember where you left off. It is free, there are 5 online courses, and completing them makes you eligible for the Lamp of Knowledge pin."
+      }
+    ]
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "id": "adultos",
+  "es": {
+    "title": "Los adultos detrás del Chapter",
+    "subtitle": "Quiénes son, cómo llegan y qué poderes tiene el Advisory Council que acompaña a tu Chapter.",
+    "minutes": 9,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "El Advisory Council: tu equipo de adultos",
+        "blocks": [
+          { "t": "p", "text": "Detrás de cada Chapter fuerte hay un grupo de adultos voluntarios: el **Advisory Council** (consejo asesor). Sin liderazgo adulto, dice el manual, un Chapter se apaga hasta desaparecer. Pero ojo: el Chapter es tuyo y de tus hermanos; ellos asesoran y cuidan el marco." },
+          { "t": "list", "items": [
+            "Base obligatoria: al menos **3 Master Masons** (Masones del tercer grado) en good standing.",
+            "Cualquier adulto **mayor de 21 años** puede ser Advisor: madres, padres, docentes, Senior DeMolays, vecinos... no hace falta ser Mason (salvo para el Chairman).",
+            "DeMolay International exige un mínimo de **5 Advisors** en total; con más gente, la carga se reparte mejor.",
+            "El Sponsoring Body (la entidad masónica que patrocina al Chapter) puede recomendar candidatos, pero el nombramiento lo hace el **Executive Officer** de la Jurisdicción.",
+            "El mandato dura **1 año** y se renueva cada año."
+          ] },
+          { "t": "callout", "style": "key", "text": "Fórmula mínima: 3 Master Masons + 5 Advisors en total, todos de 21+ años, nombrados por el Executive Officer por mandatos de 1 año." },
+          { "t": "p", "text": "Lo que más importa no es cuántos son, sino que **las tareas estén repartidas**: cada uno con algo concreto y nadie cargando todo solo." },
+          { "t": "ref", "text": "Organización y propósito del Advisory Council", "page": "55" }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Cómo se llega a ser Advisor (y cómo se sigue siéndolo)",
+        "blocks": [
+          { "t": "p", "text": "Ser Advisor no es solo tener ganas: hay un proceso de selección riguroso pensado para que DeMolay sea un ambiente **seguro** para vos. Para un Advisor nuevo:" },
+          { "t": "steps", "items": [
+            "Tener al menos **21 años**.",
+            "Registrarse online en **eScribe.DeMolay.org/Sign Up** y pagar la cuota de procesamiento.",
+            "Pasar un **background check** (verificación de antecedentes) que confirma que la persona es apta para trabajar con jóvenes.",
+            "Aprobar el **DeMolay Advisor Training** online, que cubre políticas de risk management y protección juvenil.",
+            "El registro va al **Executive Officer** para su aprobación y luego al **Service & Leadership Center** para el procesamiento (algunas zonas piden formularios extra).",
+            "Recién entonces llegan el carnet de Advisor y el certificate of appointment."
+          ] },
+          { "t": "h", "text": "La recertificación anual" },
+          { "t": "p", "text": "Cada año, todo Advisor —nuevo o veterano— completa la **Continuing Advisor Certification**, disponible cada otoño en eScribe: actualizar datos de contacto, responder las preguntas de **youth protection** y pagar la cuota de renovación. Todo lo aprueba el Executive Officer." },
+          { "t": "callout", "style": "warn", "text": "Fecha límite: la certificación anual debe estar recibida online en el Service & Leadership Center antes del 30 de noviembre de cada año. Sin eso, no se emite el carnet del año en curso." },
+          { "t": "p", "text": "Dos datos más: el Executive Officer puede **remover** a cualquier Advisor que no cumpla sus deberes, y cada miembro del Council renueva cada año un voto de lealtad a DeMolay International y al Executive Officer." }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Los poderes del Council: elecciones, disciplina y reglas",
+        "blocks": [
+          { "t": "p", "text": "Los deberes del Advisory Council son principalmente **legislativos y judiciales**. Debe reunirse **al menos una vez por mes**, con agenda, procedimiento parlamentario y actas escritas de todo lo tratado. Gobierna las actividades del Chapter siempre que no contradiga los Bylaws de DeMolay International ni las órdenes del Executive Officer." },
+          { "t": "list", "items": [
+            "**Organizarse**: elegir un Chairman (que debe ser Mason), un Chapter Advisor, Treasurer y Scribe, y repartir tareas.",
+            "**Guiar sin manejar**: ayudar a que el Chapter se gobierne solo, no gobernarlo.",
+            "**Regular**: ver que el Chapter opere dentro de los Bylaws y las reglas de DeMolay International.",
+            "**Controlar el presupuesto** y las finanzas del Chapter.",
+            "**Seleccionar al Chapter Scribe y al Treasurer** (los oficiales jóvenes que llevan registros y fondos).",
+            "**Empujar el crecimiento**: que nunca se pierda de vista la membresía."
+          ] },
+          { "t": "h", "text": "Elecciones de nuevos miembros" },
+          { "t": "p", "text": "Ninguna elección de un candidato a los grados o a afiliación queda firme **hasta que el Advisory Council la aprueba**. Y si el Council declara electo a alguien por su cuenta, antes de conferirle un grado debe enviar un informe detallado al Executive Officer para que lo apruebe o rechace." },
+          { "t": "h", "text": "Disciplina" },
+          { "t": "steps", "items": [
+            "El Council puede remover de la membresía a quien viole la ley de DeMolay o tenga una conducta indigna del Order.",
+            "Primero se notifica al Executive Officer y se entregan cargos formales por escrito al miembro.",
+            "La audiencia debe ser **al menos 30 días** después de la entrega de los cargos; el miembro puede defenderse y ser representado por un familiar o un Master Mason.",
+            "Se realiza en sesión ejecutiva; la decisión va por escrito, firmada por la **mayoría** del Council.",
+            "Nada es definitivo sin la aprobación del Executive Officer, y todo puede apelarse ante DeMolay International, cuya decisión es final."
+          ] },
+          { "t": "callout", "style": "key", "text": "Regla de chaperones: en toda fiesta o evento social del Chapter tiene que haber al menos 2 Advisors por cada 5 miembros activos presentes." },
+          { "t": "callout", "style": "info", "text": "Cualquier Advisor presente puede excluir de una reunión o actividad a cualquier visitante —DeMolay, Senior DeMolay, Master Mason u otra persona— cuya presencia perjudique la paz y armonía del Chapter." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "La plata: el Council como guardián financiero",
+        "blocks": [
+          { "t": "p", "text": "Un Chapter normalmente se **autofinancia**: el Sponsoring Body no asume responsabilidad financiera directa, pero el Council asume la responsabilidad moral de que el Chapter no se endeude, revisando los informes financieros mensuales del Scribe y el Treasurer. Regla práctica: primero conseguí la plata, después comprá." },
+          { "t": "list", "items": [
+            "Los fondos recaudados para DeMolay International (como las Initiation fees) **le pertenecen a DeMolay International**: van en cuenta separada y se pagan en fecha, sin necesidad de voto del Chapter.",
+            "Todo gasto se respalda con recibo y se paga con **cheque** firmado por el Treasurer o el Master Councilor y refrendado por un miembro del Advisory Council. Si el pago es electrónico, todos los aprobadores deben tener acceso de visualización online o recibir copia automática.",
+            "Todo gasto (salvo lo que va a DeMolay International) se aprueba por **voto en una reunión regular** del Chapter.",
+            "**Nunca efectivo** para pagos del Chapter, y los fondos del Chapter no se prestan a nadie.",
+            "Los excedentes pueden invertirse solo si el Chapter lo vota, y cada inversión necesita el voto de **dos tercios de todos los miembros del Advisory Council**, siempre bajo control del Executive Officer."
+          ] },
+          { "t": "callout", "style": "warn", "text": "Único regalo permitido con fondos del Chapter: el PMC's jewel para un Master Councilor saliente con desempeño sobresaliente. Nada más. Y antes de pedir fondos a personas ajenas al Chapter, hace falta permiso del Executive Officer." },
+          { "t": "p", "text": "El presupuesto suele prepararlo un comité financiero y lo aprueba el Council, que igual debe aprobar **cada gasto** cuando ocurre y puede ajustar las partidas si los ingresos cambian. Al instalarse cada nuevo Master Councilor, el Council aprueba el informe del comité de auditoría sobre los libros del Treasurer y el Scribe." },
+          { "t": "callout", "style": "warn", "text": "Si el Chapter se atrasa con su Annual Report y otras cuotas a DeMolay International, queda suspendido temporalmente en forma automática; y si esa suspensión por falta de pago llega a los 3 meses, el Charter se pierde automáticamente." },
+          { "t": "ref", "text": "Detalle completo de las reglas financieras", "page": "61" }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Chairman y Chapter Advisor: los dos pilares",
+        "blocks": [
+          { "t": "h", "text": "Chairman del Advisory Council" },
+          { "t": "p", "text": "El Chairman —que **debe ser Mason**— es como el director técnico del equipo de Advisors: preside el Council, convoca y conduce las reuniones mensuales, delega tareas cuidando que no se superpongan, hace de enlace con el Sponsoring Body y es el **contacto principal del Executive Officer** con el Council. También cuida que el Annual Report se presente a tiempo en eScribe y que los Advisors reciban capacitación continua." },
+          { "t": "h", "text": "Chapter Advisor" },
+          { "t": "p", "text": "Elegir al Chapter Advisor es considerada **la decisión más importante** del Council: el éxito del Chapter depende más de esta persona que de cualquier otro factor. Es el oficial administrativo del Chapter, pero sobre todo un mentor de confianza al que podés acudir con tus problemas. El manual pide que sea \"young at heart\": joven de espíritu, aunque no de años." },
+          { "t": "callout", "style": "info", "text": "Rotación recomendada: 1 o 2 años en el cargo. ¿Por qué? El puesto demanda mucho tiempo, energía y gasto personal, y quien se queda demasiado se \"estanca\" sin ideas nuevas. Mejor dos personas trabajando por DeMolay que una sola eternizada." },
+          { "t": "list", "items": [
+            "Asistir a todas las reuniones y actividades (o asegurar que otro Advisor cubra).",
+            "Cuidar que el Chapter funcione según los Bylaws y que el ritual se haga de memoria y bien.",
+            "Sugerir y liderar sin dar órdenes: **el Chapter es de los jóvenes**, y son ellos quienes gobiernan.",
+            "Planificar el programa con un año de anticipación general y un término en detalle.",
+            "Balancear el programa entre lo social, cívico, deportivo, de servicio y de fundraising, y que cada miembro tenga un rol."
+          ] },
+          { "t": "p", "text": "El **Assistant Chapter Advisor** —idealmente un adulto joven o un Senior DeMolay— asiste al Chapter Advisor, lo reemplaza cuando falta y se entrena para sucederlo." }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "El resto del equipo: roles especializados",
+        "blocks": [
+          { "t": "p", "text": "DeMolay International no impone un esquema fijo: cada Council arma el suyo, un mismo Advisor puede cubrir dos o más funciones, y uno puede actuar como Secretary del Council. Los roles más comunes:" },
+          { "t": "cards", "items": [
+            { "title": "Ritual Advisor", "text": "La última edición del Ritual, al pie de la letra. Todo el trabajo de grados va **de memoria** (lo exigen los Bylaws), con suplentes para cada parte y oficiales que prueban su dominio antes de instalarse." },
+            { "title": "Scribe Advisor", "text": "Acompaña al Chapter Scribe: actas, cuotas que pasan al Treasurer, informe financiero mensual e informes como el Annual Report. Al Scribe lo nombra el Council por 1 año; idealmente un PMC o Senior DeMolay." },
+            { "title": "Treasurer / Financial Advisor", "text": "Vela por la salud financiera: cuenta de Life Membership, refrendar cheques, supervisar el fundraising y mantener el saldo bancario mínimo prescripto." },
+            { "title": "Membership Advisor", "text": "Arma con el Master Councilor un plan para sumar miembros, promueve concursos e iniciaciones frecuentes, y lidera la orientación de los nuevos para que no pierdan interés." },
+            { "title": "Awards Advisor", "text": "Domina premios y honores: Merit Bars, Blue Honor Key (primer firmante en 10 solicitudes, más una estrella por cada 10 extra), Representative DeMolay Award y el Chevalier, el honor más alto. Estándares altos, siempre." },
+            { "title": "Masonic & Public Relations Advisor", "text": "Vínculo con el Sponsoring Body y la familia masónica, prensa local, redes y web del Chapter, y el registro histórico." },
+            { "title": "Communications Advisor", "text": "Que la información llegue: roster actualizado, formato consistente y recordatorio a cada miembro y Advisor antes de cada evento. Suma a 2 o más DeMolays al equipo." },
+            { "title": "Activities / Athletics Advisor", "text": "Coordina actividades y deportes para todas las edades y niveles, busca competencia adecuada y alienta a miembros mayores y Senior DeMolays a ser coaches." },
+            { "title": "Civic Service Advisor", "text": "Detecta oportunidades de servicio comunitario y exige **un proyecto de servicio por término**." },
+            { "title": "Fundraising Advisor", "text": "Ayuda a elegir recaudaciones inteligentes, pide reportes en cada paso y verifica que el ingreso justifique el esfuerzo." },
+            { "title": "Social Advisor", "text": "Cuida que el calendario social interese a todas las edades, coordina chaperones y guía costos y locaciones dejando liderar a los miembros. Y que nadie se olvide de divertirse." }
+          ] },
+          { "t": "callout", "style": "info", "text": "Nominar honores también es función del Council: Chevalier para DeMolays, Cross of Honor para Advisors y Legion of Honor para Senior DeMolays o Master Masons, todo online en eScribe. Las nominaciones a la Medal of Heroism van al Executive Officer." },
+          { "t": "p", "text": "¿Y qué ganan los Advisors por todo esto? Nada material. Como dice el manual: \"The rewards of life can't be counted in honors or dollars, but rather in the eyes of those you have served!\" — las recompensas no se cuentan en honores ni dólares, sino en los ojos de quienes serviste." },
+          { "t": "ref", "text": "Listado completo de roles y deberes de cada Advisor", "page": "64" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "¿Cuál es la composición mínima de un Advisory Council?",
+        "options": [
+          "Al menos 3 Master Masons y un total de 5 Advisors",
+          "Al menos 5 Master Masons y un total de 3 Advisors",
+          "Al menos 2 Master Masons y un total de 4 Advisors",
+          "Cualquier cantidad de adultos, mientras haya un Chairman"
+        ],
+        "correct": 0,
+        "explain": "La base obligatoria son al menos 3 Master Masons en good standing, y DeMolay International requiere un mínimo de 5 Advisors en total."
+      },
+      {
+        "q": "¿Quién hace el nombramiento oficial de los Advisors?",
+        "options": [
+          "El Sponsoring Body del Chapter",
+          "El Executive Officer de la Jurisdicción",
+          "El Master Councilor con voto del Chapter",
+          "DeMolay International directamente"
+        ],
+        "correct": 1,
+        "explain": "El Sponsoring Body puede recomendar candidatos, pero quien nombra a los Advisors es siempre el Executive Officer."
+      },
+      {
+        "q": "¿Cuánto dura el mandato de un Advisor?",
+        "options": [
+          "1 año, renovable cada año",
+          "2 años fijos",
+          "Hasta que decida renunciar",
+          "5 años, con revisión a mitad de mandato"
+        ],
+        "correct": 0,
+        "explain": "El término es de 1 año y debe renovarse anualmente mediante la recertificación que aprueba el Executive Officer."
+      },
+      {
+        "q": "¿Antes de qué fecha debe estar completada la certificación anual de los Advisors que continúan?",
+        "options": [
+          "El 30 de septiembre",
+          "El 31 de diciembre",
+          "El 30 de noviembre",
+          "El 1 de marzo"
+        ],
+        "correct": 2,
+        "explain": "La Continuing Advisor Certification debe recibirse online en el Service & Leadership Center antes del 30 de noviembre; sin eso no se emite el carnet del año."
+      },
+      {
+        "q": "En un evento social con 15 miembros activos presentes, ¿cuántos Advisors como mínimo debe haber?",
+        "options": [
+          "2",
+          "3",
+          "6",
+          "15"
+        ],
+        "correct": 2,
+        "explain": "La regla es al menos 2 Advisors por cada 5 miembros activos: con 15 miembros, son 6 Advisors como mínimo."
+      },
+      {
+        "q": "¿Con qué frecuencia mínima debe reunirse el Advisory Council?",
+        "options": [
+          "Una vez por semana",
+          "Al menos una vez por mes",
+          "Una vez por término",
+          "Solo cuando hay temas disciplinarios"
+        ],
+        "correct": 1,
+        "explain": "El Council debe reunirse al menos una vez al mes y dejar registro escrito completo de cada reunión."
+      },
+      {
+        "q": "¿Qué requisito especial tiene el Chairman del Advisory Council?",
+        "options": [
+          "Debe ser Senior DeMolay",
+          "Debe tener al menos 30 años",
+          "Debe ser el Advisor con más antigüedad",
+          "Debe ser Mason"
+        ],
+        "correct": 3,
+        "explain": "Al organizarse, el Council elige un Chairman que debe ser Mason; es el contacto principal del Executive Officer con el Council."
+      },
+      {
+        "q": "Según las reglas que cuida el Ritual Advisor, ¿cómo debe presentarse el trabajo de grados?",
+        "options": [
+          "Todo de memoria, como exigen los Bylaws de DeMolay International",
+          "Leído, para evitar errores en las ceremonias",
+          "De memoria solo los papeles principales",
+          "Como lo prefiera cada oficial"
+        ],
+        "correct": 0,
+        "explain": "Todo el trabajo de grados debe darse de memoria; además, los oficiales electos deben probar su dominio antes de ser instalados."
+      }
+    ]
+  },
+  "en": {
+    "title": "The Adults Behind the Chapter",
+    "subtitle": "Who they are, how they get there, and what powers your Advisory Council actually has.",
+    "minutes": 9,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "The Advisory Council: Your Adult Team",
+        "blocks": [
+          { "t": "p", "text": "Behind every strong Chapter there's a team of adult volunteers: the **Advisory Council**. The Handbook is blunt: without solid adult leadership, a Chapter fades into a \"do-nothing\" Chapter and then disappears. But the Chapter belongs to you and your brothers — the adults advise, support, and keep the framework safe." },
+          { "t": "list", "items": [
+            "Required base: at least **3 Master Masons** in good standing.",
+            "Any adult **over 21** can serve as an Advisor: moms, dads, teachers, Senior DeMolays, neighbors... you don't have to be a Mason (except for the Chairman).",
+            "DeMolay International requires a minimum of **5 Advisors** total — more hands make the load lighter for everyone.",
+            "The Sponsoring Body (the Masonic body backing the Chapter) may recommend candidates, but appointments are made by the Jurisdiction's **Executive Officer**.",
+            "The term of office is **1 year**, renewed every year."
+          ] },
+          { "t": "callout", "style": "key", "text": "The minimum formula: 3 Master Masons + 5 Advisors total, all 21+, appointed by the Executive Officer for 1-year terms." },
+          { "t": "p", "text": "What matters most isn't how many Advisors there are, but that **the duties are divided**: everyone has something concrete to do and nobody carries the whole Chapter alone." },
+          { "t": "ref", "text": "Organization and purpose of the Advisory Council", "page": "55" }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "How Someone Becomes an Advisor (and Stays One)",
+        "blocks": [
+          { "t": "p", "text": "Being an Advisor takes more than good intentions: there's a rigorous screening process designed to keep DeMolay a **safe** environment for you. Here's how it works for a new Advisor:" },
+          { "t": "steps", "items": [
+            "Be at least **21 years old**.",
+            "Register online at **eScribe.DeMolay.org/Sign Up** and pay the processing fee.",
+            "Pass a **background check** confirming they're suitable to work with youth.",
+            "Pass the online **DeMolay Advisor Training**, covering risk management and youth protection policies.",
+            "The registration goes to the **Executive Officer** for approval, then to the **Service & Leadership Center** for processing (some areas require extra forms).",
+            "Only then do the Advisor membership card and certificate of appointment arrive."
+          ] },
+          { "t": "h", "text": "Annual Recertification" },
+          { "t": "p", "text": "Getting certified once isn't enough. Every year, every Advisor — brand new or decades in — must complete the **Continuing Advisor Certification**, available each fall on eScribe: update their contact information, answer the **youth protection** questions, and pay the renewal fee. Everything is reviewed and approved by the Executive Officer." },
+          { "t": "callout", "style": "warn", "text": "Deadline: the annual certification must be received online at the Service & Leadership Center before November 30 each year. Without it, no current-year card is issued." },
+          { "t": "p", "text": "Two more facts: the Executive Officer can **remove** any Advisor who won't perform their duties, and every Council member renews a vow of allegiance to DeMolay International and the Executive Officer each year." }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "The Council's Powers: Elections, Discipline, and Rules",
+        "blocks": [
+          { "t": "p", "text": "The Advisory Council's duties are primarily **legislative and judicial**. It must meet **at least once a month**, with an agenda, parliamentary procedure, and a full written record of every meeting. It governs the Chapter's activities as long as nothing conflicts with the Bylaws of DeMolay International or the Executive Officer's orders." },
+          { "t": "list", "items": [
+            "**Organize**: select a Chairman (who must be a Mason), a Chapter Advisor, Treasurer, and Scribe, and divide the work.",
+            "**Guide without running**: help the Chapter run itself — don't run the Chapter.",
+            "**Regulate**: make sure the Chapter operates within DeMolay International's Bylaws, rules, and requirements.",
+            "**Check the budget** and watch the Chapter's finances closely.",
+            "**Select the Chapter Scribe and Treasurer** (the youth officers who keep records and funds).",
+            "**Insist on growth**: keep membership drives front and center."
+          ] },
+          { "t": "h", "text": "Membership Elections" },
+          { "t": "p", "text": "No election of an applicant for degrees or affiliation becomes final **until the Advisory Council approves it**. And if the Council declares someone elected on its own, it must send a detailed report to the Executive Officer for approval before any degree can be conferred." },
+          { "t": "h", "text": "Discipline" },
+          { "t": "steps", "items": [
+            "The Council can remove from membership anyone who violates DeMolay law or whose conduct is unworthy of the Order.",
+            "First, notice goes to the Executive Officer and formal written charges are served on the member.",
+            "The hearing must be **at least 30 days** after the charges are served; the member can answer them and be represented by any relative or a Master Mason.",
+            "The hearing happens in executive session; the decision must be in writing, signed by a **majority** of the Council.",
+            "Nothing is final without the Executive Officer's approval, and everything can be appealed to DeMolay International, whose decision is final."
+          ] },
+          { "t": "callout", "style": "key", "text": "Chaperone rule: every Chapter party or social event needs at least 2 Advisors present for every 5 active members." },
+          { "t": "callout", "style": "info", "text": "Any Advisor who is present may exclude from a meeting or function any visitor — DeMolay, Senior DeMolay, Master Mason, or anyone else — whose presence harms the peace and harmony of the Chapter." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "The Money: The Council as Financial Guardian",
+        "blocks": [
+          { "t": "p", "text": "A Chapter is normally **self-supporting**: the Sponsoring Body doesn't take on direct financial responsibility, but the Council does take on the moral responsibility of making sure the Chapter stays out of debt. That's why it reviews the monthly financial reports from the Scribe and Treasurer. The Handbook's practical rule: get the money first, then buy." },
+          { "t": "list", "items": [
+            "Funds collected for DeMolay International (like Initiation fees) **belong to DeMolay International**: kept in a separate account and paid on schedule, no Chapter vote required.",
+            "Every expense needs a receipt and is paid by **check**, signed by the Treasurer or Master Councilor and countersigned by an Advisory Council member. For electronic payments, all approvers must have online viewing access or be automatically copied on transactions.",
+            "Every expenditure (except funds owed to DeMolay International) must be approved by **vote at a regular Chapter business meeting**.",
+            "**Never cash** for Chapter payments, and Chapter funds can never be loaned to anyone.",
+            "Surplus funds may be invested only if the Chapter votes for it, and each investment needs approval by a **two-thirds vote of all Advisory Council members**, always under the Executive Officer's control."
+          ] },
+          { "t": "callout", "style": "warn", "text": "The only gift Chapter funds can buy: a PMC's jewel for a retiring Master Councilor with an outstanding record. Nothing else. And before soliciting funds from anyone outside the Chapter, the Council needs the Executive Officer's permission." },
+          { "t": "p", "text": "The budget is usually drafted by a finance committee and approved by the Council — which still must approve **each expenditure** as it happens, and can adjust allotments if revenue changes. When each new Master Councilor is installed, the Council approves the auditing committee's report on the Treasurer's and Scribe's books." },
+          { "t": "callout", "style": "warn", "text": "If a Chapter falls behind on its Annual Report and other fees to DeMolay International, it's automatically temporarily suspended — and if that suspension for nonpayment reaches 3 months, the Charter is automatically forfeited." },
+          { "t": "ref", "text": "Full detail of the financial rules", "page": "61" }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Chairman and Chapter Advisor: The Two Pillars",
+        "blocks": [
+          { "t": "h", "text": "Chairman of the Advisory Council" },
+          { "t": "p", "text": "The Chairman — who **must be a Mason** — is like the head coach of the Advisor team: he presides over the Council, calls and runs the monthly meetings, delegates work so nothing overlaps, acts as liaison with the Sponsoring Body, and is the **Executive Officer's primary contact** with the Council. He also makes sure the Annual Report is filed on time on eScribe and that Advisors keep getting trained." },
+          { "t": "h", "text": "Chapter Advisor" },
+          { "t": "p", "text": "Choosing the Chapter Advisor is considered **the Council's most important decision**: a Chapter's success depends more on this person than on any other single factor. They're the Chapter's administrative officer, but above all a trusted mentor you can go to with your problems. The Handbook asks for someone \"young at heart,\" if not in years." },
+          { "t": "callout", "style": "info", "text": "Recommended rotation: 1 or 2 years in the role. Why? The job takes lots of time, energy, and personal expense, and someone who stays too long gets \"stale\" with no fresh ideas. Two people working for DeMolay beats one person entrenched forever." },
+          { "t": "list", "items": [
+            "Attend every meeting and activity (or make sure another Advisor covers).",
+            "See that the Chapter runs by the Bylaws and that the ritual is done well — and from memory.",
+            "Suggest and lead, never command and drive: **the Chapter belongs to the young men**, and they do the governing.",
+            "Plan the program a year ahead in general and a term ahead in detail.",
+            "Keep the program balanced across social, civic, athletic, service, and fundraising activities — with a job for every member."
+          ] },
+          { "t": "p", "text": "The **Assistant Chapter Advisor** — ideally a younger adult or a Senior DeMolay — backs up the Chapter Advisor, steps in when they're absent, and trains to take over the role someday. Succession planning is part of the job too." }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "The Rest of the Team: Specialized Roles",
+        "blocks": [
+          { "t": "p", "text": "DeMolay International doesn't mandate one fixed Advisor lineup: each Council builds its own based on its people and reality, and one Advisor can cover two or more functions. One of them may serve as Secretary of the Council. These are the most common roles:" },
+          { "t": "cards", "items": [
+            { "title": "Ritual Advisor", "text": "The latest edition of the Ritual, to the letter. All degree work is done **from memory** (the Bylaws require it), with an alternate for every part and officers proving proficiency before installation." },
+            { "title": "Scribe Advisor", "text": "Coaches the Chapter Scribe: minutes, fees and dues passed to the Treasurer, the monthly financial report, and reports like the Annual Report. The Scribe is appointed by the Council for 1 year — ideally a PMC or Senior DeMolay." },
+            { "title": "Treasurer / Financial Advisor", "text": "Watches financial health: the Life Membership trust account, countersigning checks, overseeing fundraising, and keeping the prescribed minimum bank balance." },
+            { "title": "Membership Advisor", "text": "Builds a recruiting plan with the Master Councilor, promotes contests and frequent Initiations, and leads new-member orientation so nobody drifts away after joining." },
+            { "title": "Awards Advisor", "text": "Knows every award cold: Merit Bars, the Blue Honor Key (first-line signer on 10 applications, plus a star for every additional 10), the Representative DeMolay Award, and the Chevalier — the highest honor. Standards stay high, always." },
+            { "title": "Masonic & Public Relations Advisor", "text": "The bond with the Sponsoring Body and the Masonic family, local press, the Chapter's social media and website, and the historical record." },
+            { "title": "Communications Advisor", "text": "Gets the word out: a current roster, a consistent format, and a reminder to every member and Advisor before each event. Brings 2 or more active DeMolays onto the team." },
+            { "title": "Activities / Athletics Advisor", "text": "Coordinates activities and sports for all ages and skill levels, finds suitable competition, and gets older members and Senior DeMolays coaching." },
+            { "title": "Civic Service Advisor", "text": "Spots community service opportunities and requires **one service project each term**." },
+            { "title": "Fundraising Advisor", "text": "Helps pick smart fundraisers, requires reporting at every step, and checks that the income matches the effort." },
+            { "title": "Social Advisor", "text": "Keeps the social calendar interesting for every age group, lines up chaperones, and guides cost and venue while the members lead — without forgetting the fun." }
+          ] },
+          { "t": "callout", "style": "info", "text": "Nominating honors is also Council business: the Chevalier for DeMolays, the Cross of Honor for Advisors, and the Legion of Honor for Senior DeMolays or Master Masons — all filed online in eScribe. Medal of Heroism nominations go to the Executive Officer." },
+          { "t": "p", "text": "So what do Advisors get out of all this? Nothing material. As the Handbook puts it: \"The rewards of life can't be counted in honors or dollars, but rather in the eyes of those you have served!\"" },
+          { "t": "ref", "text": "Complete list of Advisor roles and duties", "page": "64" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is the minimum composition of an Advisory Council?",
+        "options": [
+          "At least 3 Master Masons and 5 Advisors total",
+          "At least 5 Master Masons and 3 Advisors total",
+          "At least 2 Master Masons and 4 Advisors total",
+          "Any number of adults, as long as there's a Chairman"
+        ],
+        "correct": 0,
+        "explain": "The required base is at least 3 Master Masons in good standing, and DeMolay International requires a minimum of 5 Advisors in total."
+      },
+      {
+        "q": "Who officially appoints the Advisors?",
+        "options": [
+          "The Chapter's Sponsoring Body",
+          "The Jurisdiction's Executive Officer",
+          "The Master Councilor with a Chapter vote",
+          "DeMolay International directly"
+        ],
+        "correct": 1,
+        "explain": "The Sponsoring Body may recommend candidates, but appointments are always made by the Executive Officer."
+      },
+      {
+        "q": "How long is an Advisor's term of office?",
+        "options": [
+          "1 year, renewed each year",
+          "2 fixed years",
+          "Until they decide to step down",
+          "5 years, with a mid-term review"
+        ],
+        "correct": 0,
+        "explain": "The term is 1 year and must be renewed annually through the recertification approved by the Executive Officer."
+      },
+      {
+        "q": "By what date must the annual certification for continuing Advisors be completed?",
+        "options": [
+          "September 30",
+          "December 31",
+          "November 30",
+          "March 1"
+        ],
+        "correct": 2,
+        "explain": "The Continuing Advisor Certification must be received online at the Service & Leadership Center before November 30 — otherwise no current-year card is issued."
+      },
+      {
+        "q": "At a social event with 15 active members present, what's the minimum number of Advisors required?",
+        "options": [
+          "2",
+          "3",
+          "6",
+          "15"
+        ],
+        "correct": 2,
+        "explain": "The rule is at least 2 Advisors for every 5 active members: with 15 members, that's a minimum of 6 Advisors."
+      },
+      {
+        "q": "How often must the Advisory Council meet, at minimum?",
+        "options": [
+          "Once a week",
+          "At least once a month",
+          "Once per term",
+          "Only when there are disciplinary matters"
+        ],
+        "correct": 1,
+        "explain": "The Council must meet at least once a month and keep a full written record of every meeting."
+      },
+      {
+        "q": "What special requirement applies to the Chairman of the Advisory Council?",
+        "options": [
+          "He must be a Senior DeMolay",
+          "He must be at least 30 years old",
+          "He must be the longest-serving Advisor",
+          "He must be a Mason"
+        ],
+        "correct": 3,
+        "explain": "When organizing, the Council selects a Chairman who must be a Mason; he's the Executive Officer's primary contact with the Council."
+      },
+      {
+        "q": "Under the rules the Ritual Advisor enforces, how must degree work be presented?",
+        "options": [
+          "Entirely from memory, as the Bylaws of DeMolay International direct",
+          "Read aloud, to avoid mistakes in the ceremonies",
+          "From memory only for the leading parts",
+          "However each officer prefers"
+        ],
+        "correct": 0,
+        "explain": "All degree work must be given from memory; elective officers must also prove proficiency in their part before being installed."
+      }
+    ]
+  }
+}

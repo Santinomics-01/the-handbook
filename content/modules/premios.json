@@ -1,0 +1,271 @@
+{
+  "id": "premios",
+  "es": {
+    "title": "Honores y premios",
+    "subtitle": "Todo lo que un DeMolay puede ganar — y los honores que no se piden, se merecen.",
+    "minutes": 11,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Honor vs. Award: la diferencia clave",
+        "blocks": [
+          { "t": "p", "text": "DeMolay reconoce el esfuerzo de dos maneras muy distintas, y entender la diferencia es lo primero:" },
+          { "t": "cards", "items": [
+            { "title": "Award (premio)", "text": "Se trabaja para obtenerlo y se puede solicitar. Cumplís los requisitos, lo pedís, lo recibís. Ejemplos: Merit Bars, Blue Honor Key." },
+            { "title": "Honor", "text": "No se pide ni se solicita: se otorga sin que el receptor lo sepa, por voto unánime del International Supreme Council en su sesión anual. Ejemplos: Chevalier, Legion of Honor." }
+          ] },
+          { "t": "callout", "style": "warn", "text": "Hacer campaña para un Honor o enterarse de la nominación puede descalificarla. En la Legion of Honor la confidencialidad es estricta: si se rompe, el nominado no es considerado." },
+          { "t": "p", "text": "En el Chapter, el **Awards Advisor** lleva el registro de esfuerzos, horas y servicios, y la decisión final sobre cada Merit Bar es del **Advisory Council**. La regla del Awards Advisor: requisitos cumplidos a la letra, sin bajar estándares." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Merit Bars: el sistema de barras",
+        "blocks": [
+          { "t": "p", "text": "Las **Merit Bars** son los premios más comunes de DeMolay: barras que se ganan por trabajo concreto en distintas categorías. Los colores marcan cuántas veces ganaste en la misma categoría:" },
+          { "t": "p", "text": "**White** (1.ª) → **Red** (2.ª) → **Blue** (3.ª) → **Purple** (4.ª) → **Gold** (5.ª y última). Se exhibe **una sola barra por categoría**: al subir de color, entregás la anterior." },
+          { "t": "table", "headers": ["Categoría", "Requisito"], "rows": [
+            ["Athletics", "1 año participando / 6 juegos"],
+            ["Attendance", "1 año de asistencia perfecta"],
+            ["Civic Service", "10 horas / 3 proyectos"],
+            ["Conclave", "Asistir a 3 conclaves"],
+            ["Fine Arts", "3 presentaciones musicales o 2 obras"],
+            ["Fundraising", "3 proyectos / 20 horas"],
+            ["Installing", "3 ceremonias de instalación"],
+            ["Journalism", "6 artículos publicados"],
+            ["Masonic Attendance", "Asistir con 3 Master Masons (1 barra/año)"],
+            ["Masonic Service", "3 proyectos / 10 horas"],
+            ["Membership", "3 applications como first-line signer"],
+            ["Merit", "20 horas de trabajo"],
+            ["Patriotism", "1 año (JROTC, ROTC, Civil Air Patrol, FF.AA.)"],
+            ["Religion", "30 servicios religiosos al año"],
+            ["Ritual", "125 puntos en la escala del ISC"],
+            ["Safe Driver", "1 año sin infracciones de tránsito"],
+            ["Scholastics", "Promedio B (o equivalente) por 1 año escolar"],
+            ["Visitation", "6 visitas a otro Chapter/Manor o 150 millas"]
+          ] },
+          { "t": "callout", "style": "info", "text": "El **Leaders Correspondence Course** da una barra por lección, y al completar los cinco cursos te habilita el pin **Lamp of Knowledge**." },
+          { "t": "ref", "text": "Tabla completa de Merit Bars y requisitos", "page": "205" }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Premios de membresía y servicio",
+        "blocks": [
+          { "t": "list", "items": [
+            "**Founder's Membership Award (FMA)**: por ser first-line signer en **5 applications**. Sin cargo.",
+            "**Blue Honor Key**: por **10 applications** como first-line signer. Se agrega una estrella por cada 10 adicionales. Es el clásico de los reclutadores.",
+            "**White Honor Key**: por reclutar **3 nuevos Advisors** registrados y designados por el Executive Officer.",
+            "**Hats Off Award**: lo decide el Chapter por elección de sus Active Members para reconocer a quien quiera — no se puede solicitar y no hay límite de cantidad.",
+            "**Officer's Service Certificate**: certifica un término servido en un cargo; requiere recomendación del Chapter Advisor.",
+            "**Zerubbabel Key**: por ayudar a fundar un Chapter — hasta 3 por Chapter nuevo o reinstalado, otorgadas dentro del año de la institución."
+          ] },
+          { "t": "callout", "style": "key", "text": "Si no llegás al número antes de cumplir 21, podés completar la Blue Honor Key como Senior DeMolay — siempre que tengas tu Senior DeMolay Certificate." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "Los grandes reconocimientos al liderazgo",
+        "blocks": [
+          { "t": "list", "items": [
+            "**Past Master Councilor's Jewel**: el único regalo que el Chapter puede pagar con sus fondos, para un MC saliente sobresaliente. Condición excluyente: haber conferido los **dos Degrees de memoria** al menos una vez en su término.",
+            "**PMC Meritorious Service Award (PMC-MSA)**: medalla de oro de DeMolay International, sin cargo. Exige carta de intención dentro de los 10 días de la instalación, programa impreso, **mínimo 4 inducciones** (o la cuota del Executive Officer, lo que sea mayor), una actividad de cada tipo (social, cívica, servicio masónico, atlética y fundraising) y observancia pública de cada Obligatory Day del término.",
+            "**Distinguished Service Award (DeMolay of the Year)**: desde 1959; evalúa escuela, hogar, lugar de culto, comunidad, país y DeMolay, con cartas de recomendación por área. Hay ganadores jurisdiccionales y un único ganador internacional.",
+            "**Medal of Heroism**: creada en 1925, requiere haber arriesgado voluntariamente la propia vida. Se otorgaron **menos de 50** en un siglo.",
+            "**Medal of Valor**: por salvar o intentar salvar una vida, sin el requisito de riesgo propio."
+          ] }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Representative DeMolay: tu mejor versión",
+        "blocks": [
+          { "t": "p", "text": "El **Representative DeMolay Award (RD)** es la máxima distinción de **auto-logro**: no competís contra nadie, te evaluás contra vos mismo. Nació en 1924 como competencia y desde **1935** es una autoevaluación en **cuatro campos de desarrollo**: mental, físico, socio-económico y espiritual." },
+          { "t": "steps", "items": [
+            "Tené al menos **6 meses de membresía** al presentar el formulario.",
+            "Completá el RD Evaluation Form con prolijidad — se califica también ortografía y gramática.",
+            "Conseguí las firmas del Chapter Advisor y del Advisory Council Chairman (o RD Advisor).",
+            "El formulario va al Executive Officer; aprobado, recibís pin, riband, certificado y tarjeta en una presentación pública."
+          ] },
+          { "t": "callout", "style": "key", "text": "El lema del programa lo dice todo: \"EVERY DEMOLAY IS A REPRESENTATIVE DEMOLAY!\"" }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Chevalier, Legion of Honor y los honores de adultos",
+        "blocks": [
+          { "t": "p", "text": "**Chevalier** es el honor más alto que puede recibir un DeMolay activo: requiere **17 años cumplidos** (el Executive Officer puede bajarlo a 16), **2 años** de membresía en buena posición, y el **voto unánime** del Supreme Council. Su observancia tradicional es el **8 de noviembre** (aniversario de la muerte de Dad Land)." },
+          { "t": "p", "text": "**Legion of Honor** es el gran honor para Senior DeMolays: nominados **mayores de 25 años**, voto unánime del ISC y confidencialidad absoluta. Su observancia tradicional es el **18 de marzo**. Al aceptar se paga una cuota que cubre el cordon y el medallion." },
+          { "t": "list", "items": [
+            "**Cross of Honor**: máximo honor para Advisors — al menos 3 años de servicio meritorio conspicuo, voto del Supreme Council.",
+            "**Advisor's Honor Key**: solo una por Chapter por año; exige Annual Report a tiempo, membresía neta en alza e inducciones iguales o mejores que el año anterior.",
+            "**Guild of the Leather Apron**: el \"Advisor of the Year\", a discreción del Executive Officer.",
+            "**Medal of Appreciation**: para cualquier persona —hombre o mujer, sin afiliación masónica— con servicio inusual al Chapter.",
+            "**Grand Cross**: hasta 2 personas por término del Grand Master."
+          ] },
+          { "t": "ref", "text": "Catálogo completo de honores por categoría de elegibilidad", "page": "207" }
+        ]
+      },
+      {
+        "id": "l7",
+        "title": "El pin oficial y la regalia",
+        "blocks": [
+          { "t": "p", "text": "El **pin oficial** de DeMolay, introducido en **1949** y diseñado por el propio Dad Land, condensa la identidad de la Orden. Solo pueden usarlo DeMolays, Senior DeMolays y Advisors." },
+          { "t": "cards", "items": [
+            { "title": "Crown of Youth", "text": "La corona de la juventud, con los siete preceptos." },
+            { "title": "10 piedras preciosas", "text": "Dad Land y los 9 fundadores. Rubíes por los fallecidos, perlas por los vivos — hoy son todas rubíes." },
+            { "title": "Casco (Helmet)", "text": "La caballerosidad (chivalry)." },
+            { "title": "Creciente (Crescent)", "text": "El secreto de la Orden." },
+            { "title": "Cruz blanca de 5 brazos", "text": "Pureza, y el lema: \"No DeMolay shall fail as a citizen, as a leader, and as a man.\"" },
+            { "title": "Espadas cruzadas", "text": "Justicia, fortaleza y misericordia; la guerra contra la arrogancia, el despotismo y la intolerancia." }
+          ] },
+          { "t": "callout", "style": "info", "text": "**ShopDeMolay.org** es el único canal autorizado de joyería y regalia DeMolay. También existen el **Majority Pin** (para Senior DeMolays) y el **Sweetheart Pin** (para sweethearts, madres y hermanas)." }
+        ]
+      }
+    ],
+    "quiz": [
+      { "q": "¿Cuál es la diferencia entre un Honor y un Award en DeMolay?", "options": ["El Honor es para adultos y el Award para jóvenes", "El Award se gana y puede solicitarse; el Honor se otorga sin que el receptor lo sepa", "El Honor lo da el Chapter y el Award el Supreme Council", "Son sinónimos"], "correct": 1, "explain": "Un Award se trabaja y se pide (como la Blue Honor Key); un Honor requiere voto unánime del ISC y nunca se solicita (como el Chevalier)." },
+      { "q": "¿Qué se necesita para la Blue Honor Key?", "options": ["5 applications como first-line signer", "Reclutar 3 advisors", "10 applications como first-line signer", "20 horas de servicio"], "correct": 2, "explain": "La Blue Honor Key se gana con 10 applications como first-line signer, con una estrella por cada 10 adicionales." },
+      { "q": "¿Cuál es el orden de colores de las Merit Bars?", "options": ["White → Red → Blue → Purple → Gold", "Blue → White → Red → Gold → Purple", "White → Blue → Red → Gold → Purple", "Red → White → Blue → Purple → Gold"], "correct": 0, "explain": "Primera barra White, luego Red, Blue, Purple y Gold; tras la Gold no hay más premios en esa categoría." },
+      { "q": "¿Qué edad mínima exige el honor de Chevalier?", "options": ["21 años cumplidos", "16 años, sin excepción", "17 años (el Executive Officer puede bajarla a 16)", "25 años"], "correct": 2, "explain": "Chevalier requiere 17 años (con posible excepción a 16 autorizada por el EO) y 2 años de membresía en buena posición." },
+      { "q": "¿Cuándo es la observancia tradicional de la Legion of Honor?", "options": ["El 8 de noviembre", "El 18 de marzo", "El 13 de octubre", "El 1 de enero"], "correct": 1, "explain": "La Legion of Honor observa el 18 de marzo; el Chevalier observa el 8 de noviembre, aniversario de la muerte de Dad Land." },
+      { "q": "¿Cuál es la condición excluyente del PMC's Jewel?", "options": ["Haber reclutado 10 miembros", "Haber conferido ambos Degrees de memoria al menos una vez en su término", "Haber asistido a 3 conclaves", "Tener promedio B en la escuela"], "correct": 1, "explain": "El MC saliente debe haber conferido el Initiatory y el DeMolay Degree de memoria al menos una vez durante su término." },
+      { "q": "¿Cuáles son los cuatro campos del Representative DeMolay?", "options": ["Académico, deportivo, social y ritual", "Mental, físico, socio-económico y espiritual", "Escuela, hogar, comunidad y país", "Liderazgo, servicio, hermandad y fe"], "correct": 1, "explain": "El RD es una autoevaluación en cuatro campos de desarrollo: mental, físico, socio-económico y espiritual." },
+      { "q": "¿Qué representan las 10 piedras del pin oficial?", "options": ["Las 10 primeras Chapters", "Los 10 preceptos de DeMolay", "Dad Land y los 9 fundadores originales", "Los 10 años de la fundación"], "correct": 2, "explain": "Las diez piedras honran a Frank S. Land y a los nueve jóvenes fundadores: rubíes por los fallecidos, perlas por los vivos — hoy todas rubíes." }
+    ]
+  },
+  "en": {
+    "title": "Honors & Awards",
+    "subtitle": "Everything a DeMolay can earn — and the honors you don't apply for, you deserve.",
+    "minutes": 11,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Honor vs. Award: the key difference",
+        "blocks": [
+          { "t": "p", "text": "DeMolay recognizes effort in two very different ways, and understanding the difference comes first:" },
+          { "t": "cards", "items": [
+            { "title": "Award", "text": "You work for it and you may apply for it. Meet the requirements, request it, receive it. Examples: Merit Bars, Blue Honor Key." },
+            { "title": "Honor", "text": "Never applied for: it is conferred without the recipient's knowledge, by unanimous vote of the International Supreme Council at its annual session. Examples: Chevalier, Legion of Honor." }
+          ] },
+          { "t": "callout", "style": "warn", "text": "Campaigning for an Honor — or finding out about the nomination — can kill it. For the Legion of Honor confidentiality is strict: if it breaks, the nominee is not considered." },
+          { "t": "p", "text": "At Chapter level, the **Awards Advisor** keeps the records of efforts, hours and service, and the final call on every Merit Bar belongs to the **Advisory Council**. The Awards Advisor's rule: requirements met to the letter, no lowering the bar." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Merit Bars: the bar system",
+        "blocks": [
+          { "t": "p", "text": "**Merit Bars** are DeMolay's most common awards: bars earned through concrete work in different categories. Colors show how many times you've earned the same category:" },
+          { "t": "p", "text": "**White** (1st) → **Red** (2nd) → **Blue** (3rd) → **Purple** (4th) → **Gold** (5th and last). You wear **one bar per category**: when you move up a color, you turn in the previous one." },
+          { "t": "table", "headers": ["Category", "Requirement"], "rows": [
+            ["Athletics", "1 year participating / 6 games"],
+            ["Attendance", "1 year of perfect attendance"],
+            ["Civic Service", "10 hours / 3 projects"],
+            ["Conclave", "Attend 3 conclaves"],
+            ["Fine Arts", "3 musical performances or 2 plays"],
+            ["Fundraising", "3 projects / 20 hours"],
+            ["Installing", "3 installation ceremonies"],
+            ["Journalism", "6 published articles"],
+            ["Masonic Attendance", "Attend with 3 Master Masons (1 bar/year)"],
+            ["Masonic Service", "3 projects / 10 hours"],
+            ["Membership", "3 applications as first-line signer"],
+            ["Merit", "20 hours of work"],
+            ["Patriotism", "1 year (JROTC, ROTC, Civil Air Patrol, armed forces)"],
+            ["Religion", "30 religious services in a year"],
+            ["Ritual", "125 points on the ISC scale"],
+            ["Safe Driver", "1 year without traffic violations"],
+            ["Scholastics", "B average (or equivalent) for 1 school year"],
+            ["Visitation", "6 visits to another Chapter/Manor or 150 miles"]
+          ] },
+          { "t": "callout", "style": "info", "text": "The **Leaders Correspondence Course** earns one bar per lesson, and completing all five courses qualifies you for the **Lamp of Knowledge** pin." },
+          { "t": "ref", "text": "Full Merit Bar table and requirements", "page": "205" }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Membership & service awards",
+        "blocks": [
+          { "t": "list", "items": [
+            "**Founder's Membership Award (FMA)**: be first-line signer on **5 applications**. No charge.",
+            "**Blue Honor Key**: **10 applications** as first-line signer. A star is added for every additional 10. The recruiter's classic.",
+            "**White Honor Key**: recruit **3 new Advisors**, registered and appointed by the Executive Officer.",
+            "**Hats Off Award**: decided by the Chapter through a vote of its Active Members to thank anyone — it cannot be applied for and there is no limit.",
+            "**Officer's Service Certificate**: certifies a term served in an office; requires the Chapter Advisor's recommendation.",
+            "**Zerubbabel Key**: for helping start a Chapter — up to 3 per new or reinstated Chapter, awarded within one year of institution."
+          ] },
+          { "t": "callout", "style": "key", "text": "If you don't reach the number before turning 21, you can complete the Blue Honor Key as a Senior DeMolay — as long as you hold your Senior DeMolay Certificate." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "The big leadership recognitions",
+        "blocks": [
+          { "t": "list", "items": [
+            "**Past Master Councilor's Jewel**: the only gift a Chapter may pay for with its funds, for an outstanding outgoing MC. Hard requirement: having conferred **both Degrees from memory** at least once during his term.",
+            "**PMC Meritorious Service Award (PMC-MSA)**: DeMolay International's gold medal, free of charge. Requires a letter of intent within 10 days of installation, a printed term program, **at least 4 inductions** (or the Executive Officer's quota, whichever is greater), one activity of each type (social, civic, Masonic service, athletic and fundraising) and public observance of every Obligatory Day in the term.",
+            "**Distinguished Service Award (DeMolay of the Year)**: since 1959; evaluates school, home, place of worship, community, country and DeMolay, with recommendation letters per area. Jurisdictional winners and a single international winner.",
+            "**Medal of Heroism**: created in 1925, requires having voluntarily risked your own life. Fewer than **50** awarded in a century.",
+            "**Medal of Valor**: for saving or attempting to save a life, without the self-risk requirement."
+          ] }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Representative DeMolay: your best self",
+        "blocks": [
+          { "t": "p", "text": "The **Representative DeMolay Award (RD)** is the highest **self-achievement** distinction: you compete against no one but yourself. Born in 1924 as a competition, since **1935** it has been a self-evaluation across **four fields of development**: mental, physical, socio-economic and spiritual." },
+          { "t": "steps", "items": [
+            "Have at least **6 months of membership** when you submit the form.",
+            "Complete the RD Evaluation Form carefully — neatness, spelling and grammar are graded too.",
+            "Get the signatures of the Chapter Advisor and the Advisory Council Chairman (or RD Advisor).",
+            "The form goes to the Executive Officer; once approved, you receive pin, riband, certificate and card at a public presentation."
+          ] },
+          { "t": "callout", "style": "key", "text": "The program's motto says it all: \"EVERY DEMOLAY IS A REPRESENTATIVE DEMOLAY!\"" }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Chevalier, Legion of Honor and adult honors",
+        "blocks": [
+          { "t": "p", "text": "**Chevalier** is the highest honor an active DeMolay can receive: it requires being **at least 17** (the Executive Officer may lower it to 16), **2 years** of membership in good standing, and a **unanimous vote** of the Supreme Council. Its traditional observance is **November 8** (the anniversary of Dad Land's death)." },
+          { "t": "p", "text": "**Legion of Honor** is the great honor for Senior DeMolays: nominees must be **over 25**, elected by unanimous ISC vote under absolute confidentiality. Its traditional observance is **March 18**. A fee on acceptance covers the cordon and medallion." },
+          { "t": "list", "items": [
+            "**Cross of Honor**: highest honor for Advisors — at least 3 years of conspicuous meritorious service, voted by the Supreme Council.",
+            "**Advisor's Honor Key**: only one per Chapter per year; requires the Annual Report on time, net membership growth and inductions equal to or better than the previous year.",
+            "**Guild of the Leather Apron**: the \"Advisor of the Year,\" at the Executive Officer's discretion.",
+            "**Medal of Appreciation**: for anyone — man or woman, no Masonic affiliation needed — with unusual service to the Chapter.",
+            "**Grand Cross**: up to 2 individuals per Grand Master's term."
+          ] },
+          { "t": "ref", "text": "Complete honors catalog by eligibility category", "page": "207" }
+        ]
+      },
+      {
+        "id": "l7",
+        "title": "The official pin and regalia",
+        "blocks": [
+          { "t": "p", "text": "DeMolay's **official pin**, introduced in **1949** and designed by Dad Land himself, condenses the Order's identity. Only DeMolays, Senior DeMolays and Advisors may wear it." },
+          { "t": "cards", "items": [
+            { "title": "Crown of Youth", "text": "The crown of youth, bearing the seven precepts." },
+            { "title": "10 precious stones", "text": "Dad Land and the 9 founders. Rubies for the deceased, pearls for the living — today all rubies." },
+            { "title": "Helmet", "text": "Chivalry." },
+            { "title": "Crescent", "text": "The secrecy of the Order." },
+            { "title": "Five-armed white cross", "text": "Purity, and the motto: \"No DeMolay shall fail as a citizen, as a leader, and as a man.\"" },
+            { "title": "Crossed swords", "text": "Justice, fortitude and mercy; the war against arrogance, despotism and intolerance." }
+          ] },
+          { "t": "callout", "style": "info", "text": "**ShopDeMolay.org** is the only authorized channel for DeMolay jewelry and regalia. There are also the **Majority Pin** (for Senior DeMolays) and the **Sweetheart Pin** (for sweethearts, mothers and sisters)." }
+        ]
+      }
+    ],
+    "quiz": [
+      { "q": "What is the difference between an Honor and an Award in DeMolay?", "options": ["Honors are for adults, Awards for youth", "An Award is earned and may be applied for; an Honor is conferred without the recipient knowing", "The Chapter grants Honors and the Supreme Council grants Awards", "They are synonyms"], "correct": 1, "explain": "An Award is worked for and requested (like the Blue Honor Key); an Honor takes a unanimous ISC vote and is never applied for (like Chevalier)." },
+      { "q": "What does the Blue Honor Key require?", "options": ["5 applications as first-line signer", "Recruiting 3 advisors", "10 applications as first-line signer", "20 hours of service"], "correct": 2, "explain": "The Blue Honor Key is earned with 10 applications as first-line signer, with a star for every additional 10." },
+      { "q": "What is the Merit Bar color order?", "options": ["White → Red → Blue → Purple → Gold", "Blue → White → Red → Gold → Purple", "White → Blue → Red → Gold → Purple", "Red → White → Blue → Purple → Gold"], "correct": 0, "explain": "First bar White, then Red, Blue, Purple and Gold; after Gold there are no further awards in that category." },
+      { "q": "What minimum age does the Chevalier honor require?", "options": ["21 years old", "16, no exceptions", "17 (the Executive Officer may lower it to 16)", "25 years old"], "correct": 2, "explain": "Chevalier requires age 17 (with a possible EO-authorized exception at 16) and 2 years of membership in good standing." },
+      { "q": "When is the Legion of Honor's traditional observance?", "options": ["November 8", "March 18", "October 13", "January 1"], "correct": 1, "explain": "The Legion of Honor observes March 18; Chevalier observes November 8, the anniversary of Dad Land's death." },
+      { "q": "What is the hard requirement for the PMC's Jewel?", "options": ["Having recruited 10 members", "Having conferred both Degrees from memory at least once during his term", "Having attended 3 conclaves", "Holding a B average at school"], "correct": 1, "explain": "The outgoing MC must have conferred the Initiatory and DeMolay Degrees from memory at least once during his term." },
+      { "q": "What are the four fields of the Representative DeMolay?", "options": ["Academic, athletic, social and ritual", "Mental, physical, socio-economic and spiritual", "School, home, community and country", "Leadership, service, brotherhood and faith"], "correct": 1, "explain": "The RD is a self-evaluation across four fields of development: mental, physical, socio-economic and spiritual." },
+      { "q": "What do the 10 stones on the official pin represent?", "options": ["The first 10 Chapters", "The 10 precepts of DeMolay", "Dad Land and the 9 original founders", "The 10 years since founding"], "correct": 2, "explain": "The ten stones honor Frank S. Land and the nine founding boys: rubies for the deceased, pearls for the living — today all rubies." }
+    ]
+  }
+}

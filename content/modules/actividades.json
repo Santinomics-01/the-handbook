@@ -1,0 +1,429 @@
+{
+  "id": "actividades",
+  "es": {
+    "title": "Actividades: el motor del Chapter",
+    "subtitle": "Cómo planificar actividades cívicas, sociales, deportivas y de fundraising que mantengan vivo a tu Chapter.",
+    "minutes": 12,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Un Chapter vivo se mide por sus actividades",
+        "blocks": [
+          { "t": "p", "text": "Las actividades son lo que sostiene a un Chapter. Los miembros que se aburren se van tan rápido como entran los nuevos, y la única forma de frenar esa fuga es ofrecer **algo que enganche a cada miembro**. Pero ojo: cien actividades mediocres no sirven de nada. La calidad vale más que la cantidad." },
+          { "t": "p", "text": "El Handbook da dos requisitos para que cualquier actividad funcione: primero, asegurate de que haya **suficientes miembros interesados** (preguntá en una reunión o con un cuestionario); segundo, que esté **bien organizada y planificada**. Lo ideal es un comité permanente por cada categoría de actividades, con un Advisor (adulto del Advisory Council que acompaña y asesora) asignado a cada comité." },
+          { "t": "cards", "items": [
+            { "title": "Civic", "text": "Servicio a la comunidad: las que más imagen positiva generan." },
+            { "title": "Fund-Raising", "text": "Recaudar fondos para que el Chapter funcione." },
+            { "title": "Social", "text": "Bailes, fiestas y salidas que hacen divertido pertenecer." },
+            { "title": "Athletic", "text": "Programa deportivo durante todo el año." },
+            { "title": "Obligatory Days", "text": "Las observancias obligatorias del calendario DeMolay." },
+            { "title": "Others", "text": "Música, drama, publicaciones, ceremonias públicas, gaming y más." }
+          ] },
+          { "t": "callout", "style": "key", "text": "Estándar mínimo: un Chapter no cumple con sus obligaciones si no realiza **al menos 3 actividades de cada categoría por term** y no observa **todos los Obligatory Days** del año." },
+          { "t": "p", "text": "Las ideas del manual son sugerencias, no una lista cerrada: los intereses de tus miembros, las finanzas, las instalaciones disponibles y la realidad local definen qué actividades elegir." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Actividades cívicas: la cara pública del Chapter",
+        "blocks": [
+          { "t": "p", "text": "Las actividades cívicas son todo proyecto de servicio a la comunidad, al estado o provincia, a la nación o a una causa benéfica. Son **las más importantes para generar goodwill** (buena voluntad pública): la gente juzga a una organización por sus hechos, y un baile o un partido no le cambian la vida al vecino, pero un Chapter que ayuda a su comunidad sí." },
+          { "t": "p", "text": "El Handbook lista **21 ideas** de actividades cívicas. Algunas de las más potentes:" },
+          { "t": "list", "items": [
+            "Organizar una campaña de donación de sangre.",
+            "Construir o mantener una plaza pública (pintar, reparar, limpiar).",
+            "Plantar árboles en parques, escuelas o terrenos públicos.",
+            "Retirar carteles de campaña después de una elección.",
+            "Armar canastas de comida y regalos para familias necesitadas (Thanksgiving, Navidad, Pascua).",
+            "Ser voluntarios con la Red Cross en desastres, o en un evento de Special Olympics.",
+            "Comprar un equipo necesario para un hospital o escuela local."
+          ] },
+          { "t": "callout", "style": "info", "text": "Colaborar con campañas de caridad es la actividad cívica más frecuente de los Chapters. Conviene adoptar causas fijas y ayudarlas todos los años: se vuelve una tradición que la comunidad reconoce." },
+          { "t": "p", "text": "Sea lo que elijas, **diversificá** las actividades cívicas y repartilas a lo largo de todo el año." },
+          { "t": "ref", "text": "La lista completa de 21 actividades cívicas", "page": "98" }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Fundraising: plata para que el Chapter funcione",
+        "blocks": [
+          { "t": "p", "text": "Prácticamente todo Chapter depende de varias actividades de fundraising al año. El éxito tiene dos ingredientes: **buena planificación y buena publicidad**. El único límite es la imaginación del Chapter… y la ley local y las reglas masónicas, que ningún proyecto puede contradecir." },
+          { "t": "callout", "style": "warn", "text": "Regla de los Bylaws de DeMolay International: antes de **solicitar fondos a cualquier persona fuera de la membresía del Chapter**, es obligatorio obtener el permiso del **Executive Officer** de la Jurisdicción (la máxima autoridad adulta de DeMolay en tu territorio)." },
+          { "t": "list", "items": [
+            "Elegí una actividad que encaje con la estación del año.",
+            "Verificá que no choque con otro evento importante.",
+            "Dejá tiempo de sobra para publicitar: **mínimo un mes** en todos los casos.",
+            "Sumale novedad: te diferencia de actividades parecidas que compiten con la tuya.",
+            "Usá todos los canales: diarios locales, radio, publicaciones DeMolay, flyers, afiches.",
+            "Que todos los miembros conozcan el evento y lo difundan; avisale también a otros Chapters y a las familias."
+          ] },
+          { "t": "p", "text": "El manual sugiere más de dos docenas de ideas: venta de golosinas, nueces, árboles y decoración de Navidad, calendarios, carwash, subastas, rummage sales, talent show, cenas temáticas y pancake breakfasts, un puesto en la feria del condado, un Back to School Dance con entrada, y más." },
+          { "t": "p", "text": "Mención especial para los **Restaurant Take-Overs**: el Chapter sirve y levanta mesas en un restaurante local y se lleva un porcentaje de las ventas del día. No requiere inversión ni riesgo, da publicidad excelente, y con remeras (idealmente iguales) con el emblema DeMolay el grupo se convierte en un cartel ambulante de la Orden." },
+          { "t": "p", "text": "Cuando un fundraiser resulta muy exitoso, repetilo **todos los años**: las tradiciones rentables se cuidan." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "Sociales: bailes, fiestas y la regla de oro",
+        "blocks": [
+          { "t": "p", "text": "Lo social es parte del ADN DeMolay: juntar gente joven es de las cosas que mejor hacemos. Si los otros grupos juveniles de la familia masónica y los amigos de la comunidad esperan con ganas los eventos de tu Chapter, eso también empuja a los propios DeMolays a seguir activos." },
+          { "t": "p", "text": "Los **bailes** son el evento social más común, así que hacelos únicos con un tema: **Food Dance** (cada asistente trae un alimento para canastas de familias necesitadas), **Pigskin Prom** en temporada de fútbol americano, baile de Halloween con disfraces, o variantes como Hobo Hop y Hard Times. Evitá decoraciones y recuerdos caros salvo en ocasiones muy especiales." },
+          { "t": "callout", "style": "warn", "text": "Regla de oro: poseer o consumir **alcohol antes, durante o después** de un baile (o de cualquier actividad DeMolay) implica **expulsión inmediata del evento** y consideración posterior como conducta un-DeMolay." },
+          { "t": "p", "text": "Las fiestas dan para todo: **Backwards Party** (todo al revés, desde las invitaciones), **Progressive Games Party** (juegos eliminatorios de fácil a difícil), **White Elephant**, salidas al cine, skating, beach party… y eventos padre-hijo con bowling, ping pong o softball entre equipos de padres e hijos. Otras ideas populares: ski trip, treasure hunt, barbecue, hayride, laser tag." },
+          { "t": "p", "text": "Las encuestas a jóvenes muestran que **las actividades al aire libre son las más populares** (natación, camping, béisbol, básquet). Actualizá la lista con lo que tus miembros piden en los Members Interest Surveys." }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Deportes: programa anual y papeles firmados",
+        "blocks": [
+          { "t": "p", "text": "Un Chapter necesita un programa deportivo **durante todo el año**. Y prestá atención a los miembros que dicen no tener interés deportivo: muchas veces nunca tuvieron dónde aprender, y el Chapter puede ser su primer equipo en un ambiente que apoya en lugar de exigir. El deporte enseña cooperación, paciencia y trabajo con otros." },
+          { "t": "callout", "style": "warn", "text": "Requisito obligatorio: cada miembro que participa en eventos deportivos debe entregar un **medical release** y un **liability waiver** firmados, con firma también de **padres o tutor** (todos los miembros activos son menores de 21), salvo políticas adicionales del Executive Officer de tu Jurisdicción." },
+          { "t": "cards", "items": [
+            { "title": "Eligibility", "text": "DeMolay en good standing, apto físicamente; revisar si jugar en el equipo escolar cambia algo." },
+            { "title": "Facilities", "text": "Opciones, costo, disponibilidad y distancia de las instalaciones." },
+            { "title": "Equipment", "text": "Quién lo aporta (miembro o Chapter) y que sea adecuado para la seguridad." },
+            { "title": "Officiating", "text": "Suficientes árbitros (Advisors, padres, coaches locales) que conozcan bien las reglas." },
+            { "title": "Scheduling", "text": "Hora y lugar convenientes, avisos a todos, plan B por mal clima, traslados." },
+            { "title": "Awards", "text": "Reconocimiento a los ganadores (trofeos o premios) y cómo financiarlo." }
+          ] },
+          { "t": "p", "text": "Hay más de 30 deportes posibles, del básquet y el soccer al corn hole, la arquería o el frisbee. Las competencias pueden ser internas, contra otros Chapters o a nivel jurisdiccional. Dos límites siempre: respetar las **reglas académicas estatales y locales** para no comprometer la elegibilidad escolar de nadie, y un **sportsmanship** intachable en cada disciplina." },
+          { "t": "ref", "text": "Las seis categorías de planificación deportiva en detalle", "page": "102" }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Otras actividades y Career Guidance",
+        "blocks": [
+          { "t": "p", "text": "La categoría \"Others\" agrupa todo lo que pasa fuera de las reuniones regulares: un **coro o cuarteto** para instalaciones, hospitales y fiestas; una orquesta o banda para los bailes; un **Drama Club** con sketches y obras para entretener o recaudar; y **speech groups** de oratoria y debate." },
+          { "t": "callout", "style": "key", "text": "Toda publicación del Chapter (newsletter, sitio web, redes sociales, email) debe llevar el allegiance statement oficial: \"This publication acknowledges authority and yields allegiance to DeMolay International, of which Frank S. Land was Founder.\"" },
+          { "t": "list", "items": [
+            "**Newsletter/web/redes:** informar es el objetivo principal; precisión, acceso fácil, cobertura de toda la actividad del Chapter y copia para cada miembro y Advisor. Aprovechá a los que escriben y dibujan.",
+            "**Summer camp:** si tenés acceso a un campamento, organizá una salida cada verano, con degrees al aire libre a la luz del fuego. Siempre **al costo**, nunca con fin de lucro.",
+            "**Senior DeMolay Night:** homenaje a los alumni; se planifica con **al menos seis meses** de anticipación. Buscá Senior DeMolays por todos los medios, prepará la historia del Chapter y reconocé a los \"50-year DeMolay\" con un pin del DeMolay Service & Leadership Center.",
+            "**Chapter Anniversary:** todo aniversario se celebra de forma especial; puede combinarse con la Senior DeMolay Night, la Awards Ceremony o la Installation of Officers."
+          ] },
+          { "t": "p", "text": "El **Career Guidance** (orientación vocacional) no es un programa de relleno: la pregunta \"¿qué voy a hacer con mi vida?\" le importa a todos. Encuestá los intereses del Chapter, nombrá un responsable en el Program Committee y armá con el Advisory Council un **Career Education Committee** de adultos de la comunidad que consigan oradores y visitas." },
+          { "t": "p", "text": "Variá el formato: un orador apasionado por su profesión (no necesariamente el más exitoso: investigá antes cómo habla en público), un video, un field trip a una planta industrial o un hospital, mesas redondas después de la reunión. Y como no todos van a ir a la universidad, dale espacio proporcional a **oficios, apprenticeships y programas nocturnos**." }
+        ]
+      },
+      {
+        "id": "l7",
+        "title": "Filantropía: recaudar con propósito",
+        "blocks": [
+          { "t": "p", "text": "Antes de recaudar un peso, definí **para qué**. Hay dos grandes propósitos: juntar fondos para que el Chapter funcione (alquiler, eventos, la pizza de la fiesta de candidatos) y juntar fondos para ayudar a otros. Si el Chapter está comprometido con el propósito, miembros, padres y Advisors se suman solos." },
+          { "t": "table", "headers": ["Charity", "Philanthropy"], "rows": [
+            ["Alivia el dolor de un problema puntual", "Ataca la raíz del problema para resolverlo"],
+            ["Trabajar en un food bank, donar a un refugio", "Construir con Habitat for Humanity"],
+            ["Ropa para una familia que perdió su casa en un incendio", "Financiar una huerta comunitaria en un barrio empobrecido"]
+          ] },
+          { "t": "callout", "style": "key", "text": "\"Brotherhood begins after the bills are paid.\" La hermandad empieza cuando las cuentas están pagas: tu Chapter no sobrevive sin fondos, y aprender a sostener compromisos financieros es una lección de vida." },
+          { "t": "steps", "items": [
+            "Definí el porqué del evento: pagar cuentas, ayudar, divertirse, conocer gente. Siempre hay una razón principal.",
+            "Verificá que la organización a ayudar sea una **nonprofit con donaciones deducibles de impuestos** (si no sabés, preguntá su tax status; fuera de EE.UU., conocé su misión).",
+            "Fijá una meta concreta: \"vamos a recaudar $10,000\" inspira mucho más que \"un montón de plata\". Poné meta por term, por evento y hasta multianual.",
+            "Para un evento chico de $500 a $1,000 quizás zafás improvisando, pero para un evento grande empezá a planificar **al menos seis meses antes** (un año es mejor).",
+            "Cubrí los componentes críticos: quién, qué, cuándo, dónde, por qué, cómo; promoción/PR; registración; y presupuesto (sí, planeá ganar plata)."
+          ] },
+          { "t": "p", "text": "No subestimes el **direct mail**: una carta personal pidiendo apoyo sigue funcionando. Esperá que respondan entre el **5 y el 10%** de los destinatarios. Tu \"case for support\" debe decir por qué la causa te importa, contar una historia personal real y aclarar dónde enviar los fondos. Hasta $1 sirve: si la estampilla cuesta $.55, ya duplicaste la inversión." },
+          { "t": "callout", "style": "info", "text": "Dato fiscal clave: un donante que da **más de $25 en una sola contribución** a una nonprofit exenta de impuestos necesita una **acknowledgment letter** escrita (el \"recibo\" de la donación) para deducirla en su declaración. Decí gracias, decilo seguido y decilo en serio." },
+          { "t": "p", "text": "Después del evento: sacá fotos, contá los resultados, documentá qué funcionó y qué no para el equipo del año que viene… y **celebrá** con una wrap party. Los pequeños triunfos festejados construyen la moral del Chapter." },
+          { "t": "ref", "text": "La guía completa de Philanthropy", "page": "115" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "¿Cuál es el estándar mínimo de actividades que fija el Handbook para un Chapter?",
+        "options": [
+          "1 actividad por categoría por term",
+          "3 actividades por categoría por term, más observar todos los Obligatory Days",
+          "5 actividades en total por año",
+          "3 actividades por año, de cualquier categoría"
+        ],
+        "correct": 1,
+        "explain": "Un Chapter no cumple con sus obligaciones si no hace al menos 3 actividades de cada categoría durante el term y no observa todos los Obligatory Days del año."
+      },
+      {
+        "q": "Según el Handbook, ¿qué categoría de actividades es la más importante para generar goodwill y buena imagen pública?",
+        "options": ["Fundraising", "Sociales", "Cívicas", "Deportivas"],
+        "correct": 2,
+        "explain": "La gente juzga a una organización por sus hechos: el servicio a la comunidad es lo que más influye en la opinión pública sobre DeMolay."
+      },
+      {
+        "q": "¿Qué necesita un Chapter antes de solicitar fondos a personas fuera de su membresía?",
+        "options": [
+          "El voto unánime del Chapter",
+          "El permiso del Executive Officer de la Jurisdicción",
+          "Una nota firmada por el Master Councilor",
+          "Nada, si lo recaudado es para caridad"
+        ],
+        "correct": 1,
+        "explain": "Los Bylaws de DeMolay International exigen el permiso del Executive Officer antes de cualquier solicitud de fondos fuera de la membresía del Chapter."
+      },
+      {
+        "q": "Un miembro aparece con alcohol en un baile del Chapter. ¿Qué corresponde según el Handbook?",
+        "options": [
+          "Una advertencia verbal y queda registrado",
+          "Pedirle que lo deje afuera y siga en el evento",
+          "Expulsión inmediata del evento y consideración posterior como conducta un-DeMolay",
+          "Suspensión automática por un año"
+        ],
+        "correct": 2,
+        "explain": "Poseer o consumir alcohol antes, durante o después de cualquier actividad DeMolay implica expulsión inmediata del evento y luego se evalúa como conducta un-DeMolay."
+      },
+      {
+        "q": "¿Qué documentos debe entregar firmados cada miembro que participa en eventos deportivos del Chapter?",
+        "options": [
+          "Solo una autorización verbal de los padres",
+          "Un medical release y un liability waiver, firmados también por padres o tutor",
+          "Su obligation card",
+          "Un certificado médico de la escuela"
+        ],
+        "correct": 1,
+        "explain": "El Chapter debe recolectar de cada participante un medical release y un liability waiver firmados; como todos los activos son menores de 21, también firman padres o tutor."
+      },
+      {
+        "q": "¿Qué debe incluir obligatoriamente toda publicación del Chapter (newsletter, web, redes, email)?",
+        "options": [
+          "El presupuesto del term",
+          "El allegiance statement hacia DeMolay International",
+          "La lista completa de miembros",
+          "La firma del Executive Officer"
+        ],
+        "correct": 1,
+        "explain": "Toda publicación debe llevar el allegiance statement que reconoce la autoridad de DeMolay International, de la cual Frank S. Land fue fundador."
+      },
+      {
+        "q": "¿A partir de qué monto un donante necesita una acknowledgment letter escrita para deducir su donación de impuestos?",
+        "options": ["Más de $10", "Más de $25 en una sola contribución", "Más de $100", "Cualquier monto, sin mínimo"],
+        "correct": 1,
+        "explain": "Las donaciones de más de $25 en una sola contribución a una nonprofit exenta requieren un acuse escrito para que el donante pueda deducirlas."
+      },
+      {
+        "q": "¿Cuál es la diferencia entre charity y philanthropy según el Handbook?",
+        "options": [
+          "Son sinónimos exactos",
+          "Charity alivia el dolor de un problema puntual; philanthropy ataca la raíz para resolverlo",
+          "Charity es donar dinero; philanthropy es solo trabajo voluntario",
+          "Philanthropy es exclusiva de organizaciones grandes"
+        ],
+        "correct": 1,
+        "explain": "Charity busca aliviar un problema (como trabajar en un food bank); philanthropy toma iniciativas privadas por el bien público y apunta a resolver la raíz del problema."
+      }
+    ]
+  },
+  "en": {
+    "title": "Activities: The Engine of Your Chapter",
+    "subtitle": "How to plan civic, social, athletic, and fundraising activities that keep your Chapter alive.",
+    "minutes": 12,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "A Living Chapter Is Measured by Its Activities",
+        "blocks": [
+          { "t": "p", "text": "Activities are the sustaining life of any Chapter. Bored members drop out as fast as new ones come in, and the only way to stop that leak is to offer **something that hooks every member**. But watch out: a hundred mediocre activities are worthless. Quality beats quantity." },
+          { "t": "p", "text": "The Handbook gives two requirements for any activity to succeed: first, make reasonably sure there are **enough interested members** (just ask at a meeting or run a questionnaire); second, have it **well organized and planned**. The smart move is a permanent committee for each major activity category, with an Advisor assigned to assist each committee." },
+          { "t": "cards", "items": [
+            { "title": "Civic", "text": "Community service: the biggest builder of public goodwill." },
+            { "title": "Fund-Raising", "text": "Raising the money your Chapter runs on." },
+            { "title": "Social", "text": "Dances, parties, and outings that make belonging fun." },
+            { "title": "Athletic", "text": "A year-round sports program." },
+            { "title": "Obligatory Days", "text": "The required observances on the DeMolay calendar." },
+            { "title": "Others", "text": "Music, drama, publications, public ceremonies, gaming, and more." }
+          ] },
+          { "t": "callout", "style": "key", "text": "Minimum standard: a Chapter is not living up to its obligations unless it holds **at least 3 activities in each category per term** and observes **every Obligatory Day** throughout the year." },
+          { "t": "p", "text": "The Handbook's ideas are suggestions, not a closed list: your members' interests, finances, available facilities, and local circumstances decide which activities make the cut." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Civic Activities: Your Chapter's Public Face",
+        "blocks": [
+          { "t": "p", "text": "Civic activities are any project of service to the community, state or province, nation, or a charitable cause. They are **your most important activities for creating goodwill**: people judge an organization by its deeds, and a dance or a ballgame won't change a neighbor's life — but a Chapter that serves its community will." },
+          { "t": "p", "text": "The Handbook lists **21 civic activity ideas**. Some of the strongest:" },
+          { "t": "list", "items": [
+            "Sponsor a blood donor program.",
+            "Build or help maintain a public playground (repair, paint, clean up).",
+            "Plant trees in parks, school playgrounds, or other public lands.",
+            "Take down campaign posters after an election.",
+            "Give baskets of food and presents to needy families (Thanksgiving, Christmas, Easter).",
+            "Volunteer with the Red Cross in times of disaster, or at a Special Olympics event.",
+            "Purchase a needed piece of equipment for a local hospital or school."
+          ] },
+          { "t": "callout", "style": "info", "text": "Helping with charity drives is the most frequent civic activity Chapters take on. It pays to adopt set causes and help them every year — it becomes a tradition the community recognizes." },
+          { "t": "p", "text": "Whatever you pick, **diversify** your civic activities and spread them out across the whole year." },
+          { "t": "ref", "text": "The full list of 21 civic activities", "page": "98" }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Fundraising: Money to Keep the Chapter Running",
+        "blocks": [
+          { "t": "p", "text": "Practically every Chapter depends on a number of fundraising activities each year. Success comes down to two ingredients: **proper planning and adequate publicity**. The only limit is your Chapter's imagination — plus state, province, and local law and Masonic rules, which no project may conflict with." },
+          { "t": "callout", "style": "warn", "text": "Rule from the Bylaws of DeMolay International: before **soliciting funds from anyone outside the Chapter's membership**, you must obtain the permission of the **Executive Officer** of the Jurisdiction." },
+          { "t": "list", "items": [
+            "Pick an activity that fits the season of the year.",
+            "Make sure it doesn't conflict with any other important event.",
+            "Allow plenty of time to publicize: **a minimum of one month** in all cases.",
+            "Inject novelty — it sets your event apart from similar competing activities.",
+            "Use every available channel: local newspapers, radio, DeMolay publications, flyers, posters.",
+            "Make sure every member knows the event's purpose and is spreading the word; tell other Chapters and family too."
+          ] },
+          { "t": "p", "text": "The Handbook suggests more than two dozen ideas: candy and nut sales, Christmas trees and decorations, calendars, carwashes, auctions, rummage sales, a talent show, novelty dinners and pancake breakfasts, a booth at the county fair, a Back to School Dance with admission, and more." },
+          { "t": "p", "text": "Special mention for **Restaurant Take-Overs**: the Chapter serves and clears tables at a local restaurant and collects a percentage of the day's sales. No cash outlay, no risk, excellent publicity — and with matching shirts bearing the DeMolay emblem, the group becomes a walking billboard for the Order." },
+          { "t": "p", "text": "When a fundraiser proves very successful, **keep it on an annual basis**: profitable traditions are worth protecting." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "Social Activities: Dances, Parties, and the Golden Rule",
+        "blocks": [
+          { "t": "p", "text": "Being social is part of DeMolay's DNA — bringing young people together is one of the things we do best. If the Masonic family youth groups and friends in your community look forward to your Chapter's events, that energy also keeps your own DeMolays active." },
+          { "t": "p", "text": "**Dances** are the most common social event, so make them unique with a theme: the **Food Dance** (every attendee brings a food item for baskets for needy families), the **Pigskin Prom** during football season, a Halloween costume dance, or variants like the Hobo Hop and Hard Times. Avoid expensive favors and decorations except on very special occasions." },
+          { "t": "callout", "style": "warn", "text": "Golden rule: possessing or using **alcohol before, during, or after** a dance — or any DeMolay activity — means **immediate expulsion from the event** and later consideration as un-DeMolay conduct." },
+          { "t": "p", "text": "Parties come in every flavor: the **Backwards Party** (everything reversed, invitations included), the **Progressive Games Party** (games run from easy to hard until one winner remains), **White Elephant**, theater outings, skating, beach parties — plus father-and-son events with bowling, ping pong, or softball between dad-and-son teams. Other popular picks: ski trips, treasure hunts, barbecues, hayrides, laser tag." },
+          { "t": "p", "text": "Surveys of young men show **outdoor activities are the most popular type**, with swimming, camping, baseball, and basketball as favorites. Keep your list updated with what your members ask for in the Members Interest Surveys." }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Athletics: A Year-Round Program and Signed Paperwork",
+        "blocks": [
+          { "t": "p", "text": "A Chapter needs an athletic program that runs **all year round**. And pay attention to members who claim no interest in sports: often they simply never had a place to learn, and the Chapter can be their first team in an atmosphere that supports instead of demands. Sports teach cooperation, patience, and how to work with other people." },
+          { "t": "callout", "style": "warn", "text": "Mandatory requirement: the Chapter must collect from each member participating in athletic events a signed **medical release** and **liability waiver**, also signed by **parents or guardian** (all active members are under 21), unless the Executive Officer of your Jurisdiction has additional policies." },
+          { "t": "cards", "items": [
+            { "title": "Eligibility", "text": "DeMolay in good standing, physically capable; check whether being on a school team in that sport matters." },
+            { "title": "Facilities", "text": "Options, cost, availability, and traveling distance." },
+            { "title": "Equipment", "text": "Who furnishes it (member or Chapter) and making sure it's adequate for safety." },
+            { "title": "Officiating", "text": "Enough officials (Advisors, parents, local coaches) well versed in the proper rules." },
+            { "title": "Scheduling", "text": "Convenient time and place, notifying everyone, bad-weather backup plans, travel arrangements." },
+            { "title": "Awards", "text": "Suitable recognition for winners (trophies or prizes) and the financing for it." }
+          ] },
+          { "t": "p", "text": "There are over 30 possible sports, from basketball and soccer to corn hole, archery, and frisbee. Competitions can run within the Chapter, against other Chapters, or at the Jurisdictional level. Two limits always apply: observe **state and local academic rules** so no member's scholastic athletic standing is endangered, and keep **sportsmanship** second to none in every sport." },
+          { "t": "ref", "text": "The six athletic planning categories in detail", "page": "102" }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Other Activities and Career Guidance",
+        "blocks": [
+          { "t": "p", "text": "The \"Others\" category covers everything outside regular meetings: a **choir or quartet** for installations, hospitals, and holiday programs; an orchestra or dance combo for Chapter dances; a **Drama Club** with skits and plays for entertainment or fundraising; and **speech groups** for public speaking and debate." },
+          { "t": "callout", "style": "key", "text": "Every Chapter publication (newsletter, website, social media, email) must carry the official allegiance statement: \"This publication acknowledges authority and yields allegiance to DeMolay International, of which Frank S. Land was Founder.\"" },
+          { "t": "list", "items": [
+            "**Newsletter/website/social media:** informing members is the primary purpose; be accurate, easy to access, cover every phase of Chapter activity, and get a copy to every member and Advisor. Put your writers and cartoonists to work.",
+            "**Summer camp:** if you have access to a camp, plan an outing every summer, with unique outdoor degrees by campfire or lantern. Always on a **cost basis only** — never for profit.",
+            "**Senior DeMolay Night:** a tribute to your alumni, planned **at least six months ahead**. Track down Senior DeMolays through every possible source, prepare your Chapter's history, and recognize any \"50-year DeMolay\" with a pin from the DeMolay Service & Leadership Center.",
+            "**Chapter Anniversary:** every anniversary deserves a special observance; it can be combined with Senior DeMolay Night, the Awards Ceremony, or the Installation of Officers."
+          ] },
+          { "t": "p", "text": "**Career Guidance** is not a fill-in program: the question \"what am I going to do with my life?\" matters to everyone. Survey your Chapter's interests, pick a member to represent Career Guidance on the Program Committee, and have the Advisory Council and Officers organize a **Career Education Committee** of community adults to line up speakers and field trips." },
+          { "t": "p", "text": "Vary the format: a speaker who can sell their profession with zeal (not necessarily the most successful person — check their speaking ability first), a video, a field trip to an industrial plant or hospital, round-table discussions after meetings. And since not everyone will go to college, give proportionate emphasis to **trades, apprenticeships, and night school programs**." }
+        ]
+      },
+      {
+        "id": "l7",
+        "title": "Philanthropy: Fundraising with Purpose",
+        "blocks": [
+          { "t": "p", "text": "Before you raise a dollar, define **what it's for**. There are two big purposes: raising funds so the Chapter can operate (rent, events, pizza at the prospect party) and raising funds to help others. If the Chapter is engaged with the purpose, members, parents, and Advisors will jump in on their own." },
+          { "t": "table", "headers": ["Charity", "Philanthropy"], "rows": [
+            ["Relieves the pain of a specific problem", "Works at the root of the issue to solve it"],
+            ["Working at a food bank, donating to a shelter", "Building with Habitat for Humanity"],
+            ["Clothing for a family whose home burned", "Funding a community vegetable garden in an impoverished neighborhood"]
+          ] },
+          { "t": "callout", "style": "key", "text": "\"Brotherhood begins after the bills are paid.\" Your Chapter cannot survive without funding, and learning to meet financial commitments is a life lesson DeMolay helps you build." },
+          { "t": "steps", "items": [
+            "Define the why of your event: pay bills, help others, have fun, meet people. There's always one primary reason.",
+            "Verify that the organization you want to help is a **nonprofit, tax-deductible cause** (if you don't know, ask for their tax status; outside the US, learn their mission).",
+            "Set a concrete goal: \"we're going to raise $10,000\" inspires far more than \"a bunch of money.\" Set a term goal, a goal per event, and maybe a multi-year goal.",
+            "For a small $500 to $1,000 event you might get away with improvising, but for a large event start planning **at least six months out** — a full year of lead time is even better.",
+            "Cover the critical components: who, what, when, where, why, how; promotion/PR; registration; and budgeting (yes, plan to make money!)."
+          ] },
+          { "t": "p", "text": "Don't underestimate **direct mail**: a personal letter asking for support still works. Expect about **5-10%** of recipients to donate. Your \"case for support\" should say why the cause matters to you, tell a real personal story, and make clear where to send the funds. Even $1 counts: if a stamp costs $.55, you've already doubled your investment." },
+          { "t": "callout", "style": "info", "text": "Key tax fact: donors giving **more than $25 in a single contribution** to a tax-exempt nonprofit need a written **acknowledgment letter** (the donation \"receipt\") to claim the deduction on their income tax return. Say thank you, say it often, and say it with meaning." },
+          { "t": "p", "text": "After the event: take pictures, share the results, document what worked and what didn't for next year's team — and **celebrate** with a wrap party. Celebrating small wins builds Chapter morale." },
+          { "t": "ref", "text": "The full Philanthropy guide", "page": "115" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is the minimum activity standard the Handbook sets for a Chapter?",
+        "options": [
+          "1 activity per category per term",
+          "3 activities in each category per term, plus observing every Obligatory Day",
+          "5 activities total per year",
+          "3 activities per year, in any category"
+        ],
+        "correct": 1,
+        "explain": "A Chapter is not living up to its obligations unless it holds at least 3 activities in each category during a term and observes every Obligatory Day throughout the year."
+      },
+      {
+        "q": "According to the Handbook, which activity category is the most important for creating goodwill and favorable public relations?",
+        "options": ["Fundraising", "Social", "Civic", "Athletic"],
+        "correct": 2,
+        "explain": "People judge an organization by its deeds: community service is what most shapes public opinion of DeMolay."
+      },
+      {
+        "q": "What does a Chapter need before soliciting funds from anyone outside its membership?",
+        "options": [
+          "A unanimous Chapter vote",
+          "Permission from the Executive Officer of the Jurisdiction",
+          "A signed note from the Master Councilor",
+          "Nothing, as long as the money goes to charity"
+        ],
+        "correct": 1,
+        "explain": "The Bylaws of DeMolay International require the Executive Officer's permission before any solicitation of funds outside the Chapter's membership."
+      },
+      {
+        "q": "A member shows up with alcohol at a Chapter dance. What does the Handbook call for?",
+        "options": [
+          "A verbal warning on the record",
+          "Asking him to leave it outside and stay at the event",
+          "Immediate expulsion from the event and later consideration as un-DeMolay conduct",
+          "An automatic one-year suspension"
+        ],
+        "correct": 2,
+        "explain": "Possessing or using alcohol before, during, or after any DeMolay activity requires immediate expulsion from the event, with later consideration as un-DeMolay conduct."
+      },
+      {
+        "q": "What signed documents must every member participating in Chapter athletic events turn in?",
+        "options": [
+          "Just verbal permission from his parents",
+          "A medical release and liability waiver, also signed by parents or guardian",
+          "His obligation card",
+          "A medical certificate from his school"
+        ],
+        "correct": 1,
+        "explain": "The Chapter must collect a signed medical release and liability waiver from each participant; since all actives are under 21, parents or guardian must also sign."
+      },
+      {
+        "q": "What must every Chapter publication (newsletter, website, social media, email) include?",
+        "options": [
+          "The term budget",
+          "The allegiance statement to DeMolay International",
+          "The full membership roster",
+          "The Executive Officer's signature"
+        ],
+        "correct": 1,
+        "explain": "Every publication must carry the allegiance statement acknowledging the authority of DeMolay International, of which Frank S. Land was Founder."
+      },
+      {
+        "q": "Above what amount does a donor need a written acknowledgment letter to claim a tax deduction?",
+        "options": ["More than $10", "More than $25 in a single contribution", "More than $100", "Any amount, no minimum"],
+        "correct": 1,
+        "explain": "Donations of more than $25 in a single contribution to a tax-exempt nonprofit require a written acknowledgment for the donor to claim the deduction."
+      },
+      {
+        "q": "What is the difference between charity and philanthropy according to the Handbook?",
+        "options": [
+          "They are exact synonyms",
+          "Charity relieves the pain of a specific problem; philanthropy works at the root to solve it",
+          "Charity means donating money; philanthropy means only volunteering time",
+          "Philanthropy is reserved for large organizations"
+        ],
+        "correct": 1,
+        "explain": "Charity aims to relieve a particular problem (like working at a food bank); philanthropy takes private initiatives for the public good and targets the root of the issue."
+      }
+    ]
+  }
+}

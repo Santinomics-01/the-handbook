@@ -1,0 +1,347 @@
+{
+  "id": "esencia",
+  "es": {
+    "title": "La esencia de DeMolay",
+    "subtitle": "Qué es DeMolay, en qué cree, qué te ofrece y cómo explicárselo a cualquiera.",
+    "minutes": 9,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Qué es DeMolay",
+        "blocks": [
+          { "t": "p", "text": "DeMolay es la organización de **formación de líderes** más importante del mundo para jóvenes de **12 a 21 años**. Y tiene algo que ninguna otra puede decir: es la **única organización juvenil del mundo dirigida por sus propios miembros jóvenes**, con adultos que acompañan como consejeros, no como jefes." },
+          { "t": "p", "text": "Nació en **1919 en Kansas City, Missouri**, con un grupo original de **nueve jóvenes**. Hoy ese grupo creció a **más de mil Chapters** (el Chapter es la unidad local donde vivís DeMolay, algo así como tu sede o capítulo). Vayas donde vayas, nunca vas a estar lejos de un Chapter." },
+          { "t": "callout", "style": "info", "text": "Sos DeMolay **de por vida**. Desde que ingresás hasta los 21 años sos un **Active DeMolay** (miembro activo). Al cumplir 21 pasás a ser **Senior DeMolay**, y podés seguir conectado sumándote a la **Alumni Association** (asociación de exmiembros) o convirtiéndote en **Advisor** (asesor adulto)." },
+          { "t": "h", "text": "En qué cree DeMolay" },
+          { "t": "list", "items": [
+            "Cada individuo es único y vital.",
+            "Si se les da la oportunidad, los jóvenes piensan y actúan con criterio y responsabilidad.",
+            "Los jóvenes tienen que participar en las decisiones que los afectan.",
+            "Los jóvenes necesitan compartir experiencias, pero en una estructura donde puedan aprender responsabilidad y desarrollar su propio estilo a su propio ritmo.",
+            "Los jóvenes necesitan divertirse y socializar con otros."
+          ] },
+          { "t": "p", "text": "El corazón de DeMolay es la combinación de **independencia** y **fraternidad**: pensás por vos mismo, planificás con creatividad, tomás decisiones responsables y actuás en equipo. DeMolay te da un ambiente con **chances reales de triunfar y libertad para aprender**." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Para qué existe: los propósitos",
+        "blocks": [
+          { "t": "p", "text": "El propósito primario de DeMolay es **formar mejores ciudadanos y crear líderes** a través del desarrollo del **carácter**. Todo lo demás —reuniones, eventos, ritual, proyectos— apunta a eso." },
+          { "t": "p", "text": "Importante: DeMolay **no busca reemplazar** tu hogar, tu lugar de culto ni tu escuela. Los **complementa** con un programa que te enseña buena ciudadanía en la práctica." },
+          { "t": "h", "text": "Qué te ofrece DeMolay" },
+          { "t": "cards", "items": [
+            { "title": "Una ocupación sana para tu tiempo libre", "text": "Actividades que valen la pena en lugar de horas perdidas: desde proyectos de servicio comunitario hasta deportes y eventos sociales." },
+            { "title": "Amigos que valen la pena", "text": "Amistades que duran toda la vida, con jóvenes que comparten tus valores." },
+            { "title": "Mentoría adulta", "text": "Adultos responsables de tu comunidad que te aconsejan y te ayudan, sin manejarte la vida." },
+            { "title": "Un programa completo de desarrollo juvenil", "text": "Liderazgo, oratoria, responsabilidad y autoconfianza, todo en un mismo lugar y de forma entretenida." }
+          ] },
+          { "t": "callout", "style": "key", "text": "De DeMolay sacás lo que ponés. Si te metés de lleno en las actividades del Chapter, los retornos son materiales y espirituales: amistades duraderas, responsabilidad y confianza en vos mismo." },
+          { "t": "p", "text": "Además, el ritual de DeMolay es una **escuela de oratoria** excelente, y los proyectos comunitarios y solidarios te dan algo que ninguna app: la satisfacción real de ayudar a que el mundo sea un poco mejor." },
+          { "t": "ref", "text": "Los propósitos completos de DeMolay están en el Handbook", "page": "1" }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Las seven cardinal virtues",
+        "blocks": [
+          { "t": "p", "text": "Todo el programa de un Chapter gira alrededor de siete valores centrales: las **seven cardinal virtues** (siete virtudes cardinales). No son palabras de ceremonia: son la vara con la que un DeMolay se mide todos los días." },
+          { "t": "cards", "items": [
+            { "title": "Love of Parents", "text": "Amor filial: amar y honrar a tus padres, y demostrarlo en cómo los tratás todos los días." },
+            { "title": "Reverence", "text": "Reverencia por lo sagrado: respeto por Dios y por las creencias propias y ajenas." },
+            { "title": "Courtesy", "text": "Cortesía: tratar a todas las personas con respeto y buenos modales, siempre." },
+            { "title": "Comradeship", "text": "Compañerismo: amistad leal y genuina con tus hermanos y con quienes te rodean." },
+            { "title": "Fidelity", "text": "Fidelidad: ser fiel a tu palabra, a tus ideales y a tus amigos." },
+            { "title": "Cleanness", "text": "Limpieza: mente y cuerpo limpios, en lo que pensás, decís y hacés." },
+            { "title": "Patriotism", "text": "Patriotismo: amor y servicio a tu país, tanto en la paz como en la guerra." }
+          ] },
+          { "t": "callout", "style": "info", "text": "Dato del Handbook: invitar a nuevos miembros a compartir DeMolay es una de las mejores formas de practicar **tres** de las virtudes a la vez: comradeship, patriotism y fidelity." },
+          { "t": "p", "text": "Las virtudes no son para recitar una noche cada dos semanas: son metas para vivir **todos los días**, en tus tareas de todos los días." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "A DeMolay's Ethics: tu código de conducta",
+        "blocks": [
+          { "t": "p", "text": "Además de las virtudes, DeMolay te da un código de conducta concreto: **A DeMolay's Ethics** (la ética de un DeMolay), una lista de **14 principios** que describen cómo se comporta un DeMolay en cualquier situación." },
+          { "t": "list", "items": [
+            "Un DeMolay sirve a Dios.",
+            "Un DeMolay honra a toda mujer.",
+            "Un DeMolay ama y honra a sus padres.",
+            "Un DeMolay es honesto.",
+            "Un DeMolay es leal a sus ideales y a sus amigos.",
+            "Un DeMolay practica el trabajo honesto.",
+            "La palabra de un DeMolay vale tanto como su firma.",
+            "Un DeMolay es cortés.",
+            "Un DeMolay es un caballero en todo momento.",
+            "Un DeMolay es patriota tanto en la paz como en la guerra.",
+            "Un DeMolay es limpio de mente y cuerpo.",
+            "Un DeMolay defiende firmemente las escuelas públicas.",
+            "Un DeMolay mantiene siempre la reputación de un ciudadano bueno y respetuoso de la ley.",
+            "Un DeMolay, con su prédica y su ejemplo, debe preservar los altos estándares a los que se comprometió."
+          ] },
+          { "t": "p", "text": "Fijate cómo los 14 principios son las siete virtudes en acción: honestidad, lealtad, cortesía, limpieza, patriotismo... El código no te pide ser perfecto: te pide ser **coherente**, con tu palabra y con tu ejemplo." },
+          { "t": "ref", "text": "El texto oficial de A DeMolay's Ethics está en el Handbook", "page": "233" }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Tus primeros deberes como miembro nuevo",
+        "blocks": [
+          { "t": "p", "text": "¿Acabás de ingresar? Tu primer deber es uno solo y es simple: **involucrarte**. De DeMolay vas a sacar exactamente lo que pongas, así que metete con todo desde el primer día." },
+          { "t": "steps", "items": [
+            "Levantate en tu Chapter y ofrecete como voluntario para un comité.",
+            "Pedí hacerte cargo de un proyecto especial: coordinar un baile, un lavadero de autos o una noche de cine.",
+            "Proponé actividades que te gusten para que el Chapter las pruebe: senderismo, karting o armar un grupo de gaming.",
+            "Si no sabés por dónde arrancar, preguntá. Tu Chapter te va a ayudar a empezar con el pie derecho."
+          ] },
+          { "t": "callout", "style": "key", "text": "Tu segundo deber tiene número y plazo: compartir DeMolay con **2 jóvenes que lo merezcan** (¡tus amigos, por ejemplo!) dentro de tu **primer año** de membresía." },
+          { "t": "p", "text": "Las oportunidades en DeMolay son infinitas: podés lograr casi cualquier cosa que te propongas. Pero nada de eso pasa desde la tribuna. **Tu primer deber es involucrarte.**" }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Talking points: explicá DeMolay en un minuto",
+        "blocks": [
+          { "t": "p", "text": "Tarde o temprano un amigo te va a preguntar qué es DeMolay. El Handbook te da una lista de **talking points** (puntos de conversación) para ese momento. La clave: siempre que puedas, contá ejemplos reales de cómo DeMolay ayudó a miembros concretos... empezando por vos." },
+          { "t": "table", "headers": ["Punto", "Qué decir"], "rows": [
+            ["Internacional", "DeMolay tiene Chapters en más de 26 países y territorios."],
+            ["El más grande", "Más de 3 millones de jóvenes se unieron a lo largo de la historia. Un DeMolay nunca está sin amigos, vaya donde vaya."],
+            ["Selecto", "Sus miembros se eligen con cuidado; ser DeMolay es una recomendación social y profesional en cualquier lugar."],
+            ["Advisors", "Adultos responsables de la comunidad —los DeMolay Dads and Moms— ayudan con temas personales, la escuela, el trabajo y más."],
+            ["Ceremonias", "Los dos Degrees (grados ceremoniales) son hermosos e inspiradores, y no se parecen a nada más disponible entre los 12 y los 21 años."],
+            ["Carácter", "DeMolay forma mejores hijos y mejores ciudadanos: enseña las virtudes y también la tolerancia."],
+            ["Liderazgo", "Aprendés a pararte frente a otros y expresarte; podés ser oficial del Chapter y demostrar lo que sabés hacer."],
+            ["Autogobierno", "Los Chapters los gobiernan los propios oficiales y miembros, con el consejo de los Chapter Advisors."],
+            ["Actividades", "De lo cívico a lo social y lo deportivo: experiencias que tu escuela muchas veces no ofrece."],
+            ["Becas", "Hay varios scholarship programs (programas de becas) disponibles para miembros."]
+          ] },
+          { "t": "callout", "style": "info", "text": "El enfoque del Handbook es positivo: DeMolay se vende **con el ejemplo**. Mostrale a tu amigo lo que DeMolay hizo por vos y va a ser fácil convencerlo de que puede hacer lo mismo por él." },
+          { "t": "ref", "text": "La lista completa de talking points está en el Handbook", "page": "15" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "¿Dónde y cuándo fue fundado DeMolay?",
+        "options": ["En 1919 en Kansas City, Missouri", "En 1919 en St. Louis, Missouri", "En 1929 en Kansas City, Missouri", "En 1909 en Chicago, Illinois"],
+        "correct": 0,
+        "explain": "DeMolay nació en 1919 en Kansas City, Missouri, con un grupo original de nueve jóvenes."
+      },
+      {
+        "q": "¿Qué pasa cuando un Active DeMolay cumple 21 años?",
+        "options": ["Deja de ser miembro de DeMolay", "Pasa a ser Senior DeMolay", "Tiene que volver a hacer los Degrees", "Pasa automáticamente a ser Advisor"],
+        "correct": 1,
+        "explain": "Sos DeMolay de por vida: a los 21 pasás de Active DeMolay a Senior DeMolay, y podés seguir en la Alumni Association o como Advisor."
+      },
+      {
+        "q": "¿Cuál de estas NO es una de las seven cardinal virtues?",
+        "options": ["Cleanness", "Fidelity", "Honesty", "Courtesy"],
+        "correct": 2,
+        "explain": "Las siete virtudes son love of parents, reverence, courtesy, comradeship, fidelity, cleanness y patriotism. La honestidad aparece en A DeMolay's Ethics, pero no es una de las siete virtudes."
+      },
+      {
+        "q": "Según el Handbook, ¿cuál de estas cosas NO está entre las cuatro que DeMolay le ofrece a un joven?",
+        "options": ["Una ocupación sana para su tiempo libre", "Amigos que valen la pena", "Mentoría adulta", "Un empleo garantizado al egresar"],
+        "correct": 3,
+        "explain": "DeMolay ofrece cuatro cosas: ocupación sana para el tiempo libre, amigos que valen la pena, mentoría adulta y un programa completo de desarrollo juvenil."
+      },
+      {
+        "q": "¿Cuántos principios tiene A DeMolay's Ethics?",
+        "options": ["7", "10", "12", "14"],
+        "correct": 3,
+        "explain": "A DeMolay's Ethics es el código de conducta de 14 principios, que va desde servir a Dios hasta preservar con el ejemplo los estándares a los que te comprometiste."
+      },
+      {
+        "q": "Como miembro nuevo, ¿con cuántos jóvenes tenés que compartir DeMolay y en qué plazo?",
+        "options": ["Con 2 jóvenes dentro de tu primer año", "Con 5 jóvenes dentro de tu primer año", "Con 2 jóvenes antes de tu primer Degree", "Con 1 joven por cada año de membresía"],
+        "correct": 0,
+        "explain": "Parte de tus primeros deberes es compartir DeMolay con 2 jóvenes que lo merezcan dentro de tu primer año de membresía."
+      },
+      {
+        "q": "¿En cuántos países y territorios tiene Chapters DeMolay, según los talking points?",
+        "options": ["Más de 12", "Más de 26", "Más de 50", "Más de 100"],
+        "correct": 1,
+        "explain": "DeMolay es una organización internacional con Chapters en más de 26 países y territorios."
+      },
+      {
+        "q": "¿Cuántos jóvenes se unieron a DeMolay a lo largo de su historia, según los talking points?",
+        "options": ["Más de 500.000", "Más de 1 millón", "Más de 3 millones", "Más de 10 millones"],
+        "correct": 2,
+        "explain": "Los talking points destacan que más de 3 millones de jóvenes se unieron: es la membresía más grande de cualquier organización similar en el mundo."
+      }
+    ]
+  },
+  "en": {
+    "title": "The Essence of DeMolay",
+    "subtitle": "What DeMolay is, what it believes, what it offers you, and how to explain it to anyone.",
+    "minutes": 9,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "What DeMolay Is",
+        "blocks": [
+          { "t": "p", "text": "DeMolay is the **premier leadership training organization** for young men between the ages of **12 and 21**. And it can claim something no one else can: it is the **only youth organization in the world run by its youth members**, with adults serving as advisors rather than bosses." },
+          { "t": "p", "text": "It was founded in **1919 in Kansas City, Missouri**, by an original group of **nine young men**. That group has grown to **more than a thousand Chapters**. Wherever you travel, you will never be far from a DeMolay Chapter." },
+          { "t": "callout", "style": "info", "text": "You are a DeMolay **for life**. From the time you join until you turn 21, you are an **Active DeMolay**. At age 21 you become a **Senior DeMolay**, and you can stay connected by joining the **Alumni Association** or by becoming an **Advisor**." },
+          { "t": "h", "text": "What DeMolay Believes" },
+          { "t": "list", "items": [
+            "Every individual is unique and vital.",
+            "Young men will think and act thoughtfully and responsibly if given a chance.",
+            "Young men must be involved in the decisions that affect them.",
+            "Young men need to share experiences, but in a structure where they can learn responsibility and develop their own style at their own pace.",
+            "Young men need to have fun and socialize with others."
+          ] },
+          { "t": "p", "text": "The heart of DeMolay is the combination of **independence** and **fraternalism**: original thinking, creative planning, responsible decision-making, and cooperative action. DeMolay gives you an atmosphere with a **real chance to succeed and the freedom to learn**." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Why DeMolay Exists: The Purposes",
+        "blocks": [
+          { "t": "p", "text": "DeMolay's primary purpose is to **build better citizens and create leaders** through the development of **character**. Everything else — meetings, events, ritual, projects — points back to that." },
+          { "t": "p", "text": "Important: DeMolay does **not try to replace** your home, your place of worship, or your school. It **supplements** them with a program that teaches good citizenship in practice." },
+          { "t": "h", "text": "What DeMolay Offers You" },
+          { "t": "cards", "items": [
+            { "title": "A wholesome occupation for your spare time", "text": "Activities worth your hours instead of wasted ones: community service projects, athletics, and social events." },
+            { "title": "Worthwhile friends", "text": "Friendships that last a lifetime, with young men who share your values." },
+            { "title": "Adult mentoring", "text": "Responsible adults from your community who advise and support you without running your life." },
+            { "title": "A complete program of all-around youth development", "text": "Leadership, public speaking, responsibility, and self-reliance — all in one place, and fun while you are at it." }
+          ] },
+          { "t": "callout", "style": "key", "text": "You only get out of DeMolay what you put into it. Enter wholeheartedly into your Chapter's activities and the returns are both material and spiritual: lasting friendships, responsibility, and self-reliance." },
+          { "t": "p", "text": "The DeMolay ritual is also an excellent **school for public speaking**, and the community and charitable projects give you something no app can: the real satisfaction of helping make the world a better place." },
+          { "t": "ref", "text": "Read the full Purposes of DeMolay in the Handbook", "page": "1" }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "The Seven Cardinal Virtues",
+        "blocks": [
+          { "t": "p", "text": "A Chapter's entire program revolves around seven core values: the **seven cardinal virtues**. They are not ceremony filler — they are the standard a DeMolay measures himself against every single day." },
+          { "t": "cards", "items": [
+            { "title": "Love of Parents", "text": "Loving and honoring your parents — and proving it in how you treat them every day." },
+            { "title": "Reverence", "text": "Respect for sacred things: for God and for your own beliefs and those of others." },
+            { "title": "Courtesy", "text": "Treating every person with respect and good manners, always." },
+            { "title": "Comradeship", "text": "Loyal, genuine friendship with your brothers and the people around you." },
+            { "title": "Fidelity", "text": "Staying true to your word, your ideals, and your friends." },
+            { "title": "Cleanness", "text": "Clean in mind and body — in what you think, say, and do." },
+            { "title": "Patriotism", "text": "Love of and service to your country, in peace as well as in war." }
+          ] },
+          { "t": "callout", "style": "info", "text": "Handbook fact: bringing in new members to share DeMolay is one of the best ways to practice **three** of the cardinal virtues at once — comradeship, patriotism, and fidelity." },
+          { "t": "p", "text": "The virtues are not goals for one evening every two weeks. They are goals to strive for **every day, in your daily tasks**." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "A DeMolay's Ethics: Your Code of Conduct",
+        "blocks": [
+          { "t": "p", "text": "Beyond the virtues, DeMolay hands you a concrete code of conduct: **A DeMolay's Ethics** — a list of **14 principles** describing how a DeMolay carries himself in any situation." },
+          { "t": "list", "items": [
+            "A DeMolay serves God.",
+            "A DeMolay honors all womanhood.",
+            "A DeMolay loves and honors his parents.",
+            "A DeMolay is honest.",
+            "A DeMolay is loyal to ideals and friends.",
+            "A DeMolay practices honest toil.",
+            "A DeMolay's word is as good as his bond.",
+            "A DeMolay is courteous.",
+            "A DeMolay is at all times a gentleman.",
+            "A DeMolay is a patriot in peace as well as war.",
+            "A DeMolay is clean in mind and body.",
+            "A DeMolay stands unswervingly for the public schools.",
+            "A DeMolay always bears the reputation of a good and law-abiding citizen.",
+            "A DeMolay, by precept and example, must preserve the high standards to which he has pledged himself."
+          ] },
+          { "t": "p", "text": "Notice how the 14 principles are the seven virtues in action: honesty, loyalty, courtesy, cleanness, patriotism... The code does not ask you to be perfect. It asks you to be **consistent** — with your word and with your example." },
+          { "t": "ref", "text": "The official text of A DeMolay's Ethics is in the Handbook", "page": "233" }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Your First Duties as a New Member",
+        "blocks": [
+          { "t": "p", "text": "Just joined? Your first duty is a single, simple one: **get involved**. You will get out of DeMolay exactly what you put into it, so jump in with both feet from day one." },
+          { "t": "steps", "items": [
+            "Stand up in your Chapter and volunteer to be on a committee.",
+            "Ask to take charge of a special project: coordinating a dance, a car wash, or a movie night.",
+            "Suggest activities you enjoy for the Chapter to try as a whole: hiking, Go-Kart riding, or forming a gaming group.",
+            "Not sure where to start? Just ask. Your Chapter will help you get started on the right foot."
+          ] },
+          { "t": "callout", "style": "key", "text": "Your second duty comes with a number and a deadline: share DeMolay with **2 other deserving young men** (your friends, perhaps!) within your **first year** of membership." },
+          { "t": "p", "text": "The opportunities in DeMolay are endless — you can accomplish most anything you like. But none of it happens from the sidelines. **Your first duty is to get involved.**" }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Talking Points: Explain DeMolay in One Minute",
+        "blocks": [
+          { "t": "p", "text": "Sooner or later a friend will ask you what DeMolay is. The Handbook gives you a set of **talking points** for exactly that moment. The key: whenever possible, share real examples of how DeMolay has helped actual members — starting with you." },
+          { "t": "table", "headers": ["Point", "What to Say"], "rows": [
+            ["International", "DeMolay has Chapters in over 26 countries and territories."],
+            ["The largest", "Over 3 million young men have joined throughout history. A DeMolay is never without friends, wherever he goes."],
+            ["Select", "Members are carefully selected; being known as a DeMolay is a recommendation socially and in business anywhere."],
+            ["Advisors", "Responsible adults from the community — the DeMolay Dads and Moms — help with personal issues, school, finding a job, and more."],
+            ["Ceremonies", "Both Degrees are beautiful and inspiring, and unlike anything else open to young men between 12 and 21."],
+            ["Character", "DeMolay helps young men become better sons and better citizens: it teaches the virtues, plus toleration."],
+            ["Leadership", "You learn to stand on your feet and express yourself; you can become a Chapter officer and show what you can do."],
+            ["Self-government", "Chapters are governed by their own officers and members, with advice and counsel from the Chapter Advisors."],
+            ["Activities", "From civic to social to athletic — hands-on experiences your school often cannot offer."],
+            ["Scholarships", "Various scholarship programs are available to members."]
+          ] },
+          { "t": "callout", "style": "info", "text": "The Handbook's approach is a positive one: we sell DeMolay **by example**. Show your friend what DeMolay has done for you, and it becomes easy to convince him it can do the same for him." },
+          { "t": "ref", "text": "The full list of talking points is in the Handbook", "page": "15" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Where and when was DeMolay founded?",
+        "options": ["In 1919 in Kansas City, Missouri", "In 1919 in St. Louis, Missouri", "In 1929 in Kansas City, Missouri", "In 1909 in Chicago, Illinois"],
+        "correct": 0,
+        "explain": "DeMolay was founded in 1919 in Kansas City, Missouri, by an original group of nine young men."
+      },
+      {
+        "q": "What happens when an Active DeMolay turns 21?",
+        "options": ["His DeMolay membership ends", "He becomes a Senior DeMolay", "He must take both Degrees again", "He automatically becomes an Advisor"],
+        "correct": 1,
+        "explain": "You are a DeMolay for life: at 21 you go from Active DeMolay to Senior DeMolay, and you can stay involved through the Alumni Association or as an Advisor."
+      },
+      {
+        "q": "Which of these is NOT one of the seven cardinal virtues?",
+        "options": ["Cleanness", "Fidelity", "Honesty", "Courtesy"],
+        "correct": 2,
+        "explain": "The seven virtues are love of parents, reverence, courtesy, comradeship, fidelity, cleanness, and patriotism. Honesty appears in A DeMolay's Ethics, but it is not one of the seven virtues."
+      },
+      {
+        "q": "According to the Handbook, which of these is NOT one of the four things DeMolay offers a young man?",
+        "options": ["A wholesome occupation for his spare time", "Worthwhile friends", "Adult mentoring", "A guaranteed job after aging out"],
+        "correct": 3,
+        "explain": "DeMolay offers four things: a wholesome occupation for spare time, worthwhile friends, adult mentoring, and a complete program of all-around youth development."
+      },
+      {
+        "q": "How many principles make up A DeMolay's Ethics?",
+        "options": ["7", "10", "12", "14"],
+        "correct": 3,
+        "explain": "A DeMolay's Ethics is the 14-principle code of conduct, running from serving God to preserving by example the high standards you pledged yourself to."
+      },
+      {
+        "q": "As a new member, how many young men should you share DeMolay with, and by when?",
+        "options": ["2 young men within your first year", "5 young men within your first year", "2 young men before your first Degree", "1 young man for every year of membership"],
+        "correct": 0,
+        "explain": "Part of your first duties is to share DeMolay with 2 other deserving young men within your first year of membership."
+      },
+      {
+        "q": "According to the talking points, DeMolay has Chapters in how many countries and territories?",
+        "options": ["Over 12", "Over 26", "Over 50", "Over 100"],
+        "correct": 1,
+        "explain": "DeMolay is an international organization with Chapters in over 26 countries and territories."
+      },
+      {
+        "q": "According to the talking points, how many young men have joined DeMolay throughout its history?",
+        "options": ["Over 500,000", "Over 1 million", "Over 3 million", "Over 10 million"],
+        "correct": 2,
+        "explain": "The talking points highlight that over 3 million young men have joined — the largest membership of any similar organization on earth."
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "es": {
+    "items": [
+      {
+        "id": "elegir-miembro",
+        "title": "Elegir un nuevo miembro",
+        "intro": "El camino completo desde la solicitud hasta el voto, según los Bylaws.",
+        "steps": [
+          "Verificá la elegibilidad: varón, pasado su 12.º cumpleaños y antes del 21.º, de buen carácter, recomendado por al menos 1 miembro del Chapter o un Senior DeMolay con certificado.",
+          "La Membership Application se presenta en una stated meeting, al menos 1 semana antes de votarse (salvo autorización del Executive Officer).",
+          "El Master Councilor nombra un committee of investigation de 3 miembros (o el Chapter Advisor / un miembro del Advisory Council investiga en su lugar).",
+          "El comité investiga 4 áreas: vida en el hogar, vida social y reputación, historial escolar y laboral — e idealmente visita el hogar.",
+          "El informe se presenta POR ESCRITO en o antes de la siguiente stated meeting. La application no puede balotarse sin el informe completo.",
+          "Se vota por ballot secreto (ver el procedimiento de balotaje).",
+          "Electo el candidato, ninguna elección es final sin la aprobación del Advisory Council."
+        ],
+        "notes": [
+          "El informe del comité puede anunciarse pero NO se asienta en actas.",
+          "Si el comité no reporta, el MC puede prorrogarlo o nombrar uno nuevo."
+        ],
+        "checklist": false,
+        "page": "29"
+      },
+      {
+        "id": "balotaje",
+        "title": "El balotaje (white balls / black cubes)",
+        "intro": "\"White balls elect, black cubes reject.\" Las reglas exactas del voto secreto.",
+        "steps": [
+          "El Senior Deacon inspecciona la obligation card de cada votante, parado entre el altar y la estación del Senior Councilor. Sin tarjeta no se vota.",
+          "Orden de votación: MC, SC, JC, Senior Deacon, y luego los miembros desde el Scribe — lado sur primero, después lado norte, desde el West.",
+          "El Junior Deacon releva al Sentinel para que también pueda votar.",
+          "Resultado: 0 o 1 black cube = electo · 2 black cubes = la application queda en suspenso (lie over) hasta la próxima stated meeting · 3 o más = rechazado.",
+          "En el segundo ballot (tras un lie over): electo salvo que aparezcan 3 o más black balls.",
+          "Con varios aplicantes se permite el ballot colectivo; si aparecen black balls, se vota por separado cada solicitud."
+        ],
+        "notes": [
+          "El voto es privado y el balotaje debe ser rápido; el presiding officer no puede frenar un ballot por pedido privado (hace falta una moción votada por el Chapter).",
+          "Objeción después de la elección y antes del Degree: por escrito, firmada por 3 miembros; si la sostiene 1/3 de los presentes, el candidato queda rechazado.",
+          "Después de recibir un Degree, las objeciones solo proceden por juicio regular ante el Advisory Council.",
+          "Un ballot rechazado se refiere al Advisory Council para más consideración."
+        ],
+        "checklist": false,
+        "page": "31"
+      },
+      {
+        "id": "elegir-oficiales",
+        "title": "Elegir e instalar oficiales",
+        "intro": "MC, SC y JC se eligen por voto; Scribe y Treasurer los nombra el Advisory Council.",
+        "steps": [
+          "Verificá los requisitos: candidato activo con Obligation Card calificada; para MC, haber sido SC o JC (salvo excepción del Advisory Council o Chapter nuevo).",
+          "Se vota con paper ballot, preparado antes de la reunión; gana la mayoría sin contar los votos en blanco.",
+          "Los Deacons reparten y recogen los ballots solo a los hermanos que presenten sus obligations; el Marshal asiste en la tabulación.",
+          "Empate o falta de mayoría = se vuelve a votar.",
+          "La instalación se hace en la misma reunión o dentro de los 30 días.",
+          "Vacancia del MC: asciende el SC, luego el JC; el cargo restante se llena por elección con 2 semanas de aviso escrito."
+        ],
+        "notes": [
+          "3 ausencias consecutivas sin excusa aprobada = vacancia automática.",
+          "Remoción forzada de un oficial: resolución en una reunión regular + voto de 3/4 de los presentes en la siguiente + aprobación del Executive Officer."
+        ],
+        "checklist": false,
+        "page": "33"
+      },
+      {
+        "id": "dinero",
+        "title": "Manejar el dinero del Chapter",
+        "intro": "Las reglas financieras que no se negocian.",
+        "steps": [
+          "Mantené DOS contabilidades separadas: fondos del Chapter y fondos de DeMolay International (estos últimos son intocables y no requieren voto para pagarse).",
+          "El Scribe cobra; el Treasurer recibe y emite recibo al Scribe.",
+          "Todo gasto del Chapter (salvo a DI) requiere voto en reunión regular de negocios.",
+          "Cheques: firma del Treasurer o del MC + contrafirma de un miembro del Advisory Council.",
+          "Pagos electrónicos: todos los aprobadores con acceso de visualización online o copiados automáticamente.",
+          "Prohibido pagar en efectivo y prohibido prestar fondos del Chapter.",
+          "Inversión de excedentes: voto del Chapter + 2/3 de TODO el Advisory Council por cada inversión.",
+          "Auditoría de los libros del Treasurer y el Scribe con cada instalación de un nuevo MC."
+        ],
+        "notes": [
+          "Único regalo permitido con fondos del Chapter: el PMC's Jewel.",
+          "Solicitar fondos a no-miembros requiere permiso previo del Executive Officer.",
+          "Reportes con 3 meses de mora = suspensión temporal automática del Chapter."
+        ],
+        "checklist": false,
+        "page": "57"
+      },
+      {
+        "id": "incidente",
+        "title": "Reportar un incidente",
+        "intro": "Qué hacer cuando algo sale mal en un evento DeMolay.",
+        "steps": [
+          "Atendé primero a las personas; ante daño mayor, lesión seria o muerte, notificá de INMEDIATO al Executive Officer.",
+          "Umbral de reporte: toda ocurrencia con potencial de lesión o daño a propiedad que supere los $100.",
+          "Registrá los hechos: WHEN, WHERE, WHAT (daño/lesión), WHO, si se llamó a la policía, y sacá fotos.",
+          "Cadena de reporte: Chapter → Advisory Council Chairman / Chapter Advisor → Executive Officer → Service and Leadership Center → aseguradora.",
+          "En propiedad masónica: el Chairman da notificación ORAL al cuerpo masónico, registrando fecha, hora y destinatario.",
+          "Completá el incident report form y conservá copia de todos los documentos."
+        ],
+        "notes": [
+          "NO hagas declaraciones de responsabilidad en la escena ni alientes reclamos: solo hechos, no opiniones.",
+          "Ante investigadores de seguros: contactá al Executive Officer ANTES de hablar.",
+          "El seguro de DeMolay es SECUNDARIO al seguro familiar y solo cubre eventos documentados en minutas."
+        ],
+        "checklist": false,
+        "page": "125"
+      },
+      {
+        "id": "abuso",
+        "title": "Reportar sospecha de abuso",
+        "intro": "Para reportar basta la sospecha: no hace falta prueba. La protección va primero.",
+        "steps": [
+          "Garantizá la seguridad inmediata del joven.",
+          "Llamá al 911 o a la agencia local de protección infantil.",
+          "Notificá al Jurisdictional Executive Officer dentro de las 24 horas, con reporte escrito.",
+          "Si el presunto perpetrador es un adulto del programa: queda en licencia (leave) hasta que termine la investigación.",
+          "Cooperá con las autoridades y preservá toda la información."
+        ],
+        "notes": [
+          "Regla permanente: Two-Deep Leadership (mínimo 2 registered Advisors) y nada de actividades one-on-one.",
+          "Los formularios de Medical Release y Photo Release están en beademolay.org/resources."
+        ],
+        "checklist": false,
+        "page": "133"
+      },
+      {
+        "id": "fundar-chapter",
+        "title": "Fundar un Chapter: la check-off list oficial (17 pasos)",
+        "intro": "La lista de control completa del manual para organizar un Chapter nuevo. Tildá a medida que avances: tu progreso queda guardado en este dispositivo.",
+        "steps": [
+          "Hablar con el Executive Officer (o su representante personal) sobre establecer un Chapter.",
+          "Encontrar otros Masons interesados (montar un programa informativo).",
+          "Asegurar un Sponsoring Body y que apruebe una Resolution to Sponsor.",
+          "Seleccionar un Advisory Council y que complete el training online.",
+          "Elegir el nombre del Chapter (prohibido el nombre de una persona viva).",
+          "Completar la Petition for Letters Temporary.",
+          "Enviar al Executive Officer: Resolution to Sponsor + Advisory Council Certification + Petition for Letters Temporary + cheque por la fee.",
+          "Recibir las Letters Temporary del Executive Officer.",
+          "Revisar el material recibido y pedir los supplies adicionales necesarios.",
+          "Establecer la membership fee del Chapter.",
+          "Organizar el evento de membresía para la clase inicial.",
+          "Registrar y aprobar las applications for membership.",
+          "Inducir a la clase inicial (con uno o más Chapters visitantes para los Degrees).",
+          "Reportar los nuevos Members a DeMolay International online (máximo 10 días).",
+          "Seleccionar e instalar al primer grupo de Chapter officers.",
+          "Adoptar el set de Chapter Bylaws (aprobados por el Executive Officer).",
+          "Operar el Chapter según sus bylaws, las regulaciones y las políticas jurisdiccionales."
+        ],
+        "notes": [
+          "El Chapter opera bajo Letters Temporary hasta tener al menos 15 Members.",
+          "Para reinstalar un Chapter cerrado: mismo procedimiento, pero con una reinstatement application en lugar de la Petition for Letters Temporary."
+        ],
+        "checklist": true,
+        "page": "254"
+      }
+    ]
+  },
+  "en": {
+    "items": [
+      {
+        "id": "elegir-miembro",
+        "title": "Electing a new member",
+        "intro": "The full path from application to vote, per the Bylaws.",
+        "steps": [
+          "Check eligibility: a young man past his 12th birthday and not yet 21, of good character, recommended by at least 1 Chapter member or a certified Senior DeMolay.",
+          "The Membership Application is presented at a stated meeting, at least 1 week before being voted on (unless the Executive Officer authorizes otherwise).",
+          "The Master Councilor appoints a 3-member committee of investigation (or the Chapter Advisor / an Advisory Council member investigates instead).",
+          "The committee investigates 4 areas: home life, social life and reputation, school record and employment record — ideally with a home visit.",
+          "The report is submitted IN WRITING at or before the next stated meeting. The application cannot be balloted without the complete report.",
+          "The vote is taken by secret ballot (see the balloting procedure).",
+          "Once elected, no election is final without the Advisory Council's approval."
+        ],
+        "notes": [
+          "The committee's report may be announced but is NOT entered in the minutes.",
+          "If the committee fails to report, the MC may continue it or appoint a new one."
+        ],
+        "checklist": false,
+        "page": "29"
+      },
+      {
+        "id": "balotaje",
+        "title": "The ballot (white balls / black cubes)",
+        "intro": "\"White balls elect, black cubes reject.\" The exact rules of the secret vote.",
+        "steps": [
+          "The Senior Deacon inspects each voter's obligation card, standing between the altar and the Senior Councilor's station. No card, no vote.",
+          "Voting order: MC, SC, JC, Senior Deacon, then the members starting from the Scribe — south side first, then north side, from the West.",
+          "The Junior Deacon relieves the Sentinel so he can vote too.",
+          "Result: 0 or 1 black cube = elected · 2 black cubes = the application lies over to the next stated meeting · 3 or more = rejected.",
+          "On the second ballot (after a lie-over): elected unless 3 or more black balls appear.",
+          "With several applicants a collective ballot is allowed; if black balls appear, each application is balloted separately."
+        ],
+        "notes": [
+          "The vote is private and balloting should be brisk; the presiding officer cannot stop an ordered ballot on a private request (it takes a motion voted by the Chapter).",
+          "Objection after election and before the Degree: written, signed by 3 members; if sustained by 1/3 of those present, the candidate is rejected.",
+          "After a Degree is received, objections proceed only via regular trial before the Advisory Council.",
+          "A rejected ballot is referred to the Advisory Council for further consideration."
+        ],
+        "checklist": false,
+        "page": "31"
+      },
+      {
+        "id": "elegir-oficiales",
+        "title": "Electing & installing officers",
+        "intro": "MC, SC and JC are elected by ballot; Scribe and Treasurer are appointed by the Advisory Council.",
+        "steps": [
+          "Check requirements: an active candidate with a qualified Obligation Card; for MC, prior service as SC or JC (exceptions via the Advisory Council or in a new Chapter).",
+          "Vote by paper ballot, prepared before the meeting; a majority wins, blank votes don't count.",
+          "The Deacons hand out and collect ballots only from brothers presenting their obligations; the Marshal assists with tabulation.",
+          "Tie or no majority = revote.",
+          "Installation happens at the same meeting or within 30 days.",
+          "MC vacancy: the SC moves up, then the JC; the remaining office is filled by election with 2 weeks' written notice."
+        ],
+        "notes": [
+          "3 consecutive unexcused absences = automatic vacancy.",
+          "Forced removal of an officer: a resolution at a regular meeting + a 3/4 vote of those present at the next one + the Executive Officer's approval."
+        ],
+        "checklist": false,
+        "page": "33"
+      },
+      {
+        "id": "dinero",
+        "title": "Handling Chapter money",
+        "intro": "The financial rules that are not negotiable.",
+        "steps": [
+          "Keep TWO separate sets of books: Chapter funds and DeMolay International funds (the latter are untouchable and need no vote to be paid).",
+          "The Scribe collects; the Treasurer receives and gives the Scribe a receipt.",
+          "Every Chapter expense (except to DI) requires a vote at a regular business meeting.",
+          "Checks: signed by the Treasurer or the MC + countersigned by an Advisory Council member.",
+          "Electronic payments: every approver gets online viewing access or automatic copies.",
+          "Cash payments are prohibited, and lending Chapter funds is prohibited.",
+          "Investing surplus: a Chapter vote + 2/3 of the ENTIRE Advisory Council for each investment.",
+          "The Treasurer's and Scribe's books are audited at each new MC's installation."
+        ],
+        "notes": [
+          "The only gift Chapter funds may buy: the PMC's Jewel.",
+          "Soliciting funds from non-members requires the Executive Officer's prior permission.",
+          "Reports 3 months overdue = automatic temporary suspension of the Chapter."
+        ],
+        "checklist": false,
+        "page": "57"
+      },
+      {
+        "id": "incidente",
+        "title": "Reporting an incident",
+        "intro": "What to do when something goes wrong at a DeMolay event.",
+        "steps": [
+          "People first; for major damage, serious injury or death, notify the Executive Officer IMMEDIATELY.",
+          "Reporting threshold: any occurrence with potential for bodily injury or property damage over $100.",
+          "Record the facts: WHEN, WHERE, WHAT (damage/injury), WHO, whether police were called — and take photos.",
+          "Reporting chain: Chapter → Advisory Council Chairman / Chapter Advisor → Executive Officer → Service and Leadership Center → insurer.",
+          "On Masonic property: the Chairman gives ORAL notification to the Masonic body, recording date, time and recipient.",
+          "Complete the incident report form and keep copies of every document."
+        ],
+        "notes": [
+          "Do NOT make statements of responsibility at the scene or encourage claims: facts only, no opinions.",
+          "If insurance investigators call: contact the Executive Officer BEFORE talking.",
+          "DeMolay's insurance is SECONDARY to family insurance and only covers events documented in the minutes."
+        ],
+        "checklist": false,
+        "page": "125"
+      },
+      {
+        "id": "abuso",
+        "title": "Reporting suspected abuse",
+        "intro": "Suspicion is enough to report — no proof needed. Protection comes first.",
+        "steps": [
+          "Ensure the young person's immediate safety.",
+          "Call 911 or the local child protection agency.",
+          "Notify the Jurisdictional Executive Officer within 24 hours, with a written report.",
+          "If the alleged perpetrator is a program adult: he is placed on leave until the investigation ends.",
+          "Cooperate with authorities and preserve all information."
+        ],
+        "notes": [
+          "Standing rule: Two-Deep Leadership (minimum 2 registered Advisors) and no one-on-one activities.",
+          "Medical Release and Photo Release forms live at beademolay.org/resources."
+        ],
+        "checklist": false,
+        "page": "133"
+      },
+      {
+        "id": "fundar-chapter",
+        "title": "Starting a Chapter: the official check-off list (17 steps)",
+        "intro": "The handbook's complete checklist for organizing a new Chapter. Check items off as you go — your progress is saved on this device.",
+        "steps": [
+          "Talk to the Executive Officer (or his personal representative) about establishing a Chapter.",
+          "Find other interested Masons (set up an informational program).",
+          "Secure a Sponsoring Body and have it pass a Resolution to Sponsor.",
+          "Select an Advisory Council and have it complete the online training.",
+          "Choose the Chapter name (no living person's name allowed).",
+          "Complete the Petition for Letters Temporary.",
+          "Send the Executive Officer: Resolution to Sponsor + Advisory Council Certification + Petition for Letters Temporary + the fee check.",
+          "Receive the Letters Temporary from the Executive Officer.",
+          "Review the materials received and order any additional supplies needed.",
+          "Set the Chapter's membership fee.",
+          "Organize the membership event for the initial class.",
+          "Record and approve the applications for membership.",
+          "Induct the initial class (with one or more visiting Chapters for the Degrees).",
+          "Report the new Members to DeMolay International online (10 days max).",
+          "Select and install the first group of Chapter officers.",
+          "Adopt the set of Chapter Bylaws (approved by the Executive Officer).",
+          "Operate the Chapter per its bylaws, regulations and jurisdictional policies."
+        ],
+        "notes": [
+          "The Chapter operates under Letters Temporary until it has at least 15 Members.",
+          "To reinstate a closed Chapter: same procedure, but with a reinstatement application instead of the Petition for Letters Temporary."
+        ],
+        "checklist": true,
+        "page": "254"
+      }
+    ]
+  }
+}

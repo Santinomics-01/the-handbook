@@ -1,0 +1,52 @@
+{
+  "es": {
+    "obligatory": [
+      { "name": "Devotional Day", "when": "La semana que incluye el 18 de marzo", "responsible": "Chapter Chaplain", "ideas": "Asistencia conjunta a un servicio religioso en memoria de Jacques DeMolay; muchos Chapters lo observan el domingo más cercano al 18." },
+      { "name": "Patriots' Day", "when": "Un día conveniente de febrero", "responsible": "Standard Bearer", "ideas": "Honrar a los patriotas y a la bandera: ceremonia cívica, visita a un memorial, invitación a veteranos." },
+      { "name": "Devoción a los padres — Parents' Day", "when": "Entre el 1 de mayo y el 21 de junio", "responsible": "Los siete Preceptors", "ideas": "Banquete o jornada con los padres como invitados de honor; el Flower Talk es ideal para esta fecha." },
+      { "name": "My Government Day", "when": "Un día conveniente de julio", "responsible": "Orator y Marshal", "ideas": "Visitar la municipalidad o legislatura, invitar a un funcionario, simulacro de gobierno juvenil." },
+      { "name": "Educational Day", "when": "Usualmente en septiembre", "responsible": "Junior y Senior Stewards", "ideas": "Reconocer a docentes y escuelas; charla sobre orientación vocacional o visita educativa." },
+      { "name": "Frank S. Land Memorial Day", "when": "Un día cercano al 8 de noviembre", "responsible": "El Chapter (sin oficial asignado)", "ideas": "Honrar al fundador; se alienta una actividad de recaudación a beneficio de una DeMolay charity." },
+      { "name": "DeMolay Day of Comfort", "when": "Entre el 15 de noviembre y el 31 de diciembre", "responsible": "Almoner", "ideas": "Llevar alivio a quien lo necesita: visitas a hospitales u hogares, donaciones, acompañamiento a familias." }
+    ],
+    "annual": [
+      { "month": "Enero", "items": ["El Scribe y el Chairman preparan y envían el **Annual Report** (único método de información del Grand Secretary)", "Informe financiero anual del Treasurer", "Crear los **Senior DeMolay Certificates** de quienes cumplen 21", "Installation de oficiales del nuevo término (modelo típico)"] },
+      { "month": "Febrero", "items": ["**Patriots' Day** (Standard Bearer)", "Valentine Ball: elección y coronación de la Chapter Sweetheart (tradición típica)"] },
+      { "month": "Marzo", "items": ["**DeMolay Week**: la semana del 18 de marzo, con proclamación del intendente y un evento por día", "**Devotional Day** (domingo más cercano al 18)", "Founder's Day Class: iniciación en honor a Frank S. Land", "Observancia de la Legion of Honor (18 de marzo)"] },
+      { "month": "Abril", "items": ["Recordatorio del **IRS Form 990** (solo Chapters de EE.UU.)", "Planificación del término que arranca a mitad de año"] },
+      { "month": "Mayo", "items": ["Completar y presentar el IRS Form 990 (EE.UU.)", "Se abre la ventana de **Parents' Day** (1 de mayo al 21 de junio)"] },
+      { "month": "Junio", "items": ["Cierra la ventana de Parents' Day (21 de junio)", "Installation de oficiales del término de invierno/verano (modelo)", "Iniciación al aire libre (tradición típica)"] },
+      { "month": "Julio", "items": ["**My Government Day** (Orator y Marshal)", "DeMolay Leadership Conference / campamentos de verano (según Jurisdiction)"] },
+      { "month": "Agosto", "items": ["**Jurisdictional Conclave** (modelo típico)", "Preparar la campaña de membresía de la vuelta a clases"] },
+      { "month": "Septiembre", "items": ["**Educational Day** (Junior y Senior Stewards)", "Iniciación de primavera/otoño (modelo)"] },
+      { "month": "Octubre", "items": ["Pedir los premios del año: **Merit Bars, Blue Honor Key, White Honor Key, Scribe's Efficiency Certificate**", "Enviar avisos del Frank S. Land Memorial Day"] },
+      { "month": "Noviembre", "items": ["**Frank S. Land Memorial Day** (cerca del 8 de noviembre) — observancia del Chevalier", "Arranca el **Day of Comfort** (15 de noviembre)", "Recertificación anual de Advisors: deadline **30 de noviembre**", "Torneo deportivo jurisdiccional de invierno (modelo)"] },
+      { "month": "Diciembre", "items": ["**Day of Comfort** (hasta el 31 de diciembre)", "Inventario de propiedad del Chapter para el Advisory Council", "Verificar que TODOS los nuevos Members del año estén reportados en eScribe", "Caroling u otra actividad con Job's Daughters y Rainbow (tradición típica)", "Cierre del año fiscal (31 de diciembre)"] }
+    ]
+  },
+  "en": {
+    "obligatory": [
+      { "name": "Devotional Day", "when": "The week including March 18", "responsible": "Chapter Chaplain", "ideas": "Group attendance at a religious service in memory of Jacques DeMolay; many Chapters observe it on the Sunday nearest the 18th." },
+      { "name": "Patriots' Day", "when": "A convenient day in February", "responsible": "Standard Bearer", "ideas": "Honor patriots and the flag: a civic ceremony, a memorial visit, inviting veterans." },
+      { "name": "Parents' Day", "when": "Between May 1 and June 21", "responsible": "The seven Preceptors", "ideas": "A banquet or gathering with parents as guests of honor; the Flower Talk fits this date perfectly." },
+      { "name": "My Government Day", "when": "A convenient day in July", "responsible": "Orator and Marshal", "ideas": "Visit city hall or the legislature, host an official, run a youth mock government." },
+      { "name": "Educational Day", "when": "Usually in September", "responsible": "Junior and Senior Stewards", "ideas": "Recognize teachers and schools; a career guidance talk or an educational visit." },
+      { "name": "Frank S. Land Memorial Day", "when": "A day near November 8", "responsible": "The Chapter (no assigned officer)", "ideas": "Honor the Founder; a fundraiser for a DeMolay charity is encouraged." },
+      { "name": "DeMolay Day of Comfort", "when": "Between November 15 and December 31", "responsible": "Almoner", "ideas": "Bring comfort where it is needed: hospital or care home visits, donations, supporting families." }
+    ],
+    "annual": [
+      { "month": "January", "items": ["Scribe and Chairman prepare and file the **Annual Report** (the Grand Secretary's only source of information)", "Treasurer's annual financial report", "Create **Senior DeMolay Certificates** for members turning 21", "Installation of officers for the new term (typical model)"] },
+      { "month": "February", "items": ["**Patriots' Day** (Standard Bearer)", "Valentine Ball: election and coronation of the Chapter Sweetheart (typical tradition)"] },
+      { "month": "March", "items": ["**DeMolay Week**: the week of March 18, with a mayoral proclamation and one event per day", "**Devotional Day** (Sunday nearest the 18th)", "Founder's Day Class: an initiation honoring Frank S. Land", "Legion of Honor observance (March 18)"] },
+      { "month": "April", "items": ["**IRS Form 990** reminder (US Chapters only)", "Planning for the mid-year term"] },
+      { "month": "May", "items": ["Complete and file IRS Form 990 (US)", "**Parents' Day** window opens (May 1 to June 21)"] },
+      { "month": "June", "items": ["Parents' Day window closes (June 21)", "Installation of officers for the new term (model)", "Outdoor initiation (typical tradition)"] },
+      { "month": "July", "items": ["**My Government Day** (Orator and Marshal)", "DeMolay Leadership Conference / summer camps (per Jurisdiction)"] },
+      { "month": "August", "items": ["**Jurisdictional Conclave** (typical model)", "Prepare the back-to-school membership campaign"] },
+      { "month": "September", "items": ["**Educational Day** (Junior and Senior Stewards)", "Fall initiation (model)"] },
+      { "month": "October", "items": ["Order the year's awards: **Merit Bars, Blue Honor Key, White Honor Key, Scribe's Efficiency Certificate**", "Send Frank S. Land Memorial Day notices"] },
+      { "month": "November", "items": ["**Frank S. Land Memorial Day** (near November 8) — Chevalier observance", "**Day of Comfort** begins (November 15)", "Annual Advisor recertification deadline: **November 30**", "Jurisdictional winter sports tournament (model)"] },
+      { "month": "December", "items": ["**Day of Comfort** (through December 31)", "Chapter property inventory for the Advisory Council", "Verify ALL of the year's new Members are reported in eScribe", "Caroling or another joint activity with Job's Daughters and Rainbow (typical tradition)", "Fiscal year ends (December 31)"] }
+    ]
+  }
+}

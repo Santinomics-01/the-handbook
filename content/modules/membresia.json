@@ -1,0 +1,293 @@
+{
+  "id": "membresia",
+  "es": {
+    "title": "Membresía: de aplicante a hermano",
+    "subtitle": "Quién puede entrar, cómo es el camino de ingreso y qué significa ser DeMolay para toda la vida.",
+    "minutes": 8,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "¿Quién puede ser DeMolay?",
+        "blocks": [
+          { "t": "p", "text": "Cada Chapter necesita miembros nuevos todos los años: la mayoría entra alrededor de los 14, termina el colegio cerca de los 18 y casi todo el Chapter se renueva en unos **3 años**. Por eso, saber quién puede entrar y cómo invitarlo es tarea de todos, no solo de un comité." },
+          { "t": "h", "text": "Los requisitos de elegibilidad" },
+          { "t": "list", "items": [
+            "Ser un joven varón que ya **pasó su cumpleaños número 12** y todavía **no llegó al 21**.",
+            "Tener **buen carácter moral**.",
+            "Ser **recomendado** por un DeMolay activo, un Senior DeMolay (miembro que ya cumplió 21) o un Master Mason (masón del tercer grado)."
+          ] },
+          { "t": "callout", "style": "key", "text": "La membresía **NO está limitada a hijos o parientes de masones**. Cualquier joven elegible de tu comunidad puede entrar. Que nadie responda \"nadie me invitó\" cuando le pregunten por qué no es DeMolay." },
+          { "t": "h", "text": "La application" },
+          { "t": "p", "text": "El ingreso arranca completando la **Membership Application** (solicitud de membresía estándar), disponible online. Incluye un breve perfil del joven y el **consentimiento de sus padres o tutores**. Además, el aplicante debe nombrar como referencia al menos a un miembro del Chapter, un Senior DeMolay o un Master Mason." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "El camino de ingreso, paso a paso",
+        "blocks": [
+          { "t": "p", "text": "Entre la application y tus degrees hay un proceso ordenado. No es burocracia: es la forma en que el Chapter conoce al futuro hermano y su familia conoce a DeMolay." },
+          { "t": "steps", "items": [
+            "**Application:** el aplicante presenta su Membership Application con el consentimiento de sus padres o tutores.",
+            "**Comité de investigación:** el Master Councilor (presidente del Chapter) designa un comité de **2 a 3 miembros más un Advisor** (consejero adulto) para hacer una **visita al hogar** del aplicante.",
+            "**Informe al Chapter:** el comité presenta su reporte completo. Sin ese informe, la application **no puede pasar a ballot**.",
+            "**Ballot:** el Chapter vota la application. Si el voto es favorable, el candidato queda electo.",
+            "**Degrees:** el nuevo miembro recibe el **Initiatory Degree** y después el **DeMolay Degree**, las dos ceremonias de iniciación."
+          ] },
+          { "t": "p", "text": "¿Qué mira la visita al hogar? Cuatro áreas: su **vida en el hogar**, su **vida social** y la reputación de sus amistades, su **historial escolar** (si estudia) y su **historial laboral** (si trabaja). La consigna es ser diplomático: una charla amena donde las preguntas se van tejiendo en la conversación, no un interrogatorio." },
+          { "t": "callout", "style": "info", "text": "La visita también es para la familia: el comité responde todas las preguntas que el aplicante y sus padres tengan sobre DeMolay. El comité debe reportar a más tardar en la siguiente reunión del Chapter." },
+          { "t": "ref", "text": "El formulario y las preguntas completas de la visita al hogar están en el Handbook", "page": "17" }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Fees, plazos y papeleo",
+        "blocks": [
+          { "t": "p", "text": "Los montos mínimos los fija DeMolay International, y tu Chapter puede establecer valores más altos mediante una enmienda a sus Bylaws (estatutos) para cubrir otros ítems del nuevo miembro." },
+          { "t": "table", "headers": ["Concepto", "Mínimo", "Qué incluye"], "rows": [
+            ["Fee de iniciación (degrees)", "$35.00", "Membresía **vitalicia**: degrees, patent (diploma de miembro) y cargos asociados"],
+            ["Affiliation fee (cambio de Chapter)", "$20.00", "Afiliarte a un Chapter cuando ya sos miembro"]
+          ] },
+          { "t": "callout", "style": "key", "text": "Dentro de los **10 días** de conferido el Initiatory Degree, el Scribe (secretario del Chapter) debe remitir a DeMolay International el monto por cada nuevo iniciado. Todo el reporte y el pago se procesan electrónicamente por **eScribe**." },
+          { "t": "p", "text": "Los **patents** los emite el Service & Leadership Center (la oficina central de DeMolay) cuando tu nombre se reporta vía eScribe a la oficina del Grand Secretary por ambos degrees. Es tu certificado oficial de miembro." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "Orientación: tu Big Brother y las 3 sesiones",
+        "blocks": [
+          { "t": "p", "text": "Conseguir la application es trabajo del Membership Committee; **hacerte sentir en casa** es trabajo del Orientation Committee y de cada miembro activo. Un Chapter sin programa de orientación deja la puerta de atrás tan abierta como la de adelante." },
+          { "t": "p", "text": "El comité se arma simple: **un miembro con experiencia por cada candidato más un Advisor**. A ese miembro se lo llama **Big Brother** (o coach de orientación) y lo asigna el Master Councilor. El **Junior Councilor** suele presidir el comité y conducir las sesiones. Te acompaña desde que llega tu application hasta que recitás tu DeMolay Degree Obligation en open Chapter (reunión formal abierta del Chapter)." },
+          { "t": "cards", "items": [
+            { "title": "Sesión 1 — antes del Initiatory Degree", "text": "Una hora antes de la ceremonia. El Junior Councilor explica la historia de DeMolay y del Chapter, los officers y el Advisory Council, los comités, la conducta y el dress code, las reglas básicas y youth protection, y qué esperar del degree. Los padres están invitados." },
+            { "title": "Sesión 2 — entre los dos degrees", "text": "Mientras el Chapter tiene su business meeting. Mitad coaching de la Initiatory Obligation, mitad orientación: cómo funciona DeMolay en todos los niveles, las costumbres del Chapter y qué esperar del DeMolay Degree." },
+            { "title": "Sesión 3 — después del DeMolay Degree", "text": "Coaching de las Obligations y explicación del trabajo ritual, los eventos jurisdiccionales y conclaves, tu compromiso de traer nuevos miembros y la práctica de las Obligations para presentarlas en la siguiente reunión." }
+          ] },
+          { "t": "p", "text": "Tu Big Brother se asegura de que llegues a tus degrees, asistas a reuniones y actividades, conozcas a todos los miembros y Advisors, **memorices tus dos Obligations** y desarrolles un interés real y permanente en el Chapter." },
+          { "t": "ref", "text": "El programa de orientación completo, sesión por sesión", "page": "19" }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Obligations, proficiency y la obligation card",
+        "blocks": [
+          { "t": "p", "text": "Todo miembro se compromete a **memorizar las obligations del Initiatory y del DeMolay Degree** más las examination queries (preguntas de examen). El examen se rinde en **open Chapter**, salvo que el Executive Officer (la máxima autoridad de tu jurisdicción) apruebe un procedimiento alternativo." },
+          { "t": "list", "items": [
+            "**Quién te prepara:** el Junior Councilor (o tu Big Brother) y su equipo te enseñan las obligations.",
+            "**Quién te examina:** el **Senior Deacon** conduce el examen en open Chapter.",
+            "**Quién decide:** tu proficiency (suficiencia) se aprueba por **voto del Chapter**."
+          ] },
+          { "t": "callout", "style": "warn", "text": "Sin **obligation card** no podés **votar** en la elección de officers ni en applications de membresía, y **no podés ocupar ningún cargo**. Es el documento que certifica tu proficiency." },
+          { "t": "p", "text": "La card la firma el **Chapter Advisor**, lleva el **sello del Chapter** y se registra en **eScribe** en tu legajo permanente. Se emite **una sola por miembro**: solo hay duplicado si perdiste la original, y queda a criterio del Chapter Advisor." }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "De Active a Senior DeMolay… y para siempre",
+        "blocks": [
+          { "t": "p", "text": "La membresía activa dura como máximo **9 años**: desde que entrás hasta tu cumpleaños número 21. En la práctica, el miembro promedio que entra a los 14 tiene **3 a 4 años** realmente activos antes de que el colegio, la universidad o el trabajo lo alejen. Al cumplir 21 pasás a ser **Senior DeMolay**." },
+          { "t": "h", "text": "Tu parte en el crecimiento" },
+          { "t": "p", "text": "Además de vivir las enseñanzas de DeMolay, cada miembro asume el compromiso de traer un **mínimo de 2 nuevos miembros por año**: uno que reemplace tu propia partida (pase cuando pase) y otro que haga crecer el Chapter. No es un detalle: un Chapter típico solo tiene entre el **40% y el 60%** de su roster disponible para participar activamente, y el **Membership Committee** es un comité permanente exigido por las Rules & Regulations." },
+          { "t": "h", "text": "Life Membership" },
+          { "t": "p", "text": "\"**Once a DeMolay, always a DeMolay**\" dejó de ser solo un lema gracias al Life Membership Plan: tu fee de iniciación te hace **miembro vitalicio**. Cada Chapter define su fee de Life Membership para el nuevo iniciado, con dos condiciones: el **Executive Officer debe aprobar el fee y el plan**, y la parte del fee destinada a tus años futuros debe resguardarse en una **cuenta de ahorro o fideicomiso**. Algunas jurisdicciones suman fees adicionales." },
+          { "t": "callout", "style": "info", "text": "¿Dudas sobre Life Membership? Se consultan al Executive Officer de tu jurisdicción o al Service & Leadership Center." },
+          { "t": "ref", "text": "El Life Membership Plan en detalle", "page": "53" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "¿Qué edad tiene que tener un joven para ser elegible como miembro de DeMolay?",
+        "options": ["Haber pasado su cumpleaños 12 y no haber llegado al 21", "Tener entre 13 y 21 años cumplidos", "Haber pasado su cumpleaños 12 y no haber llegado al 18", "Tener entre 14 y 21 años cumplidos"],
+        "correct": 0,
+        "explain": "La elegibilidad va desde pasado el cumpleaños número 12 hasta antes de llegar al 21, con buen carácter moral y una recomendación."
+      },
+      {
+        "q": "¿Es necesario ser hijo o pariente de un masón para entrar a DeMolay?",
+        "options": ["Sí, hay que ser hijo de un Master Mason", "Sí, hace falta al menos un pariente masón", "No, la membresía no está limitada a hijos o parientes de masones", "Solo si el Chapter no tiene cupo disponible"],
+        "correct": 2,
+        "explain": "El Handbook lo dice explícitamente: la membresía NO está limitada a hijos o parientes de masones. Solo hace falta una recomendación de un DeMolay activo, Senior DeMolay o Master Mason."
+      },
+      {
+        "q": "¿Qué tiene que pasar antes de que una application pueda someterse a ballot?",
+        "options": ["Que el aplicante pague el fee de iniciación", "Que el comité de investigación presente su informe completo tras la visita al hogar", "Que el aplicante memorice la Initiatory Obligation", "Que el Executive Officer apruebe la application"],
+        "correct": 1,
+        "explain": "El comité de 2 a 3 miembros más un Advisor hace la visita al hogar y la application no puede votarse hasta que entregue su informe completo."
+      },
+      {
+        "q": "¿Cuál es el fee mínimo de iniciación y qué te da?",
+        "options": ["$20.00 y membresía hasta los 21", "$35.00 y membresía vitalicia", "$35.00 y membresía anual renovable", "$50.00 y membresía vitalicia"],
+        "correct": 1,
+        "explain": "El fee por los degrees no puede ser menor a $35.00 e incluye la membresía vitalicia. Los $20.00 son el mínimo del affiliation fee, que es otra cosa."
+      },
+      {
+        "q": "¿Cómo es el programa de orientación del nuevo miembro?",
+        "options": ["Una sola sesión después del DeMolay Degree", "3 sesiones conducidas habitualmente por el Junior Councilor, con un Big Brother por candidato", "5 sesiones a cargo del Master Councilor", "2 sesiones dictadas por el Advisory Council"],
+        "correct": 1,
+        "explain": "Son 3 sesiones: antes del Initiatory Degree, entre los dos degrees y después del DeMolay Degree. El Junior Councilor suele presidir y cada candidato tiene su Big Brother."
+      },
+      {
+        "q": "¿Cuánto tiempo tiene el Scribe para remitir a DeMolay International el monto de cada nuevo iniciado?",
+        "options": ["10 días desde el Initiatory Degree, vía eScribe", "30 días desde el ballot, por correo postal", "10 días desde el DeMolay Degree, vía eScribe", "Hasta el cierre del año fiscal DeMolay"],
+        "correct": 0,
+        "explain": "El plazo es de 10 días contados desde la conferencia del Initiatory Degree, y todo el reporte y pago se procesa electrónicamente por eScribe."
+      },
+      {
+        "q": "¿Qué pasa si un miembro no tiene su obligation card?",
+        "options": ["Solo no puede asistir a conclaves", "No puede votar en elecciones de officers ni en applications, ni ocupar cargo", "Paga un fee adicional de $20.00", "No puede asistir a reuniones de Chapter"],
+        "correct": 1,
+        "explain": "La obligation card certifica tu proficiency: sin ella no votás en elecciones de officers ni en applications de membresía, y no podés ocupar ningún cargo."
+      },
+      {
+        "q": "¿Qué pasa cuando un miembro activo cumple 21 años?",
+        "options": ["Renueva su membresía pagando el affiliation fee", "Pasa automáticamente al Advisory Council", "Se convierte en Senior DeMolay", "Pierde toda relación con la organización"],
+        "correct": 2,
+        "explain": "La membresía activa termina al cumplir 21 (máximo 9 años de actividad) y el miembro pasa a ser Senior DeMolay. Por el Life Membership Plan, sigue siendo DeMolay para siempre."
+      }
+    ]
+  },
+  "en": {
+    "title": "Membership: From Applicant to Brother",
+    "subtitle": "Who can join, how the path into the Chapter works, and what it means to be a DeMolay for life.",
+    "minutes": 8,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Who Can Become a DeMolay?",
+        "blocks": [
+          { "t": "p", "text": "Every Chapter needs new members every single year: most join around age 14, finish high school near 18, and practically the entire Chapter turns over in about **3 years**. That's why knowing who's eligible — and inviting him — is everyone's job, not just a committee's." },
+          { "t": "h", "text": "The Eligibility Requirements" },
+          { "t": "list", "items": [
+            "A young man who has **passed his 12th birthday** and has **not yet reached his 21st**.",
+            "Of **good moral character**.",
+            "**Recommended** by an active DeMolay, a Senior DeMolay, or a Master Mason."
+          ] },
+          { "t": "callout", "style": "key", "text": "Membership is **NOT limited to the sons or relatives of Masons**. Any eligible young man in your community can join. Let no one answer \"no one asked me\" when asked why he isn't a DeMolay." },
+          { "t": "h", "text": "The Application" },
+          { "t": "p", "text": "Joining starts with the standard **Membership Application**, available online. It covers a brief background of the young man and the **consent of his parent(s) or guardian(s)**. The applicant must also name at least one member of the Chapter, a Senior DeMolay, or a Master Mason as a recommendation." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "The Path In, Step by Step",
+        "blocks": [
+          { "t": "p", "text": "Between the application and your degrees there's an orderly process. It isn't red tape — it's how the Chapter gets to know its future brother, and how his family gets to know DeMolay." },
+          { "t": "steps", "items": [
+            "**Application:** the applicant submits his Membership Application with his parents' or guardians' consent.",
+            "**Investigating committee:** the Master Councilor appoints a committee of **2 to 3 members plus an Advisor** to conduct a **home visit** with the applicant.",
+            "**Report to the Chapter:** the committee delivers its full report. Without it, the application **cannot be balloted upon**.",
+            "**Ballot:** the Chapter votes on the application. A favorable vote means the candidate is elected.",
+            "**Degrees:** the new member receives the **Initiatory Degree** and then the **DeMolay Degree**."
+          ] },
+          { "t": "p", "text": "What does the home visit look at? Four areas: his **home life**, his **social life** and the reputation of his associates, his **school record** (if in school), and his **employment record** (if employed). The watchword is diplomacy: a friendly conversation that weaves the questions in naturally — not an interrogation." },
+          { "t": "callout", "style": "info", "text": "The visit works both ways: the committee answers any questions the applicant or his parents have about DeMolay. The committee must report in some way by the next Chapter meeting." },
+          { "t": "ref", "text": "The full committee form and home-visit questions are in the Handbook", "page": "17" }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Fees, Deadlines, and Paperwork",
+        "blocks": [
+          { "t": "p", "text": "The minimums are set by DeMolay International, and your Chapter may set higher amounts through an amendment to its Bylaws to cover other items provided to each new member." },
+          { "t": "table", "headers": ["Item", "Minimum", "What it covers"], "rows": [
+            ["Initiation fee (degrees)", "$35.00", "**Lifetime membership**: degree fees, patent (membership certificate), and related charges"],
+            ["Affiliation fee", "$20.00", "Affiliating with a Chapter when you're already a member"]
+          ] },
+          { "t": "callout", "style": "key", "text": "Within **10 days** of conferring the Initiatory Degree, the Scribe must remit to DeMolay International the established sum for each newly initiated member. All reporting and payment is processed electronically through **eScribe**." },
+          { "t": "p", "text": "**Patents** are issued by the Service & Leadership Center once your name is reported to the Grand Secretary's office via eScribe for both degrees. It's your official certificate of membership." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "Orientation: Your Big Brother and the 3 Sessions",
+        "blocks": [
+          { "t": "p", "text": "Securing the application is the Membership Committee's job; **making the new brother feel at home** belongs to the Orientation Committee and every active member. A Chapter without an orientation program leaves its back door open as wide as its front door." },
+          { "t": "p", "text": "The committee setup is simple: **one experienced Chapter member per candidate plus an Advisor**. That member is called a **Big Brother** (or orientation coach) and is assigned by the Master Councilor. The **Junior Councilor** is usually the Chairman and conducts the sessions. Your Big Brother is responsible for you from the moment your application arrives until you recite your DeMolay Degree Obligation in open Chapter." },
+          { "t": "cards", "items": [
+            { "title": "Session 1 — Before the Initiatory Degree", "text": "About one hour before the ceremony. The Junior Councilor explains the history of DeMolay and the Chapter, the Officers and Advisory Council, the committees, conduct and dress code, the basic rules and youth protection, and what to expect in the degree. Parents are encouraged to attend." },
+            { "title": "Session 2 — Between the Degrees", "text": "Held while the Chapter has its business meeting. Half coaching on the Initiatory Obligation, half orientation: how DeMolay operates at every level, Chapter customs, and what to expect during the DeMolay Degree." },
+            { "title": "Session 3 — After the DeMolay Degree", "text": "Obligation coaching plus the ritual work, Jurisdictional events and conclaves, your pledge to bring in new members, and practicing the Obligations to present at the next Chapter meeting." }
+          ] },
+          { "t": "p", "text": "Your Big Brother makes sure you show up for your degrees, attend meetings and activities, get to know every member and Advisor, **memorize both of your Obligations**, and develop a real, permanent interest in the Chapter." },
+          { "t": "ref", "text": "The complete orientation program, session by session", "page": "19" }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Obligations, Proficiency, and the Obligation Card",
+        "blocks": [
+          { "t": "p", "text": "Every member commits to **memorizing the obligations of the Initiatory and DeMolay Degrees** plus the examination queries. The examination is passed in **open Chapter**, unless the Executive Officer approves an alternate procedure." },
+          { "t": "list", "items": [
+            "**Who coaches you:** the Junior Councilor (or your Big Brother) and those working under him teach the obligations.",
+            "**Who examines you:** the **Senior Deacon** conducts the examination in open Chapter.",
+            "**Who decides:** your proficiency is decided by a **vote of the Chapter**."
+          ] },
+          { "t": "callout", "style": "warn", "text": "Without an **obligation card** you cannot **vote** in the election of Officers or on membership applications, and you **cannot hold office**. It's the document that certifies your proficiency." },
+          { "t": "p", "text": "The card is signed by the **Chapter Advisor**, bears the **seal of the Chapter**, and is recorded on **eScribe** in your permanent record. Only **one card per member** is issued — a duplicate only if the original is lost, at the Chapter Advisor's discretion." }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "From Active to Senior DeMolay… and Forever",
+        "blocks": [
+          { "t": "p", "text": "Active membership lasts a maximum of **9 years**: from the day you join until your 21st birthday. In practice, the average member who joins at 14 gets **3 to 4 truly active years** before school, college, or work pulls him away. When you turn 21, you become a **Senior DeMolay**." },
+          { "t": "h", "text": "Your Part in the Growth" },
+          { "t": "p", "text": "Beyond living the DeMolay teachings, every member takes on the pledge to bring in a **minimum of 2 new members within a year**: one to replace his own eventual departure (whenever it happens) and one to make the Chapter grow. It matters: a typical Chapter only has **40-60%** of its roster available for active participation, and the **Membership Committee** is a standing committee required by the Rules & Regulations." },
+          { "t": "h", "text": "Life Membership" },
+          { "t": "p", "text": "\"**Once a DeMolay, always a DeMolay**\" stopped being just a motto thanks to the Life Membership Plan: your initiation fee makes you a **member for life**. Each Chapter sets its Life Membership fee for new initiates, with two conditions: the **Executive Officer must approve the fee and the plan**, and the portion of the fee allocated to your future years must be safeguarded in a **savings or trust account**. Some Jurisdictions add fees for new members." },
+          { "t": "callout", "style": "info", "text": "Questions about Life Membership go to the Executive Officer of your Jurisdiction or the Service & Leadership Center." },
+          { "t": "ref", "text": "The Life Membership Plan in detail", "page": "53" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "How old must a young man be to be eligible for DeMolay membership?",
+        "options": ["Past his 12th birthday and not yet 21", "Between 13 and 21 years old", "Past his 12th birthday and not yet 18", "Between 14 and 21 years old"],
+        "correct": 0,
+        "explain": "Eligibility runs from past the 12th birthday until before reaching the 21st, with good moral character and a recommendation."
+      },
+      {
+        "q": "Do you need to be the son or relative of a Mason to join DeMolay?",
+        "options": ["Yes, you must be the son of a Master Mason", "Yes, at least one Masonic relative is required", "No, membership is not limited to sons or relatives of Masons", "Only if the Chapter has no open spots"],
+        "correct": 2,
+        "explain": "The Handbook states it explicitly: membership is NOT limited to the sons or relatives of Masons. All you need is a recommendation from an active DeMolay, Senior DeMolay, or Master Mason."
+      },
+      {
+        "q": "What must happen before an application can be balloted upon?",
+        "options": ["The applicant pays the initiation fee", "The investigating committee delivers its full report after the home visit", "The applicant memorizes the Initiatory Obligation", "The Executive Officer approves the application"],
+        "correct": 1,
+        "explain": "The committee of 2 to 3 members plus an Advisor conducts the home visit, and the application cannot be balloted upon until a full report is made."
+      },
+      {
+        "q": "What is the minimum initiation fee, and what does it get you?",
+        "options": ["$20.00 and membership until age 21", "$35.00 and lifetime membership", "$35.00 and a renewable annual membership", "$50.00 and lifetime membership"],
+        "correct": 1,
+        "explain": "The fee for the degrees shall not be less than $35.00 and includes lifetime membership. The $20.00 figure is the minimum affiliation fee — a different thing."
+      },
+      {
+        "q": "What does the new member orientation program look like?",
+        "options": ["A single session after the DeMolay Degree", "3 sessions, usually conducted by the Junior Councilor, with one Big Brother per candidate", "5 sessions run by the Master Councilor", "2 sessions led by the Advisory Council"],
+        "correct": 1,
+        "explain": "There are 3 sessions: before the Initiatory Degree, between the two degrees, and after the DeMolay Degree. The Junior Councilor usually chairs, and each candidate gets a Big Brother."
+      },
+      {
+        "q": "How long does the Scribe have to remit the fee for each new initiate to DeMolay International?",
+        "options": ["10 days from the Initiatory Degree, via eScribe", "30 days from the ballot, by mail", "10 days from the DeMolay Degree, via eScribe", "Until the end of the DeMolay fiscal year"],
+        "correct": 0,
+        "explain": "The deadline is 10 days after conferring the Initiatory Degree, and all reporting and payment is processed electronically through eScribe."
+      },
+      {
+        "q": "What happens if a member doesn't have his obligation card?",
+        "options": ["He just can't attend conclaves", "He can't vote in Officer elections or on applications, and can't hold office", "He pays an extra $20.00 fee", "He can't attend Chapter meetings"],
+        "correct": 1,
+        "explain": "The obligation card certifies your proficiency: without it you can't vote in the election of Officers or on membership applications, and you can't hold office."
+      },
+      {
+        "q": "What happens when an active member turns 21?",
+        "options": ["He renews his membership by paying the affiliation fee", "He automatically joins the Advisory Council", "He becomes a Senior DeMolay", "He loses all connection with the organization"],
+        "correct": 2,
+        "explain": "Active membership ends at the 21st birthday (9 years maximum of active membership), and the member becomes a Senior DeMolay. Thanks to the Life Membership Plan, he remains a DeMolay forever."
+      }
+    ]
+  }
+}

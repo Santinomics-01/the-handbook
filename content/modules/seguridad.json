@@ -1,0 +1,356 @@
+{
+  "id": "seguridad",
+  "es": {
+    "title": "Protección y seguridad: las reglas que no se tocan",
+    "subtitle": "Youth Protection, seguros, risk management y qué hacer cuando algo sale mal.",
+    "minutes": 12,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Youth Protection: la prioridad número uno",
+        "blocks": [
+          { "t": "p", "text": "DeMolay existe para que crezcas, lideres y la pases bien — pero nada de eso funciona si el ambiente no es **seguro**. Por eso Youth Protection (el programa de protección de jóvenes) es el conjunto de reglas más estricto de toda la organización: acá no hay zonas grises ni excepciones." },
+          { "t": "p", "text": "El enfoque es multicapa: selección local de los adultos voluntarios con respaldo de DeMolay International, educación y entrenamiento, políticas claras (nada de actividades **one-on-one** entre un adulto y un joven) y reporte inmediato de cualquier preocupación." },
+          { "t": "h", "text": "Los videos con Scouting BSA" },
+          { "t": "p", "text": "DeMolay se asoció con **Scouting BSA** para ofrecer dos videos con guía de facilitador. El primero, \"It Happened to Me\", es para el Squires Program (9 a 11 años) y enseña las **Four Rules of Personal Safety**. El segundo tiene dos módulos: \"A Time To Tell\" para audiencias de 14 años o menos, y \"Personal Safety Awareness\" para 15 o más." },
+          { "t": "list", "items": [
+            "Four Rules of Personal Safety — 1) Check first: consultá primero con un padre o adulto de confianza antes de cambiar planes, ir a algún lado o aceptar algo de alguien.",
+            "2) Go with a friend: ir acompañado es más seguro (y más divertido).",
+            "3) Mi cuerpo es mío: tengo derecho a decir que no a quien intente tocarme en las zonas que cubre el traje de baño o hacerme hacer algo que creo que está mal.",
+            "4) Tell: contale a un adulto de confianza cada vez que algo me lastime, me asuste o me incomode."
+          ] },
+          { "t": "cards", "items": [
+            { "title": "Recognize", "text": "Reconocé las situaciones que ponen a un joven en riesgo de abuso y cómo operan los abusadores: cualquiera podría serlo." },
+            { "title": "Resist", "text": "Resistí la atención no deseada o inapropiada. La resistencia frena la mayoría de los intentos de abuso." },
+            { "title": "Report", "text": "Reportá cualquier intento, abuso o conducta inapropiada a un Advisor, padre u otro adulto de confianza. Eso frena el abuso y protege a otros jóvenes." }
+          ] },
+          { "t": "callout", "style": "info", "text": "Los videos se proyectan **al menos dos veces por año** (el de Squires, también en cada inducción de un nuevo miembro). Cada Chapter declara su cumplimiento en el Annual Report anual a DeMolay International vía eScribe." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Números que no se negocian",
+        "blocks": [
+          { "t": "p", "text": "Tres reglas numéricas sostienen todo el sistema de supervisión. Aprendételas: vas a planificar eventos con ellas toda tu vida DeMolay." },
+          { "t": "cards", "items": [
+            { "title": "Two-Deep Leadership", "text": "Mínimo **2 Advisors** registrados en TODOS los trips, outings y actividades del Chapter. Siempre. La presencia de padres no reemplaza este requisito." },
+            { "title": "Rule of Four", "text": "En toda actividad DeMolay debe haber al menos **4 personas**, de las cuales al menos **2 son adultos**. Si alguien se lastima, uno se queda con el herido y los otros dos van por ayuda." },
+            { "title": "Advisor-to-Youth Ratio", "text": "Hasta **10 jóvenes**: 2 Advisors. Más de 10: se suma **1 adulto** (Advisor, voluntario o padre) por cada **5 jóvenes adicionales**." }
+          ] },
+          { "t": "p", "text": "Ejemplo rápido: una salida con 20 jóvenes necesita como mínimo 4 adultos (2 Advisors por los primeros 10, más 2 por los 10 extra). Y según la actividad, puede hacer falta más: hacé un análisis de riesgo para cada evento." },
+          { "t": "callout", "style": "warn", "text": "**Prohibido el one-on-one.** Un adulto nunca debe quedar aislado con un solo joven. Si una conversación necesita privacidad, se hace donde no se escuche pero **sí se vea**: un lugar abierto o una sala con ventanas y puerta abierta. Nunca cuartos cerrados, carpas, casas rodantes o vehículos sin acceso visual." }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Prohibiciones absolutas",
+        "blocks": [
+          { "t": "p", "text": "Hay conductas que están vedadas en cualquier actividad DeMolay, las haga un adulto o un joven. No son sugerencias: son política internacional." },
+          { "t": "callout", "style": "warn", "text": "Los **hoodwinks o blindfolds** (vendas en los ojos) están prohibidos en TODAS las ceremonias DeMolay. Sin excepciones." },
+          { "t": "list", "items": [
+            "**Hazing y bullying**: cualquier conducta intencional para dañar, intimidar, humillar o aislar. Incluye obligar a consumir sustancias, fuerza física, brutalidad, confinamiento, exposición a la intemperie, privación de sueño y humillación online.",
+            "**Ceremonias no autorizadas**: solo se pueden realizar las publicadas en el DeMolay Ritual o el Monitor of Ceremonies. Nada de actividades secretas ni organizaciones no oficiales.",
+            "**Alcohol y drogas**: prohibidos para adultos y jóvenes durante actividades DeMolay, incluido el abuso de medicamentos. Algunas Jurisdictions también restringen bebidas energizantes.",
+            "**Tabaco y nicotina**: cigarrillos, cigarros, vapes, e-cigarettes, tabaco sin humo y hookah, prohibidos para todos durante cualquier actividad.",
+            "**Medios ilícitos**: contenido sexual, violento o de carga racial no tiene lugar en ninguna actividad.",
+            "**Violencia y contacto físico**: prohibidos los golpes, el castigo corporal y las armas. Los adultos deben evitar contacto físico innecesario."
+          ] },
+          { "t": "h", "text": "Privacidad, alojamiento y traslados" },
+          { "t": "p", "text": "Los adultos se cambian de ropa, se duchan y duermen **separados** de los jóvenes, y nunca comparten cuarto con jóvenes que no sean sus propios hijos. Las actividades con noche incluida requieren **autorización escrita** de cada padre o tutor más un **medical release form**, y jamás se hacen en la casa de un Advisor o voluntario adulto." },
+          { "t": "p", "text": "Las actividades en casas particulares necesitan aprobación previa del **Advisory Council** (el consejo de adultos que supervisa tu Chapter), del **Executive Officer** (la máxima autoridad adulta de tu Jurisdiction) y permiso escrito de todos los padres. Y un detalle de transporte que dice mucho: cuando un adulto lleva jóvenes a casa y baja el anteúltimo, el último debe llamar a sus padres para avisar a qué hora llega." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "Si sospechás abuso: actuá",
+        "blocks": [
+          { "t": "callout", "style": "key", "text": "Para reportar **basta la sospecha**. No necesitás pruebas, no sos investigador y no te corresponde confirmar nada. Reportar es siempre la decisión correcta." },
+          { "t": "p", "text": "Si un joven comenta algo que sugiera una experiencia inapropiada con un adulto u otro joven, se lo toma **en serio**, aunque no lo cuente con palabras de adulto. Dos adultos con los que el joven se sienta cómodo lo entrevistan para entender la situación, y la información va al event contact y al **Advisory Council Chairman**, que notifica al Executive Officer y a los padres." },
+          { "t": "h", "text": "Ante abuso revelado, sospechado o real" },
+          { "t": "steps", "items": [
+            "El Advisor que identifica la situación avisa al **event contact** (el responsable del evento).",
+            "Llama al **911** o notifica a la agencia local de protección infantil.",
+            "Avisa a los padres o tutores de todos los jóvenes involucrados, según lo indiquen las autoridades.",
+            "Notifica al **Executive Officer** de la Jurisdiction dentro de las **24 horas**, con un informe escrito de los hechos, las denuncias y las acciones tomadas."
+          ] },
+          { "t": "p", "text": "El Executive Officer notifica al Executive Director de DeMolay International y, si el investigado es un Advisor o voluntario adulto, lo pone en **licencia** de todos los programas y actividades DeMolay hasta que termine la investigación. Si hace falta separar a las partes durante un evento, se hace con discreción." },
+          { "t": "ref", "text": "La política completa de Youth Protection, con todas sus definiciones", "page": "128" }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Seguros y risk management",
+        "blocks": [
+          { "t": "p", "text": "El seguro médico de DeMolay International es **secundario**: siempre se espera que el seguro de tu familia responda primero. DI además contrata un seguro de responsabilidad civil (general liability) que cubre solo **accidentes** — nunca daños o lesiones intencionales — y no asegura la propiedad del Chapter ni cubre accidentes de auto." },
+          { "t": "callout", "style": "key", "text": "El seguro aplica únicamente a **eventos DeMolay documentados en las minutas** del Chapter o del Advisory Council, con hora de inicio, hora de fin y lista de participantes. Si el evento no está en las minutas, para la aseguradora no existió." },
+          { "t": "list", "items": [
+            "**Certificate of Insurance** (constancia de cobertura que piden universidades y otras sedes): se solicita online en demolay.org/insurance al menos **15 días hábiles** antes del evento.",
+            "Si la sede pide figurar como **additionally insured** o un **endorsement**: el pedido va al menos **30 días** antes y puede tener costo.",
+            "El seguro tiene **deducible**, y DI recomienda a los voluntarios sumar una **Personal Umbrella Policy** a su seguro de hogar.",
+            "Nadie maneja sin seguro de auto propio: las pólizas de DeMolay no cubren accidentes vehiculares."
+          ] },
+          { "t": "h", "text": "Risk management en 4 pasos" },
+          { "t": "steps", "items": [
+            "**Identify the Risks**: detectá qué puede salir mal en la actividad.",
+            "**Analyze the Risks**: evaluá qué tan probable y qué tan grave sería.",
+            "**Deal with the Risks**: tomá medidas para eliminarlos o reducirlos.",
+            "**Monitor the Results**: revisá cómo funcionó y ajustá para la próxima."
+          ] },
+          { "t": "p", "text": "Buenas prácticas que bajan el riesgo: horario de inicio y fin definidos, padres informados e invitados, todo registrado en minutas, actividades acordes a la edad (lo que sirve para uno de 19 no siempre sirve para uno de 13), **Release and Consent form** firmado, supervisión suficiente y todos los adultos registrados en eScribe con youth protection training, referencias y background check." },
+          { "t": "ref", "text": "El detalle completo de seguros y risk management", "page": "122" }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Si pasa algo: incidentes y cómo reportarlos",
+        "blocks": [
+          { "t": "p", "text": "Aun con buena prevención, los accidentes ocurren. Cuando pasa, el orden importa." },
+          { "t": "steps", "items": [
+            "**Atendé a los heridos** primero, sea DeMolay, Advisor, invitado o un tercero. Asistencia médica, llamar a las autoridades, o ambas.",
+            "**Notificá a las autoridades** si corresponde, según las leyes de tu estado o jurisdicción.",
+            "**Juntá los hechos básicos**: cuándo pasó, dónde, qué pasó (¿daños?, ¿lesiones?), quiénes estuvieron involucrados, si intervino la policía, y sacá fotos.",
+            "**Completá el incident report form** solo con hechos. Tus opiniones, si las piden, vienen después."
+          ] },
+          { "t": "callout", "style": "warn", "text": "**No admitas responsabilidad en la escena.** Que algo haya pasado no significa que DeMolay sea responsable: la culpa es una opinión, no un hecho. Resistí la tentación de decir que se va a \"hacer cargo\" de algo." },
+          { "t": "callout", "style": "key", "text": "Es **reportable** todo evento donde el daño potencial a personas o propiedad supere los **$100**." },
+          { "t": "table", "headers": ["Quién", "Reporta a"], "rows": [
+            ["Miembros, Advisors y Advisory Council", "Advisory Council Chairman o Chapter Advisor (si no están, al Executive Officer)"],
+            ["Advisory Council Chairman / Chapter Advisor", "Executive Officer"],
+            ["Executive Officer", "DeMolay International Service and Leadership Center"],
+            ["Service and Leadership Center", "La aseguradora nacional de responsabilidad civil"]
+          ] },
+          { "t": "p", "text": "Ante **daño mayor, lesión grave o muerte**, el Executive Officer se notifica de inmediato. Si no está disponible, se avisa a su designado; si tampoco, directo al Service and Leadership Center en Kansas City: teléfono **816-891-8333**, fax **816-891-9062** o email a executivedirector@demolay.org." },
+          { "t": "p", "text": "Tres detalles finales: si el incidente ocurre en propiedad masónica, el Advisory Council Chairman da **notificación oral** a ese cuerpo masónico y registra fecha, hora y a quién avisó. Guardá **copia de todo documento**. Y si te contacta un investigador de seguros o te llega un documento legal, hablá **primero con tu Executive Officer** antes de responder." },
+          { "t": "ref", "text": "El procedimiento completo de reporte de incidentes", "page": "125" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "¿Cuántos Advisors registrados como mínimo tiene que haber en TODA actividad DeMolay?",
+        "options": ["Uno, si es el Chapter Advisor", "Dos", "Tres", "Depende del tipo de actividad"],
+        "correct": 1,
+        "explain": "Two-Deep Leadership: al menos 2 Advisors en todos los trips, outings y actividades del Chapter, sin excepción. Ni siquiera la presencia de padres lo reemplaza."
+      },
+      {
+        "q": "Tu Chapter organiza una salida con 20 jóvenes. ¿Cuántos adultos se necesitan como mínimo?",
+        "options": ["2", "3", "4", "6"],
+        "correct": 2,
+        "explain": "2 Advisors cubren hasta 10 jóvenes; por cada 5 adicionales se suma 1 adulto. Con 20 jóvenes: 2 + 2 = 4 adultos."
+      },
+      {
+        "q": "¿Para qué existe la Rule of Four?",
+        "options": ["Para que las votaciones del Chapter nunca empaten", "Para que, si alguien se lastima, uno se quede con el herido y dos vayan a buscar ayuda", "Para repartir los gastos del evento entre más personas", "Para garantizar quórum en las reuniones"],
+        "correct": 1,
+        "explain": "Mínimo 4 personas (al menos 2 adultos) en toda actividad: ante un incidente, una persona acompaña al herido mientras las otras dos buscan ayuda."
+      },
+      {
+        "q": "¿Cuáles son las 3 R de Youth Protection?",
+        "options": ["Respect, Respond, Report", "Recognize, Resist, Report", "Recognize, React, Rescue", "Refuse, Resist, Reply"],
+        "correct": 1,
+        "explain": "Recognize las situaciones de riesgo, Resist la atención inapropiada y Report a un Advisor, padre u otro adulto de confianza."
+      },
+      {
+        "q": "Sospechás que un joven sufrió abuso, pero no tenés pruebas. ¿Qué corresponde hacer?",
+        "options": ["Esperar a reunir pruebas antes de decir nada", "Investigar por tu cuenta hasta confirmarlo", "Reportar igual: basta la sospecha. Se llama al 911 o a la agencia local y se notifica al Executive Officer dentro de las 24 horas", "Hablarlo únicamente con el joven involucrado"],
+        "correct": 2,
+        "explain": "Para reportar basta la sospecha, no hace falta prueba. Se llama al 911 o a la agencia de protección infantil y se notifica al Executive Officer dentro de las 24 horas con informe escrito."
+      },
+      {
+        "q": "¿Cómo funciona el seguro médico de DeMolay International?",
+        "options": ["Es el seguro principal de cada miembro", "Es secundario: primero responde el seguro de la familia del miembro", "Cubre cualquier accidente, esté o no documentado el evento", "Cubre también los autos de los Advisors"],
+        "correct": 1,
+        "explain": "El seguro de DI es siempre secundario: se espera que el seguro familiar cubra primero. Además, solo aplica a eventos DeMolay documentados en minutas."
+      },
+      {
+        "q": "¿Con cuánta anticipación mínima se pide un Certificate of Insurance?",
+        "options": ["48 horas", "5 días hábiles", "15 días hábiles", "30 días corridos"],
+        "correct": 2,
+        "explain": "Se solicita online en demolay.org/insurance al menos 15 días hábiles antes del evento. Si piden additionally insured o endorsement, el plazo sube a 30 días."
+      },
+      {
+        "q": "¿A partir de qué monto de daño potencial un incidente debe reportarse sí o sí?",
+        "options": ["$50", "Más de $100", "$500", "$1,000"],
+        "correct": 1,
+        "explain": "Todo evento donde el daño potencial a personas o propiedad supere los $100 es reportable por la cadena: Chairman/Chapter Advisor, Executive Officer y Service and Leadership Center."
+      }
+    ]
+  },
+  "en": {
+    "title": "Protection and Safety: The Rules That Don't Bend",
+    "subtitle": "Youth Protection, insurance, risk management, and what to do when something goes wrong.",
+    "minutes": 12,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Youth Protection: Priority Number One",
+        "blocks": [
+          { "t": "p", "text": "DeMolay exists so you can grow, lead, and have a great time — but none of that works unless the environment is **safe**. That's why Youth Protection is the strictest set of rules in the entire organization: no gray areas, no exceptions." },
+          { "t": "p", "text": "The approach is multi-layered: local selection of adult volunteers backed by DeMolay International, education and training, clear policies (no **one-on-one** activities between an adult and a youth), and immediate reporting of any concern." },
+          { "t": "h", "text": "The Scouting BSA Videos" },
+          { "t": "p", "text": "DeMolay partnered with **Scouting BSA** to provide two videos, each with a facilitator's guide. The first, \"It Happened to Me\", is for the Squires Program (ages 9 to 11) and teaches the **Four Rules of Personal Safety**. The second has two modules: \"A Time To Tell\" for audiences 14 and younger, and \"Personal Safety Awareness\" for ages 15 and up." },
+          { "t": "list", "items": [
+            "Four Rules of Personal Safety — 1) Check first with a parent or other trusted adult before changing plans, going anywhere, or accepting anything from anyone.",
+            "2) Go with a friend — it's safer and more fun.",
+            "3) My body is mine: I have the right to say no to anyone who tries to touch me in places covered by my swimsuit or do things I think are wrong.",
+            "4) Tell a trusted adult anytime I am hurt, scared, or made to feel uncomfortable."
+          ] },
+          { "t": "cards", "items": [
+            { "title": "Recognize", "text": "Recognize situations that put youth at risk of abuse and how molesters operate — anyone could be one." },
+            { "title": "Resist", "text": "Resist unwanted and inappropriate attention. Resistance stops most attempts at molestation." },
+            { "title": "Report", "text": "Report attempted or actual abuse or inappropriate behavior to an Advisor, parent, or other trusted adult. That stops further abuse and protects other youth." }
+          ] },
+          { "t": "callout", "style": "info", "text": "The videos must be shown **at least twice per year** (the Squires video also at each induction of a new member). Every Chapter certifies compliance each year in its mandatory Annual Report to DeMolay International via eScribe." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Numbers That Are Non-Negotiable",
+        "blocks": [
+          { "t": "p", "text": "Three numeric rules hold up the entire supervision system. Learn them cold — you'll plan every event around them for your whole DeMolay career." },
+          { "t": "cards", "items": [
+            { "title": "Two-Deep Leadership", "text": "At least **2 registered Advisors** at ALL DeMolay trips, outings, and Chapter activities. Always. The presence of parents does not replace this requirement." },
+            { "title": "Rule of Four", "text": "Every DeMolay activity needs at least **4 individuals**, including at least **2 adults**. If someone gets hurt, one person stays with them while the other two go for help." },
+            { "title": "Advisor-to-Youth Ratio", "text": "Up to **10 youth**: 2 Advisors. More than 10: add **1 adult** (Advisor, adult volunteer, or parent) for every **5 additional youth**." }
+          ] },
+          { "t": "p", "text": "Quick example: an outing with 20 youth needs at least 4 adults (2 Advisors for the first 10, plus 2 more for the extra 10). And depending on the activity, you may need more — run a risk assessment for every planned event." },
+          { "t": "callout", "style": "warn", "text": "**No one-on-one. Ever.** An adult must never be isolated with a single youth. If a conversation needs privacy, hold it where it can't be overheard but **can be seen**: an open outdoor area or a windowed room with the door open. Never closed rooms, tents, motorhomes, or vehicles with no visual access." }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Absolute Prohibitions",
+        "blocks": [
+          { "t": "p", "text": "Some behaviors are banned at every DeMolay activity, whether by an adult or a youth. These aren't suggestions — they're international policy." },
+          { "t": "callout", "style": "warn", "text": "**Hoodwinks and blindfolds are prohibited in ALL DeMolay ceremonies.** No exceptions." },
+          { "t": "list", "items": [
+            "**Hazing and bullying**: any intentional behavior meant to harm, intimidate, humiliate, or isolate. This includes forced consumption of any substance, physical force, brutality, confinement, exposure to the elements, sleep deprivation, and online humiliation.",
+            "**Unauthorized ceremonies**: only ceremonies published in the DeMolay Ritual or the Monitor of Ceremonies may be performed. No secret activities or unofficial organizations.",
+            "**Drugs and alcohol**: prohibited for adults and youth alike during DeMolay activities, including misuse of over-the-counter or prescription drugs. Some Jurisdictions also restrict energy drinks.",
+            "**Tobacco and nicotine**: cigarettes, cigars, vapes, e-cigarettes, smokeless tobacco, and hookah — banned for everyone during any DeMolay activity.",
+            "**Illicit media**: sexually oriented, violent, or racially charged content has no place at any activity.",
+            "**Physical violence and contact**: slapping, spanking, corporal punishment, and weapons are prohibited. Adults must avoid unnecessary physical contact with Members."
+          ] },
+          { "t": "h", "text": "Privacy, Sleeping Arrangements, and Rides" },
+          { "t": "p", "text": "Adults change clothes, shower, and sleep **separately** from youth, and never share a sleeping room with youth who are not their own children. Overnight trips require **written approval** from each youth's parent or legal guardian plus a **medical release form**, and they are never held at the home of an Advisor or adult volunteer." },
+          { "t": "p", "text": "Activities in private homes need prior approval from the Chapter's **Advisory Council** (the adult body that supervises your Chapter), the **Executive Officer** (the top adult leader of your Jurisdiction), and written permission from all parents. And one telling transportation rule: when an adult drives Members home and drops off the second-to-last youth, the last youth calls his parents to share his expected arrival time."
+          }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "If You Suspect Abuse: Act",
+        "blocks": [
+          { "t": "callout", "style": "key", "text": "Making a report only requires **suspicion — not proof**. You're not an investigator, and it's not your job to confirm anything. Reporting is always the right call." },
+          { "t": "p", "text": "If a youth says anything suggesting an inappropriate experience with an adult or another youth, take it **seriously** — even if he doesn't describe it in adult-like terms. Two adults the youth is comfortable with interview him to understand the concern, and the information goes to the event contact and the **Advisory Council Chairman**, who notifies the Executive Officer and the parents." },
+          { "t": "h", "text": "When Abuse Is Disclosed, Suspected, or Occurs" },
+          { "t": "steps", "items": [
+            "The Advisor who identified the situation notifies the **event contact** (the person responsible for the event).",
+            "Call **911** or notify the local child protection agency.",
+            "Notify the parents or legal guardians of all youth involved, as directed by the authorities.",
+            "Notify the Jurisdiction's **Executive Officer** within **24 hours**, with a written report documenting the facts, allegations, and actions taken."
+          ] },
+          { "t": "p", "text": "The Executive Officer then notifies the Executive Director of DeMolay International and, if the alleged perpetrator is an Advisor or adult volunteer, places them on **leave** from all DeMolay programs and activities pending the investigation. If the parties need to be separated during an event, it's done discreetly." },
+          { "t": "ref", "text": "The full Youth Protection policy, with every definition", "page": "128" }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Insurance and Risk Management",
+        "blocks": [
+          { "t": "p", "text": "DeMolay International's medical insurance is **secondary**: your family's insurance is always expected to cover you first. DI also carries comprehensive general liability insurance that covers **accidents only** — never intentional injury or property destruction — and it does not insure Chapter property or cover automobile accidents." },
+          { "t": "callout", "style": "key", "text": "Coverage applies only to **DeMolay events documented in the minutes** of the Chapter or Advisory Council, including start time, end time, and a list of participants. If the event isn't in the minutes, the insurance carrier doesn't see it as a DeMolay event." },
+          { "t": "list", "items": [
+            "**Certificate of Insurance** (proof of coverage that universities and other venues often require): request it online at demolay.org/insurance at least **15 business days** before the event.",
+            "If the venue asks to be listed as **additionally insured** or wants an **endorsement**: submit at least **30 days** before the event — and it may incur a cost.",
+            "The insurance carries a **deductible**, and DI recommends volunteers add a **Personal Umbrella Policy** to their homeowners or renters insurance.",
+            "Nobody drives without their own auto insurance: DeMolay policies do not cover automobile accident damage."
+          ] },
+          { "t": "h", "text": "Risk Management in 4 Steps" },
+          { "t": "steps", "items": [
+            "**Identify the Risks**: spot what could go wrong at the activity.",
+            "**Analyze the Risks**: weigh how likely and how serious each one is.",
+            "**Deal with the Risks**: take action to eliminate or reduce them.",
+            "**Monitor the Results**: review how it went and adjust for next time."
+          ] },
+          { "t": "p", "text": "Habits that lower risk: definite start and end times, parents kept informed and invited, everything recorded in the minutes, age-appropriate activities (what works for a 19-year-old isn't always right for a 13-year-old), a signed **Release and Consent form**, adequate supervision, and every adult registered on eScribe with youth protection training, references, and a background check." },
+          { "t": "ref", "text": "The full insurance and risk management details", "page": "122" }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "When Something Happens: Incidents and Reporting",
+        "blocks": [
+          { "t": "p", "text": "Even with solid prevention, accidents happen. When they do, the order of operations matters." },
+          { "t": "steps", "items": [
+            "**Take care of any injuries first** — DeMolay, Advisor, guest, or third party. Get medical help, notify the authorities, or both.",
+            "**Notify the authorities** where appropriate, following the laws of your state or jurisdiction.",
+            "**Gather the basic facts**: when it happened, where, what happened (property damage? injury?), who was involved, whether law enforcement was called, and take photos.",
+            "**Complete an incident report form** with facts only. If anyone wants your opinions, they'll ask later."
+          ] },
+          { "t": "callout", "style": "warn", "text": "**Never admit liability at the scene.** That something happened doesn't mean DeMolay is liable — fault is an opinion, not a fact. Resist any statement suggesting DeMolay will automatically take care of it." },
+          { "t": "callout", "style": "key", "text": "Any occurrence where potential bodily injury or property damage exceeds **$100** is a **reportable occurrence**." },
+          { "t": "table", "headers": ["Who", "Reports to"], "rows": [
+            ["Members, Advisors, and Advisory Council members", "Advisory Council Chairman or Chapter Advisor (if unavailable, the Executive Officer)"],
+            ["Advisory Council Chairman / Chapter Advisor", "Executive Officer"],
+            ["Executive Officer", "DeMolay International Service and Leadership Center"],
+            ["Service and Leadership Center", "The national liability insurance carrier"]
+          ] },
+          { "t": "p", "text": "For **major property damage, serious injury, or death**, notify the Executive Officer immediately. If unavailable, contact their designated individual; failing that, go straight to the Service and Leadership Center in Kansas City: phone **816-891-8333**, fax **816-891-9062**, or email executivedirector@demolay.org." },
+          { "t": "p", "text": "Three final details: if the occurrence happens on Masonic property, the Advisory Council Chairman gives **oral notification** to that Masonic body and records the date, time, and who was told. Keep a **copy of every document**. And if an insurance investigator contacts you or you're served with any legal document, talk to your **Executive Officer first** before responding." },
+          { "t": "ref", "text": "The complete incident reporting procedure", "page": "125" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What's the minimum number of registered Advisors required at EVERY DeMolay activity?",
+        "options": ["One, as long as it's the Chapter Advisor", "Two", "Three", "It depends on the type of activity"],
+        "correct": 1,
+        "explain": "Two-Deep Leadership: at least 2 Advisors at all DeMolay trips, outings, and Chapter activities — no exceptions. Even parents being present doesn't replace this."
+      },
+      {
+        "q": "Your Chapter plans an outing with 20 youth. What's the minimum number of adults required?",
+        "options": ["2", "3", "4", "6"],
+        "correct": 2,
+        "explain": "2 Advisors cover up to 10 youth; add 1 adult for every 5 additional youth. With 20 youth: 2 + 2 = 4 adults."
+      },
+      {
+        "q": "Why does the Rule of Four exist?",
+        "options": ["So Chapter votes never end in a tie", "So that if someone gets hurt, one person stays with them while two go for help", "To split event costs among more people", "To guarantee quorum at meetings"],
+        "correct": 1,
+        "explain": "At least 4 individuals (including at least 2 adults) at every activity: if an incident occurs, one stays with the injured party and the other two go for help."
+      },
+      {
+        "q": "What are the three R's of Youth Protection?",
+        "options": ["Respect, Respond, Report", "Recognize, Resist, Report", "Recognize, React, Rescue", "Refuse, Resist, Reply"],
+        "correct": 1,
+        "explain": "Recognize risky situations, Resist unwanted or inappropriate attention, and Report to an Advisor, parent, or other trusted adult."
+      },
+      {
+        "q": "You suspect a youth has been abused, but you have no proof. What should you do?",
+        "options": ["Wait until you gather proof before saying anything", "Investigate on your own until you can confirm it", "Report anyway — suspicion is enough. Call 911 or the local agency and notify the Executive Officer within 24 hours", "Discuss it only with the youth involved"],
+        "correct": 2,
+        "explain": "Making a report only requires suspicion, not proof. Call 911 or the local child protection agency, and notify the Executive Officer within 24 hours with a written report."
+      },
+      {
+        "q": "How does DeMolay International's medical insurance work?",
+        "options": ["It's each member's primary insurance", "It's secondary: the member's family insurance covers first", "It covers any accident, whether or not the event was documented", "It also covers Advisors' cars"],
+        "correct": 1,
+        "explain": "DI's medical insurance is always secondary — the family's insurance is expected to cover first. And it only applies to DeMolay events documented in the minutes."
+      },
+      {
+        "q": "How far in advance must a Certificate of Insurance be requested?",
+        "options": ["48 hours", "5 business days", "15 business days", "30 calendar days"],
+        "correct": 2,
+        "explain": "Request it online at demolay.org/insurance at least 15 business days before the event. Additionally insured or endorsement requests need at least 30 days."
+      },
+      {
+        "q": "Above what amount of potential damage must an incident always be reported?",
+        "options": ["$50", "More than $100", "$500", "$1,000"],
+        "correct": 1,
+        "explain": "Any occurrence where potential bodily injury or property damage exceeds $100 must be reported up the chain: Chairman/Chapter Advisor, Executive Officer, and the Service and Leadership Center."
+      }
+    ]
+  }
+}

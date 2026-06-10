@@ -1,0 +1,216 @@
+{
+  "es": {
+    "decks": [
+      {
+        "id": "virtudes",
+        "title": "Las 7 Cardinal Virtues",
+        "desc": "Los valores centrales de todo el programa DeMolay.",
+        "cards": [
+          { "f": "Love of Parents (Filial Love)", "b": "Amor a los padres: honrarlos, respetarlos y ser un mejor hijo cada día. Es la primera de las virtudes." },
+          { "f": "Reverence", "b": "Reverencia por las cosas sagradas: respeto a Dios y a las creencias de cada uno." },
+          { "f": "Courtesy", "b": "Cortesía: trato respetuoso y caballeresco con todas las personas." },
+          { "f": "Comradeship", "b": "Compañerismo: la hermandad que une a los DeMolays — lealtad entre hermanos." },
+          { "f": "Fidelity", "b": "Fidelidad: ser fiel a la palabra dada, a los amigos y a los compromisos — como Jacques DeMolay." },
+          { "f": "Cleanness", "b": "Limpieza: de mente, cuerpo y palabra." },
+          { "f": "Patriotism", "b": "Patriotismo: amor y servicio a la patria, en la paz tanto como en la guerra." }
+        ]
+      },
+      {
+        "id": "dias",
+        "title": "Los 7 Obligatory Days",
+        "desc": "Las observancias obligatorias del año DeMolay.",
+        "cards": [
+          { "f": "Devotional Day", "b": "La semana que incluye el 18 de marzo. Responsable: Chapter Chaplain. Recuerda el martirio de Jacques DeMolay (1314)." },
+          { "f": "Patriots' Day", "b": "Febrero. Responsable: Standard Bearer." },
+          { "f": "Parents' Day", "b": "Entre el 1 de mayo y el 21 de junio. Responsables: los siete Preceptors." },
+          { "f": "My Government Day", "b": "Julio. Responsables: Orator y Marshal." },
+          { "f": "Educational Day", "b": "Usualmente septiembre. Responsables: Junior y Senior Stewards." },
+          { "f": "Frank S. Land Memorial Day", "b": "Cerca del 8 de noviembre (muerte de Dad Land, 1959). Se alienta recaudar para una DeMolay charity." },
+          { "f": "DeMolay Day of Comfort", "b": "Entre el 15 de noviembre y el 31 de diciembre. Responsable: Almoner." }
+        ]
+      },
+      {
+        "id": "cargos",
+        "title": "Los cargos del Chapter",
+        "desc": "Quién es quién en la sala del Chapter.",
+        "cards": [
+          { "f": "Master Councilor", "b": "Preside el Chapter desde el East. Electo. Nombra los comités, arma el programa del término y debe lograr al menos una iniciación." },
+          { "f": "Senior Councilor", "b": "Segundo al mando, en el West. Electo. Supervisa la mitad de los comités y preside si falta el MC." },
+          { "f": "Junior Councilor", "b": "Tercero en la línea, en el South. Electo. Su deber definido: entrenar (coach) a los nuevos miembros en las Obligations." },
+          { "f": "Scribe", "b": "Nombrado por el Advisory Council. Minutas, reportes a eScribe, Annual Report, inventario. \"So goes the Scribe, so goes the Chapter.\"" },
+          { "f": "Treasurer", "b": "Adulto del Advisory Council. Custodia los fondos: cuentas separadas, cheques con contrafirma, nunca efectivo." },
+          { "f": "Senior Deacon", "b": "Examina las obligation cards de los votantes durante los ballots y toma los exámenes de proficiency." },
+          { "f": "Junior Deacon", "b": "Asiste en la puerta y releva al Sentinel para que este pueda votar." },
+          { "f": "Chaplain", "b": "Dirige la oración (miembros arrodillados en rodilla izquierda). Responsable del Devotional Day." },
+          { "f": "Almoner", "b": "El oficial de la caridad. Responsable del Day of Comfort." },
+          { "f": "Marshal", "b": "Conduce los movimientos en la sala y asiste en la tabulación de votos. Co-responsable del My Government Day." },
+          { "f": "Standard Bearer", "b": "Porta la bandera. Responsable del Patriots' Day." },
+          { "f": "Orator", "b": "El orador del Chapter. Co-responsable del My Government Day." },
+          { "f": "Senior y Junior Stewards", "b": "Preparan a los candidatos. Responsables del Educational Day." },
+          { "f": "Los 7 Preceptors", "b": "Representan las siete virtudes con sus velas. Suelen armar la sala y son responsables del Parents' Day." },
+          { "f": "Sentinel", "b": "Custodia la puerta: recibe la Word of the Day y no admite a nadie mientras se abre el Chapter." },
+          { "f": "Organist", "b": "La música del Chapter; el Ritual marca dónde debe sonar." }
+        ]
+      },
+      {
+        "id": "simbolos",
+        "title": "El simbolismo del pin oficial",
+        "desc": "Cada elemento del emblema (1949) tiene un significado.",
+        "cards": [
+          { "f": "Crown of Youth (la corona)", "b": "La corona de la juventud, que lleva los siete preceptos de DeMolay." },
+          { "f": "Las 10 piedras preciosas", "b": "Dad Land y los 9 fundadores originales. Rubíes por los fallecidos, perlas por los vivos — hoy son todas rubíes." },
+          { "f": "El casco (Helmet)", "b": "La caballerosidad (chivalry)." },
+          { "f": "El creciente (Crescent)", "b": "El secreto de la Orden." },
+          { "f": "La cruz blanca de 5 brazos", "b": "La pureza, y el lema: \"No DeMolay shall fail as a citizen, as a leader, and as a man.\"" },
+          { "f": "Las espadas cruzadas", "b": "Justicia, fortaleza y misericordia — y la guerra contra la arrogancia, el despotismo y la intolerancia." },
+          { "f": "Las estrellas", "b": "La esperanza y los deberes fraternales." }
+        ]
+      },
+      {
+        "id": "fechas",
+        "title": "Fechas que todo DeMolay sabe",
+        "desc": "Los hitos de la historia de la Orden.",
+        "cards": [
+          { "f": "¿Cuándo y dónde se fundó DeMolay?", "b": "Marzo de 1919, en el Scottish Rite Temple de Kansas City, Missouri — Frank S. Land y 9 fundadores." },
+          { "f": "¿Qué pasó el 18 de marzo de 1314?", "b": "Jacques DeMolay fue quemado en la hoguera en París. Por eso es la fecha central del calendario DeMolay." },
+          { "f": "¿Qué pasó el viernes 13 de octubre de 1307?", "b": "El arresto de todos los Knights Templars de Francia, ordenado por Philip the Fair." },
+          { "f": "¿Cuándo fue la primera sesión del Grand Council?", "b": "El 7 de marzo de 1921, en el Scottish Rite Temple de Kansas City — ya había 52 Chapters esperando charter." },
+          { "f": "¿Cuándo nació el segundo Chapter del mundo?", "b": "El 8 de mayo de 1920, en Omaha, Nebraska." },
+          { "f": "¿Cuándo murió Frank S. Land?", "b": "El 8 de noviembre de 1959 — hoy se honra como Frank S. Land Memorial Day." },
+          { "f": "¿Cuándo se adoptó el nombre International Supreme Council?", "b": "El 1 de marzo de 1954 (antes era el Grand Council)." },
+          { "f": "¿Cuál fue la clase de iniciación más grande?", "b": "1.099 iniciados — Templar Chapter, Pittsburgh, 12 de febrero de 1923." },
+          { "f": "¿De cuándo es el pin oficial de DeMolay?", "b": "De 1949, diseñado por el propio Dad Land." },
+          { "f": "¿Cuándo se escribió el Ritual?", "b": "En 1919, por Frank A. Marshall — y sigue prácticamente sin cambios." }
+        ]
+      },
+      {
+        "id": "terminos",
+        "title": "Términos esenciales",
+        "desc": "El vocabulario que se usa todas las semanas.",
+        "cards": [
+          { "f": "eScribe", "b": "El portal online de DeMolay International donde se reportan miembros, premios y el Annual Report." },
+          { "f": "Obligation card", "b": "La tarjeta que acredita tus Obligations aprobadas. Sin ella no podés votar ni ocupar cargo." },
+          { "f": "Letters Temporary", "b": "La autorización provisoria de un Chapter nuevo, hasta llegar a 15 miembros y ganarse el Charter." },
+          { "f": "Patent", "b": "El certificado oficial de membresía, emitido cuando ambos Degrees están reportados y pagos." },
+          { "f": "Jurisdiction", "b": "El territorio administrativo de DeMolay (estado, provincia o país) a cargo de un Executive Officer." },
+          { "f": "Executive Officer (EO)", "b": "El representante oficial de DeMolay International en una Jurisdiction. Casi todo requiere su aprobación." },
+          { "f": "Advisory Council", "b": "El cuerpo de adultos certificados que supervisa el Chapter. Mínimo 3 Master Masons; mínimo 5 advisors." },
+          { "f": "Sponsoring Body", "b": "La organización (normalmente masónica) que patrocina al Chapter y le provee lugar de reunión." },
+          { "f": "First-line signer", "b": "El primer firmante que recomienda una Membership Application — lo que cuenta para la Blue Honor Key." },
+          { "f": "Majority", "b": "El paso a Senior DeMolay al cumplir 21, celebrado idealmente con el Majority Service." },
+          { "f": "Two-Deep Leadership", "b": "La regla de oro de Youth Protection: mínimo 2 registered Advisors en toda actividad, siempre." },
+          { "f": "Conclave", "b": "La convención anual de la Jurisdiction: competencias, elecciones, hermandad." },
+          { "f": "Chevalier", "b": "El honor más alto para un DeMolay activo: voto unánime del ISC, nunca se solicita." },
+          { "f": "Stated meeting", "b": "La reunión regular del Chapter fijada en sus Bylaws, donde se tratan los negocios." }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "decks": [
+      {
+        "id": "virtudes",
+        "title": "The 7 Cardinal Virtues",
+        "desc": "The core values behind the whole DeMolay program.",
+        "cards": [
+          { "f": "Love of Parents (Filial Love)", "b": "Honoring and respecting your parents and being a better son every day. The first of the virtues." },
+          { "f": "Reverence", "b": "Reverence for sacred things: respect for God and for everyone's beliefs." },
+          { "f": "Courtesy", "b": "Respectful, chivalrous treatment of all people." },
+          { "f": "Comradeship", "b": "The brotherhood that binds DeMolays together — loyalty among brothers." },
+          { "f": "Fidelity", "b": "Faithfulness to your word, your friends and your commitments — like Jacques DeMolay." },
+          { "f": "Cleanness", "b": "Cleanness in mind, body and speech." },
+          { "f": "Patriotism", "b": "Love of and service to your country, in peace as well as in war." }
+        ]
+      },
+      {
+        "id": "dias",
+        "title": "The 7 Obligatory Days",
+        "desc": "The mandatory observances of the DeMolay year.",
+        "cards": [
+          { "f": "Devotional Day", "b": "The week including March 18. Responsible: Chapter Chaplain. Commemorates Jacques DeMolay's martyrdom (1314)." },
+          { "f": "Patriots' Day", "b": "February. Responsible: Standard Bearer." },
+          { "f": "Parents' Day", "b": "Between May 1 and June 21. Responsible: the seven Preceptors." },
+          { "f": "My Government Day", "b": "July. Responsible: Orator and Marshal." },
+          { "f": "Educational Day", "b": "Usually September. Responsible: Junior and Senior Stewards." },
+          { "f": "Frank S. Land Memorial Day", "b": "Near November 8 (Dad Land's death, 1959). A fundraiser for a DeMolay charity is encouraged." },
+          { "f": "DeMolay Day of Comfort", "b": "Between November 15 and December 31. Responsible: Almoner." }
+        ]
+      },
+      {
+        "id": "cargos",
+        "title": "The Chapter offices",
+        "desc": "Who's who in the Chapter room.",
+        "cards": [
+          { "f": "Master Councilor", "b": "Presides over the Chapter from the East. Elected. Appoints committees, builds the term program, must achieve at least one initiation." },
+          { "f": "Senior Councilor", "b": "Second in command, in the West. Elected. Oversees half the committees and presides when the MC is absent." },
+          { "f": "Junior Councilor", "b": "Third in line, in the South. Elected. His defined duty: coaching new members on the Obligations." },
+          { "f": "Scribe", "b": "Appointed by the Advisory Council. Minutes, eScribe reports, the Annual Report, inventory. \"So goes the Scribe, so goes the Chapter.\"" },
+          { "f": "Treasurer", "b": "An adult from the Advisory Council. Guards the funds: separate accounts, countersigned checks, never cash." },
+          { "f": "Senior Deacon", "b": "Examines voters' obligation cards during ballots and conducts proficiency examinations." },
+          { "f": "Junior Deacon", "b": "Assists at the door and relieves the Sentinel so he can vote." },
+          { "f": "Chaplain", "b": "Leads prayer (members kneeling on the left knee). Responsible for Devotional Day." },
+          { "f": "Almoner", "b": "The officer of charity. Responsible for the Day of Comfort." },
+          { "f": "Marshal", "b": "Conducts floor movements and helps tabulate votes. Co-responsible for My Government Day." },
+          { "f": "Standard Bearer", "b": "Carries the flag. Responsible for Patriots' Day." },
+          { "f": "Orator", "b": "The Chapter's speaker. Co-responsible for My Government Day." },
+          { "f": "Senior & Junior Stewards", "b": "Prepare the candidates. Responsible for Educational Day." },
+          { "f": "The 7 Preceptors", "b": "Represent the seven virtues with their candles. Often set up the room and are responsible for Parents' Day." },
+          { "f": "Sentinel", "b": "Guards the door: receives the Word of the Day and admits no one while the Chapter is opening." },
+          { "f": "Organist", "b": "The Chapter's music; the Ritual marks where it plays." }
+        ]
+      },
+      {
+        "id": "simbolos",
+        "title": "The official pin's symbolism",
+        "desc": "Every element of the emblem (1949) has a meaning.",
+        "cards": [
+          { "f": "Crown of Youth", "b": "The crown of youth, bearing DeMolay's seven precepts." },
+          { "f": "The 10 precious stones", "b": "Dad Land and the 9 original founders. Rubies for the deceased, pearls for the living — today all rubies." },
+          { "f": "The Helmet", "b": "Chivalry." },
+          { "f": "The Crescent", "b": "The secrecy of the Order." },
+          { "f": "The five-armed white cross", "b": "Purity, and the motto: \"No DeMolay shall fail as a citizen, as a leader, and as a man.\"" },
+          { "f": "The crossed swords", "b": "Justice, fortitude and mercy — and the war against arrogance, despotism and intolerance." },
+          { "f": "The stars", "b": "Hope and fraternal duties." }
+        ]
+      },
+      {
+        "id": "fechas",
+        "title": "Dates every DeMolay knows",
+        "desc": "The milestones of the Order's history.",
+        "cards": [
+          { "f": "When and where was DeMolay founded?", "b": "March 1919, at the Scottish Rite Temple in Kansas City, Missouri — Frank S. Land and 9 founders." },
+          { "f": "What happened on March 18, 1314?", "b": "Jacques DeMolay was burned at the stake in Paris. That's why it's the central date of the DeMolay calendar." },
+          { "f": "What happened on Friday, October 13, 1307?", "b": "The arrest of every Knight Templar in France, ordered by Philip the Fair." },
+          { "f": "When was the Grand Council's first session?", "b": "March 7, 1921, at the Scottish Rite Temple in Kansas City — 52 Chapters were already awaiting charters." },
+          { "f": "When was the world's second Chapter born?", "b": "May 8, 1920, in Omaha, Nebraska." },
+          { "f": "When did Frank S. Land die?", "b": "November 8, 1959 — honored today as Frank S. Land Memorial Day." },
+          { "f": "When was the name International Supreme Council adopted?", "b": "March 1, 1954 (it was previously the Grand Council)." },
+          { "f": "What was the largest initiation class?", "b": "1,099 initiates — Templar Chapter, Pittsburgh, February 12, 1923." },
+          { "f": "When is the official DeMolay pin from?", "b": "1949, designed by Dad Land himself." },
+          { "f": "When was the Ritual written?", "b": "In 1919, by Frank A. Marshall — and it remains virtually unchanged." }
+        ]
+      },
+      {
+        "id": "terminos",
+        "title": "Essential terms",
+        "desc": "The vocabulary you'll use every week.",
+        "cards": [
+          { "f": "eScribe", "b": "DeMolay International's online portal for reporting members, awards and the Annual Report." },
+          { "f": "Obligation card", "b": "The card proving your approved Obligations. Without it you cannot vote or hold office." },
+          { "f": "Letters Temporary", "b": "A new Chapter's provisional authority, until it reaches 15 members and earns its Charter." },
+          { "f": "Patent", "b": "The official membership certificate, issued once both Degrees are reported and paid." },
+          { "f": "Jurisdiction", "b": "DeMolay's administrative territory (state, province or country) under an Executive Officer." },
+          { "f": "Executive Officer (EO)", "b": "DeMolay International's official representative in a Jurisdiction. Almost everything needs his approval." },
+          { "f": "Advisory Council", "b": "The certified adult body overseeing the Chapter. Minimum 3 Master Masons; minimum 5 advisors." },
+          { "f": "Sponsoring Body", "b": "The organization (usually Masonic) that sponsors the Chapter and provides a meeting place." },
+          { "f": "First-line signer", "b": "The first recommender signing a Membership Application — what counts toward the Blue Honor Key." },
+          { "f": "Majority", "b": "Becoming a Senior DeMolay at 21, ideally celebrated with the Majority Service." },
+          { "f": "Two-Deep Leadership", "b": "Youth Protection's golden rule: at least 2 registered Advisors at every activity, always." },
+          { "f": "Conclave", "b": "The Jurisdiction's annual convention: competitions, elections, brotherhood." },
+          { "f": "Chevalier", "b": "The highest honor for an active DeMolay: unanimous ISC vote, never applied for." },
+          { "f": "Stated meeting", "b": "The Chapter's regular business meeting, fixed in its Bylaws." }
+        ]
+      }
+    ]
+  }
+}

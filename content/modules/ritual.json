@@ -1,0 +1,447 @@
+{
+  "id": "ritual",
+  "es": {
+    "title": "Ritual: el corazón de DeMolay",
+    "subtitle": "Por qué el Ritual pone a DeMolay en una categoría propia, y cómo presentarlo a la altura.",
+    "minutes": 9,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Por qué el Ritual lo es todo",
+        "blocks": [
+          { "t": "p", "text": "El Ritual es lo que distingue a DeMolay de cualquier otra organización juvenil y la mantiene en una clase propia. **Frank A. Marshall** lo escribió en 1919 y desde entonces se mantiene casi sin cambios: las palabras que decís hoy en tu Chapter son prácticamente las mismas que escucharon los primeros DeMolays hace más de un siglo." },
+          { "t": "p", "text": "Ese Ritual sostuvo a la Orden desde su fundación e inspiró a miles: gobernadores, oficiales de alto rango de las fuerzas armadas, docentes, pastores, empresarios y líderes comunitarios. Más de **5.000** DeMolays llegaron a ser Masones del grado 33 del Scottish Rite." },
+          { "t": "callout", "style": "key", "text": "Cero desviación. En el Initiatory Degree, el DeMolay Degree, el Flower Talk y la Ceremony of Light no se permite ninguna desviación, ni la más mínima. Siempre se sigue la última edición del Ritual al pie de la letra." },
+          { "t": "callout", "style": "warn", "text": "Prohibido leer. Todo el trabajo ritual se da **de memoria**, siempre: desde un Degree hasta el funeral service de un hermano o una presentación ante un Mason visitante. Leer del Ritual deja una pésima impresión de la Orden." },
+          { "t": "p", "text": "Para sostener la calidad hay una estructura: cada Jurisdiction debería tener un **Ritual Director** (responsable jurisdiccional de ritual) y cada Chapter un **Ritual Advisor** (asesor adulto de ritual). Además, cada Jurisdiction debería organizar una competencia anual para coronar equipos campeones del Initiatory y del DeMolay Degree, e impulsar el **Ritual Merit Bar** (la barra de mérito por trabajo ritual) para mantener vivo el interés." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Cómo se presenta un Degree",
+        "blocks": [
+          { "t": "p", "text": "La belleza del ritual está en la manera de presentarlo. La escenografía, las luces y las robes ayudan, pero si las palabras no salen de forma lenta, concisa, natural, emotiva y elegante, todo se vuelve mecánico. Hablá con voz llena y fuerte, mirá a los ojos del candidato y decí cada línea como si saliera «from the heart»: tu trabajo es transmitir el mensaje de DeMolay, no recitarlo como loro." },
+          { "t": "cards", "items": [
+            { "title": "Initiatory Degree", "text": "Se gana con **seriedad y sinceridad**, no con actuación dramática ni fingida. Hablá despacio, con calma y con volumen suficiente para que se escuche cada palabra: una palabra que no se oye es mensaje perdido. Sobreactuar es una falta tan grave como quedarse corto." },
+            { "title": "DeMolay Degree", "text": "Está escrito en una línea muy distinta: es **dramático y elaborado** dentro de límites razonables. No funciona en tono de conversación, pero también se arruina con la sobreactuación. Lo ideal es una sala con escenario o espacio amplio, aunque sale bien en cualquier Chapter room con buen plan y dirección firme." }
+          ] },
+          { "t": "p", "text": "Los detalles chicos hacen el gran resultado: la robe con el cuello bien acomodado, el pelo prolijo, entradas y salidas dignas y sin apuro, sentarse derecho con los pies en el piso y esquinas en ángulo recto al desplazarse. Los sideliners notan todo." },
+          { "t": "h", "text": "Degree teams y ensayos" },
+          { "t": "p", "text": "Armar el Degree team es una decisión central del **Master Councilor**: nada de elegir amigos; se selecciona por interés, entusiasmo y habilidad. Y nadie debería recibir una parte si no siente que interpretarla es un honor." },
+          { "t": "list", "items": [
+            "Programá ensayos regulares y fijá un estándar que todos los Members deban cumplir y mantener.",
+            "Buscá coaches: miembros del Advisory Council, Senior DeMolays, ritualistas de la familia masónica, profesores de teatro o familiares con experiencia en oratoria.",
+            "Tené al menos un suplente (alternate) para cada parte.",
+            "Si el Chapter es grande, armá un segundo equipo completo y usalo cada tanto.",
+            "Las robes no son obligatorias, pero levantan muchísimo el trabajo y no necesitan ser caras."
+          ] }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Las reglas de la sala",
+        "blocks": [
+          { "t": "p", "text": "El Chapter room es el escenario del ritual, y ese escenario tiene reglas fijas que te conviene saber de memoria." },
+          { "t": "list", "items": [
+            "El altar se cubre siempre con una **funda blanca grande**, drapeada en pliegues amplios para que tenga líneas elegantes; podés sumar flores sobre y alrededor.",
+            "**Siete candlesticks** forman un escudo alrededor y delante del altar; los diagramas de ubicación están en el Ritual book.",
+            "Los Preceptor stands se pueden comprar o fabricar con alguien que sepa carpintería."
+          ] },
+          { "t": "callout", "style": "warn", "text": "Nunca pases entre el altar y el East, salvo que el floor work del ritual lo exija. Para ir al otro lado de la sala, siempre por el **West**." },
+          { "t": "list", "items": [
+            "Nadie entra ni sale del Chapter room durante las ceremonias de Opening y Closing.",
+            "Quien llega tarde espera a que el Chapter abra, y al ser admitido va al altar y da el sign que corresponde; lo mismo si necesita retirarse antes del cierre.",
+            "Para hablar, levantate, esperá que te den la palabra y dirigite al MC como **Brother Master Councilor**, sin saludo."
+          ] },
+          { "t": "callout", "style": "key", "text": "La **Nine O'clock Interpolation** (la pausa de las nueve en honor a las madres y los padres) se da en TODA reunión, pública o privada, con las luces bajas o solo a la luz de las velas." },
+          { "t": "p", "text": "Para la obligation, lo ideal es llevar a todos los candidatos al altar y que se arrodillen. Si la clase es demasiado grande, podés sentar a todos salvo unos pocos durante el resto del trabajo, pero nunca para la obligation. Y la regla de prioridades es clara: primero la manera de presentar; vestuario, luces y escenografía, después." },
+          { "t": "ref", "text": "Diagramas, lineamientos completos del Degree work y procedimiento para llegadas tarde", "page": "138" }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "Obligations, obligation card y música",
+        "blocks": [
+          { "t": "p", "text": "Todos los Members del Chapter deben memorizar las obligations del Initiatory y del DeMolay Degree. El responsable de que eso pase es el **Junior Councilor**: fija tiempo y lugar para coachear a los nuevos iniciados y lleva un registro (tally book) con los nombres de quienes todavía no cumplieron." },
+          { "t": "callout", "style": "key", "text": "Sin **obligation card** no hay derechos: no podés votar en la elección de Officers, ni votar applications de membresía, ni ocupar un cargo." },
+          { "t": "list", "items": [
+            "La firma el Chapter Advisor y lleva el sello del Chapter.",
+            "Se registra en **eScribe**, en el permanent record del Member.",
+            "Certifica que demostraste saber las obligations de memoria.",
+            "Se emite **una sola** por Member; solo hay duplicado si se pierde la original, y a discreción del Chapter Advisor."
+          ] },
+          { "t": "h", "text": "La música" },
+          { "t": "p", "text": "La música tiene lugar en todo el trabajo ritual, como fondo que realza, nunca sobredramática ni a un volumen que tape el Degree. El secreto es el empalme: al terminar la frase hablada la música entra sin pausa, y al terminar la música el siguiente orador arranca de inmediato, sin silencios incómodos. El Ritual of Secret Work señala varios lugares del Initiatory Degree donde encaja mejor, y muchos Chapters usan música pregrabada con pistas ajustadas a la duración del Degree con excelente resultado." }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Ceremonias públicas: Flower Talk, Ceremony of Light y más",
+        "blocks": [
+          { "t": "p", "text": "Las ceremonias públicas son tu mejor vidriera: cada presentación ante padres, masones o la comunidad es una chance de mostrar DeMolay. Muchos Chapters invitan al público después de la inducción para un Welcoming Talk (idealmente dado por un Past Master Councilor), el Flower Talk y la Nine O'clock Interpolation, y cierran con un refrigerio." },
+          { "t": "h", "text": "Flower Talk" },
+          { "t": "p", "text": "Es uno de los mensajes mejor recibidos de DeMolay y conmueve especialmente a las madres. Se da después de conferir el Initiatory o el DeMolay Degree —no es parte oficial del Degree— o en otras ceremonias públicas apropiadas. Lo presenta un Active DeMolay con voz agradable y madura, **de memoria** y en formal attire." },
+          { "t": "list", "items": [
+            "Flores **rojas y blancas** sobre el altar, colocadas antes de que empiece la ceremonia; mejor rosas de tallo corto o claveles, aunque sirven flores más económicas.",
+            "Al menos una flor por candidato, y una **flor blanca por cada candidato cuya madre haya fallecido**.",
+            "El Marshal conduce a los nuevos Members al lado oeste del altar; el orador se ubica del lado este, en la misma posición que toma el MC para dar la obligation."
+          ] },
+          { "t": "h", "text": "Ceremony of Light" },
+          { "t": "p", "text": "Es una ceremonia breve, pensada como herramienta de relaciones públicas, que resume las enseñanzas básicas de DeMolay: se encienden **siete velas que simbolizan las siete cardinal virtues** (las virtudes cardinales o valores centrales de la Orden), presentadas como símbolos de todo lo bueno y correcto del mundo. La da un Active DeMolay y, con permiso del Executive Officer, puede dividirse entre varios oradores. Paraphernalia requerida: Holy Bible abierta sobre el altar, schoolbooks (libros escolares) en la esquina noreste del altar y los siete candlesticks con las velas **ya encendidas** según el Diagram One del Monitor of Ceremonies, con todas las demás luces bajas o apagadas." },
+          { "t": "p", "text": "La **Historical Lecture** es una charla informativa corta sobre Jacques DeMolay, el personaje que da nombre a la Orden: funciona ante el público, grupos masónicos o de servicio, clases de historia o candidatos, y no requiere paraphernalia. Los textos del Flower Talk, la Ceremony of Light y la Historical Lecture están en demolay.org/open-ceremonies, y el Monitor of Public Ceremonies reúne todas las ceremonias públicas oficiales." },
+          { "t": "ref", "text": "Texto del Welcoming Talk y detalle de cada ceremonia pública", "page": "142" }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Open Installations: tu Chapter ante la comunidad",
+        "blocks": [
+          { "t": "p", "text": "La Open Installation of Officers es una de las pocas ocasiones en que la comunidad entra a verlos y se forma una opinión definida de DeMolay y de tu Chapter. Por eso todo tiene que salir fluido, y eso se logra planificando con anticipación." },
+          { "t": "steps", "items": [
+            "Elegí a los Installing Officers con tiempo suficiente para que preparen el evento y acuerden el orden del programa.",
+            "Confirmá que los Officers a instalar sepan cuándo y dónde estar, y tené suplentes listos: las sillas de Officer vacías dan la impresión de que al Chapter le va mal.",
+            "Imprimí un programa para todos los invitados: orden de eventos, Installing Officers, Officers a instalar, Advisors con sus títulos, Sponsoring Body y su presiding officer, Officers del Parents' Club, Chapter Sweetheart o Sorority, Officers y Advisors de Squires, agradecimientos, y el Executive Officer con su representante de distrito.",
+            "Conseguí un organista o pianista, o usá música pregrabada de calidad: la música suma muchísimo si es apropiada para la ceremonia y el público.",
+            "Encargate de la publicidad: nota previa en los medios locales aclarando que el público está invitado, y foto de los nuevos Officers para el diario y las redes.",
+            "Mandá invitaciones personales (tarjeta impresa, carta o llamada) a líderes masónicos, autoridades cívicas y directivos de escuelas, y difundí entre Chapters vecinos, grupos juveniles y la familia masónica con un evento en redes o un flyer por email.",
+            "Dejá la sala lista antes de que llegue el primer invitado, con los primeros sentados lo más cerca posible del East para que los que lleguen tarde se ubiquen sin caos."
+          ] },
+          { "t": "p", "text": "Las introducciones de invitados se hacen con rapidez y precisión siguiendo el protocolo de tu Jurisdiction, que el MC debe conocer: desde Active DeMolays y líderes de DeMolay hasta dignatarios masónicos (incluido el Grand Master de la Grand Lodge), visiting Masons, los padres de los principales Officers del Chapter y las delegaciones de Rainbow, Job's Daughters y otros grupos juveniles." },
+          { "t": "callout", "style": "info", "text": "Sumá siempre algo más al programa: el Flower Talk, una Representative DeMolay Presentation, la Majority Service o entregas de Merit Bars y Blue Honor Keys. Variá el extra en cada Installation para no repetir." }
+        ]
+      },
+      {
+        "id": "l7",
+        "title": "Cómo se juzga una competencia de ritual",
+        "blocks": [
+          { "t": "p", "text": "Las competencias de ritual están entre las actividades más populares de cada Jurisdiction. Lo que sigue es la sugerencia del Service & Leadership Center: cada Jurisdiction puede tener su propio sistema, y todo queda sujeto a la aprobación y autoridad final del **Executive Officer**." },
+          { "t": "table", "headers": ["Área", "Qué incluye", "Peso"], "rows": [
+            ["Memory Work", "Recitar las palabras exactas de las ediciones vigentes del DeMolay Ritual y del Monitor of Public Ceremonies", "La mitad de los puntos"],
+            ["Performance", "Delivery, Floor Work, Deportment y Supplementary Items", "La otra mitad"]
+          ] },
+          { "t": "callout", "style": "key", "text": "La memoria vale **la mitad de todos los puntos**. Un juez dedicado sigue el Ritual oficial y marca cada omisión, transposición o error: en muchos sistemas el total de palabras de la ceremonia es el puntaje perfecto, cada palabra errada resta 1 punto, y un prompting (apunte) u otro error grave puede costar **25 o 50 puntos**." },
+          { "t": "cards", "items": [
+            { "title": "Delivery", "text": "Audibilidad, claridad, enunciación, tono, tempo y expresión. Penalizan el énfasis mal puesto, las palabras mal pronunciadas, hablar demasiado rápido o lento y la falta de fuerza. La sinceridad de la expresión también cuenta." },
+            { "title": "Floor Work", "text": "Los movimientos de los personajes tal como los marca el Ritual, más utilería, luces y escenografía (las propiedades físicas valen menos que los movimientos). Los jueces de esta área deben conocer a fondo el procedimiento correcto." },
+            { "title": "Deportment", "text": "Postura y porte general: cómo se desplazan los personajes, cómo se sientan y la impresión que deja su presencia." },
+            { "title": "Supplementary Items", "text": "Música (usarla bien suma puntos), vestimenta e impresión general. No se juzga cuánto costó el vestuario sino cómo se lleva: un reloj pulsera en un personaje del siglo XIV es un error de autenticidad." }
+          ] },
+          { "t": "p", "text": "Un solo juez suele alcanzar para Memory Work, pero muchos sistemas usan dos por categoría y promedian sus puntajes. Los jueces no deben tener vínculos con los equipos que compiten, tienen que mantener el mismo estándar para todos, y conviene fijar una edición específica de diccionario como referencia de pronunciación. Ante cualquier duda de ritual, tu contacto es el Jurisdictional Ritual Advisor o el Executive Officer." },
+          { "t": "ref", "text": "Sistema completo de judging sugerido", "page": "198" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "¿En qué ceremonias no se permite ni la más mínima desviación del Ritual?",
+        "options": [
+          "Solo en el Initiatory y el DeMolay Degree",
+          "En el Initiatory Degree, el DeMolay Degree, el Flower Talk y la Ceremony of Light",
+          "Solo en las ceremonias públicas del Monitor",
+          "En la Historical Lecture y las Open Installations"
+        ],
+        "correct": 1,
+        "explain": "El Handbook exige cero desviación en esas cuatro: los dos Degrees, el Flower Talk y la Ceremony of Light, siempre según la última edición del Ritual."
+      },
+      {
+        "q": "¿Cuál es la forma correcta de presentar el Initiatory Degree?",
+        "options": [
+          "Con dramatismo y gestos elaborados",
+          "Con seriedad y sinceridad, sin actuación fingida",
+          "Leyéndolo del Ritual con buena dicción",
+          "En tono de conversación, rápido y relajado"
+        ],
+        "correct": 1,
+        "explain": "El Initiatory impresiona por la sinceridad; el dramático (dentro de límites) es el DeMolay Degree. Y leer el Ritual está prohibido siempre."
+      },
+      {
+        "q": "Estás en reunión y querés ir al otro lado del Chapter room. ¿Qué hacés?",
+        "options": [
+          "Cruzo entre el altar y el East si nadie está hablando",
+          "Voy por el lado del West",
+          "Espero a que termine la reunión",
+          "Le aviso al Sentinel y cruzo por el medio"
+        ],
+        "correct": 1,
+        "explain": "Nunca se pasa entre el altar y el East, salvo que el floor work del ritual lo exija. El cruce siempre es por el West."
+      },
+      {
+        "q": "¿Cuándo se da la Nine O'clock Interpolation?",
+        "options": [
+          "Solo en reuniones privadas",
+          "Solo cuando hay candidatos presentes",
+          "En toda reunión, pública o privada",
+          "Solo si lo autoriza el Executive Officer"
+        ],
+        "correct": 2,
+        "explain": "Es obligatoria en todas las reuniones, a la hora que corresponde y con las luces bajas o solo velas si es posible."
+      },
+      {
+        "q": "¿Qué NO puede hacer un Member que todavía no tiene su obligation card?",
+        "options": [
+          "Asistir a las reuniones del Chapter",
+          "Votar en elecciones, votar applications de membresía u ocupar un cargo",
+          "Participar de eventos deportivos",
+          "Invitar amigos a una ceremonia pública"
+        ],
+        "correct": 1,
+        "explain": "La obligation card certifica que memorizaste las obligations; sin ella no se puede votar Officers ni applications, ni ocupar un cargo."
+      },
+      {
+        "q": "En el Flower Talk, ¿qué indica una flor blanca sobre el altar?",
+        "options": [
+          "Que ese candidato perdió a su madre",
+          "La pureza de las enseñanzas de DeMolay",
+          "Que el candidato fue Master Councilor",
+          "La paz entre los hermanos del Chapter"
+        ],
+        "correct": 0,
+        "explain": "Debe haber al menos una flor por candidato, y una blanca por cada candidato cuya madre haya fallecido."
+      },
+      {
+        "q": "¿Qué simbolizan las siete velas de la Ceremony of Light?",
+        "options": [
+          "Los siete Preceptors del Chapter",
+          "Las siete cardinal virtues de DeMolay",
+          "Los siete Officers principales",
+          "Los siete siglos desde Jacques DeMolay"
+        ],
+        "correct": 1,
+        "explain": "Las siete velas se encienden como símbolo de las siete cardinal virtues o valores centrales, presentadas como todo lo bueno y correcto del mundo."
+      },
+      {
+        "q": "En una competencia de ritual, ¿cuánto vale el Memory Work?",
+        "options": [
+          "Un cuarto del puntaje",
+          "Un tercio del puntaje",
+          "La mitad de todos los puntos",
+          "Depende de cada juez"
+        ],
+        "correct": 2,
+        "explain": "Los sistemas coinciden en que la memoria vale la mitad del total; la otra mitad es Performance. Un prompting puede costar 25 o 50 puntos."
+      }
+    ]
+  },
+  "en": {
+    "title": "Ritual: the Heart of DeMolay",
+    "subtitle": "Why Ritual puts DeMolay in a class by itself, and how to deliver it the way it deserves.",
+    "minutes": 9,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Why Ritual Is Everything",
+        "blocks": [
+          { "t": "p", "text": "Ritual is what sets DeMolay apart from every other youth organization and keeps it in a class by itself. **Frank A. Marshall** wrote it in 1919, and it has remained almost unchanged ever since: the words you speak in your Chapter today are essentially the same ones the first DeMolays heard more than a century ago." },
+          { "t": "p", "text": "That Ritual has held the Order together since its founding and inspired thousands: state governors, flag-rank officers in the U.S. Armed Services, teachers, pastors, business owners, and community leaders. More than **5,000** DeMolays went on to become 33rd Degree Scottish Rite Masons." },
+          { "t": "callout", "style": "key", "text": "Zero deviation. In the Initiatory Degree, the DeMolay Degree, the Flower Talk, and the Ceremony of Light, no deviation is allowed — not even the slightest. The latest edition of the Ritual is followed to the letter, always." },
+          { "t": "callout", "style": "warn", "text": "Never read it. All ritual work is delivered **from memory**, every time: a Degree, the funeral service for a fallen Brother, or a presentation to a visiting Mason. Reading from the Ritual leaves a terrible impression of the Order." },
+          { "t": "p", "text": "There is a structure to keep quality high: every Jurisdiction should have a **Ritual Director**, and every Chapter a **Ritual Advisor**. Each Jurisdiction should also run an annual competition to crown champion Initiatory and DeMolay Degree teams, and push the **Ritual Merit Bar** to keep interest in Ritual alive and growing." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "How to Present a Degree",
+        "blocks": [
+          { "t": "p", "text": "The beauty of ritual lies in how it is presented. Settings, lighting, and robes help, but unless the words come out slowly, concisely, naturally, emotionally, and gracefully, the whole thing turns mechanical. Speak in a full, loud voice, look straight into the candidate's eyes, and deliver every line as if it came «from the heart» — your job is to impart the message of DeMolay, not to parrot it." },
+          { "t": "cards", "items": [
+            { "title": "Initiatory Degree", "text": "Won through **earnestness and sincerity**, not dramatic or fake acting. Speak slowly, calmly, and loudly enough for every word to land: a word unheard is a message lost. Over-acting is just as serious a fault as underacting." },
+            { "title": "DeMolay Degree", "text": "Written in a very different vein: it is meant to be **dramatic and elaborate** within reasonable limits. It cannot be delivered in a conversational tone, yet it is just as easily ruined by overacting. A room with a stage or a large open area is ideal, but it works in any Chapter room with a solid plan and firm direction." }
+          ] },
+          { "t": "p", "text": "Small details make the big result: a robe with the collar sitting just right, neatly combed hair, dignified and unhurried entrances and exits, sitting upright with feet flat on the floor, and proper square corners on the floor. Sideliners notice everything." },
+          { "t": "h", "text": "Degree Teams and Rehearsals" },
+          { "t": "p", "text": "Building the Degree team is a major call for the **Master Councilor**: personal friendships stay out of it — selection is based on interest, enthusiasm, and ability. And no one should be trusted with a part unless he feels that interpreting it is an honor." },
+          { "t": "list", "items": [
+            "Schedule regular rehearsals and set a standard every Member must meet and maintain.",
+            "Find coaches: Advisory Council members, Senior DeMolays, ritualists from Masonic Family organizations, high school drama teachers, or relatives with public-speaking experience.",
+            "Keep at least one alternate for every part.",
+            "If your Chapter is large enough, build a full second Degree team and use it every so often.",
+            "Robes are not required, but they lift the work enormously — and they do not have to be expensive."
+          ] }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Rules of the Room",
+        "blocks": [
+          { "t": "p", "text": "The Chapter room is the stage for the Ritual, and that stage comes with fixed rules you should know by heart." },
+          { "t": "list", "items": [
+            "The altar is always draped with a **large white altar cover**, hung in large folds for beautiful lines; flowers may be placed on and around it.",
+            "**Seven candlesticks** form a shield about and in front of the altar; placement diagrams are in the Ritual book.",
+            "Preceptor stands can be purchased or built by someone handy with woodworking."
+          ] },
+          { "t": "callout", "style": "warn", "text": "Never pass between the altar and the East unless the floor work in the Ritual requires it. To reach the other side of the room, always go by way of the **West**." },
+          { "t": "list", "items": [
+            "No one enters or leaves the Chapter room during the Opening and Closing ceremonies.",
+            "A latecomer waits until the Chapter has opened; once admitted, he goes to the altar and gives the proper sign — same procedure if he needs to be excused before closing.",
+            "To speak, rise, wait to be called on, and address the MC as **Brother Master Councilor**, without any salute."
+          ] },
+          { "t": "callout", "style": "key", "text": "The **Nine O'clock Interpolation** is given at EVERY meeting, public or private, at the proper time, with all lights dimmed if possible or with only candles lighted." },
+          { "t": "p", "text": "For the obligation, the ideal is to take all candidates to the altar and have them kneel. If the class is too large, you may seat all but a few for everything — except the obligation. And the priority rule is clear: manner of presentation first; costumes, lighting, and setting second." },
+          { "t": "ref", "text": "Diagrams, full Degree work guidelines, and the late-arrival procedure", "page": "138" }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "Obligations, the Obligation Card, and Music",
+        "blocks": [
+          { "t": "p", "text": "Every Member of the Chapter must commit the obligations of the Initiatory and DeMolay Degrees to memory. Making that happen is the **Junior Councilor's** job: he sets a time and place to coach the new initiates and keeps a running tally book with the names of those who have not yet complied." },
+          { "t": "callout", "style": "key", "text": "No **obligation card**, no rights: you cannot vote in the election of Officers, vote on membership applications, or hold office." },
+          { "t": "list", "items": [
+            "Signed by the Chapter Advisor and bearing the seal of the Chapter.",
+            "Recorded on **eScribe** in the Member's permanent record.",
+            "Issued as certification that you have proven proficient in reciting the obligations from memory.",
+            "Only **one card** per Member; a duplicate is issued only if the original is lost, and at the Chapter Advisor's discretion."
+          ] },
+          { "t": "h", "text": "Music" },
+          { "t": "p", "text": "Music has a definite place in all ritualistic work — as a background that enhances, never over-dramatic or loud enough to drown the Degree. The secret is the handoff: when a spoken sentence ends, the music comes in without a pause, and when the music closes, the next speaker begins immediately, with no awkward gaps. The Ritual of Secret Work marks several spots in the Initiatory Degree where music fits best, and many Chapters use pre-recorded tracks keyed to the length of the Degree with excellent results." }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Public Ceremonies: Flower Talk, Ceremony of Light, and More",
+        "blocks": [
+          { "t": "p", "text": "Public ceremonies are your best showcase: every presentation before parents, Masons, or the community is a chance to put DeMolay's best foot forward. Many Chapters invite the public in after an induction for a Welcoming Talk (ideally given by a Past Master Councilor), the Flower Talk, and the Nine O'clock Interpolation, then close with refreshments." },
+          { "t": "h", "text": "Flower Talk" },
+          { "t": "p", "text": "It is one of the best-received messages DeMolay has, and it has a captivating effect on mothers. It is given after conferring the Initiatory or DeMolay Degree — it is not an official part of either Degree — or at other appropriate public ceremonies. An Active DeMolay with a pleasing, mature voice presents it, **from memory**, dressed in formal attire." },
+          { "t": "list", "items": [
+            "**Red and white flowers** on the altar, placed there before the ceremony begins; short-stemmed roses or carnations are preferable, though less expensive flowers work.",
+            "At least one flower for every candidate, and a **white flower for each candidate whose mother has passed away**.",
+            "The Marshal conducts the new Members to the west side of the altar; the speaker takes the east side, in the same position the MC takes when giving the obligation."
+          ] },
+          { "t": "h", "text": "Ceremony of Light" },
+          { "t": "p", "text": "A brief ceremony designed as a public relations tool that sums up DeMolay's basic teachings: **seven candles are lit to symbolize the seven cardinal virtues** — the Order's core values — explained as symbols of all that is good and right with the world. An Active DeMolay gives it, and with the Executive Officer's permission it may be divided among multiple speakers. Required paraphernalia: a Holy Bible open on the altar, schoolbooks on the northeast corner of the altar, and the seven candlesticks with candles **already lighted**, arranged per Diagram One in the Monitor of Ceremonies, with all other lights dimmed or extinguished." },
+          { "t": "p", "text": "The **Historical Lecture** is a short, informative talk about Jacques DeMolay, the Order's namesake: fitting for the public, Masonic or service groups, history classes, or candidates, with no required paraphernalia. The texts of the Flower Talk, the Ceremony of Light, and the Historical Lecture are available at demolay.org/open-ceremonies, and the Monitor of Public Ceremonies collects all the official public ceremonies." },
+          { "t": "ref", "text": "Welcoming Talk text and details for every public ceremony", "page": "142" }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Open Installations: Your Chapter in Front of the Community",
+        "blocks": [
+          { "t": "p", "text": "The Open Installation of Officers is one of the few times the community walks in, watches, and forms a definite opinion of DeMolay and of your Chapter. Everything has to run smoothly — and that comes from planning ahead." },
+          { "t": "steps", "items": [
+            "Select the Installing Officers well in advance so they have time to prepare and agree on the order of events.",
+            "Make sure the Officers to be installed know exactly when and where to be, and have substitutes ready: empty Officer chairs leave the impression that things are not going well for the Chapter.",
+            "Print a program for every guest: the order of events, the Installing Officers, the Officers to be installed, the Advisors with their titles, the Sponsoring Body and its presiding officer, the Parents' Club Officers, the Chapter Sweetheart or Sorority, the Squires Officers and Advisors, acknowledgments, and the Executive Officer with his district representative.",
+            "Line up an organist or pianist, or use quality pre-recorded music: music adds a great deal, as long as it suits the ceremony and the audience.",
+            "Work the publicity: an advance story in local media stating that the public is invited, plus a photo of the new Officers for the newspaper and social media.",
+            "Send personal invitations (printed card, letter, or phone call) to Masonic leaders, civic officials, and school superintendents and principals, and advertise to nearby Chapters, youth groups, and the Masonic Family with a social media event or at minimum an emailed flyer.",
+            "Have the room ready before the first guest arrives, seating the earliest guests as close to the East as possible so latecomers can be seated with minimum confusion."
+          ] },
+          { "t": "p", "text": "Introductions of guests are carried out with speed and accuracy, following your Jurisdiction's order of protocol — which the MC must know cold: from Active DeMolays and DeMolay leaders to Masonic dignitaries (including the Grand Master of the Grand Lodge), visiting Masons, the parents of the principal Chapter Officers, and visiting delegations from Rainbow, Job's Daughters, and other youth groups." },
+          { "t": "callout", "style": "info", "text": "Always add something extra to the program: the Flower Talk, a Representative DeMolay Presentation, the Majority Service, or presentations of Merit Bars and Blue Honor Keys. Rotate the extras at each Installation so it never gets repetitive." }
+        ]
+      },
+      {
+        "id": "l7",
+        "title": "How Ritual Competitions Are Judged",
+        "blocks": [
+          { "t": "p", "text": "Ritual competitions are among the most popular activities in every Jurisdiction. What follows is the Service & Leadership Center's suggested framework: each Jurisdiction may run its own system, and everything is subject to the final approval and authority of the **Executive Officer**." },
+          { "t": "table", "headers": ["Area", "What it covers", "Weight"], "rows": [
+            ["Memory Work", "Reciting the exact words of the most current editions of the DeMolay Ritual and Monitor of Public Ceremonies", "One-half of all points"],
+            ["Performance", "Delivery, Floor Work, Deportment, and Supplementary Items", "The other half"]
+          ] },
+          { "t": "callout", "style": "key", "text": "Memory is worth **one-half of all available points**. A dedicated judge follows the official Ritual and marks every omission, transposition, or error: in many systems the ceremony's word count is a perfect score, each wrong word subtracts 1 point, and prompting or another serious error can cost **25 or 50 points**." },
+          { "t": "cards", "items": [
+            { "title": "Delivery", "text": "Audibility, clarity, enunciation, tone, tempo, and expression. Misplaced emphasis, mispronounced words, speaking too fast or too slow, and lack of forcefulness all draw penalty points. Sincerity of expression counts too." },
+            { "title": "Floor Work", "text": "The characters' movements exactly as outlined in the Ritual, plus physical properties, lighting, and setting (properties weigh less than movements). Judges here must be thoroughly familiar with the correct procedure." },
+            { "title": "Deportment", "text": "Posture and general bearing: how the characters move from position to position, how they sit, and the impression their presence leaves." },
+            { "title": "Supplementary Items", "text": "Music (using it well earns positive credit), dress, and overall impression. What's judged is not how much the costumes cost but how they are worn: a wristwatch on a 14th-century character is an authenticity error." }
+          ] },
+          { "t": "p", "text": "One judge can usually handle Memory Work, but many systems use two judges per category and average their scores. Judges must have no ties to the competing teams, must hold every team to the same standard, and it is good practice to stipulate a specific dictionary edition as the standard reference for pronunciation. Any ritual questions? Your Jurisdictional Ritual Advisor or Executive Officer is the contact." },
+          { "t": "ref", "text": "Full suggested judging system", "page": "198" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "In which ceremonies is not even the slightest deviation from the Ritual allowed?",
+        "options": [
+          "Only the Initiatory and DeMolay Degrees",
+          "The Initiatory Degree, the DeMolay Degree, the Flower Talk, and the Ceremony of Light",
+          "Only the public ceremonies in the Monitor",
+          "The Historical Lecture and Open Installations"
+        ],
+        "correct": 1,
+        "explain": "The Handbook demands zero deviation in those four: both Degrees, the Flower Talk, and the Ceremony of Light — always per the latest edition of the Ritual."
+      },
+      {
+        "q": "What is the right way to present the Initiatory Degree?",
+        "options": [
+          "With drama and elaborate gestures",
+          "With earnestness and sincerity, no fake acting",
+          "Reading from the Ritual with good diction",
+          "In a quick, relaxed conversational tone"
+        ],
+        "correct": 1,
+        "explain": "The Initiatory impresses through sincerity; the dramatic one (within limits) is the DeMolay Degree. And reading from the Ritual is never allowed."
+      },
+      {
+        "q": "During a meeting you need to reach the other side of the Chapter room. What do you do?",
+        "options": [
+          "Cross between the altar and the East if no one is speaking",
+          "Go by way of the West",
+          "Wait until the meeting ends",
+          "Tell the Sentinel and cut through the middle"
+        ],
+        "correct": 1,
+        "explain": "No one passes between the altar and the East unless the Ritual's floor work requires it. You always cross by way of the West."
+      },
+      {
+        "q": "When is the Nine O'clock Interpolation given?",
+        "options": [
+          "Only at private meetings",
+          "Only when candidates are present",
+          "At every meeting, public or private",
+          "Only when the Executive Officer authorizes it"
+        ],
+        "correct": 2,
+        "explain": "It is required at all meetings, at the proper time, with lights dimmed if possible or with only candles lighted."
+      },
+      {
+        "q": "What can a Member NOT do until he holds his obligation card?",
+        "options": [
+          "Attend Chapter meetings",
+          "Vote in elections, vote on membership applications, or hold office",
+          "Take part in sports events",
+          "Invite friends to a public ceremony"
+        ],
+        "correct": 1,
+        "explain": "The obligation card certifies you memorized the obligations; without it you cannot vote for Officers or on applications, or hold office."
+      },
+      {
+        "q": "In the Flower Talk, what does a white flower on the altar indicate?",
+        "options": [
+          "That a candidate's mother has passed away",
+          "The purity of DeMolay's teachings",
+          "That the candidate is a Past Master Councilor",
+          "Peace among the Brothers of the Chapter"
+        ],
+        "correct": 0,
+        "explain": "There must be at least one flower per candidate, and a white one for each candidate whose mother has passed away."
+      },
+      {
+        "q": "What do the seven candles in the Ceremony of Light symbolize?",
+        "options": [
+          "The Chapter's seven Preceptors",
+          "The seven cardinal virtues of DeMolay",
+          "The seven principal Officers",
+          "The seven centuries since Jacques DeMolay"
+        ],
+        "correct": 1,
+        "explain": "The seven candles are lit to symbolize the seven cardinal virtues, or core values, presented as symbols of all that is good and right with the world."
+      },
+      {
+        "q": "In a ritual competition, how much is Memory Work worth?",
+        "options": [
+          "One quarter of the score",
+          "One third of the score",
+          "One-half of all the points",
+          "It depends on each judge"
+        ],
+        "correct": 2,
+        "explain": "Scoring systems agree that memory counts for half of all points; the other half is Performance. Prompting can cost 25 or 50 points."
+      }
+    ]
+  }
+}

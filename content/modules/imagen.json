@@ -1,0 +1,485 @@
+{
+  "id": "imagen",
+  "es": {
+    "title": "Imagen pública: que todos hablen (bien) de tu Chapter",
+    "subtitle": "Relaciones públicas, prensa y Celebrate DeMolay Week: cómo mostrarle tu Chapter al mundo.",
+    "minutes": 9,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Todo lo que hacés habla de DeMolay",
+        "blocks": [
+          { "t": "p", "text": "Relaciones públicas no es solo mandar gacetillas. El Handbook las define como el arte de crear una **impresión favorable** de un grupo o una idea en la mente del público. Y acá viene lo clave: **todo lo que hacés como DeMolay**, estés donde estés, suma o resta a la imagen de tu Chapter y de DeMolay entero." },
+          { "t": "callout", "style": "warn", "text": "Un solo acto malo puede cancelar hasta **diez buenas acciones**. Es naturaleza humana: la gente recuerda lo malo por encima de todo lo bueno. Vivir los valores DeMolay todos los días es tu primera tarea de relaciones públicas." },
+          { "t": "p", "text": "Cada actividad del Chapter, desde una reunión de negocios hasta una noche de juegos, es parte del esfuerzo de imagen. La estrategia del Handbook: dividir al público en **cuatro segmentos** y trabajar cada uno con tácticas propias." },
+          { "t": "cards", "items": [
+            { "title": "Jóvenes", "text": "Chicos en edad DeMolay (9 a 21 años): tus futuros miembros." },
+            { "title": "Padres", "text": "De miembros actuales y potenciales: su apoyo abre puertas." },
+            { "title": "Masones", "text": "Sin su patrocinio, tu Chapter podría no existir." },
+            { "title": "Público general", "text": "Toda la comunidad: el segmento más grande de todos." }
+          ] },
+          { "t": "ref", "text": "La sección completa de Public Relations arranca en", "page": "149" }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Los cuatro públicos, uno por uno",
+        "blocks": [
+          { "t": "h", "text": "Jóvenes: el mejor vendedor sos vos" },
+          { "t": "p", "text": "El miembro es el mejor promotor de DeMolay ante otros jóvenes, sobre todo si es referente en su escuela. Organizá una **buddy night** (noche especial para potenciales miembros), invitá a no-DeMolays a eventos sociales y a toda ceremonia pública, usá tu pin y ropa DeMolay lo más seguido posible, y traé a tus amigos a las actividades del Chapter." },
+          { "t": "h", "text": "Padres: el equipo que necesitás" },
+          { "t": "p", "text": "Mantenelos informados e invitalos a todo evento público. El Handbook es directo: nada convence a las madres como el **Flower Talk**, la ceremonia pública en tributo a las madres; una sola presentación y las tenés del lado del Chapter. Sumá desayunos padre-hijo y madre-hijo, comidas familiares, certificados de aprecio y agradecimientos formales cuando ayudan." },
+          { "t": "h", "text": "Masones: tus patrocinadores" },
+          { "t": "callout", "style": "key", "text": "DeMolay **NO es una junior Masonic organization**. Es una organización de inspiración masónica (Masonic inspired), con lazos estrechos con la masonería pero identidad propia. Tenelo clarísimo cuando hables con la prensa o el público." },
+          { "t": "p", "text": "Sin el **Sponsoring Body** (la institución masónica que patrocina al Chapter), tu Chapter podría no existir. Demostrá aprecio: una clase de iniciación en honor al Grand Master o al oficial que preside el Sponsoring Body, una Masonic Night con un Degree o ceremonia pública, servicios religiosos conjuntos, servir de ushers en eventos masónicos y comportarse impecable en el edificio masónico." },
+          { "t": "h", "text": "Público general: el más grande de todos" },
+          { "t": "p", "text": "La fórmula tiene dos pasos: **(1)** hacer cosas que demuestren el valor de tener un Chapter en la comunidad y **(2)** asegurarte de que la gente se entere. Un día DeMolay en la feria, una carroza en el desfile, programas de seguridad con la policía o los bomberos, bolsas de residuos con el nombre del Chapter y redes sociales siempre frescas con las buenas obras. Vender DeMolay es un trabajo de todo el año." }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Conseguir publicidad: pensá como un editor",
+        "blocks": [
+          { "t": "p", "text": "Los medios solo publican **noticias**: lo inusual que le pasa a gente común, o lo común que le pasa a gente fuera de lo común. Dato a favor: cuanto más chica la comunidad, más chances de que usen tu material." },
+          { "t": "list", "items": [
+            "Conocé en persona a los editores locales, incluyendo blogs y canales comunitarios.",
+            "Si podés, entregá la nota en mano: una historia bien preparada y **una sola foto de gran calidad**. Y no te quedes charlando, están ocupados.",
+            "Fijate qué tipo de notas DeMolay nunca publican y dejá de mandarles de esas.",
+            "Aprendé los deadlines de cada medio y entregá con la mayor anticipación posible."
+          ] },
+          { "t": "steps", "items": [
+            "Mandá el artículo **por email**, identificando la fuente: nombre, email y celular de quien lo preparó.",
+            "Arriba, indicá cuándo publicarlo: para publicación inmediata, o con fecha y hora exactas.",
+            "Meté lo esencial en el primer párrafo: **quién, qué, cuándo, dónde, por qué y cómo** (las 5 W + H).",
+            "Verificá la ortografía de todos los nombres propios y direcciones. Podés anotar Names and addresses verified en la esquina superior izquierda: impresiona a los editores.",
+            "Chequeá todas las cifras, pasá el corrector y pedile a otra persona que lo relea.",
+            "Adjetivos con cuentagotas y nada de estirar la historia: hechos simples.",
+            "Párrafos cortos y con datos; nunca sigas un párrafo en una segunda página.",
+            "Evitá la jerga interna: hay lectores que jamás escucharon hablar de DeMolay."
+          ] },
+          { "t": "callout", "style": "key", "text": "Regla de oro de redacción: las oraciones **no deben promediar más de 15 palabras**. La primera oración de la nota suele ser la más larga." },
+          { "t": "ref", "text": "Reglas completas de redacción y los 6 puntos de toda nota en", "page": "154" }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "Los 6 datos que toda nota debe llevar",
+        "blocks": [
+          { "t": "p", "text": "El Handbook pide incluir estos seis puntos en **cada historia** sobre DeMolay, normalmente en los últimos párrafos. ¿Por qué? Porque la repetición los graba en la mente del público general." },
+          { "t": "cards", "items": [
+            { "title": "1. Fundación", "text": "DeMolay fue fundada en Kansas City, Missouri, en 1919." },
+            { "title": "2. Meta", "text": "Su meta es \"Building Better Citizens and Young Men of Character\"." },
+            { "title": "3. Alcance", "text": "Hay más de 3 millones de DeMolays (activos y alumni) y Chapters en 26 países y cuatro territorios independientes." },
+            { "title": "4. Membresía", "text": "Abierta a jóvenes de 9 a 21 años, de todas las razas, credos y religiones." },
+            { "title": "5. Valores", "text": "Enseña sus valores centrales: amor a los padres, reverencia, cortesía, compañerismo, fidelidad, limpieza y patriotismo." },
+            { "title": "6. Liderazgo", "text": "Prepara a los jóvenes para liderar en la industria, el gobierno, las fuerzas armadas, los negocios y las profesiones. Los Senior DeMolays que hoy lideran lo confirman." }
+          ] },
+          { "t": "h", "text": "¿Qué cuenta como noticia?" },
+          { "t": "list", "items": [
+            "Reuniones especiales: instalación pública de Officers, investiduras de Chevalier y Legion of Honor, entregas de premios, Majority Service.",
+            "Eventos sociales y deportivos: bailes, banquetes, torneos de cualquier deporte.",
+            "Proyectos de servicio comunitario: colectas, limpieza cívica, programas de seguridad.",
+            "Recaudaciones de fondos, sobre todo si el método es original.",
+            "Eventos de distrito, región o jurisdicción: conclaves, campamentos, competencias.",
+            "Hasta un editorial sobre DeMolay: hablá con el editor y acercale los datos."
+          ] }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Fotos, modelos de release y timing",
+        "blocks": [
+          { "t": "h", "text": "Fotos que los editores quieren" },
+          { "t": "list", "items": [
+            "Más de tres personas: fondo oscuro o neutro; si es retrato, cabeza y hombros.",
+            "Dos o tres personas en acción: distancia suficiente para ver detalle sin saturar la escena; luz lateral auxiliar si se puede.",
+            "Grupo de 3 a 5 (por ejemplo, premiados): uno entrega el premio, el otro lo mira, y todos los demás miran esa acción. **Nadie clava la vista a cámara.**",
+            "Siempre identificá a las personas de la foto y describí el evento."
+          ] },
+          { "t": "callout", "style": "warn", "text": "Para menores de 21, usá **solo el nombre de pila** al nombrar personas en notas y fotos. Sé generoso con los nombres locales (a los editores les encanta), pero respetando esta regla." },
+          { "t": "h", "text": "Los modelos de news release" },
+          { "t": "p", "text": "El Handbook trae modelos listos para adaptar. El de **elección**: quién fue electo Master Councilor (el oficial que preside el Chapter), su escuela y actividades, la lista de los demás Officers electos y el cierre con la historia de DeMolay. El de **evento social**: qué se hace, cuándo y dónde, cuántos miembros nuevos suma el Chapter y una declaración del Master Councilor. Si respetás las 5 W + H, la nota casi siempre es publicable. Y cubrí también lo que **va a pasar**, no solo lo que ya pasó." },
+          { "t": "callout", "style": "key", "text": "Cuando el evento termina, **entregá la noticia el mismo día**, o esa misma noche. La noticia solo es noticia cuando está fresca: a los 3 o 4 días ya no sirve. En deportes, más todavía." },
+          { "t": "p", "text": "No dejes pasar las **feature stories** (notas especiales) en la página joven, la de sociedad o el suplemento del diario. Y si planeás un evento grande y te falta ayuda, pedísela a tu **Executive Officer**, la máxima autoridad DeMolay de tu jurisdicción." }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Radio y TV: el reloj manda",
+        "blocks": [
+          { "t": "p", "text": "Un diario puede agregar páginas; la radio y la TV no pueden estirar el tiempo de aire. Por eso la competencia por salir al aire es **mucho más intensa** que por espacio en el diario. Estudiá la programación local: qué tipo de historias usa cada estación y cuántos datos entran en cada nota, y armá tu release a medida." },
+          { "t": "list", "items": [
+            "Una release para radio o TV rara vez debe superar **una carilla de 8½ x 11 pulgadas**.",
+            "Buscá entrevistas y programas que presentan organizaciones locales, como el clásico Community Bulletin Board que muchas estaciones emiten a diario.",
+            "Muchos canales y radios emiten editoriales breves: DeMolay puede ser el tema, como organización valiosa o por un proyecto puntual."
+          ] },
+          { "t": "callout", "style": "info", "text": "¿Tu Chapter consiguió una entrevista al aire? Elegí con mucho cuidado a quiénes van a representar a DeMolay: en ese momento, son la cara de toda la organización." },
+          { "t": "p", "text": "Las pautas para preparar el material son las mismas que para los diarios, con una sola diferencia: **más breve**." }
+        ]
+      },
+      {
+        "id": "l7",
+        "title": "Celebrate DeMolay Week (o Month)",
+        "blocks": [
+          { "t": "p", "text": "Cada año, Chapters de todo el mundo celebran la fundación de DeMolay durante **la semana en que cae el 18 de marzo**, o durante todo marzo. Es la oportunidad de relaciones públicas del año, y el objetivo es claro: que las actividades apunten a la gente de **afuera** de la organización. Con todos los Chapters celebrando a la vez, el impacto público se multiplica." },
+          { "t": "callout", "style": "key", "text": "Conseguí una **proclamación oficial**: del intendente (Mayor), del presidente de la Cámara de Comercio u otro funcionario municipal de alto rango. A nivel jurisdiccional, del **gobernador** o su equivalente." },
+          { "t": "p", "text": "La idea central: dedicar **un día (o tramo del mes) a cada una de las siete Cardinal Virtues**, las virtudes cardinales de DeMolay, con actividades acordes. Y para que en la escuela se note, usá remera DeMolay varios días esa semana." },
+          { "t": "cards", "items": [
+            { "title": "Filial Love", "text": "Tributos, salidas y cenas con los padres; torneos padre-hijo." },
+            { "title": "Reverence", "text": "Asistir a servicios religiosos en grupo y colaborar como ushers o con la música." },
+            { "title": "Courtesy", "text": "Visitas y donaciones a hospitales y hogares; beneficios solidarios; lavar los vehículos municipales y de bomberos." },
+            { "title": "Comradeship", "text": "Eventos sociales y deportivos con otros Chapters y grupos juveniles; un gran baile." },
+            { "title": "Fidelity", "text": "Una Founder's Day Class en honor a Frank S. Land; tributos y reconocimientos a la masonería." },
+            { "title": "Cleanness", "text": "Foros de vida sana con el público invitado; limpiar el edificio masónico y sus alrededores." },
+            { "title": "Patriotism", "text": "Honores a la bandera, veteranos y escuelas; debates y concursos de oratoria patriótica." }
+          ] },
+          { "t": "steps", "items": [
+            "Armá la estructura de comités: el **Executive Committee** (los tres Councilors, el Chapter Advisor y Advisors especiales) define las políticas generales; el **Operation Committee**, con el Master Councilor como chairman general, coordina a los chairmen de los comités especiales (Publicity, Church Services, Membership, Civic Projects y más).",
+            "Contactá con anticipación todos los medios y prepará el terreno antes de difundir el primer material.",
+            "Encargá los materiales promocionales a **DeMolay International** bien antes de las fechas en que los necesitás.",
+            "Mantené informados a todos los miembros, con tiempo, e involucrá a cada uno lo más posible."
+          ] },
+          { "t": "table", "headers": ["Acción de publicidad", "Anticipación mínima"], "rows": [
+            ["News release a los medios", "2 a 3 días antes de la fecha en que querés que salga"],
+            ["Nota especial en el suplemento dominical", "6 semanas antes, hablando con el editor del suplemento"],
+            ["Spots de radio y TV (de 10 a 30 segundos)", "1 semana antes, al program director, cada uno en su propia hoja de 8½ x 11"],
+            ["Vidriera (window display) en un comercio", "1 mes antes, con el gerente del local"]
+          ] },
+          { "t": "p", "text": "El Handbook incluye una **check-off list** para no perder nada: comités designados, materiales pedidos, un evento asignado por día y cada pieza de publicidad (videos, spots, billboards, posters, proclamación, web y redes) con responsable y fecha. Al cierre, mandá **notas de agradecimiento** a todas las personas y organizaciones que ayudaron: es cortesía, y deja la puerta abierta para el año que viene." },
+          { "t": "ref", "text": "Celebrate DeMolay completo, con la proclamación modelo y la check-off list, desde", "page": "157" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Según el Handbook, ¿en qué cuatro segmentos conviene dividir al público para las relaciones públicas del Chapter?",
+        "options": [
+          "Jóvenes en edad DeMolay, padres, masones y el público general",
+          "Escuelas, iglesias, clubes de servicio y medios de prensa",
+          "Miembros, Advisors, Senior DeMolays y padres",
+          "Prensa escrita, radio, TV y redes sociales"
+        ],
+        "correct": 0,
+        "explain": "El Handbook divide al público en (1) jóvenes en edad DeMolay, (2) padres, (3) masones y (4) el público general de la comunidad, cada uno con tácticas propias."
+      },
+      {
+        "q": "¿Cómo describe el Handbook la relación entre DeMolay y la masonería?",
+        "options": [
+          "DeMolay es la rama juvenil oficial de la masonería",
+          "DeMolay NO es una junior Masonic organization, aunque es de inspiración masónica",
+          "DeMolay no tiene ningún vínculo con la masonería",
+          "DeMolay es un programa administrado directamente por la Grand Lodge"
+        ],
+        "correct": 1,
+        "explain": "El Handbook lo dice explícitamente: DeMolay NO es una junior Masonic organization, pero siempre fue Masonic inspired y mantiene un lazo estrecho con la masonería."
+      },
+      {
+        "q": "¿Cuál es la regla del Handbook sobre el largo de las oraciones en una news release?",
+        "options": [
+          "Máximo 10 palabras por oración, sin excepción",
+          "Máximo 20 palabras, contando títulos",
+          "No deben promediar más de 15 palabras",
+          "No hay regla: depende del estilo de cada editor"
+        ],
+        "correct": 2,
+        "explain": "Las oraciones deben ser cortas y al punto: no promediar más de 15 palabras. La primera oración de la nota suele ser la más larga."
+      },
+      {
+        "q": "En una nota o foto de prensa, ¿cómo se identifica a un miembro menor de 21 años?",
+        "options": [
+          "Con nombre completo y dirección",
+          "Solo con sus iniciales",
+          "No se lo puede nombrar de ninguna forma",
+          "Solo con el nombre de pila"
+        ],
+        "correct": 3,
+        "explain": "El Handbook indica ser generoso con los nombres porque a los editores les gustan, pero para menores de 21 se usa solo el nombre de pila."
+      },
+      {
+        "q": "Terminó un evento del Chapter. ¿Cuándo tenés que entregar la noticia a los medios?",
+        "options": [
+          "El mismo día, o esa misma noche si es posible",
+          "Dentro de los 3 o 4 días siguientes",
+          "La semana siguiente, con las fotos ya editadas",
+          "Cuando el editor te la pida"
+        ],
+        "correct": 0,
+        "explain": "La noticia solo es noticia cuando está fresca: hay que entregarla de inmediato, el mismo día o la misma noche. Esperar 3 o 4 días la mata, sobre todo en deportes."
+      },
+      {
+        "q": "Según los 6 datos que toda nota debe llevar, ¿dónde y cuándo fue fundada DeMolay?",
+        "options": [
+          "En St. Louis, Missouri, en 1919",
+          "En Kansas City, Missouri, en 1919",
+          "En Kansas City, Missouri, en 1929",
+          "En Chicago, Illinois, en 1919"
+        ],
+        "correct": 1,
+        "explain": "Es el primero de los 6 datos que deben repetirse en cada historia: DeMolay fue fundada en Kansas City, Missouri, en 1919."
+      },
+      {
+        "q": "¿Cuándo se celebra Celebrate DeMolay Week?",
+        "options": [
+          "La semana en que cae el 24 de junio",
+          "La primera semana del año escolar",
+          "La semana en que cae el 18 de marzo (o durante todo marzo, como mes)",
+          "La semana del cumpleaños de Frank S. Land"
+        ],
+        "correct": 2,
+        "explain": "Se celebra la fundación de DeMolay durante la semana en que cae el 18 de marzo, o a lo largo de todo marzo si el Chapter elige el formato de mes."
+      },
+      {
+        "q": "¿A quién debe pedirle tu Chapter la proclamación de Celebrate DeMolay a nivel local?",
+        "options": [
+          "Al Grand Master de la Grand Lodge",
+          "Al Executive Officer de la jurisdicción",
+          "Al director del diario más leído de la ciudad",
+          "Al intendente (Mayor), al presidente de la Cámara de Comercio u otro funcionario municipal de alto rango"
+        ],
+        "correct": 3,
+        "explain": "A nivel Chapter, la proclamación se obtiene del Mayor u otro funcionario municipal de alto rango; a nivel jurisdiccional, del gobernador o su equivalente."
+      }
+    ]
+  },
+  "en": {
+    "title": "Public Image: Get Everyone Talking (Well) About Your Chapter",
+    "subtitle": "Public relations, press coverage, and Celebrate DeMolay Week — how to show your Chapter to the world.",
+    "minutes": 9,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Everything You Do Speaks for DeMolay",
+        "blocks": [
+          { "t": "p", "text": "Public relations isn't just sending out press releases. The Handbook defines it as the art of creating a **favorable impression** of a group or idea in the public's mind. Here's the catch: **everything you do as a DeMolay**, wherever you are, either builds up or tears down the image of your Chapter and of DeMolay as a whole." },
+          { "t": "callout", "style": "warn", "text": "One bad act can cancel out as many as **ten good deeds**. It's human nature: people remember the one bad thing over all the good ones. Living the DeMolay teachings every day is your first public relations job." },
+          { "t": "p", "text": "Every Chapter activity, from a business meeting to a game night, is part of your PR effort. The Handbook's strategy: break the public down into **four segments** and work each one with its own playbook." },
+          { "t": "cards", "items": [
+            { "title": "Youth", "text": "Young men of DeMolay age (9 to 21): your future members." },
+            { "title": "Parents", "text": "Of current and potential members: their support opens doors." },
+            { "title": "Masons", "text": "Without their sponsorship, your Chapter might not exist." },
+            { "title": "General public", "text": "The whole community: the largest segment of all." }
+          ] },
+          { "t": "ref", "text": "The full Public Relations section starts on", "page": "149" }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "The Four Publics, One by One",
+        "blocks": [
+          { "t": "h", "text": "Youth: the best salesman is you" },
+          { "t": "p", "text": "The individual member is DeMolay's best salesman to other young people, especially if he's seen as a leader at school. Host a **buddy night** (a special meeting for potential new members), invite non-DeMolays to social events and every public ceremony, wear your DeMolay pin and gear as often as you can, and bring your friends along to Chapter activities." },
+          { "t": "h", "text": "Parents: the team you need" },
+          { "t": "p", "text": "Keep them fully informed and invite them to every public event. The Handbook puts it plainly: nothing sells mothers on DeMolay like the **Flower Talk**, the public ceremony honoring mothers — one performance and they're firmly behind the Chapter. Add father-son and mother-son breakfasts, family potlucks, Certificates of Appreciation, and official thank-yous when they help out." },
+          { "t": "h", "text": "Masons: your sponsors" },
+          { "t": "callout", "style": "key", "text": "DeMolay is **NOT a junior Masonic organization**. It is Masonic inspired, with close ties to Masonry but an identity of its own. Keep that crystal clear whenever you talk to the press or the public." },
+          { "t": "p", "text": "Without the **Sponsoring Body** (the Masonic group that sponsors your Chapter), your Chapter might not exist. Show your appreciation: a membership class named for the Grand Master or the Sponsoring Body's presiding officer, a Masonic Night featuring a Degree or public ceremony, joint church services, ushering at Masonic functions, and flawless behavior inside the Masonic building." },
+          { "t": "h", "text": "The general public: the biggest audience" },
+          { "t": "p", "text": "The formula has two steps: **(1)** do things that prove the value of having a DeMolay Chapter in town, and **(2)** make sure people actually hear about them. A DeMolay Day at the fair, a float in the parade, safety programs with the police or fire department, litter bags printed with the Chapter's name, and a fresh public social media presence showcasing the Chapter's good works. Selling DeMolay is a week-in, week-out, year-round job." }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Getting Publicity: Think Like an Editor",
+        "blocks": [
+          { "t": "p", "text": "News media run **news** only: the unusual happening to ordinary people, or the ordinary happening to unusual people. Working in your favor: the smaller the community, the better your odds of getting published." },
+          { "t": "list", "items": [
+            "Get to know your local news editors in person, including online blogs and community TV stations.",
+            "When you can, hand the story over personally: a well-prepared piece and **one great quality picture**. Don't overstay — editors are busy.",
+            "Notice which kinds of DeMolay stories they never run, and stop flooding them with those.",
+            "Learn each outlet's deadlines and deliver releases as far in advance as possible."
+          ] },
+          { "t": "steps", "items": [
+            "Submit the article **by email**, identifying the source: name, email, and cell number of whoever prepared it.",
+            "At the top, state when to run it: for immediate release, or with an exact date and time.",
+            "Pack the essentials into the first paragraph: **who, what, when, where, why, and how** (the 5 W's + H).",
+            "Double-check the spelling of every proper name and address. You can add Names and addresses verified in the upper left corner — it impresses editors.",
+            "Check every figure, run spell check, and have someone else proofread it.",
+            "Go easy on adjectives and never stretch a story: stick to the simple facts.",
+            "Keep paragraphs short and newsy; never run a paragraph over to a second page.",
+            "Skip the insider jargon: some readers have never heard of DeMolay before."
+          ] },
+          { "t": "callout", "style": "key", "text": "Golden writing rule: sentences should **not average over 15 words**. The first sentence of a story is usually the longest." },
+          { "t": "ref", "text": "Full writing rules and the 6 points for every story on", "page": "154" }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "The 6 Facts Every Story Must Carry",
+        "blocks": [
+          { "t": "p", "text": "The Handbook asks you to work these six points into **every story** about DeMolay, usually in the closing paragraphs. Why? Because repetition stamps them into the general public's mind." },
+          { "t": "cards", "items": [
+            { "title": "1. Founding", "text": "DeMolay was founded in Kansas City, Missouri, in 1919." },
+            { "title": "2. Goal", "text": "Its goal is \"Building Better Citizens and Young Men of Character\"." },
+            { "title": "3. Reach", "text": "There are over 3 million DeMolays (active and alumni), with Chapters in 26 countries and four independent territories." },
+            { "title": "4. Membership", "text": "Open to young men 9 to 21, of all races, creeds, and faiths." },
+            { "title": "5. Values", "text": "DeMolay teaches its core values: love of parents, reverence, courtesy, comradeship, fidelity, cleanness, and patriotism." },
+            { "title": "6. Leadership", "text": "DeMolay prepares youth for leadership in industry, government, the military, business, and the professions. Senior DeMolays leading in those fields prove it." }
+          ] },
+          { "t": "h", "text": "What counts as news?" },
+          { "t": "list", "items": [
+            "Special meetings: public Installation of Officers, Chevalier and Legion of Honor Investitures, award presentations, Majority Service.",
+            "Social and athletic events: dances, banquets, competitions in any sport.",
+            "Community service projects: charity drives, civic clean-ups, safety programs.",
+            "Money-raising projects, especially the unusual ones.",
+            "District, Regional, or Jurisdictional events: conclaves, camps, competitions.",
+            "Even an editorial about DeMolay: talk to the editor and hand over the facts."
+          ] }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Photos, Release Models, and Timing",
+        "blocks": [
+          { "t": "h", "text": "Photos editors actually want" },
+          { "t": "list", "items": [
+            "More than three people: shoot against a dark or neutral background; head and shoulders if it's a portrait.",
+            "Two or three people in action: enough distance to show detail without cluttering the scene; side auxiliary light if possible.",
+            "A group of 3 to 5 (say, award winners): one person hands the award to another who looks at it, and everyone else watches that action. **Nobody stares into the camera.**",
+            "Always identify the people in the photo and describe the event."
+          ] },
+          { "t": "callout", "style": "warn", "text": "For anyone under 21, use **first names only** when naming people in stories and photos. Be generous with local names — editors love them — but stick to this rule." },
+          { "t": "h", "text": "The news release models" },
+          { "t": "p", "text": "The Handbook includes ready-to-adapt models. The **election** release: who was elected Master Councilor (the Chapter's presiding officer), his school and activities, the list of other elected Officers, and a closing with DeMolay's history. The **social event** release: what's happening, when and where, how many new members the Chapter is gaining, and a quote from the Master Councilor. Follow the 5 W's + H and your story will usually be acceptable. And cover what's **going to happen**, not just what already did." },
+          { "t": "callout", "style": "key", "text": "When the event is over, **get the story out the same day** — or that same night. News is only news while it's fresh: 3 or 4 days later, it's dead. Doubly true for sports." },
+          { "t": "p", "text": "Don't pass up **feature stories** on the youth page, the society page, or the paper's magazine section. And if you're planning a big event and can't find enough help, ask your **Executive Officer**, the top DeMolay authority in your jurisdiction." }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Radio and TV: The Clock Rules",
+        "blocks": [
+          { "t": "p", "text": "A newspaper can add pages; radio and TV can't stretch airtime. That makes the competition for broadcast time **far more intense** than for newspaper space. Study your local stations: what kinds of stories they feature, how many facts fit into each one — then tailor-make your release to match." },
+          { "t": "list", "items": [
+            "A release for radio or TV should rarely fill more than **one side of an 8½ x 11 sheet**.",
+            "Go after interviews and shows that feature local organizations, like the classic Community Bulletin Board many stations run daily.",
+            "Many stations air brief editorials: DeMolay can be the subject, either as a worthwhile youth organization or for a specific project."
+          ] },
+          { "t": "callout", "style": "info", "text": "Landed an on-air interview for your Chapter? Choose the people who will represent DeMolay very carefully — in that moment, they are the face of the whole organization." },
+          { "t": "p", "text": "The guidelines for preparing copy are the same as for newspapers, with one difference: **briefer**." }
+        ]
+      },
+      {
+        "id": "l7",
+        "title": "Celebrate DeMolay Week (or Month)",
+        "blocks": [
+          { "t": "p", "text": "Every year, Chapters worldwide celebrate DeMolay's founding during **the week when March 18th falls**, or throughout March. It's the PR opportunity of the year, and the goal is clear: aim your activities at people **outside** the organization. With every Chapter celebrating at once, the public impact multiplies." },
+          { "t": "callout", "style": "key", "text": "Obtain an **official proclamation**: from the Mayor, the Chamber of Commerce President, or another high-ranking municipal official. At the Jurisdictional level, from the state's **governor** or equivalent." },
+          { "t": "p", "text": "The core idea: dedicate **one day (or stretch of the month) to each of the seven Cardinal Virtues**, with matching activities. And to make it visible at school, wear a DeMolay shirt several days that week." },
+          { "t": "cards", "items": [
+            { "title": "Filial Love", "text": "Tributes, outings, and dinners with parents; father-son tournaments." },
+            { "title": "Reverence", "text": "Attend church services as a group and help out as ushers or with the music." },
+            { "title": "Courtesy", "text": "Visits and donations to hospitals and nursing homes; benefit events; washing city vehicles and fire trucks." },
+            { "title": "Comradeship", "text": "Social and athletic events with other Chapters and youth groups; a large-scale dance." },
+            { "title": "Fidelity", "text": "A Founder's Day Class honoring Frank S. Land; tributes and recognition for Masonry." },
+            { "title": "Cleanness", "text": "Clean-living forums open to the public; cleaning the Masonic building and its grounds." },
+            { "title": "Patriotism", "text": "Honoring the flag, veterans, and schools; debates and oratorical contests on patriotic themes." }
+          ] },
+          { "t": "steps", "items": [
+            "Set up the committee structure: the **Executive Committee** (the three Councilors, the Chapter Advisor, and any special Advisors) sets overall policy; the **Operation Committee**, with the Master Councilor as general chairman, coordinates the chairmen of the special committees (Publicity, Church Services, Membership, Civic Projects, and more).",
+            "Contact every publicity outlet in advance and lay the groundwork before the first materials go out.",
+            "Order promotional supplies from **DeMolay International** well ahead of the dates you'll need them.",
+            "Keep every Chapter member fully informed, well in advance, and involve each one as much as possible."
+          ] },
+          { "t": "table", "headers": ["Publicity action", "Minimum lead time"], "rows": [
+            ["News release to the media", "2 to 3 days before you want it to appear"],
+            ["Special feature in the Sunday supplement", "6 weeks ahead, talking to the supplement's editor"],
+            ["Radio and TV spot announcements (10 to 30 seconds)", "1 week ahead, to the program director, each on its own 8½ x 11 sheet"],
+            ["Store window display", "1 month ahead, with the store manager"]
+          ] },
+          { "t": "p", "text": "The Handbook includes a **check-off list** so nothing slips: committees appointed, supplies ordered, one event assigned per day, and every publicity piece (videos, spots, billboards, posters, proclamation, website, and social media) with an owner and a date. When it's over, send **thank-you notes** to every person and organization that helped: it's good manners, and it keeps the door open for next year." },
+          { "t": "ref", "text": "The full Celebrate DeMolay section, with the model proclamation and check-off list, starting on", "page": "157" }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "According to the Handbook, which four segments should the Chapter break the public into for its public relations?",
+        "options": [
+          "Youth of DeMolay age, parents, Masons, and the general public",
+          "Schools, churches, service clubs, and the press",
+          "Members, Advisors, Senior DeMolays, and parents",
+          "Newspapers, radio, TV, and social media"
+        ],
+        "correct": 0,
+        "explain": "The Handbook breaks the public into (1) youth of DeMolay age, (2) parents, (3) Masons, and (4) the general public of the community, each with its own tactics."
+      },
+      {
+        "q": "How does the Handbook describe the relationship between DeMolay and Masonry?",
+        "options": [
+          "DeMolay is the official youth branch of Masonry",
+          "DeMolay is NOT a junior Masonic organization, though it is Masonic inspired",
+          "DeMolay has no connection to Masonry at all",
+          "DeMolay is a program run directly by the Grand Lodge"
+        ],
+        "correct": 1,
+        "explain": "The Handbook states it outright: DeMolay is NOT a junior Masonic organization, but it has always been Masonic inspired and keeps a close tie with Masonry."
+      },
+      {
+        "q": "What is the Handbook's rule on sentence length in a news release?",
+        "options": [
+          "No more than 10 words per sentence, no exceptions",
+          "No more than 20 words, headlines included",
+          "Sentences should not average over 15 words",
+          "There's no rule: it depends on each editor's style"
+        ],
+        "correct": 2,
+        "explain": "Sentences must be short and to the point: they should not average over 15 words. The first sentence of a story is usually the longest."
+      },
+      {
+        "q": "In a story or press photo, how do you identify a member who is under 21?",
+        "options": [
+          "With full name and address",
+          "With initials only",
+          "He can't be named at all",
+          "With his first name only"
+        ],
+        "correct": 3,
+        "explain": "The Handbook says to be generous with names because editors love them — but for anyone under 21, use first names only."
+      },
+      {
+        "q": "A Chapter event just ended. When do you deliver the story to the media?",
+        "options": [
+          "The same day, or that same night if possible",
+          "Within the next 3 or 4 days",
+          "The following week, once the photos are edited",
+          "Whenever the editor asks for it"
+        ],
+        "correct": 0,
+        "explain": "News is only news while it's fresh: deliver it immediately, the same day or night. Waiting 3 or 4 days kills the story, especially for sports."
+      },
+      {
+        "q": "According to the 6 facts every story must carry, where and when was DeMolay founded?",
+        "options": [
+          "In St. Louis, Missouri, in 1919",
+          "In Kansas City, Missouri, in 1919",
+          "In Kansas City, Missouri, in 1929",
+          "In Chicago, Illinois, in 1919"
+        ],
+        "correct": 1,
+        "explain": "It's the first of the 6 facts to repeat in every story: DeMolay was founded in Kansas City, Missouri, in 1919."
+      },
+      {
+        "q": "When is Celebrate DeMolay Week held?",
+        "options": [
+          "The week when June 24th falls",
+          "The first week of the school year",
+          "The week when March 18th falls (or throughout March, as a month)",
+          "The week of Frank S. Land's birthday"
+        ],
+        "correct": 2,
+        "explain": "Chapters celebrate DeMolay's founding during the week when March 18th falls, or throughout March if the Chapter goes with the month format."
+      },
+      {
+        "q": "Who should your Chapter ask for the Celebrate DeMolay proclamation at the local level?",
+        "options": [
+          "The Grand Master of the Grand Lodge",
+          "The jurisdiction's Executive Officer",
+          "The editor of the city's biggest newspaper",
+          "The Mayor, the Chamber of Commerce President, or another high-ranking municipal official"
+        ],
+        "correct": 3,
+        "explain": "At the Chapter level, the proclamation comes from the Mayor or another high-ranking municipal official; at the Jurisdictional level, from the governor or equivalent."
+      }
+    ]
+  }
+}

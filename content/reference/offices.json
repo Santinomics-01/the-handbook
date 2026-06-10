@@ -1,0 +1,160 @@
+{
+  "es": {
+    "groups": [
+      {
+        "name": "Electos por los miembros",
+        "items": [
+          { "name": "Master Councilor", "duties": [
+            "Preside el Chapter desde el East y dirige todas las reuniones",
+            "Arma el programa de su término: fechas de degrees, al menos 1 actividad social, 1 cívica y 1 de fundraising, visitaciones y Obligatory Days",
+            "Nombra todos los comités (mínimo 3 integrantes; el primero nombrado es el chairman) y es miembro ex-officio —sin voto— de todos",
+            "Debe lograr al menos una iniciación por término, y es el único que puede leer la application y el informe de investigación en reunión",
+            "Convoca reuniones especiales cuando hace falta"
+          ], "notes": "Requisito: haber sido Senior o Junior Councilor (salvo excepción del Advisory Council o Chapter nuevo). Si está ausente, preside el siguiente en rango." },
+          { "name": "Senior Councilor", "duties": [
+            "Segundo al mando, desde el West; preside ante la ausencia del MC y asciende automáticamente si el cargo queda vacante",
+            "Supervisa la mitad de los comités del Chapter",
+            "Tarea sugerida por el manual: cuidar la asistencia (attendance) de los miembros",
+            "Su misión, en una frase: aligerar la carga de trabajo del MC"
+          ] },
+          { "name": "Junior Councilor", "duties": [
+            "Tercero en la línea, desde el South",
+            "Su único deber definido en los Bylaws: entrenar (coach) a los nuevos miembros para las certificaciones de las Obligations",
+            "Tarea sugerida: conducir la orientación de los nuevos miembros — su descuido lleva a la inactividad dentro del año",
+            "Supervisa la otra mitad de los comités"
+          ] }
+        ]
+      },
+      {
+        "name": "Nombrados por el Advisory Council",
+        "items": [
+          { "name": "Scribe", "duties": [
+            "Lleva las minutas de cada reunión (mociones completas, con quién mocionó y quién secundó; sin chistes ni opiniones)",
+            "Reporta TODO en eScribe: iniciados (máximo 10 días), premios, datos del Chapter — sin reporte, el miembro no existe oficialmente",
+            "Prepara el Annual Report junto con el Chairman del Advisory Council (enero)",
+            "Cobra los fees y los entrega de inmediato al Treasurer contra recibo",
+            "Inventario de propiedad del Chapter al menos una vez al año"
+          ], "notes": "Puede ser un DeMolay activo, un Senior DeMolay o un Advisor; término típico de 1 año (calendario). El manual lo llama el tercer cargo más importante: \"So goes the Scribe, so goes the Chapter\"." },
+          { "name": "Treasurer", "duties": [
+            "Custodia los fondos: cuenta del Chapter separada de los fondos de DeMolay International (estos últimos son intocables)",
+            "Recibe el dinero del Scribe y emite recibo",
+            "Cheques: su firma o la del MC + contrafirma de un miembro del Advisory Council; prohibido pagar en efectivo",
+            "Informe mensual al Advisory Council e informe anual en la última reunión del año"
+          ], "notes": "Debe ser un adulto legal y miembro del Advisory Council. Término: 1 de enero al 31 de diciembre." }
+        ]
+      },
+      {
+        "name": "Nombrados por el Master Councilor",
+        "items": [
+          { "name": "Senior Deacon", "duties": ["Examina la obligation card de cada votante durante los ballots, parado entre el altar y la estación del SC", "Toma los exámenes de proficiency de los nuevos miembros", "Asiste en la conducción de candidatos en los degrees"] },
+          { "name": "Junior Deacon", "duties": ["Asiste en la puerta del Chapter", "Releva al Sentinel durante los ballots para que este pueda votar"] },
+          { "name": "Senior Steward y Junior Steward", "duties": ["Preparan a los candidatos para los degrees", "Responsables de planificar el Educational Day (septiembre)"] },
+          { "name": "Chaplain", "duties": ["Dirige las oraciones del Chapter (miembros arrodillados en rodilla izquierda; todos responden \"Amen\")", "Responsable del Devotional Day (semana del 18 de marzo)"] },
+          { "name": "Almoner", "duties": ["El oficial de la caridad del Chapter", "Responsable del DeMolay Day of Comfort (15 de noviembre al 31 de diciembre)"] },
+          { "name": "Marshal", "duties": ["Conduce los movimientos y presentaciones en la sala", "Asiste en la tabulación de los votos en las elecciones", "Co-responsable del My Government Day (julio)"] },
+          { "name": "Standard Bearer", "duties": ["Porta y honra la bandera nacional", "Responsable del Patriots' Day (febrero)"] },
+          { "name": "Orator", "duties": ["Pronuncia los discursos que el Ritual le asigna", "Co-responsable del My Government Day (julio)"] },
+          { "name": "Los siete Preceptors", "duties": ["Representan las siete virtudes cardinales, cada uno con su vela", "Muchos Chapters les asignan el armado de la sala (property committee)", "Responsables del Parents' Day (1 de mayo al 21 de junio)"] },
+          { "name": "Sentinel", "duties": ["Custodia la puerta del Chapter", "Recibe la Word of the Day del Chapter Advisor antes de la reunión", "No admite a nadie mientras el Chapter se abre en cualquiera de los dos degrees"] },
+          { "name": "Organist", "duties": ["Provee la música del Chapter", "El Ritual of Secret Work marca los lugares para música en el Initiatory Degree"] }
+        ]
+      },
+      {
+        "name": "Roles adultos clave",
+        "items": [
+          { "name": "Advisory Council Chairman", "duties": [
+            "Debe ser Master Mason; es el contacto primario del Executive Officer con el Council",
+            "Prepara el Annual Report en eScribe junto con el Chapter Advisor, Treasurer y Scribe",
+            "Responsable del entrenamiento continuo de los Advisors",
+            "Da la notificación oral al cuerpo masónico si hay un incidente en propiedad masónica"
+          ] },
+          { "name": "Chapter Advisor", "duties": [
+            "El mentor principal del Chapter y de sus oficiales jóvenes",
+            "Elige la Word of the Day y se la comunica al Sentinel",
+            "Firma las obligation cards (con el sello del Chapter)",
+            "Planifica el programa con el MC: 1 año en general, 1 término en detalle"
+          ], "notes": "El manual recomienda rotarlo cada 1-2 años para evitar el desgaste y el \"one-person Chapter\"." }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "groups": [
+      {
+        "name": "Elected by the members",
+        "items": [
+          { "name": "Master Councilor", "duties": [
+            "Presides over the Chapter from the East and runs every meeting",
+            "Builds his term program: degree dates, at least 1 social, 1 civic and 1 fundraising activity, visitations and Obligatory Days",
+            "Appoints every committee (minimum 3 members; the first named is chairman) and is an ex-officio, non-voting member of all of them",
+            "Must achieve at least one initiation per term, and is the only one who may read an application and investigation report in a meeting",
+            "Calls special meetings when needed"
+          ], "notes": "Requirement: prior service as Senior or Junior Councilor (exceptions via the Advisory Council or in a new Chapter). When absent, the next officer in rank presides." },
+          { "name": "Senior Councilor", "duties": [
+            "Second in command, from the West; presides in the MC's absence and automatically moves up if the office becomes vacant",
+            "Oversees half of the Chapter's committees",
+            "The handbook's suggested special duty: member attendance",
+            "His mission in one phrase: lighten the MC's workload"
+          ] },
+          { "name": "Junior Councilor", "duties": [
+            "Third in line, from the South",
+            "His only duty defined in the Bylaws: coaching new members for their Obligation certifications",
+            "Suggested duty: running new-member orientation — neglecting it breeds inactivity within a year",
+            "Oversees the other half of the committees"
+          ] }
+        ]
+      },
+      {
+        "name": "Appointed by the Advisory Council",
+        "items": [
+          { "name": "Scribe", "duties": [
+            "Keeps the minutes of every meeting (full motions, with mover and seconder; no jokes, no opinions)",
+            "Reports EVERYTHING in eScribe: initiates (10 days max), awards, Chapter data — unreported members don't officially exist",
+            "Prepares the Annual Report with the Advisory Council Chairman (January)",
+            "Collects fees and hands them immediately to the Treasurer against a receipt",
+            "Inventories Chapter property at least once a year"
+          ], "notes": "May be an active DeMolay, a Senior DeMolay or an Advisor; typical 1-year (calendar) term. The handbook calls it the third most important position: \"So goes the Scribe, so goes the Chapter.\"" },
+          { "name": "Treasurer", "duties": [
+            "Guards the funds: the Chapter account kept separate from DeMolay International funds (which are untouchable)",
+            "Receives money from the Scribe and issues a receipt",
+            "Checks: his signature or the MC's + countersignature of an Advisory Council member; cash payments prohibited",
+            "Monthly report to the Advisory Council and an annual report at the year's last meeting"
+          ], "notes": "Must be a legal adult and an Advisory Council member. Term: January 1 to December 31." }
+        ]
+      },
+      {
+        "name": "Appointed by the Master Councilor",
+        "items": [
+          { "name": "Senior Deacon", "duties": ["Examines each voter's obligation card during ballots, standing between the altar and the SC's station", "Conducts new members' proficiency examinations", "Assists in conducting candidates during the degrees"] },
+          { "name": "Junior Deacon", "duties": ["Assists at the Chapter door", "Relieves the Sentinel during ballots so he can vote"] },
+          { "name": "Senior Steward & Junior Steward", "duties": ["Prepare the candidates for the degrees", "Responsible for planning Educational Day (September)"] },
+          { "name": "Chaplain", "duties": ["Leads the Chapter's prayers (members kneeling on the left knee; everyone answers \"Amen\")", "Responsible for Devotional Day (the week of March 18)"] },
+          { "name": "Almoner", "duties": ["The Chapter's officer of charity", "Responsible for the DeMolay Day of Comfort (November 15 to December 31)"] },
+          { "name": "Marshal", "duties": ["Conducts floor movements and presentations", "Assists in tabulating votes at elections", "Co-responsible for My Government Day (July)"] },
+          { "name": "Standard Bearer", "duties": ["Carries and honors the national flag", "Responsible for Patriots' Day (February)"] },
+          { "name": "Orator", "duties": ["Delivers the orations the Ritual assigns him", "Co-responsible for My Government Day (July)"] },
+          { "name": "The seven Preceptors", "duties": ["Represent the seven cardinal virtues, each with his candle", "Many Chapters assign them the room setup (property committee)", "Responsible for Parents' Day (May 1 to June 21)"] },
+          { "name": "Sentinel", "duties": ["Guards the Chapter door", "Receives the Word of the Day from the Chapter Advisor before the meeting", "Admits no one while the Chapter is opening in either degree"] },
+          { "name": "Organist", "duties": ["Provides the Chapter's music", "The Ritual of Secret Work marks the places for music in the Initiatory Degree"] }
+        ]
+      },
+      {
+        "name": "Key adult roles",
+        "items": [
+          { "name": "Advisory Council Chairman", "duties": [
+            "Must be a Master Mason; the Executive Officer's primary contact with the Council",
+            "Prepares the Annual Report in eScribe with the Chapter Advisor, Treasurer and Scribe",
+            "Responsible for the Advisors' ongoing training",
+            "Gives the oral notification to the Masonic body if an incident occurs on Masonic property"
+          ] },
+          { "name": "Chapter Advisor", "duties": [
+            "The Chapter's lead mentor for its young officers",
+            "Chooses the Word of the Day and passes it to the Sentinel",
+            "Signs the obligation cards (with the Chapter seal)",
+            "Plans the program with the MC: 1 year in general, 1 term in detail"
+          ], "notes": "The handbook recommends rotating the role every 1-2 years to avoid burnout and the \"one-person Chapter.\"" }
+        ]
+      }
+    ]
+  }
+}

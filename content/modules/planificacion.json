@@ -1,0 +1,481 @@
+{
+  "id": "planificacion",
+  "es": {
+    "title": "Planificá el año: programa, presupuesto y Obligatory Days",
+    "subtitle": "Cómo armar el programa anual de tu Chapter paso a paso, con números que cierran y cero improvisación.",
+    "minutes": 13,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "El Program Planning Committee: el programa no se improvisa",
+        "blocks": [
+          { "t": "p", "text": "Un Chapter exitoso no llega a diciembre preguntándose qué va a hacer el año que viene: ya lo tiene escrito. El programa anual es el **plano de acción** del Chapter: elimina la improvisación, da estabilidad y le pone rumbo a cada término. Y cuantas más personas aporten ideas —Officers, Members y Advisors—, más amplio y atractivo sale el resultado." },
+          { "t": "callout", "style": "key", "text": "El programa del próximo año DeMolay debe estar finalizado **antes del 1 de diciembre**. Lo arma el **Program Planning Committee**: Master Councilor, Senior Councilor, Junior Councilor y Chapter Advisor." },
+          { "t": "p", "text": "¿Por qué esos cuatro? El Master Councilor entrante es quien va a ejecutar el programa que se apruebe; el Senior y el Junior Councilor probablemente sean los próximos Master Councilors, así que el futuro del Chapter también es asunto suyo; y el Chapter Advisor aporta experiencia y actúa de enlace entre el Chapter y el Advisory Council (el consejo de adultos que acompaña al Chapter)." },
+          { "t": "h", "text": "Antes de sentarse a planificar" },
+          { "t": "steps", "items": [
+            "Encuestá a los Members con la **Members' Interest Survey**: una hoja con seis categorías —Athletics, Civic Service, Entertainment, Social, Fundraising y Miscellaneous— donde cada uno marca lo que le interesa y agrega sugerencias propias. Se completa en una reunión regular y se le manda a quien faltó.",
+            "El Master Councilor nombra **special committees** por área (se sugieren Athletics, Civic Service, Entertainment, Fundraising y Social), y el Chairman del Advisory Council asigna un Advisor a cada uno.",
+            "Cada special committee analiza la encuesta y recomienda actividades con mes tentativo y desglose de costos. Las propuestas deben ser variadas, cubrir todo el año (enero a diciembre) y estar al alcance físico y financiero del Chapter.",
+            "Mientras tanto, el Program Planning Committee junta información: datos de los Members desde **eScribe**, fechas escolares y comunitarias, los Obligatory Days, camps y conferences de liderazgo, deadlines (Annual Report, competencias internacionales y jurisdiccionales), el Conclave y los eventos de la familia masónica de la zona.",
+            "Se convoca una reunión general con los tres Councilors, los chairmen de los special committees y el Chapter Advisor para presentar las ideas y resolver choques entre recomendaciones."
+          ] },
+          { "t": "p", "text": "Después llega la **sesión de planificación final**, en la que participan solo los cuatro integrantes del comité. De ahí salen tres entregables: el programa del año, un Term Program Plan detallado y un presupuesto preliminar para el término y para el año." },
+          { "t": "ref", "text": "El modelo completo de la Members' Interest Survey está en el Handbook", "page": "87" }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Los 6 pasos para completar el programa",
+        "blocks": [
+          { "t": "p", "text": "Con la encuesta procesada y los datos sobre la mesa, el comité arma el calendario anual siguiendo seis pasos concretos." },
+          { "t": "steps", "items": [
+            "Anotá en el calendario todo lo obligatorio y anual: los **siete Obligatory Days**, la fecha de elección de Officers, la Installation, las fechas jurisdiccionales conocidas (Conclave, etc.), las de mid-level, los eventos anuales del Chapter y las reuniones mensuales del Advisory Council.",
+            "Sumá los planes de membresía: eventos para potenciales nuevos miembros, conectados con las fechas programadas de Initiatory y DeMolay Degree.",
+            "Agregá las actividades recomendadas y presupuestadas por los special committees, más los ítems de Miscellaneous que merezcan entrar. Acá toca seleccionar, mover o eliminar: algunos meses se van a desbordar.",
+            "Bajá cada mes al día por día en calendarios mensuales: elegí la fecha de cada actividad cuidando no chocar con eventos escolares, comunitarios ni feriados.",
+            "Evaluá el programa completo: meses flacos o sobrecargados, cantidad y variedad de actividades, y costos del programa contra los ingresos del Chapter.",
+            "Pasá los eventos del calendario a una lista. Pero no tires los calendarios: esa vista visual te va a servir todo el año."
+          ] },
+          { "t": "callout", "style": "info", "text": "En el paso 5, verificá que el programa cumpla los requisitos del **Past Master Councilor's Meritorious Service Award (PMC-MSA)** y agregá las actividades que falten." },
+          { "t": "p", "text": "Con el año cerrado se redacta el plan del primer término. Regla fija: el programa detallado de **cada término se desarrolla al menos dos meses antes de que empiece**." }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Planificación por término: una hoja por mes",
+        "blocks": [
+          { "t": "p", "text": "El plan de término baja el programa anual a tierra. Se trabaja con **una hoja de 8½ × 11 pulgadas por mes**, con espacio de sobra entre actividades, y se fija la fecha definitiva de cada evento cuidando otra vez el calendario escolar y comunitario." },
+          { "t": "steps", "items": [
+            "Transferí cada actividad del programa anual a su hoja mensual y asignale fecha.",
+            "Debajo de cada noche de reunión, listá todo lo que tiene que pasar esa noche: committee reports, nombramientos de comités, otros asuntos conocidos y el entretenimiento o programa (que despierta interés y sube la asistencia).",
+            "Hacé la planificación básica del resto de los eventos con todo el detalle disponible, revisá el conjunto y ajustá. Cada término se programa de la misma manera."
+          ] },
+          { "t": "cards", "items": [
+            { "title": "Progress report", "text": "En las reuniones previas al informe final: cómo viene la preparación del evento." },
+            { "title": "Final report", "text": "En la reunión justo anterior al evento: todo confirmado y listo para ejecutar." },
+            { "title": "Post report", "text": "Después del evento: evaluación, rendición de cuentas y feedback para el futuro." }
+          ] },
+          { "t": "callout", "style": "info", "text": "Antes de cada reunión, agregá la lista de new y old business para que la agenda fluya sin sorpresas." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "El presupuesto: que los números cierren",
+        "blocks": [
+          { "t": "p", "text": "Planificar sin presupuestar es planificar a medias. La última fase del comité es estimar gastos e ingresos de cada actividad, mes por mes, tanto para el término como para el año completo." },
+          { "t": "steps", "items": [
+            "Listá el costo de cada ítem del programa, mes por mes, sin olvidar los **gastos fijos**: alquiler mensual, insumos de oficina, el newsletter (si tu Chapter tiene), la Installation (flores, pin de PMC) y los premios y honores (merit bars, etc.).",
+            "Listá los ingresos esperados: fundraising, entradas de eventos, nuevos miembros, intereses de la cuenta de ahorro y donaciones. Detallá y totalizá cada mes: cada mes tiene que poder pagarse a sí mismo.",
+            "Sumá gastos e ingresos totales y verificá que el presupuesto cierre. Si no alcanza: aumentá ingresos (más fundraisers, precios más altos) o bajá gastos (eventos más baratos, o eliminá alguno)."
+          ] },
+          { "t": "h", "text": "Un noviembre real, en números" },
+          { "t": "table", "headers": ["Ítem", "Gasto", "Ingreso"], "rows": [
+            ["Alquiler de noviembre", "$50.00", "—"],
+            ["Gastos de oficina (incluye franqueo)", "$7.00", "—"],
+            ["Flores para el Flower Talk (50¢ c/u)", "$5.00", "—"],
+            ["Candidatos: 6 × $60 = $360, menos ISC fee vía eScribe ($35 c/u = $210) y depósito al Trust Account por Life Fees ($20 c/u = $120)", "—", "$30.00 a la Current Operating Account"],
+            ["Programa del Frank S. Land Memorial Day (parte del Chapter en los refrigerios)", "$16.00", "—"],
+            ["Newsletter del Chapter (papel y tinta)", "$4.00", "—"],
+            ["Fundraising: venta de Christmas candy (2 días, 200 cajas, 40% de ganancia)", "—", "$80.00"],
+            ["Premio al equipo ganador (4 entradas de hockey a $2)", "$8.00", "—"],
+            ["TOTAL", "$90.00", "$110.00"]
+          ] },
+          { "t": "callout", "style": "key", "text": "Los **$60 de fee por candidato** se reparten así: **$35 al ISC fee vía eScribe, $20 al Trust Account por los Life Fees**, y los $5 restantes quedan en la Current Operating Account del Chapter." },
+          { "t": "ref", "text": "El ejemplo de presupuesto completo está en el Handbook", "page": "93" }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "Los siete Obligatory Days",
+        "blocks": [
+          { "t": "p", "text": "El manual los define como días ceremoniales especiales cuya observancia \"es obligatoria para todos los Members de DeMolay, salvo que circunstancias inevitables lo impidan\". Son siete, cada uno con su ventana de fechas y un oficial que suele encabezar la organización." },
+          { "t": "table", "headers": ["Día", "Cuándo", "Quién lo organiza"], "rows": [
+            ["Devotional Day", "Un día de la semana que incluye el 18 de marzo", "Chaplain"],
+            ["Patriots' Day", "Un día conveniente de febrero", "Standard Bearer"],
+            ["Day of Comfort", "Entre el 15 de noviembre y el 31 de diciembre", "Almoner"],
+            ["Educational Day", "Un día conveniente de septiembre", "Junior y Senior Stewards"],
+            ["Parents' Day", "Entre el 1 de mayo y el 21 de junio", "Preceptors"],
+            ["My Government Day", "Durante julio", "Orator y Marshal"],
+            ["Frank S. Land Memorial Day", "Un día cercano al 8 de noviembre", "El Chapter (sin oficial asignado)"]
+          ] },
+          { "t": "p", "text": "Un Executive Officer (la máxima autoridad DeMolay de tu jurisdicción) puede fijar otro mes o día para una observancia si encaja mejor con las costumbres locales: los Bylaws de DeMolay International lo permiten." },
+          { "t": "callout", "style": "info", "text": "Ideas del manual: en Devotional Day, presentar el Flower Talk durante el servicio religioso; en Patriots' Day, homenajear veteranos; en Frank S. Land Memorial Day, hacer un fundraising especial y donar lo recaudado a una DeMolay charity." },
+          { "t": "ref", "text": "Sugerencias completas de actividades para cada día", "page": "105" }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Cómo organizar un proyecto en 5 pasos",
+        "blocks": [
+          { "t": "p", "text": "A todos nos pasó: surge una idea buenísima en una reunión, todos se entusiasman... y el evento nunca ocurre. Pasa miles de veces en Chapters de DeMolay y en cualquier organización. Para que tu proyecto no muera en el camino, seguí esta secuencia de cinco pasos." },
+          { "t": "steps", "items": [
+            "Conseguí el **apoyo general de la membresía**: el Chapter tiene que aprobar la idea en principio, o el apoyo que vas a necesitar más adelante no va a aparecer.",
+            "El Master Councilor nombra un **comité con su chairman**. El comité arma planes tentativos y junta los datos necesarios para decidir, con tareas repartidas: publicidad, refrigerios, programa y orador, transporte.",
+            "El chairman lleva los planes preliminares de vuelta al Chapter para su **aprobación**.",
+            "**Ejecutá**: confirmá reservas, imprimí y enviá invitaciones con anticipación, poné a trabajar a los degree coaches. El chairman maneja un countdown cronológico para saber cuándo vence cada tarea, supervisa sin hacer todo él mismo, empuja a unos y felicita a otros.",
+            "**Evaluá y reportá**: reunión de seguimiento con todos los involucrados, informe final al Chapter y una copia en los archivos para que el próximo comité aproveche la experiencia."
+          ] },
+          { "t": "p", "text": "El Advisor trabaja **detrás de escena**, guiando al chairman: el líder visible siempre es un DeMolay, nunca el adulto. Y es el Advisor quien recuerda los detalles que solemos olvidar: la preparación previa y la evaluación posterior, no solo el día del evento." },
+          { "t": "callout", "style": "info", "text": "Dato del manual: vender tickets anticipados para un car wash suele **duplicar la ganancia** comparado con vender solo el día del evento." }
+        ]
+      },
+      {
+        "id": "l7",
+        "title": "El año en acción: programa modelo y calendario del Scribe",
+        "blocks": [
+          { "t": "p", "text": "Así se ve, resumido mes a mes, el plan anual de un Chapter activo de verdad según el manual. Fijate cómo cada mes mezcla membresía, diversión, servicio y fundraising, y cómo los Obligatory Days caen siempre en su ventana:" },
+          { "t": "table", "headers": ["Mes", "Lo destacado"], "rows": [
+            ["Enero", "Installation de Officers y noche de premios; enviar el Annual Report; arrancan los planes de DeMolay Week"],
+            ["Febrero", "Patriots' Day; Valentine Ball con elección de Chapter Sweetheart; banquete padre-hijo"],
+            ["Marzo", "DeMolay Week (la semana del 18 de marzo); Devotional Day; Founders Class initiation"],
+            ["Abril", "Campaña de seguridad vial adolescente; venta de fundraising; planes para evento de potenciales miembros"],
+            ["Mayo", "Parents' Day; evento para potenciales nuevos miembros; arrancan los deportes de verano"],
+            ["Junio", "Initiation al aire libre; Installation de Officers; práctica para las competencias del Conclave"],
+            ["Julio", "My Government Day; road trip de 2-3 días; asado con potenciales miembros invitados"],
+            ["Agosto", "Jurisdictional Conclave; empujón final de applications para la initiation de septiembre"],
+            ["Septiembre", "Initiation; Educational Day; colecta de alimentos en cada reunión hasta Thanksgiving"],
+            ["Octubre", "Planes para Frank S. Land Day; fiesta de Halloween; RD Forms a los miembros elegibles"],
+            ["Noviembre", "Frank S. Land Memorial Day (8 de noviembre); canastas de comida para familias; pedidos de árboles de Navidad"],
+            ["Diciembre", "Day of Comfort; Initiation para cerrar la meta anual; verificar que todos los nuevos miembros estén reportados en eScribe"]
+          ] },
+          { "t": "h", "text": "El calendario del Scribe" },
+          { "t": "p", "text": "El Scribe (el secretario del Chapter) sostiene la maquinaria administrativa todo el año. Cada mes completa los reportes financieros mensuales, y además tiene hitos fijos:" },
+          { "t": "list", "items": [
+            "Enero: cierra el reporte financiero anual, completa el **Annual Report**, imprime Senior DeMolay Certificates para quienes cumplen 21 ese año e informa al Advisory Council el estado de la membresía.",
+            "Envía los avisos de cada Obligatory Day en su mes: Patriots' Day en febrero, Devotional Day en marzo, Parents' Day en mayo, My Government Day en julio, Educational Day en septiembre, Frank S. Land Memorial Day en octubre y Day of Comfort en noviembre.",
+            "Abril y mayo: recuerda al Treasurer el **IRS 990** y completa el IRS Form 990 (Chapters de Estados Unidos).",
+            "Octubre: revisa y ordena Merit Bars, Blue Honor Key, White Honor Key y Scribe's Efficiency Certificates.",
+            "Noviembre: repone formularios y supplies: applications for membership, transfer certificates, obligation cards, recibos y cheques.",
+            "Diciembre: completa el inventario de propiedad del Chapter para entregarlo al Advisory Council."
+          ] },
+          { "t": "callout", "style": "key", "text": "Cuando dejes el cargo de Scribe, entregale al nuevo una copia del calendario y de todos los forms recibidos de DeMolay International. La continuidad administrativa también se planifica." }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "¿Quiénes integran el Program Planning Committee?",
+        "options": [
+          "Los tres Councilors y el Scribe",
+          "Todo el Advisory Council más el Master Councilor",
+          "Master Councilor, Senior Councilor, Junior Councilor y Chapter Advisor",
+          "El Master Councilor y los chairmen de los special committees"
+        ],
+        "correct": 2,
+        "explain": "Los tres Councilors van a vivir el programa que se apruebe, y el Chapter Advisor aporta experiencia y es el enlace con el Advisory Council."
+      },
+      {
+        "q": "¿Para qué fecha debería estar listo el programa del año siguiente?",
+        "options": [
+          "Antes del 1 de diciembre",
+          "Antes del 1 de enero",
+          "Antes de la Installation de Officers",
+          "Antes del 18 de marzo"
+        ],
+        "correct": 0,
+        "explain": "El manual fija el 1 de diciembre como el momento en que un Chapter exitoso finaliza y pule el programa del próximo año DeMolay."
+      },
+      {
+        "q": "¿Cuáles son los tres tipos de committee reports en la planificación por término?",
+        "options": [
+          "Inicial, Mensual y Anual",
+          "Progress, Final y Post",
+          "Draft, Review y Approval",
+          "Budget, Program y Evaluation"
+        ],
+        "correct": 1,
+        "explain": "Progress en las reuniones previas, Final en la reunión justo antes del evento y Post para la evaluación, la rendición de cuentas y el feedback."
+      },
+      {
+        "q": "En el presupuesto de ejemplo, de los $60 que paga cada candidato, ¿cuánto va al ISC fee vía eScribe?",
+        "options": ["$20", "$30", "$60", "$35"],
+        "correct": 3,
+        "explain": "Cada $60 se reparte en $35 para el ISC fee, $20 al Trust Account por los Life Fees, y el resto queda en la Current Operating Account."
+      },
+      {
+        "q": "¿Cuándo se observa el Devotional Day y quién suele organizarlo?",
+        "options": [
+          "Durante la semana que incluye el 18 de marzo; el Chaplain",
+          "El primer domingo de marzo; el Orator",
+          "La semana del 8 de noviembre; el Almoner",
+          "En septiembre; los Stewards"
+        ],
+        "correct": 0,
+        "explain": "El Chapter asiste en grupo a un lugar de culto durante la semana del 18 de marzo, con el Chaplain a cargo de los arreglos."
+      },
+      {
+        "q": "¿Entre qué fechas debe realizarse el Day of Comfort?",
+        "options": [
+          "Entre el 1 de mayo y el 21 de junio",
+          "Del 1 al 30 de noviembre",
+          "Entre el 15 de noviembre y el 31 de diciembre",
+          "Cualquier día de diciembre"
+        ],
+        "correct": 2,
+        "explain": "Es la ventana fija del manual; lo planifica el Almoner y el deber es visitar y reconfortar a los enfermos."
+      },
+      {
+        "q": "Según los 5 pasos para organizar un proyecto, ¿cuál es el paso uno?",
+        "options": [
+          "Nombrar al comité y a su chairman",
+          "Conseguir el apoyo general de la membresía",
+          "Armar el presupuesto del evento",
+          "Enviar las invitaciones con anticipación"
+        ],
+        "correct": 1,
+        "explain": "El Chapter tiene que aprobar la idea en principio primero; si no, el apoyo que vas a necesitar después no va a aparecer."
+      },
+      {
+        "q": "¿Con cuánta anticipación debe desarrollarse el programa detallado de cada término?",
+        "options": [
+          "Una semana antes de la Installation",
+          "Seis meses antes",
+          "Durante la primera reunión del término",
+          "Al menos dos meses antes de que empiece el término"
+        ],
+        "correct": 3,
+        "explain": "El manual pide el plan detallado de término al menos dos meses antes de su inicio, trabajado con una hoja por mes."
+      }
+    ]
+  },
+  "en": {
+    "title": "Plan the Year: Program, Budget, and Obligatory Days",
+    "subtitle": "How to build your Chapter's annual program step by step, with numbers that add up and zero guesswork.",
+    "minutes": 13,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "The Program Planning Committee: No Winging It",
+        "blocks": [
+          { "t": "p", "text": "A successful Chapter doesn't hit December wondering what it will do next year — it already has it in writing. The annual program is the Chapter's **blueprint for action**: it kills guesswork, adds stability, and gives every term a direction. And the more people who pitch in ideas — Officers, Members, and Advisors — the broader and more exciting the program becomes." },
+          { "t": "callout", "style": "key", "text": "Next DeMolay year's program should be finalized **by the first of December**. It is built by the **Program Planning Committee**: the Master Councilor, Senior Councilor, Junior Councilor, and Chapter Advisor." },
+          { "t": "p", "text": "Why those four? The incoming Master Councilor is the one who will run the program that gets adopted; the Senior and Junior Councilors will most likely be the next Master Councilors, so the Chapter's future is their business too; and the Chapter Advisor brings DeMolay experience and serves as the liaison between the Chapter and the Advisory Council." },
+          { "t": "h", "text": "Before You Sit Down to Plan" },
+          { "t": "steps", "items": [
+            "Survey the Members with the **Members' Interest Survey**: a sheet with six categories — Athletics, Civic Service, Entertainment, Social, Fundraising, and Miscellaneous — where everyone checks what interests them and adds their own suggestions. Run it at a regular meeting and mail it to anyone absent.",
+            "The Master Councilor appoints **special committees** by area (Athletics, Civic Service, Entertainment, Fundraising, and Social are suggested), and the Advisory Council Chairman assigns an Advisor to work with each one.",
+            "Each special committee analyzes the survey and recommends activities with a tentative month and a cost breakdown. Recommendations must be well rounded, cover the entire year (January through December), and be within the Chapter's physical and financial ability.",
+            "Meanwhile, the Program Planning Committee gathers information: Member data from **eScribe**, school and community dates, the Obligatory Days, leadership camps and conferences, deadlines (Annual Report, International and Jurisdictional competitions), the Conclave, and area Masonic family events.",
+            "A general meeting brings together the three Councilors, the special committee chairmen, and the Chapter Advisor to present ideas and iron out conflicts between recommendations."
+          ] },
+          { "t": "p", "text": "Then comes the **actual planning session**, attended only by the four committee members. It produces three deliverables: the year's program, a detailed Term Program Plan, and a preliminary budget for both the term and the year." },
+          { "t": "ref", "text": "The full Members' Interest Survey template is in the Handbook", "page": "87" }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "The 6 Steps to Complete the Program",
+        "blocks": [
+          { "t": "p", "text": "With the survey processed and the facts on the table, the committee builds the annual calendar by following six concrete steps." },
+          { "t": "steps", "items": [
+            "List everything required and annual on your calendar: the **seven Obligatory Days**, the officer election date, the Installation, known Jurisdictional dates (Conclave, etc.), mid-level dates, the Chapter's annual events, and the Advisory Council's monthly meetings.",
+            "Add the membership plans: prospect parties and other membership drive events, linked to the scheduled Initiatory and DeMolay Degree dates.",
+            "Add the events the special committees recommended and budgeted, plus the Miscellaneous survey items that earn a spot. Here you'll have to select, shuffle, or eliminate — some months will overflow.",
+            "Develop each month day by day on monthly calendars: pick the date for each activity while steering clear of school events, community events, and holidays.",
+            "Evaluate the program as a whole: months that are thin or overloaded, the number and variety of activities, and the program's cost against the Chapter's income.",
+            "Transfer the monthly events from the calendars to a list — but keep the calendars. That visual picture will help you all year long."
+          ] },
+          { "t": "callout", "style": "info", "text": "At step 5, check that your program meets the requirements for the **Past Master Councilor's Meritorious Service Award (PMC-MSA)** and add any activities you're missing." },
+          { "t": "p", "text": "With the year locked in, you draft the first term's plan. Fixed rule: a detailed program for **each term is developed at least two months before that term begins**." }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Term Planning: One Sheet per Month",
+        "blocks": [
+          { "t": "p", "text": "The term plan brings the annual program down to earth. You work with **one 8½ x 11-inch sheet per month**, leaving ample space between activities, and you lock in the final date for each event — once again dodging school and community conflicts." },
+          { "t": "steps", "items": [
+            "Transfer each activity from the year's program to its monthly sheet and assign it a date.",
+            "Under each meeting night, list everything that must happen that evening: committee reports, committee appointments, other known business, and the entertainment or program (which builds interest and boosts attendance).",
+            "Do basic planning on all the other events with as much detail as you have, review the whole picture, and adjust. Every term gets programmed the same way."
+          ] },
+          { "t": "cards", "items": [
+            { "title": "Progress report", "text": "At the meetings ahead of the final report: how the event prep is coming along." },
+            { "title": "Final report", "text": "At the meeting just before the event: everything confirmed and ready to execute." },
+            { "title": "Post report", "text": "After the event: evaluation, accounting, and feedback for the future." }
+          ] },
+          { "t": "callout", "style": "info", "text": "Before each meeting, add the list of new and old business so the agenda runs smoothly — no surprises." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "The Budget: Make the Numbers Work",
+        "blocks": [
+          { "t": "p", "text": "Planning without budgeting is only half the job. The committee's final phase is estimating the expenses and income of every activity, month by month, for both the term and the full year." },
+          { "t": "steps", "items": [
+            "List the cost of every program item, month by month, without forgetting the **fixed expenses**: monthly rent, office supplies, the newsletter (if your Chapter has one), the Installation (flowers, PMC pin), and awards and honors (merit bars, etc.).",
+            "List the income you expect: fundraising, event income, new members, interest on a savings account, and donations. Itemize and total every month — each month has to pay for itself.",
+            "Add up total expenses and total income and check that the budget balances. If it doesn't: increase income (add fundraisers, raise prices) or decrease expenses (substitute cheaper events, or cut some entirely)."
+          ] },
+          { "t": "h", "text": "A Real November, in Numbers" },
+          { "t": "table", "headers": ["Item", "Expense", "Income"], "rows": [
+            ["Rent for November", "$50.00", "—"],
+            ["Office expenses (including postage)", "$7.00", "—"],
+            ["Flowers for the Flower Talk (50¢ each)", "$5.00", "—"],
+            ["Candidates: 6 x $60 = $360, less ISC fee via eScribe ($35 each = $210) and Trust Account deposit for Life Fees ($20 each = $120)", "—", "$30.00 to the Current Operating Account"],
+            ["Frank S. Land Memorial Day program (Chapter's share of refreshments)", "$16.00", "—"],
+            ["Chapter newsletter (paper and ink)", "$4.00", "—"],
+            ["Fundraising: Christmas candy sale (2 days, 200 boxes, 40% profit)", "—", "$80.00"],
+            ["Prize for the winning team (four $2 hockey tickets)", "$8.00", "—"],
+            ["TOTAL", "$90.00", "$110.00"]
+          ] },
+          { "t": "callout", "style": "key", "text": "Each candidate's **$60 fee** splits like this: **$35 to the ISC fee via eScribe, $20 to the Trust Account for Life Fees**, and the remaining $5 stays in the Chapter's Current Operating Account." },
+          { "t": "ref", "text": "The full sample budget is in the Handbook", "page": "93" }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "The Seven Obligatory Days",
+        "blocks": [
+          { "t": "p", "text": "The Handbook fixes these as special ceremonial days whose observance \"is made obligatory on all Members of DeMolay unless prevented by unavoidable circumstances.\" There are seven, each with its own date window and an officer who usually leads the planning." },
+          { "t": "table", "headers": ["Day", "When", "Who Runs It"], "rows": [
+            ["Devotional Day", "A day during the week that includes March 18th", "Chaplain"],
+            ["Patriots' Day", "A convenient day in February", "Standard Bearer"],
+            ["Day of Comfort", "Between November 15th and December 31st", "Almoner"],
+            ["Educational Day", "A convenient day in September", "Junior and Senior Stewards"],
+            ["Parents' Day", "Between May 1st and June 21st", "Preceptors"],
+            ["My Government Day", "During July", "Orator and Marshal"],
+            ["Frank S. Land Memorial Day", "A day near November 8th", "The Chapter (no officer assigned)"]
+          ] },
+          { "t": "p", "text": "An Executive Officer (the top DeMolay authority in your jurisdiction) may set a different month or day for an observance to better fit local or jurisdictional customs — the Bylaws of DeMolay International allow it." },
+          { "t": "callout", "style": "info", "text": "Ideas from the Handbook: on Devotional Day, perform the Flower Talk during the service; on Patriots' Day, pay tribute to living veterans; on Frank S. Land Memorial Day, run a special fundraiser and donate the proceeds to a DeMolay charity." },
+          { "t": "ref", "text": "Full activity suggestions for each day", "page": "105" }
+        ]
+      },
+      {
+        "id": "l6",
+        "title": "Organizing a Project in 5 Steps",
+        "blocks": [
+          { "t": "p", "text": "We've all seen it: a great idea comes up at a meeting, everyone gets fired up... and the event never happens. It happens thousands of times in DeMolay Chapters and everywhere else. To keep your project alive, follow this five-step sequence." },
+          { "t": "steps", "items": [
+            "Get **general support from the membership**: the Chapter must approve the idea in principle first, or the support you'll need later won't be there.",
+            "The Master Councilor appoints a **committee and its chairman**. The committee drafts tentative plans and gathers the facts needed to decide, with duties delegated: publicity, refreshments, program and speaker, transportation.",
+            "The chairman takes the preliminary plans back to the Chapter for its **approval**.",
+            "**Execute**: confirm arrangements, print and mail invitations well in advance, get the degree coaches working. The chairman runs a chronological countdown so he knows when each job is due, supervises without doing all the work himself, nudges some and praises others.",
+            "**Evaluate and report**: hold a follow-up meeting with everyone involved, give a final report to the Chapter, and keep a copy in the Chapter files so the next committee can profit from the experience."
+          ] },
+          { "t": "p", "text": "The Advisor works **behind the scenes**, guiding the chairman: the visible leader is always a DeMolay, never the adult. And the Advisor is the one who remembers the details young people tend to forget — the prep before the event and the evaluation after it, not just the big day." },
+          { "t": "callout", "style": "info", "text": "Straight from the Handbook: advance ticket sales for a car wash usually **double the profit** compared with selling only on the day of the event." }
+        ]
+      },
+      {
+        "id": "l7",
+        "title": "The Year in Action: Model Program and the Scribe's Calendar",
+        "blocks": [
+          { "t": "p", "text": "Here is what the year-round plan of a genuinely active Chapter looks like, condensed month by month. Notice how every month mixes membership, fun, service, and fundraising — and how the Obligatory Days always land in their windows:" },
+          { "t": "table", "headers": ["Month", "Highlights"], "rows": [
+            ["January", "Officer Installation and awards night; submit the Annual Report; DeMolay Week planning begins"],
+            ["February", "Patriots' Day; Valentine Ball with the Chapter Sweetheart election; Father-Son banquet"],
+            ["March", "DeMolay Week (the week March 18 falls in); Devotional Day; Founders Class initiation"],
+            ["April", "Teenage safety awareness campaign; fundraising sales; plans for a prospect party"],
+            ["May", "Parents' Day; prospect event; summer sports get rolling"],
+            ["June", "Outdoor Initiation; officer Installation; practice for Conclave competitions"],
+            ["July", "My Government Day; a 2-3 day road trip; barbecue with prospects invited"],
+            ["August", "Jurisdictional Conclave; final push for applications for the September initiation"],
+            ["September", "Initiation; Educational Day; canned food drive at every meeting until Thanksgiving"],
+            ["October", "Frank S. Land Day plans; Halloween party; RD Forms to all eligible Members"],
+            ["November", "Frank S. Land Memorial Day (November 8th); food baskets for needy families; Christmas tree orders"],
+            ["December", "Day of Comfort; Initiation to close out the yearly membership goal; make sure every new Member is reported on eScribe"]
+          ] },
+          { "t": "h", "text": "The Scribe's Calendar" },
+          { "t": "p", "text": "The Scribe (the Chapter's secretary) keeps the administrative machine running all year. Every month he completes the monthly financial reports, plus a set of fixed milestones:" },
+          { "t": "list", "items": [
+            "January: complete the yearly financial report and the **Annual Report**, print Senior DeMolay Certificates for Members turning 21 that year, and notify the Advisory Council of the Chapter's membership standing.",
+            "Send the notices for each Obligatory Day in its month: Patriots' Day in February, Devotional Day in March, Parents' Day in May, My Government Day in July, Educational Day in September, Frank S. Land Memorial Day in October, and Day of Comfort in November.",
+            "April and May: remind the Treasurer about the **IRS 990** and complete the IRS Form 990 (United States Chapters).",
+            "October: check and order Merit Bars, the Blue Honor Key, the White Honor Key, and Scribe's Efficiency Certificates.",
+            "November: restock forms and supplies: applications for membership, transfer certificates, obligation cards, receipts, and checks.",
+            "December: complete the inventory of Chapter property to submit to the Advisory Council."
+          ] },
+          { "t": "callout", "style": "key", "text": "When you retire as Scribe, hand the new Scribe a copy of the calendar and all forms received from DeMolay International. Administrative continuity is part of the plan too." }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Who makes up the Program Planning Committee?",
+        "options": [
+          "The three Councilors and the Scribe",
+          "The full Advisory Council plus the Master Councilor",
+          "Master Councilor, Senior Councilor, Junior Councilor, and Chapter Advisor",
+          "The Master Councilor and the special committee chairmen"
+        ],
+        "correct": 2,
+        "explain": "The three Councilors will live with the program they adopt, and the Chapter Advisor brings experience and serves as liaison with the Advisory Council."
+      },
+      {
+        "q": "By what date should next year's program be ready?",
+        "options": [
+          "By the first of December",
+          "By the first of January",
+          "Before the officer Installation",
+          "Before March 18th"
+        ],
+        "correct": 0,
+        "explain": "The Handbook sets the first of December as the point when a successful Chapter finalizes and polishes next year's program."
+      },
+      {
+        "q": "What are the three types of committee reports in term planning?",
+        "options": [
+          "Initial, Monthly, and Annual",
+          "Progress, Final, and Post",
+          "Draft, Review, and Approval",
+          "Budget, Program, and Evaluation"
+        ],
+        "correct": 1,
+        "explain": "Progress reports at the meetings in advance, the Final report at the meeting just before the event, and the Post report for evaluation, accounting, and feedback."
+      },
+      {
+        "q": "In the sample budget, out of each candidate's $60 fee, how much goes to the ISC fee via eScribe?",
+        "options": ["$20", "$30", "$60", "$35"],
+        "correct": 3,
+        "explain": "Each $60 splits into $35 for the ISC fee, $20 deposited in the Trust Account for Life Fees, and the remainder goes to the Current Operating Account."
+      },
+      {
+        "q": "When is Devotional Day observed, and who usually runs it?",
+        "options": [
+          "During the week that includes March 18th; the Chaplain",
+          "The first Sunday of March; the Orator",
+          "The week of November 8th; the Almoner",
+          "In September; the Stewards"
+        ],
+        "correct": 0,
+        "explain": "The Chapter attends a place of worship as a group during the week of March 18th, with the Chaplain in charge of the arrangements."
+      },
+      {
+        "q": "Between which dates must the Day of Comfort be held?",
+        "options": [
+          "Between May 1st and June 21st",
+          "November 1st through 30th",
+          "Between November 15th and December 31st",
+          "Any day in December"
+        ],
+        "correct": 2,
+        "explain": "That is the Handbook's fixed window; the Almoner plans it, and the duty is to visit and comfort the sick."
+      },
+      {
+        "q": "According to the 5 steps for organizing a project, what is step one?",
+        "options": [
+          "Appoint the committee and its chairman",
+          "Get general support from the membership",
+          "Build the event budget",
+          "Mail the invitations early"
+        ],
+        "correct": 1,
+        "explain": "The Chapter must approve the idea in principle first; otherwise the support you need later will not be forthcoming."
+      },
+      {
+        "q": "How far in advance should each term's detailed program be developed?",
+        "options": [
+          "One week before the Installation",
+          "Six months ahead",
+          "During the term's first meeting",
+          "At least two months before the term begins"
+        ],
+        "correct": 3,
+        "explain": "The Handbook calls for a detailed term program at least two months before the term starts, worked out one sheet per month."
+      }
+    ]
+  }
+}

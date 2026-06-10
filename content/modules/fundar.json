@@ -1,0 +1,187 @@
+{
+  "id": "fundar",
+  "es": {
+    "title": "Fundar o reinstalar un Chapter",
+    "subtitle": "El procedimiento oficial de 7 pasos para llevar DeMolay a donde todavía no está.",
+    "minutes": 9,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Antes de mover un dedo",
+        "blocks": [
+          { "t": "p", "text": "¿Tu comunidad no tiene Chapter? ¿Hubo uno y cerró? Fundar o revivir un Chapter es una de las cosas más grandes que podés hacer por DeMolay — pero tiene un procedimiento oficial, y arranca siempre en el mismo lugar." },
+          { "t": "callout", "style": "key", "text": "La aprobación del **Executive Officer** de la Jurisdiction es **obligatoria antes de iniciar cualquier procedimiento**. Él es el representante oficial de DeMolay International y suele actuar a través de representantes personales." },
+          { "t": "cards", "items": [
+            { "title": "New Chapter", "text": "Se funda donde nunca hubo Chapter, o donde no hay uno hace un mínimo de 5 años." },
+            { "title": "Reinstated Chapter", "text": "Se forma donde existió un Chapter operando dentro de los últimos 5 años." }
+          ] },
+          { "t": "p", "text": "Cada Jurisdiction produce un **New Chapter Kit** con todos los detalles (el Executive Officer puede agregar requisitos propios). Pedilo antes de empezar, y de paso visitá otros Chapters para ver cómo funcionan." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "Los 7 pasos oficiales",
+        "blocks": [
+          { "t": "steps", "items": [
+            "**El Sponsoring Body.** Conseguí un patrocinador aceptable: (A) un cuerpo masónico con charter — normalmente una Blue Lodge, también York Rite, Scottish Rite, Shrine o Grotto, y con aprobación del EO hasta un Eastern Star Chapter o Amaranth Court; (B) un cuerpo compuesto exclusivamente por Freemasons; (C) un Advisory Council formado por el EO como sponsor; o (D) patrocinio conjunto de dos o más grupos. El sponsor aprueba una **Resolution of Sponsorship** y la envía al EO con la tarifa.",
+            "**El Advisory Council.** El sponsor nomina mínimo **3 adultos** (al menos 3 Master Masons en good standing, todos mayores de 21). Los nombra —y puede removerlos— el Executive Officer, que designa un **Chairman** (Master Mason obligatorio) y un **Chapter Advisor**. Antes del nombramiento, cada Advisor completa el training online: application, background check, verificación de antecedentes de manejo y curso de DeMolay basics con Youth Protection.",
+            "**Letters Temporary.** Con el Council formado, el **Grand Master of DeMolay** ordena emitir las Letters Temporary: la autorización provisoria para elegir a los primeros miembros. El Chapter opera con ellas hasta tener **al menos 15 Members** y demostrar al EO alta probabilidad de éxito.",
+            "**Los primeros miembros.** El Advisory Council vota las Applications (con minutas que registren nombres y resultado). Edad: pasado el 12.º cumpleaños y antes del 21.º. El método estrella: una reunión pública tipo **Open House** para jóvenes y padres.",
+            "**La primera reunión.** Se necesitan uno o más Chapters visitantes para conferir los Degrees. Invitá al Sponsoring Body, a los padres y a los grupos de apoyo. Los iniciados se reportan en **eScribe** de inmediato — máximo 10 días.",
+            "**El calendario.** Los nuevos miembros DEBEN participar en armarlo. Pedí Term Plans de ejemplo al EO y a otros Chapters. Una **Installation pública** (idealmente instalada por otro Chapter) presenta el Chapter a la comunidad — y el **Flower Talk** de 15 minutos deja huella.",
+            "**Seguir creciendo.** No solo en números: en las relaciones entre jóvenes y Advisors, con la comunidad y con las organizaciones de apoyo."
+          ] },
+          { "t": "ref", "text": "El procedimiento completo con todos los formularios", "page": "247" }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "Lo que nadie te dice (pero el manual sí)",
+        "blocks": [
+          { "t": "callout", "style": "warn", "text": "**No existe el \"Chapter in a Box\".** DeMolay International provee training, materiales y apoyo — pero no puede mandar Advisors listos ni un grupo de jóvenes que aparezca sabiendo el ritual." },
+          { "t": "p", "text": "Lo que de verdad hace falta para un arranque exitoso: adultos dispuestos a dar **tiempo, talento y tesoro**. La experiencia muestra que la causa más común de fracaso son adultos que no dimensionaron el compromiso de ser mentores." },
+          { "t": "list", "items": [
+            "**Dedicación** — estar presente PARA los jóvenes, no solo en el edificio.",
+            "**Paciencia** — las primeras reuniones son más organizar el caos que memorizar ritual.",
+            "**Comunicación** — con el EO, el sponsor, los padres y entre Advisors.",
+            "**Voluntad de volver a intentar** — siempre."
+          ] },
+          { "t": "p", "text": "Al pensar dónde fundar, mirá los números: población local (típicamente **5.000 o más**), población escolar de 12 a 18 años, y los factores que la limitan. Y dejá claro en público: DeMolay **no** se limita a hijos o parientes de masones, y la ceremonia de ingreso **no contiene hazing ni violencia** de ningún tipo." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "Bylaws, supplies y reinstalación",
+        "blocks": [
+          { "t": "p", "text": "Todo Chapter adopta **bylaws uniformes** según los Bylaws of DeMolay International, aprobados por el Executive Officer. Y para operar bien necesita sus **supplies esenciales**:" },
+          { "t": "list", "items": [
+            "10 a 15 **Rituals of Secret Work**",
+            "5 **Monitors of Ceremonies** (descargables del sitio de DeMolay)",
+            "**Crown of Youth**, **Bible and School Books**, **Altar Cloth**",
+            "**Gavels**, **Ballot Box**, **Bell**, **Preceptor Stand Cloths**",
+            "7 **Candle Stands** (velas reales o eléctricas, según las reglas del lugar)"
+          ] },
+          { "t": "p", "text": "**¿Reinstalación?** El procedimiento es igual al de un Chapter nuevo, pero con una **reinstatement application** en lugar de la petición de Letters Temporary. Si el Chapter estuvo cerrado **menos de 5 años** y se reinstala con el **mismo nombre y en la misma zona**, paga solo la tarifa de supplies básicos; si cambia nombre o ubicación —o pasaron más de 5 años— sigue el camino y las fees de Chapter nuevo." },
+          { "t": "callout", "style": "info", "text": "Antes de revivir un Chapter, investigá por qué cerró el anterior. Esa historia es tu mejor mapa de lo que no hay que repetir." }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "La check-off list oficial",
+        "blocks": [
+          { "t": "p", "text": "El manual cierra con una lista de control de **17 pasos**, desde hablar con el Executive Officer hasta operar el Chapter según sus bylaws. Los hitos documentales clave:" },
+          { "t": "list", "items": [
+            "Tres documentos viajan juntos al EO: la **Resolution to Sponsor**, la **Advisory Council Certification** y la **Petition for Letters Temporary** — más el cheque por la fee.",
+            "Si el EO aprueba, él mismo reenvía los papeles a DeMolay International.",
+            "Antes del evento de captación: fijar la **membership fee** del Chapter.",
+            "Después de la primera clase: reportar a los nuevos Members online, instalar a los primeros oficiales y adoptar los bylaws."
+          ] },
+          { "t": "callout", "style": "key", "text": "La versión interactiva de los 17 pasos está en **Referencia → Procedimientos**, para ir tildando a medida que avanzás. Tu progreso queda guardado." },
+          { "t": "ref", "text": "Check-off list completa para organizar un Chapter", "page": "254" }
+        ]
+      }
+    ],
+    "quiz": [
+      { "q": "¿Qué hace falta ANTES de iniciar cualquier procedimiento para fundar un Chapter?", "options": ["Tener 15 miembros comprometidos", "Comprar los supplies", "La aprobación del Executive Officer de la Jurisdiction", "Una Blue Lodge dispuesta"], "correct": 2, "explain": "Nada empieza sin la aprobación del Executive Officer, el representante oficial de DeMolay International en la Jurisdiction." },
+      { "q": "¿Cuándo un Chapter se considera \"nuevo\" y no \"reinstalado\"?", "options": ["Cuando nunca hubo Chapter o no hay uno hace mínimo 5 años", "Cuando el anterior cerró hace 2 años", "Cuando cambia de Sponsoring Body", "Cuando tiene menos de 15 miembros"], "correct": 0, "explain": "New Chapter: comunidad sin Chapter nunca o sin Chapter por mínimo 5 años. Reinstated: hubo uno operando dentro de los últimos 5 años." },
+      { "q": "¿Quién ordena la emisión de las Letters Temporary?", "options": ["El Executive Officer", "El Sponsoring Body", "El Grand Master of DeMolay", "El Advisory Council"], "correct": 2, "explain": "Completados la Resolution of Sponsorship y el Advisory Council, el Grand Master of DeMolay ordena emitir las Letters Temporary." },
+      { "q": "¿Hasta cuándo opera un Chapter bajo Letters Temporary?", "options": ["Hasta cumplir 6 meses", "Hasta tener al menos 15 Members y demostrar probabilidad de éxito", "Hasta la primera Installation", "Hasta adoptar sus bylaws"], "correct": 1, "explain": "Las Letters Temporary rigen hasta que el Chapter alcanza al menos 15 Members y le demuestra al EO alta probabilidad de éxito." },
+      { "q": "¿Cuántos adultos exige como mínimo el Advisory Council inicial?", "options": ["5, todos Masons", "3, con al menos 3 Master Masons en good standing", "2 registered Advisors", "10 adultos de la comunidad"], "correct": 1, "explain": "El sponsor nomina mínimo 3 adultos (sin máximo); al menos 3 deben ser Master Masons en good standing y todos mayores de 21." },
+      { "q": "¿En cuánto tiempo deben reportarse los iniciados en eScribe?", "options": ["30 días", "Inmediatamente, y nunca más de 10 días", "Una semana", "Al cierre del término"], "correct": 1, "explain": "Los nuevos miembros se reportan a DeMolay International vía eScribe de inmediato — con un máximo de 10 días tras la iniciación." },
+      { "q": "¿Qué regla rige los nombres de Chapters?", "options": ["Deben llevar el nombre de la ciudad, sin excepción", "No pueden llevar el nombre de una persona viva", "Deben honrar a un Mason local", "Los asigna DeMolay International"], "correct": 1, "explain": "Ningún Chapter puede llevar el nombre de una persona viva; lo usual es el nombre de la ciudad o zona, o de figuras fallecidas destacadas." },
+      { "q": "¿Cuántos pasos tiene la check-off list oficial para organizar un Chapter?", "options": ["7", "12", "17", "21"], "correct": 2, "explain": "La check-off list del manual (pág. 254) tiene 17 pasos, desde el primer contacto con el EO hasta operar con bylaws propios." }
+    ]
+  },
+  "en": {
+    "title": "Starting or Reinstating a Chapter",
+    "subtitle": "The official 7-step procedure for bringing DeMolay where it isn't yet.",
+    "minutes": 9,
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Before you lift a finger",
+        "blocks": [
+          { "t": "p", "text": "No Chapter in your community? Was there one that closed? Starting or reviving a Chapter is one of the greatest things you can do for DeMolay — but there is an official procedure, and it always starts in the same place." },
+          { "t": "callout", "style": "key", "text": "The **Executive Officer's** approval is **mandatory before any procedure begins**. He is DeMolay International's official representative in the Jurisdiction and usually works through personal representatives." },
+          { "t": "cards", "items": [
+            { "title": "New Chapter", "text": "Established where there has never been a Chapter, or where there has been none for at least 5 years." },
+            { "title": "Reinstated Chapter", "text": "Formed where a Chapter existed and operated within the previous 5 years." }
+          ] },
+          { "t": "p", "text": "Each Jurisdiction produces a **New Chapter Kit** with full details (the Executive Officer may add requirements of his own). Get it before you start — and visit other Chapters to see how they run." }
+        ]
+      },
+      {
+        "id": "l2",
+        "title": "The 7 official steps",
+        "blocks": [
+          { "t": "steps", "items": [
+            "**The Sponsoring Body.** Secure an acceptable sponsor: (A) a chartered Masonic body — usually a Blue Lodge, also York Rite, Scottish Rite, Shrine or Grotto, and with EO approval even an Eastern Star Chapter or Amaranth Court; (B) a body composed exclusively of Freemasons; (C) an Advisory Council formed by the EO to act as sponsor; or (D) joint sponsorship by two or more groups. The sponsor passes a **Resolution of Sponsorship** and sends it to the EO with the fee.",
+            "**The Advisory Council.** The sponsor nominates at least **3 adults** (at least 3 Master Masons in good standing, all over 21). The Executive Officer appoints them — and may remove them — naming a **Chairman** (must be a Master Mason) and a **Chapter Advisor**. Before appointment, every Advisor completes the online training: application, background check, motor vehicle record check, and the DeMolay basics course with Youth Protection.",
+            "**Letters Temporary.** With the Council in place, the **Grand Master of DeMolay** orders the Letters Temporary issued: the provisional authority to elect the first members. The Chapter operates under them until it has **at least 15 Members** and shows the EO a high probability of success.",
+            "**The first members.** The Advisory Council votes on Applications (with minutes recording names and results). Age: past the 12th birthday and not yet 21. The star method: a public **Open House** for young men and their parents.",
+            "**The first meeting.** One or more visiting Chapters are needed to confer the Degrees. Invite the Sponsoring Body, parents and support groups. Initiates are reported in **eScribe** immediately — 10 days at most.",
+            "**The calendar.** New members MUST help build it. Ask the EO and other Chapters for sample Term Plans. A **public Installation** (ideally performed by another Chapter) introduces the Chapter to the community — and the 15-minute **Flower Talk** leaves a mark.",
+            "**Keep growing.** Not just in numbers: in the relationships between youth and Advisors, with the community and with supporting organizations."
+          ] },
+          { "t": "ref", "text": "The full procedure with all the forms", "page": "247" }
+        ]
+      },
+      {
+        "id": "l3",
+        "title": "What nobody tells you (but the handbook does)",
+        "blocks": [
+          { "t": "callout", "style": "warn", "text": "**There is no \"Chapter in a Box.\"** DeMolay International provides training, materials and support — but it cannot ship ready-made Advisors or a group of boys who show up knowing the ritual." },
+          { "t": "p", "text": "What a successful start really takes: adults willing to give **time, talent and treasure**. Experience shows the most common cause of failure is adults who underestimated the commitment of mentoring." },
+          { "t": "list", "items": [
+            "**Dedication** — being present FOR the young men, not just in the building.",
+            "**Patience** — the first meetings are more about organizing chaos than memorizing ritual.",
+            "**Communication** — with the EO, the sponsor, parents and among Advisors.",
+            "**Willingness to try again** — always."
+          ] },
+          { "t": "p", "text": "When choosing where to start, look at the numbers: local population (typically **5,000 or more**), school population aged 12 to 18, and the factors limiting it. And make it clear in public: DeMolay is **not** limited to Masons' sons or relatives, and the joining ceremony contains **no hazing and no violence** of any kind." }
+        ]
+      },
+      {
+        "id": "l4",
+        "title": "Bylaws, supplies and reinstatement",
+        "blocks": [
+          { "t": "p", "text": "Every Chapter adopts **uniform bylaws** per the Bylaws of DeMolay International, approved by the Executive Officer. And to run properly it needs its **essential supplies**:" },
+          { "t": "list", "items": [
+            "10 to 15 **Rituals of Secret Work**",
+            "5 **Monitors of Ceremonies** (downloadable from the DeMolay website)",
+            "**Crown of Youth**, **Bible and School Books**, **Altar Cloth**",
+            "**Gavels**, **Ballot Box**, **Bell**, **Preceptor Stand Cloths**",
+            "7 **Candle Stands** (real or electric candles, per local rules)"
+          ] },
+          { "t": "p", "text": "**Reinstating?** The procedure mirrors a new Chapter's, but with a **reinstatement application** instead of the petition for Letters Temporary. If the Chapter was closed **less than 5 years** and is reinstated under the **same name and in the same area**, it pays only the basic supplies fee; if the name or location changes — or more than 5 years passed — it follows the new-Chapter path and fees." },
+          { "t": "callout", "style": "info", "text": "Before reviving a Chapter, find out why the previous one closed. That history is your best map of what not to repeat." }
+        ]
+      },
+      {
+        "id": "l5",
+        "title": "The official check-off list",
+        "blocks": [
+          { "t": "p", "text": "The handbook closes with a **17-step** check-off list, from talking to the Executive Officer to operating the Chapter under its bylaws. The key documentary milestones:" },
+          { "t": "list", "items": [
+            "Three documents travel together to the EO: the **Resolution to Sponsor**, the **Advisory Council Certification** and the **Petition for Letters Temporary** — plus the fee check.",
+            "If the EO approves, he forwards the papers to DeMolay International himself.",
+            "Before the recruiting event: set the Chapter's **membership fee**.",
+            "After the first class: report the new Members online, install the first officers and adopt the bylaws."
+          ] },
+          { "t": "callout", "style": "key", "text": "The interactive version of the 17 steps lives in **Reference → Procedures**, so you can check items off as you go. Your progress is saved." },
+          { "t": "ref", "text": "Complete check-off list for organizing a new Chapter", "page": "254" }
+        ]
+      }
+    ],
+    "quiz": [
+      { "q": "What is required BEFORE starting any procedure to found a Chapter?", "options": ["Having 15 committed members", "Buying the supplies", "The Jurisdiction's Executive Officer's approval", "A willing Blue Lodge"], "correct": 2, "explain": "Nothing starts without the Executive Officer's approval — he is DeMolay International's official representative in the Jurisdiction." },
+      { "q": "When is a Chapter considered \"new\" rather than \"reinstated\"?", "options": ["When there was never a Chapter, or none for at least 5 years", "When the previous one closed 2 years ago", "When the Sponsoring Body changes", "When it has fewer than 15 members"], "correct": 0, "explain": "New Chapter: a community that never had one or has had none for at least 5 years. Reinstated: one operated within the previous 5 years." },
+      { "q": "Who orders the issuance of the Letters Temporary?", "options": ["The Executive Officer", "The Sponsoring Body", "The Grand Master of DeMolay", "The Advisory Council"], "correct": 2, "explain": "Once the Resolution of Sponsorship and the Advisory Council are complete, the Grand Master of DeMolay orders the Letters Temporary issued." },
+      { "q": "How long does a Chapter operate under Letters Temporary?", "options": ["Until 6 months pass", "Until it has at least 15 Members and shows a high probability of success", "Until the first Installation", "Until it adopts its bylaws"], "correct": 1, "explain": "Letters Temporary govern until the Chapter reaches at least 15 Members and demonstrates a high probability of success to the EO." },
+      { "q": "What is the minimum for the initial Advisory Council?", "options": ["5 adults, all Masons", "3 adults, with at least 3 Master Masons in good standing", "2 registered Advisors", "10 community adults"], "correct": 1, "explain": "The sponsor nominates at least 3 adults (no maximum); at least 3 must be Master Masons in good standing, all over 21." },
+      { "q": "How soon must initiates be reported in eScribe?", "options": ["30 days", "Immediately, and never more than 10 days", "One week", "At the end of the term"], "correct": 1, "explain": "New members are reported to DeMolay International via eScribe immediately — within 10 days of initiation at most." },
+      { "q": "What rule governs Chapter names?", "options": ["They must use the city name, no exceptions", "They cannot bear the name of a living person", "They must honor a local Mason", "DeMolay International assigns them"], "correct": 1, "explain": "No Chapter may be named after a living person; the usual choice is the city or area, or distinguished deceased figures." },
+      { "q": "How many steps does the official check-off list have?", "options": ["7", "12", "17", "21"], "correct": 2, "explain": "The handbook's check-off list (p. 254) has 17 steps, from first contact with the EO to operating under the Chapter's own bylaws." }
+    ]
+  }
+}
